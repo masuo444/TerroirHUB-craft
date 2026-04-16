@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terroir HUB CRAFT — Japan Traditional Crafts Database</title>
+<meta name="description" content="Explore 245+ traditional Japanese crafts designated by the Ministry of Economy, Trade and Industry. Search by region, category, or technique with AI guide Mizuki.">
+<link rel="canonical" href="https://craft.terroirhub.com/en/">
+<link rel="alternate" hreflang="ja" href="https://craft.terroirhub.com/">
+<link rel="alternate" hreflang="en" href="https://craft.terroirhub.com/en/">
+<link rel="alternate" hreflang="x-default" href="https://craft.terroirhub.com/en/">
+<link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Terroir HUB CRAFT — Japan Traditional Crafts Database">
+<meta property="og:description" content="Explore 245+ traditional Japanese crafts. Ceramics, lacquerware, textiles, metalwork and more.">
+<meta property="og:url" content="https://craft.terroirhub.com/en/">
+<meta property="og:image" content="https://craft.terroirhub.com/img/ogp.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{--accent:#2E5E4E;--accent2:#C4A265;--bg:#faf8f5;--text:#1a1a1a;--text2:#666;--border:#e8e4dc;--nav-h:56px;}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);}
+nav{position:fixed;top:0;left:0;right:0;height:var(--nav-h);background:rgba(250,248,245,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:1000;display:flex;align-items:center;padding:0 24px;gap:24px;}
+.nav-logo{font-family:'Shippori Mincho',serif;font-size:17px;font-weight:700;color:var(--accent);text-decoration:none;white-space:nowrap;}
+.nav-logo span{color:var(--accent2);font-size:11px;letter-spacing:.12em;display:block;font-family:'Inter',sans-serif;font-weight:600;text-transform:uppercase;}
+.nav-links{display:flex;align-items:center;gap:20px;margin-left:8px;}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;font-weight:500;}
+.nav-links a:hover{color:var(--accent);}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:12px;}
+.lang-btn{font-size:12px;padding:5px 10px;border-radius:4px;border:1px solid var(--border);background:#fff;cursor:pointer;font-family:'Inter',sans-serif;color:var(--text2);}
+.lang-btn.active{background:var(--accent);color:#fff;border-color:var(--accent);}
+.hero{padding-top:var(--nav-h);min-height:85vh;display:flex;align-items:center;background:linear-gradient(135deg,#f0ebe3 0%,#e8f0ec 50%,#f5f0e8 100%);}
+.hero-inner{max-width:1200px;margin:0 auto;padding:60px 40px;display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--border);border-radius:20px;padding:6px 14px;font-size:11px;font-weight:600;color:var(--accent);letter-spacing:.08em;margin-bottom:24px;}
+.hero-badge::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--accent);}
+h1{font-family:'Shippori Mincho',serif;font-size:52px;font-weight:700;line-height:1.2;color:var(--text);margin-bottom:20px;}
+h1 em{color:var(--accent);font-style:normal;}
+.hero-sub{font-size:16px;color:var(--text2);line-height:1.8;margin-bottom:32px;}
+.hero-stats{display:flex;gap:32px;margin-bottom:36px;}
+.hero-stat strong{font-size:32px;font-weight:700;color:var(--accent);display:block;font-family:'Inter',sans-serif;}
+.hero-stat span{font-size:11px;color:var(--text2);}
+.hero-search{display:flex;gap:10px;max-width:480px;}
+.hero-search input{flex:1;padding:14px 18px;border:1.5px solid var(--border);border-radius:10px;font-size:14px;background:#fff;outline:none;}
+.hero-search input:focus{border-color:var(--accent);}
+.hero-search button{background:var(--accent);color:#fff;border:none;padding:14px 24px;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;}
+.hero-visual{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+.craft-card{background:#fff;border-radius:16px;padding:24px;text-align:center;border:1px solid var(--border);}
+.craft-card .emoji{font-size:40px;display:block;margin-bottom:12px;}
+.craft-card .name{font-size:13px;font-weight:600;color:var(--text);}
+.craft-card .sub{font-size:11px;color:var(--text2);margin-top:4px;}
+.section{max-width:1200px;margin:0 auto;padding:80px 40px;}
+.section-label{font-size:11px;font-weight:600;color:var(--accent);letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;}
+.section-title{font-family:'Shippori Mincho',serif;font-size:36px;font-weight:700;margin-bottom:16px;}
+.section-desc{font-size:15px;color:var(--text2);line-height:1.8;max-width:600px;margin-bottom:40px;}
+.category-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+.cat-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:20px;text-decoration:none;color:inherit;transition:all .2s;}
+.cat-card:hover{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 4px 16px rgba(46,94,78,.1);}
+.cat-icon{font-size:32px;margin-bottom:12px;}
+.cat-name{font-size:15px;font-weight:600;margin-bottom:4px;}
+.cat-count{font-size:12px;color:var(--accent);}
+.region-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+.region-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:20px;text-decoration:none;color:inherit;transition:all .2s;}
+.region-card:hover{border-color:var(--accent);transform:translateY(-2px);}
+.region-name{font-size:15px;font-weight:600;margin-bottom:4px;}
+.region-count{font-size:12px;color:var(--accent);}
+.mizuki-section{background:linear-gradient(135deg,var(--accent),#1a3329);padding:80px 40px;color:#fff;}
+.mizuki-inner{max-width:800px;margin:0 auto;text-align:center;}
+.mizuki-label{font-size:12px;font-weight:600;letter-spacing:.1em;color:rgba(255,255,255,.6);text-transform:uppercase;margin-bottom:16px;}
+.mizuki-title{font-family:'Shippori Mincho',serif;font-size:40px;font-weight:700;color:#fff;margin-bottom:20px;line-height:1.3;}
+.mizuki-desc{font-size:15px;color:rgba(255,255,255,.8);line-height:1.8;margin-bottom:36px;}
+.mizuki-btn{display:inline-flex;align-items:center;gap:10px;background:var(--accent2);color:#fff;border:none;padding:16px 32px;border-radius:50px;font-size:15px;font-weight:600;cursor:pointer;text-decoration:none;}
+footer{background:#1a1a1a;color:#999;padding:40px;text-align:center;font-size:13px;}
+footer a{color:#999;text-decoration:none;}
+footer a:hover{color:#fff;}
+@media(max-width:900px){
+  .hero-inner{grid-template-columns:1fr;gap:40px;}
+  .hero-visual{display:none;}
+  h1{font-size:38px;}
+  .category-grid,.region-grid{grid-template-columns:repeat(2,1fr);}
+}
+@media(max-width:600px){
+  .hero-inner{padding:40px 20px;}
+  .section{padding:60px 20px;}
+  h1{font-size:30px;}
+  .category-grid,.region-grid{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a class="nav-logo" href="/en/">Terroir HUB<span>CRAFT</span></a>
+  <div class="nav-links">
+    <a href="/craft/search/?lang=en">Search</a>
+    <a href="/craft/category/">Category</a>
+    <a href="/craft/region/">By Region</a>
+  </div>
+  <div class="nav-right">
+    <button class="lang-btn" onclick="location.href='/'">JA</button>
+    <button class="lang-btn active">EN</button>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="hero-badge">JAPAN TRADITIONAL CRAFTS DATABASE</div>
+      <h1>Discover Japan's<br><em>Traditional Crafts</em></h1>
+      <p class="hero-sub">Explore 245 traditional crafts designated by Japan's Ministry of Economy — ceramics, lacquerware, textiles, metalwork and more. Find experiences, workshops, and where to buy.</p>
+      <div class="hero-stats">
+        <div class="hero-stat"><strong>245</strong><span>Craft types</span></div>
+        <div class="hero-stat"><strong>47</strong><span>Prefectures</span></div>
+        <div class="hero-stat"><strong>9</strong><span>Categories</span></div>
+      </div>
+      <div class="hero-search">
+        <input type="text" id="searchInput" placeholder="e.g. Kutani ware, Wajima lacquer, Kyoto..." onkeydown="if(event.key==='Enter')doSearch()">
+        <button onclick="doSearch()">Search</button>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="craft-card"><span class="emoji">🏺</span><div class="name">Ceramics</div><div class="sub">Kutani, Arita, Kiyomizu</div></div>
+      <div class="craft-card"><span class="emoji">🎋</span><div class="name">Lacquerware</div><div class="sub">Wajima, Kiso, Aizu</div></div>
+      <div class="craft-card"><span class="emoji">🧵</span><div class="name">Textiles</div><div class="sub">Nishijin, Yuki, Tango</div></div>
+      <div class="craft-card"><span class="emoji">⚒️</span><div class="name">Metalwork</div><div class="sub">Nambu, Takaoka, Sakai</div></div>
+    </div>
+  </div>
+</section>
+
+<div style="background:#fff;border-bottom:1px solid var(--border);">
+<div class="section" style="padding-top:60px;padding-bottom:60px;">
+  <div class="section-label">Browse by Category</div>
+  <h2 class="section-title">9 Craft Categories</h2>
+  <div class="category-grid">
+    <a class="cat-card" href="/craft/category/ceramics/"><div class="cat-icon">🏺</div><div class="cat-name">Ceramics</div><div class="cat-count">37 crafts</div></a>
+    <a class="cat-card" href="/craft/category/textiles/"><div class="cat-icon">🧵</div><div class="cat-name">Textiles</div><div class="cat-count">56 crafts</div></a>
+    <a class="cat-card" href="/craft/category/lacquerware/"><div class="cat-icon">🎋</div><div class="cat-name">Lacquerware</div><div class="cat-count">24 crafts</div></a>
+    <a class="cat-card" href="/craft/category/metalwork/"><div class="cat-icon">⚒️</div><div class="cat-name">Metalwork</div><div class="cat-count">21 crafts</div></a>
+    <a class="cat-card" href="/craft/category/paper_woodwork/"><div class="cat-icon">📜</div><div class="cat-name">Paper & Wood</div><div class="cat-count">29 crafts</div></a>
+    <a class="cat-card" href="/craft/category/dyeing/"><div class="cat-icon">🎨</div><div class="cat-name">Dyeing</div><div class="cat-count">17 crafts</div></a>
+    <a class="cat-card" href="/craft/category/dolls/"><div class="cat-icon">🪆</div><div class="cat-name">Dolls & Toys</div><div class="cat-count">18 crafts</div></a>
+    <a class="cat-card" href="/craft/category/buddhist/"><div class="cat-icon">🏮</div><div class="cat-name">Buddhist Crafts</div><div class="cat-count">16 crafts</div></a>
+    <a class="cat-card" href="/craft/category/other/"><div class="cat-icon">✨</div><div class="cat-name">Other</div><div class="cat-count">27 crafts</div></a>
+  </div>
+</div>
+</div>
+
+<div class="section">
+  <div class="section-label">Browse by Region</div>
+  <h2 class="section-title">Explore by Prefecture</h2>
+  <p class="section-desc">Japan's traditional crafts are rooted in local geography, climate, and history. Each region has developed its own unique craft traditions over centuries.</p>
+  <div class="region-grid">
+    <a class="region-card" href="/craft/region/hokkaido-tohoku/"><div class="region-name">Hokkaido & Tohoku</div><div class="region-count">Nambu Ironware, Tsugaru Lacquer</div></a>
+    <a class="region-card" href="/craft/region/kanto/"><div class="region-name">Kanto</div><div class="region-count">Edo Kiriko, Yuki Tsumugi</div></a>
+    <a class="region-card" href="/craft/region/chubu-hokuriku/"><div class="region-name">Chubu & Hokuriku</div><div class="region-count">Wajima Lacquer, Kutani Ware</div></a>
+    <a class="region-card" href="/craft/region/kinki/"><div class="region-name">Kinki</div><div class="region-count">Nishijin Weaving, Kyo Yuzen</div></a>
+    <a class="region-card" href="/craft/region/chugoku-shikoku/"><div class="region-name">Chugoku & Shikoku</div><div class="region-count">Bizen Ware, Kumano Brushes</div></a>
+    <a class="region-card" href="/craft/region/kyushu-okinawa/"><div class="region-name">Kyushu & Okinawa</div><div class="region-count">Arita Porcelain, Ryukyu Bingata</div></a>
+  </div>
+</div>
+
+<div class="mizuki-section">
+  <div class="mizuki-inner">
+    <div class="mizuki-label">AI Concierge</div>
+    <h2 class="mizuki-title">Ask Mizuki about<br>Japanese Traditional Crafts</h2>
+    <p class="mizuki-desc">Mizuki is your AI guide to Japan's traditional craft world. Ask about history, techniques, where to experience, or how to purchase — in English or Japanese.</p>
+    <button class="mizuki-btn" onclick="openPanel()">🌿 Chat with Mizuki</button>
+  </div>
+</div>
+
+<footer>
+  <p style="margin-bottom:12px;">
+    <a href="/en/">Home</a> &nbsp;·&nbsp;
+    <a href="/craft/search/">Search</a> &nbsp;·&nbsp;
+    <a href="/privacy/">Privacy</a> &nbsp;·&nbsp;
+    <a href="/terms/">Terms</a> &nbsp;·&nbsp;
+    <a href="/">日本語</a>
+  </p>
+  <p>© 2026 Terroir HUB CRAFT — <a href="https://craft.terroirhub.com">craft.terroirhub.com</a></p>
+</footer>
+
+<script>
+window.THUB_CONFIG = {
+  genre: 'craft', brandColor: '#2E5E4E', brandColor2: '#C4A265',
+  basePath: '/craft', siteName: 'Terroir HUB CRAFT', apiBase: '',
+  aiName: 'Mizuki', aiEmoji: '🌿',
+  aiPlaceholder: 'e.g. What is Wajima lacquerware?',
+  aiGreeting: 'Hello! I\'m Mizuki. 🌿\n\nI can help you discover Japan\'s traditional crafts — history, techniques, where to experience them, and where to buy. What would you like to know?',
+  aiSuggestions: ['What makes Wajima lacquerware special?','Where can I try Kutani pottery?','What is Nishijin weaving?','Best traditional crafts to buy as souvenirs'],
+  aiAvatar: '/craft/mizuki.jpg'
+};
+function doSearch(){const q=document.getElementById('searchInput').value.trim();if(q)location.href='/craft/search/?q='+encodeURIComponent(q);}
+function openPanel(){
+  if(window.innerWidth > 700){
+    var p=document.querySelector('.atlas-panel');
+    if(p){if(p.classList.contains('closed')&&typeof window.toggleAtlasPanel==='function')window.toggleAtlasPanel();var inp=document.getElementById('atlas-input');if(inp)inp.focus();return;}
+  }
+}
+</script>
+<script src="/shared/cookie-storage.js"></script>
+<script src="/shared/auth.js"></script>
+<script src="/shared/features.js"></script>
+<script src="/craft/track.js"></script>
+</body>
+</html>
