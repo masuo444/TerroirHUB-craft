@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>体験・工房ガイド — 伝統工芸品 — Terroir HUB CRAFT</title>
+<meta name="description" content="九谷焼絵付け・輪島塗蒔絵・西陣織など全国の伝統工芸体験ができる工房を都道府県・カテゴリ別に紹介。予約方法・料金・アクセスも掲載。">
+<link rel="canonical" href="https://craft.terroirhub.com/craft/experience/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FAF8F5;--bg2:#F3EDE6;--accent:#2E5E4E;--accent2:#C4A265;
+  --accent-light:#EAF2EE;--accent-gold:#E8C97A;--text:#1A1A18;
+  --text2:#5C5A56;--text3:#8A8880;--border:#E8E0D6;
+  --nav-h:56px;--radius:12px;
+  --shadow:0 2px 16px rgba(46,94,78,.10);--shadow-lg:0 8px 40px rgba(46,94,78,.16);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans JP','Inter',sans-serif;font-size:15px;line-height:1.7;-webkit-font-smoothing:antialiased}
+
+nav{position:fixed;top:0;left:0;right:0;height:var(--nav-h);background:rgba(250,248,245,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:1000;display:flex;align-items:center;padding:0 24px;gap:24px}
+.nav-logo{font-family:'Shippori Mincho',serif;font-size:17px;font-weight:700;color:var(--accent);letter-spacing:.05em;text-decoration:none;white-space:nowrap}
+.nav-logo span{color:var(--accent2);font-size:11px;letter-spacing:.12em;display:block;font-family:'Inter',sans-serif;font-weight:600;text-transform:uppercase}
+.nav-links{display:flex;align-items:center;gap:20px;margin-left:8px}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;font-weight:500;transition:color .2s;white-space:nowrap}
+.nav-links a:hover,.nav-links a.active{color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+.auth-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 16px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.auth-btn:hover{background:#245048}
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:4px}
+.hamburger span{width:22px;height:2px;background:var(--text);border-radius:2px}
+.mobile-menu{position:fixed;top:0;right:-100%;width:280px;height:100dvh;background:var(--bg);border-left:1px solid var(--border);z-index:2000;transition:right .3s ease;padding:80px 24px 32px;display:flex;flex-direction:column;gap:16px}
+.mobile-menu.open{right:0}
+.mobile-menu a{color:var(--text);text-decoration:none;font-size:16px;font-weight:500;padding:12px 0;border-bottom:1px solid var(--border)}
+.menu-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:1999}
+.menu-overlay.open{display:block}
+.mm-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:24px;cursor:pointer;color:var(--text2)}
+
+.page-header{padding-top:calc(var(--nav-h) + 48px);padding-bottom:48px;padding-left:24px;padding-right:24px;background:linear-gradient(135deg,#f0ebe3,#e8f0ec)}
+.page-header-inner{max-width:1200px;margin:0 auto}
+.page-header-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.page-header h1{font-family:'Shippori Mincho',serif;font-size:clamp(30px,4vw,44px);font-weight:700;margin-bottom:12px}
+.page-header p{color:var(--text2);font-size:15px;max-width:600px}
+.header-stats{display:flex;gap:32px;margin-top:24px;flex-wrap:wrap}
+.header-stat strong{display:block;font-family:'Shippori Mincho',serif;font-size:28px;font-weight:700;color:var(--accent)}
+.header-stat span{font-size:12px;color:var(--text3);letter-spacing:.05em}
+
+.content{padding:64px 24px 80px;max-width:1200px;margin:0 auto}
+.section-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.section-title{font-family:'Shippori Mincho',serif;font-size:clamp(24px,3vw,34px);font-weight:700;margin-bottom:12px;line-height:1.3}
+.section-desc{color:var(--text2);font-size:15px;max-width:600px;line-height:1.8;margin-bottom:40px}
+
+.filter-row{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:32px}
+.filter-btn{background:#fff;border:1px solid var(--border);border-radius:20px;padding:8px 18px;font-size:13px;font-family:'Noto Sans JP',sans-serif;color:var(--text2);cursor:pointer;transition:all .2s}
+.filter-btn:hover,.filter-btn.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+.exp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-bottom:64px}
+.exp-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:all .25s;text-decoration:none;display:block}
+.exp-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+.exp-card-img{aspect-ratio:3/2;background:linear-gradient(135deg,var(--accent-light),#f0e8d8);display:flex;align-items:center;justify-content:center;font-size:56px;position:relative}
+.exp-card-cat{position:absolute;bottom:12px;left:12px;background:rgba(255,255,255,.9);color:var(--accent);font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;font-family:'Inter',sans-serif}
+.exp-card-body{padding:20px}
+.exp-card-craft{font-size:11px;color:var(--accent2);font-weight:600;letter-spacing:.05em;text-transform:uppercase;margin-bottom:4px}
+.exp-card-name{font-family:'Shippori Mincho',serif;font-size:18px;font-weight:700;margin-bottom:6px;color:var(--text)}
+.exp-card-workshop{font-size:13px;color:var(--text2);margin-bottom:8px}
+.exp-card-info{display:flex;flex-wrap:wrap;gap:12px;margin-top:10px}
+.exp-card-tag{display:flex;align-items:center;gap:4px;font-size:12px;color:var(--text2)}
+.exp-card-tag svg{color:var(--accent);flex-shrink:0}
+.exp-card-price{font-size:14px;font-weight:700;color:var(--accent);margin-top:12px}
+.exp-card-btn{display:block;margin-top:14px;text-align:center;background:var(--accent-light);color:var(--accent);border:1px solid rgba(46,94,78,.2);border-radius:8px;padding:9px;font-size:13px;font-weight:600;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.exp-card:hover .exp-card-btn{background:var(--accent);color:#fff}
+
+.guide-box{background:linear-gradient(135deg,var(--accent),#245048);color:#fff;border-radius:20px;padding:48px;margin-bottom:64px}
+.guide-box-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;color:var(--accent-gold);margin-bottom:8px}
+.guide-box-title{font-family:'Shippori Mincho',serif;font-size:28px;font-weight:700;margin-bottom:16px}
+.guide-box-desc{color:rgba(255,255,255,.8);font-size:15px;line-height:1.8;max-width:600px;margin-bottom:24px}
+.guide-tips{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.guide-tip{background:rgba(255,255,255,.1);border-radius:12px;padding:20px}
+.guide-tip-num{font-family:'Inter',sans-serif;font-size:28px;font-weight:700;color:var(--accent-gold);margin-bottom:8px}
+.guide-tip-title{font-size:14px;font-weight:700;margin-bottom:6px}
+.guide-tip-desc{font-size:13px;color:rgba(255,255,255,.75);line-height:1.7}
+
+footer{background:#1a1a18;color:rgba(255,255,255,.5);padding:40px 24px 24px;font-size:13px}
+.footer-inner{max-width:1200px;margin:0 auto}
+.footer-top{display:grid;grid-template-columns:1fr 2fr;gap:48px;margin-bottom:40px}
+.footer-brand{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:8px}
+.footer-brand-en{font-size:11px;letter-spacing:.15em;color:var(--accent-gold);font-family:'Inter',sans-serif;text-transform:uppercase}
+.footer-desc{font-size:13px;color:rgba(255,255,255,.45);margin-top:12px;line-height:1.7}
+.footer-links{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.footer-col h4{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px}
+.footer-col a{display:block;color:rgba(255,255,255,.45);text-decoration:none;font-size:12px;margin-bottom:8px;transition:color .2s}
+.footer-col a:hover{color:rgba(255,255,255,.9)}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;display:flex;justify-content:space-between;align-items:center;font-size:12px}
+
+@media(max-width:900px){.nav-links{display:none}.hamburger{display:flex}.exp-grid{grid-template-columns:repeat(2,1fr)}.guide-tips{grid-template-columns:1fr}.footer-top{grid-template-columns:1fr}.footer-links{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.exp-grid{grid-template-columns:1fr}.content{padding:48px 16px 60px}.guide-box{padding:32px 24px}.footer-links{grid-template-columns:1fr}.footer-bottom{flex-direction:column;gap:12px;text-align:center}}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">Terroir HUB<span>CRAFT</span></a>
+  <div class="nav-links">
+    <a href="/craft/search/">工芸品検索</a>
+    <a href="/craft/category/">カテゴリ</a>
+    <a href="/craft/experience/" class="active">体験・工房</a>
+    <a href="/craft/guide/">工芸の教科書</a>
+    <a href="/craft/plans/">プラン</a>
+  </div>
+  <div class="nav-right">
+    <button class="auth-btn">ログイン</button>
+    <button class="hamburger" onclick="openMM()" aria-label="メニュー"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="menu-overlay" id="mmOverlay" onclick="closeMM()"></div>
+<div class="mobile-menu" id="mobileMenu">
+  <button class="mm-close" onclick="closeMM()">✕</button>
+  <a href="/craft/search/" onclick="closeMM()">🔍 工芸品検索</a>
+  <a href="/craft/category/" onclick="closeMM()">🏺 カテゴリ一覧</a>
+  <a href="/craft/experience/" onclick="closeMM()">🎨 体験・工房</a>
+  <a href="/craft/guide/" onclick="closeMM()">📖 工芸の教科書</a>
+  <a href="/craft/plans/" onclick="closeMM()">⭐ プラン</a>
+  <a href="https://terroirhub.com">Terroir HUB TOP</a>
+</div>
+
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-label">Experience & Workshops</p>
+    <h1>伝統工芸の体験・工房</h1>
+    <p>九谷焼の絵付けから輪島塗の蒔絵まで、全国各地で職人の技を体験できます。日帰りから宿泊型の産地ツアーまで幅広くご紹介。</p>
+    <div class="header-stats">
+      <div class="header-stat"><strong>100+</strong><span>体験工房</span></div>
+      <div class="header-stat"><strong>30+</strong><span>都道府県</span></div>
+      <div class="header-stat"><strong>¥1,500〜</strong><span>体験料の目安</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="content">
+  <p class="section-label">Pick Up</p>
+  <h2 class="section-title">人気の体験ジャンル</h2>
+  <p class="section-desc">全国各地の伝統工芸体験から、特に人気の高いジャンルをご紹介します。</p>
+
+  <div class="filter-row" id="filterRow">
+    <button class="filter-btn active" onclick="filterExp('all',this)">すべて</button>
+    <button class="filter-btn" onclick="filterExp('ceramics',this)">陶芸</button>
+    <button class="filter-btn" onclick="filterExp('lacquerware',this)">漆器</button>
+    <button class="filter-btn" onclick="filterExp('textiles',this)">染織</button>
+    <button class="filter-btn" onclick="filterExp('metalwork',this)">金工</button>
+    <button class="filter-btn" onclick="filterExp('paper',this)">和紙</button>
+    <button class="filter-btn" onclick="filterExp('woodwork',this)">木工</button>
+  </div>
+
+  <div class="exp-grid" id="expGrid">
+
+    <a class="exp-card" data-cat="ceramics" href="/craft/ishikawa/kutani_yaki.html">
+      <div class="exp-card-img">🏺<span class="exp-card-cat">陶磁器</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">九谷焼</div>
+        <div class="exp-card-name">鏑木商舗 絵付け体験</div>
+        <div class="exp-card-workshop">石川県金沢市 — 鏑木商舗</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約2時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>初心者OK</span>
+        </div>
+        <div class="exp-card-price">3,300円〜（要予約）</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="ceramics" href="/craft/saga/arita_yaki.html">
+      <div class="exp-card-img">🏺<span class="exp-card-cat">陶磁器</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">有田焼</div>
+        <div class="exp-card-name">香蘭社 絵付け体験</div>
+        <div class="exp-card-workshop">佐賀県有田町 — 香蘭社</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約1.5時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>初心者OK</span>
+        </div>
+        <div class="exp-card-price">2,000円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="lacquerware" href="/craft/ishikawa/wajima_nuri.html">
+      <div class="exp-card-img">🪔<span class="exp-card-cat">漆器</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">輪島塗</div>
+        <div class="exp-card-name">沈金・蒔絵体験</div>
+        <div class="exp-card-workshop">石川県輪島市 — 輪島工房長屋</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約2〜3時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>要予約</span>
+        </div>
+        <div class="exp-card-price">3,000円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="metalwork" href="/craft/iwate/nanbu_tekki.html">
+      <div class="exp-card-img">⚒️<span class="exp-card-cat">金工品</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">南部鉄器</div>
+        <div class="exp-card-name">鉄器鋳造・絵付け体験</div>
+        <div class="exp-card-workshop">岩手県盛岡市・奥州市</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約2時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>要予約</span>
+        </div>
+        <div class="exp-card-price">2,500円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="paper" href="/craft/search/?q=越前和紙">
+      <div class="exp-card-img">📜<span class="exp-card-cat">和紙</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">越前和紙</div>
+        <div class="exp-card-name">手漉き和紙体験</div>
+        <div class="exp-card-workshop">福井県越前市 — 紙の文化博物館</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約1時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>当日参加可</span>
+        </div>
+        <div class="exp-card-price">1,500円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="textiles" href="/craft/search/?q=西陣織">
+      <div class="exp-card-img">🧵<span class="exp-card-cat">織物</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">西陣織</div>
+        <div class="exp-card-name">手機織り体験</div>
+        <div class="exp-card-workshop">京都府京都市 — 西陣織会館</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約30分〜</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>初心者OK</span>
+        </div>
+        <div class="exp-card-price">1,500円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="ceramics" href="/craft/search/?q=益子焼">
+      <div class="exp-card-img">🏺<span class="exp-card-cat">陶磁器</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">益子焼</div>
+        <div class="exp-card-name">陶芸体験（ろくろ成形）</div>
+        <div class="exp-card-workshop">栃木県益子町 — 各窯元</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約1.5時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>初心者OK</span>
+        </div>
+        <div class="exp-card-price">2,000円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="woodwork" href="/craft/search/?q=箱根寄木細工">
+      <div class="exp-card-img">🌿<span class="exp-card-cat">木竹工芸</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">箱根寄木細工</div>
+        <div class="exp-card-name">寄木コースター作り体験</div>
+        <div class="exp-card-workshop">神奈川県箱根町 — 各工房</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約1時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>当日参加可</span>
+        </div>
+        <div class="exp-card-price">2,200円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+    <a class="exp-card" data-cat="textiles" href="/craft/search/?q=有松鳴海絞り">
+      <div class="exp-card-img">🪭<span class="exp-card-cat">染色品</span></div>
+      <div class="exp-card-body">
+        <div class="exp-card-craft">有松鳴海絞り</div>
+        <div class="exp-card-name">絞り染め体験</div>
+        <div class="exp-card-workshop">愛知県名古屋市有松 — 竹田嘉兵衛商店</div>
+        <div class="exp-card-info">
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>約2時間</span>
+          <span class="exp-card-tag"><svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>要予約</span>
+        </div>
+        <div class="exp-card-price">3,000円〜</div>
+        <div class="exp-card-btn">詳細を見る</div>
+      </div>
+    </a>
+
+  </div>
+
+  <!-- 体験ガイド -->
+  <div class="guide-box">
+    <div class="guide-box-label">Experience Guide</div>
+    <div class="guide-box-title">工芸体験を楽しむ3つのコツ</div>
+    <p class="guide-box-desc">初めての工芸体験をより充実させるために、知っておくと役立つポイントをご紹介します。</p>
+    <div class="guide-tips">
+      <div class="guide-tip">
+        <div class="guide-tip-num">01</div>
+        <div class="guide-tip-title">事前予約が基本</div>
+        <p class="guide-tip-desc">多くの工房では当日予約不可です。公式サイトから2週間前を目安に予約しましょう。繁忙期（春・GW・夏・秋）は早めに。</p>
+      </div>
+      <div class="guide-tip">
+        <div class="guide-tip-num">02</div>
+        <div class="guide-tip-title">動きやすい服装で</div>
+        <p class="guide-tip-desc">陶芸・漆器・染め物は汚れる可能性があります。エプロンを貸してくれる工房が多いですが、汚れても気にならない服装が安心です。</p>
+      </div>
+      <div class="guide-tip">
+        <div class="guide-tip-num">03</div>
+        <div class="guide-tip-title">作品の持ち帰りを確認</div>
+        <p class="guide-tip-desc">陶芸など焼成が必要な作品は当日持ち帰れず、後日郵送になる場合があります。送料や日数を事前に確認しましょう。</p>
+      </div>
+    </div>
+  </div>
+
+  <p style="text-align:center">
+    <a href="/craft/search/?q=体験" style="display:inline-flex;align-items:center;gap:8px;background:var(--accent);color:#fff;border-radius:10px;padding:14px 32px;font-size:15px;font-weight:700;text-decoration:none;font-family:'Noto Sans JP',sans-serif;transition:all .2s">
+      体験できる工芸品を全て検索する →
+    </a>
+  </p>
+
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-brand">Terroir HUB<br>CRAFT</div>
+        <div class="footer-brand-en">Traditional Crafts of Japan</div>
+        <p class="footer-desc">経産省指定240品目以上の伝統的工芸品を網羅したデータベースメディア。</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>探す</h4>
+          <a href="/craft/search/">工芸品検索</a>
+          <a href="/craft/category/">カテゴリ一覧</a>
+          <a href="/craft/region/">産地から探す</a>
+          <a href="/craft/experience/">体験・工房</a>
+        </div>
+        <div class="footer-col">
+          <h4>学ぶ</h4>
+          <a href="/craft/guide/">工芸の教科書</a>
+          <a href="/craft/guide/history/">歴史と文化</a>
+          <a href="/craft/guide/techniques/">技法図鑑</a>
+        </div>
+        <div class="footer-col">
+          <h4>Terroir HUB</h4>
+          <a href="https://terroirhub.com">トップページ</a>
+          <a href="https://sake.terroirhub.com">日本酒</a>
+          <a href="https://shochu.terroirhub.com">焼酎・泡盛</a>
+          <a href="/craft/plans/">プラン</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 合同会社FOMUS / Terroir HUB CRAFT</span>
+      <div style="display:flex;gap:16px">
+        <a href="/privacy/" style="color:rgba(255,255,255,.35);text-decoration:none">プライバシーポリシー</a>
+        <a href="/terms/" style="color:rgba(255,255,255,.35);text-decoration:none">利用規約</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+function filterExp(cat, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.exp-card').forEach(card => {
+    if (cat === 'all' || card.dataset.cat === cat) {
+      card.style.display = 'block';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+}
+function openMM(){document.getElementById('mobileMenu').classList.add('open');document.getElementById('mmOverlay').classList.add('open')}
+function closeMM(){document.getElementById('mobileMenu').classList.remove('open');document.getElementById('mmOverlay').classList.remove('open')}
+</script>
+</body>
+</html>

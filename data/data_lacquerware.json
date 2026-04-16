@@ -1,0 +1,1155 @@
+[
+  {
+    "id": "wajima_nuri",
+    "name": "輪島塗",
+    "name_en": "Wajima Lacquerware",
+    "name_fr": "Laque Wajima",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 37,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "輪島市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "石川県輪島市で生産される漆器。室町時代から続く伝統を持ち、「地の粉（じのこ）」と呼ばれる輪島特産の珪藻土を下地に混ぜることで卓越した堅牢性を実現。「百回塗り」とも称される丁寧な塗り重ねと、沈金・蒔絵などの加飾技法を組み合わせた輪島塗は「漆器の王様」と呼ばれ、一点に数ヶ月〜数年を要する最高級品も存在する。",
+    "desc_en": "Wajima lacquerware is produced in Wajima City, Ishikawa Prefecture. With traditions dating to the Muromachi period, its exceptional durability comes from mixing locally-sourced diatomaceous earth ('ji-no-ko') into the base. Called the 'King of Lacquerware,' the meticulous layering process and decoration techniques like chinkin (engraving) and maki-e (gold powder decoration) can take months or years per piece.",
+    "techniques": [
+      "地の粉塗り",
+      "沈金",
+      "蒔絵",
+      "螺鈿",
+      "呂色磨き"
+    ],
+    "materials": [
+      "天然漆",
+      "輪島地の粉（珪藻土）",
+      "木地（欅・朴など）"
+    ],
+    "features": [
+      "珪藻土「地の粉」を使った世界最強レベルの堅牢な下地",
+      "「漆器の王様」と称され、1点に数ヶ月〜数年を要する最高級品",
+      "沈金・蒔絵・螺鈿など多彩な加飾技法による芸術的な美しさ"
+    ],
+    "workshops": [
+      {
+        "name": "輪島工房長屋",
+        "url": "https://www.wajimakobo.jp/",
+        "experience": true,
+        "experience_desc": "沈金・蒔絵体験 3,000円〜（要予約）",
+        "address": "石川県輪島市"
+      }
+    ],
+    "purchase_keywords": "輪島塗 購入 お椀 お盆",
+    "price_range": "お椀 8,000円〜 / お盆 15,000円〜 / 重箱 50,000円〜",
+    "lat": 37.3907,
+    "lng": 136.899,
+    "source": "https://kougeihin.jp/craft/0513/",
+    "ogp_image_desc": "黒漆に沈金で紋様を描いた輪島塗のお椀と重箱"
+  },
+  {
+    "id": "aizu_nuri",
+    "name": "会津塗",
+    "name_en": "Aizu Lacquerware",
+    "name_fr": "Laque Aizu",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 7,
+    "prefecture": "fukushima",
+    "prefecture_ja": "福島県",
+    "area": "会津若松市・喜多方市",
+    "founded": 1590,
+    "founded_era": "天正18年",
+    "desc": "福島県会津地方で生産される漆器で、室町時代に領主が漆の木の栽培を奨励したのが起源とされる。安土桃山時代に近江の武将が会津を支配した際に近江の漆器職人を招き、一気に産業化が進んだ。その後、京都の蒔絵技術も取り入れ、花塗り・変わり塗りなど多彩な技法を擁する東北最大の漆器産地として発展。",
+    "desc_en": "Aizu lacquerware is produced in the Aizu region of Fukushima Prefecture. Starting in 1590 when Gamo Ujisato invited lacquer craftsmen from Omi (Shiga), it has 400 years of history as Tohoku's premier lacquerware producing area. Featuring sturdy bases and vivid colored lacquer and maki-e, it produces everything from everyday tableware to high-end crafts.",
+    "techniques": [
+      "花塗り",
+      "蒔絵",
+      "螺鈿",
+      "変わり塗り",
+      "堆朱"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（欅・栃）",
+      "色漆"
+    ],
+    "features": [
+      "東北最大の漆器産地・約400年の伝統",
+      "花塗り・変わり塗りなど多彩な技法による豊かな表現",
+      "日常使いの器から伝統工芸品まで幅広いラインアップ"
+    ],
+    "workshops": [
+      {
+        "name": "会津漆器協同組合",
+        "url": "https://www.aizunuri.or.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験 2,000円〜",
+        "address": "福島県会津若松市"
+      }
+    ],
+    "purchase_keywords": "会津塗 購入 お椀 漆器",
+    "price_range": "お椀 3,000円〜 / 箸 2,000円〜 / お盆 10,000円〜",
+    "lat": 37.4923,
+    "lng": 139.9298,
+    "source": "https://kougeihin.jp/craft/0506/",
+    "ogp_image_desc": "蒔絵が施された会津塗の朱塗りお椀と箸"
+  },
+  {
+    "id": "echizen_shikki",
+    "name": "越前漆器",
+    "name_en": "Echizen Lacquerware",
+    "name_fr": "Laque Echizen",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 18,
+    "prefecture": "fukui",
+    "prefecture_ja": "福井県",
+    "area": "鯖江市河和田地区",
+    "founded": 1500,
+    "founded_era": "室町末期",
+    "desc": "福井県鯖江市河和田地区を中心に生産される漆器で、起源は6世紀に遡る。当時の天皇に塗り替えを命じられた職人が黒塗りの食器を献上し、その艶の見事さに深く感銘されたことが始まりと伝えられる。堅牢な下地が最大の特徴で、現在は業務用漆器シェア80%超を誇る日本最大の漆器産地となっており、飲食店・ホテル向けから現代デザインの器まで幅広く展開している。",
+    "desc_en": "Echizen lacquerware is produced in the Kawada district of Sabae City, Fukui Prefecture. With a history stretching back approximately 1,500 years, its most notable feature is its exceptionally durable base coat. Holding over 80% of the commercial lacquerware market, it produces tableware for restaurants, hotels, and inns. Modern designs have been gaining attention in recent years.",
+    "techniques": [
+      "木地呂塗り",
+      "変わり塗り",
+      "蒔絵",
+      "研ぎ出し"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（桂・朴）",
+      "紙胎"
+    ],
+    "features": [
+      "業務用漆器シェア80%超・日本最大の漆器産地",
+      "1,500年の歴史を持つ圧倒的な堅牢性と実用性",
+      "近年は現代デザインとの融合でライフスタイル市場にも進出"
+    ],
+    "workshops": [
+      {
+        "name": "漆琳堂",
+        "url": "https://www.shitsurindo.com/",
+        "experience": true,
+        "experience_desc": "蒔絵体験 3,000円〜",
+        "address": "福井県鯖江市"
+      }
+    ],
+    "purchase_keywords": "越前漆器 購入 お椀 重箱",
+    "price_range": "お椀 3,000円〜 / 重箱 20,000円〜 / 箸 1,500円〜",
+    "lat": 35.9567,
+    "lng": 136.1844,
+    "source": "https://kougeihin.jp/craft/0517/",
+    "ogp_image_desc": "越前漆器の朱塗り重箱と蒔絵のお盆"
+  },
+  {
+    "id": "ryukyu_shikki",
+    "name": "琉球漆器",
+    "name_en": "Ryukyu Lacquerware",
+    "name_fr": "Laque Ryukyu",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 47,
+    "prefecture": "okinawa",
+    "prefecture_ja": "沖縄県",
+    "area": "那覇市・浦添市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "沖縄県で生産される漆器で、14世紀に始まった中国への貢物貿易とともに発達したとされる。17世紀初頭には首里王府に漆器の製作所「貝摺奉行所」が設置され、技術・芸術ともに高水準な工芸品が作られるようになった。鮮やかな朱と黒を基調に、沈金・螺鈿・堆錦（ついきん）など独特の加飾技法が特徴で、琉球の交易文化が育んだ格調ある漆芸として知られる。",
+    "desc_en": "Ryukyu lacquerware is produced in Okinawa Prefecture. Developed as royal court ware from around the 14th century during the Ryukyu Kingdom, it fused Chinese, Japanese, and Southeast Asian lacquer techniques into a unique style. Featuring vivid vermilion and black tones with unique techniques like chinkin, raden (mother-of-pearl inlay), and tuikin (raised lacquer painting). Craftsmen in Naha continue the tradition.",
+    "techniques": [
+      "沈金",
+      "螺鈿",
+      "堆錦（ついきん）",
+      "描金",
+      "朱漆塗り"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（琉球松など）",
+      "夜光貝"
+    ],
+    "features": [
+      "琉球王国の宮廷御用品として発展した格調高い漆芸",
+      "堆錦（ついきん）という琉球独自の加飾技法",
+      "鮮やかな朱と黒が醸し出す南国の華やかさ"
+    ],
+    "workshops": [
+      {
+        "name": "国際通り・壺屋周辺の漆器店",
+        "url": "",
+        "experience": true,
+        "experience_desc": "沈金・堆錦体験 3,000円〜",
+        "address": "沖縄県那覇市"
+      }
+    ],
+    "purchase_keywords": "琉球漆器 購入 沖縄 お土産",
+    "price_range": "小物 5,000円〜 / 重箱 30,000円〜 / 屏風 100,000円〜",
+    "lat": 26.2124,
+    "lng": 127.6809,
+    "source": "https://kougeihin.jp/craft/0523/",
+    "ogp_image_desc": "鮮やかな朱塗りに沈金で装飾された琉球漆器の重箱"
+  },
+  {
+    "id": "yamanaka_shikki",
+    "name": "山中漆器",
+    "name_en": "Yamanaka Lacquerware",
+    "name_fr": "Laque Yamanaka",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 37,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "加賀市山中温泉",
+    "founded": 1500,
+    "founded_era": "室町末期頃",
+    "desc": "石川県加賀市山中温泉地区で生産される漆器。16世紀後半、良い材料を求めて移住した職人集団が始めたろくろ挽きがその起源で、木地技術の卓越した産地として発展した。江戸時代中期以降は温泉客向けのみやげ物として栄え、19世紀前半には蒔絵・沈金の技法も加わり「山中高蒔絵」が確立。日本一の木地産地として茶道具・食器を幅広く生産している。",
+    "desc_en": "Yamanaka lacquerware is produced in the Yamanaka-Onsen area of Kaga City, Ishikawa Prefecture. Known as Japan's premier wood-turning production area, its lathe-turning technique is exceptional. Thinly turned wood with beautiful curves is finished using various techniques including Wajima-style, maki-e, and chinkin. Renowned as a production area for tea ceremony tools like bowls and tea cup saucers.",
+    "techniques": [
+      "木地轆轤挽き",
+      "蒔絵",
+      "沈金",
+      "摺漆"
+    ],
+    "materials": [
+      "木地（欅・栃・桂）",
+      "天然漆"
+    ],
+    "features": [
+      "日本一の木地轆轤挽き産地として卓越した技術",
+      "薄く削り出した曲線美に映える多彩な漆の装飾",
+      "茶道具・食器から現代インテリアまで幅広く展開"
+    ],
+    "workshops": [
+      {
+        "name": "山中漆器産業協同組合",
+        "url": "https://www.yamanaka-shikki.com/",
+        "experience": true,
+        "experience_desc": "蒔絵体験 2,500円〜（要予約）",
+        "address": "石川県加賀市山中温泉"
+      }
+    ],
+    "purchase_keywords": "山中漆器 購入 お椀 茶器",
+    "price_range": "お椀 4,000円〜 / 茶托 3,000円〜 / 重箱 30,000円〜",
+    "lat": 36.22,
+    "lng": 136.38,
+    "source": "https://kougeihin.jp/craft/0514/",
+    "ogp_image_desc": "轆轤挽きの美しい木地に漆を塗った山中漆器のお椀"
+  },
+  {
+    "id": "kiso_shikki",
+    "name": "木曽漆器",
+    "name_en": "Kiso Lacquerware",
+    "name_fr": "Laque Kiso",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 20,
+    "prefecture": "nagano",
+    "prefecture_ja": "長野県",
+    "area": "塩尻市楢川地区",
+    "founded": 1600,
+    "founded_era": "江戸初期",
+    "desc": "長野県塩尻市楢川地区を中心に生産される漆器で、17世紀初頭に始まった。豊富なヒノキの木地作りが盛んな土地柄で、尾張徳川藩の庇護を受け、中山道を通る旅人の土産物として広まった。明治初期には地元で「錆土（さびつち）」粘土が発見され、他産地より堅牢な下地塗りが可能になったことで品質が向上。錆絵（さびえ）などの独自技法とともに現在も継承されている。",
+    "desc_en": "Kiso lacquerware is produced in the Narakawa district of Shiojiri City, Nagano Prefecture. It developed during the Edo period when sold to travelers along the Nakasendo road at post towns like Narai and Miyanokosu. Unique techniques include 'Katamichi-urushi' (one-way lacquer for durability) and 'Sabie' (rust painting using tin powder). Modern Kiso lacquerware cutlery and soup bowls for Western-style dining are also popular.",
+    "techniques": [
+      "片道漆塗り",
+      "錆絵（さびえ）",
+      "摺漆"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（ヒノキ・サワグルミ）",
+      "スズ粉"
+    ],
+    "features": [
+      "中山道の宿場町で旅人に愛された江戸時代から続く産地",
+      "磨耗に強い「片道漆」とスズの「錆絵」という独自技法",
+      "現代の洋食文化にも対応したカトラリー・食器の展開"
+    ],
+    "workshops": [
+      {
+        "name": "奈良井宿 各工房（産地にご確認ください）",
+        "url": "https://kiso-shikki.jp/",
+        "experience": true,
+        "experience_desc": "蒔絵・摺漆体験（産地にご確認ください）",
+        "address": "長野県塩尻市楢川"
+      }
+    ],
+    "purchase_keywords": "木曽漆器 購入 お椀 箸",
+    "price_range": "箸 2,000円〜 / お椀 4,000円〜 / お盆 12,000円〜",
+    "lat": 36.12,
+    "lng": 137.87,
+    "source": "https://kougeihin.jp/craft/0511/",
+    "ogp_image_desc": "木曽漆器の朱塗りお椀と錆絵のお盆"
+  },
+  {
+    "id": "tsugaru_nuri",
+    "name": "津軽塗",
+    "name_en": "Tsugaru Lacquerware",
+    "name_fr": "Laque Tsugaru",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 2,
+    "prefecture": "aomori",
+    "prefecture_ja": "青森県",
+    "area": "弘前市・青森市",
+    "founded": 1670,
+    "founded_era": "寛文10年頃",
+    "desc": "青森県弘前市を中心に生産される漆器。1670年頃、津軽藩四代藩主・津軽信政の時代に始まったとされる。最大の特徴は「変わり塗り」で、唐塗（からぬり）・七々子塗（ななこぬり）・錦塗（にしきぬり）・紋紗塗（もんしゃぬり）の4技法がある。独特のカラフルな斑文様を生み出すため、数十回もの塗り重ねと研ぎを繰り返す。1976年に伝統的工芸品の最初の指定を受けた産地のひとつ。",
+    "desc_en": "Tsugaru lacquerware is produced mainly in Hirosaki City, Aomori Prefecture. Said to have started around 1670 during the era of the fourth Tsugaru domain lord. Its most distinctive feature is 'kawari-nuri' (variant lacquer), with four techniques: Kara-nuri, Nanako-nuri, Nishiki-nuri, and Monsha-nuri. Creating unique colorful mottled patterns requires dozens of layering and polishing cycles. It was one of the first areas designated as a Traditional Craft in 1976.",
+    "techniques": [
+      "唐塗（からぬり）",
+      "七々子塗（ななこぬり）",
+      "錦塗（にしきぬり）",
+      "紋紗塗（もんしゃぬり）"
+    ],
+    "materials": [
+      "天然漆",
+      "木地",
+      "色漆"
+    ],
+    "features": [
+      "唐塗・七々子塗など4種の「変わり塗り」が生む独自のカラフルな斑文様",
+      "数十回の塗り重ねと研ぎを繰り返す気の遠くなる工程",
+      "1976年に最初の伝統的工芸品指定を受けた歴史的な産地"
+    ],
+    "workshops": [
+      {
+        "name": "津軽藩ねぷた村",
+        "url": "https://www.neputa-mura.co.jp/",
+        "experience": true,
+        "experience_desc": "津軽塗体験 2,000円〜（要予約）",
+        "address": "青森県弘前市"
+      }
+    ],
+    "purchase_keywords": "津軽塗 購入 箸 お椀",
+    "price_range": "箸 3,000円〜 / お椀 6,000円〜 / アクセサリー 5,000円〜",
+    "lat": 40.6025,
+    "lng": 140.4647,
+    "source": "https://kougeihin.jp/craft/0501/",
+    "ogp_image_desc": "カラフルな斑文様が美しい津軽塗の唐塗箸とお椀"
+  },
+  {
+    "id": "takaoka_shikki",
+    "name": "高岡漆器",
+    "name_en": "Takaoka Lacquerware",
+    "name_fr": "Laque Takaoka",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 16,
+    "prefecture": "toyama",
+    "prefecture_ja": "富山県",
+    "area": "高岡市",
+    "founded": 1611,
+    "founded_era": "慶長16年",
+    "desc": "富山県高岡市で生産される漆器で、江戸時代初期に加賀藩主・前田利長が高岡城を築いた際、武具や日用品の生産を命じたことに始まる。その後、中国から堆朱・堆黒の技法が伝えられ、彫刻塗・錆絵・螺鈿・存星など多彩な技法が生み出された。高岡銅器の産地でもある土地柄から、金工との融合による独自の美が特徴で、町人文化の中で発展した漆芸の一大産地。",
+    "desc_en": "Takaoka lacquerware is produced in Takaoka City, Toyama Prefecture. Said to have begun when the Takaoka castle town was established in 1611. Featuring various techniques including raden (mother-of-pearl inlay), carved lacquer, and rust painting, it is particularly renowned for its raden technique using thinly sliced shells (turban shell, abalone). The combination with Takaoka's metal craft traditions creates unique beauty.",
+    "techniques": [
+      "螺鈿",
+      "彫刻塗",
+      "彫漆",
+      "錆絵"
+    ],
+    "materials": [
+      "天然漆",
+      "夜光貝・鮑貝",
+      "木地"
+    ],
+    "features": [
+      "螺鈿・彫刻塗など多彩な技法が光る高岡の漆芸",
+      "高岡銅器産地ならではの金工と漆の融合",
+      "貝の輝きを生かした繊細で豪華な螺鈿装飾"
+    ],
+    "workshops": [
+      {
+        "name": "高岡漆器（産地にご確認ください）",
+        "url": "https://www.takaoka-dentou.jp/",
+        "experience": true,
+        "experience_desc": "漆器体験（産地にご確認ください）",
+        "address": "富山県高岡市"
+      }
+    ],
+    "purchase_keywords": "高岡漆器 購入 螺鈿 お盆",
+    "price_range": "お盆 10,000円〜 / 螺鈿細工 30,000円〜 / 重箱 50,000円〜",
+    "lat": 36.7547,
+    "lng": 137.026,
+    "source": "https://kougeihin.jp/craft/0512/",
+    "ogp_image_desc": "螺鈿の貝が輝く高岡漆器のお盆"
+  },
+  {
+    "id": "ouchi_nuri",
+    "name": "大内塗",
+    "name_en": "Ouchi Lacquerware",
+    "name_fr": "Laque Ouchi",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 35,
+    "prefecture": "yamaguchi",
+    "prefecture_ja": "山口県",
+    "area": "山口市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "山口県山口市で生産される漆器で、室町時代に大内氏が朝鮮・明との貿易を推進する中、重要な輸出品として奨励したのが始まりとされる。貿易が途絶えた後も江戸時代以降に技術は引き継がれ、朱と黒の地に大内氏の家紋「大内菱」や牡丹・花菱の文様を金で描く様式が確立。お盆・お椀・小物入れが代表的な製品で、今も山口市内の工房で伝統が継承されている。",
+    "desc_en": "Ouchi lacquerware is produced in Yamaguchi City, Yamaguchi Prefecture. It is said to have developed during the Muromachi period as the Ouchi clan, who controlled western Japan, actively adopted continental culture. Characterized by vermilion and black backgrounds with the Ouchi clan's 'Ouchi-bishi' family crest and peony and flower motifs painted in gold. Representative items include trays, bowls, and small containers.",
+    "techniques": [
+      "朱塗り・黒塗り",
+      "金彩絵付け",
+      "家紋蒔絵"
+    ],
+    "materials": [
+      "天然漆",
+      "朱漆",
+      "金粉"
+    ],
+    "features": [
+      "大内氏の家紋・牡丹・花菱を金で描く華やかな様式美",
+      "朱と黒の対比が醸し出す格調高い美しさ",
+      "室町時代の西国文化を今に伝える山口の伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "大内塗工房（産地にご確認ください）",
+        "url": "https://www.city.yamaguchi.lg.jp/",
+        "experience": false,
+        "address": "山口県山口市"
+      }
+    ],
+    "purchase_keywords": "大内塗 購入 お盆 漆器 山口",
+    "price_range": "お盆 5,000円〜 / お椀 4,000円〜 / 小物入れ 3,000円〜",
+    "lat": 34.1861,
+    "lng": 131.4706,
+    "source": "https://kougeihin.jp/craft/0521/",
+    "ogp_image_desc": "朱と黒の地に金の花菱文様が映える大内塗のお盆"
+  },
+  {
+    "id": "kamakura_bori",
+    "name": "鎌倉彫",
+    "name_en": "Kamakura Bori Carved Lacquerware",
+    "name_fr": "Laque Sculptée Kamakura",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 14,
+    "prefecture": "kanagawa",
+    "prefecture_ja": "神奈川県",
+    "area": "鎌倉市",
+    "founded": 1200,
+    "founded_era": "鎌倉時代",
+    "desc": "神奈川県鎌倉市で生産される彫刻漆器。鎌倉時代に禅宗の伝来とともに輸入された堆朱・堆黒などの彫漆品に影響を受け、仏師や宮大工が木の器に彫刻を施して漆を塗り重ねたのが起源。最初は禅宗寺院で使う香合などが作られた。彫りの凹凸が生み出す陰影の深みが最大の魅力で、現在も鎌倉市内に多くの工房があり体験教室も盛ん。",
+    "desc_en": "Kamakura Bori is carved lacquerware produced in Kamakura City, Kanagawa Prefecture. Developed during the Kamakura period as a uniquely Japanese style inspired by Chinese 'Choushitsu' (carved lacquer) techniques from the Song and Yuan dynasties. Characterized by deep carving into the wood followed by layering of lacquer, the beauty of shadows created by the carved relief is its hallmark. Many workshops remain in Kamakura today, with active craft experience classes.",
+    "techniques": [
+      "木彫り",
+      "漆塗り重ね",
+      "凹凸彫刻"
+    ],
+    "materials": [
+      "木地（桂・朴）",
+      "天然漆"
+    ],
+    "features": [
+      "鎌倉時代から続く木彫り漆塗りの独自様式",
+      "彫りの凹凸が生む陰影の美が最大の魅力",
+      "鎌倉の文化観光と融合した体験工房が充実"
+    ],
+    "workshops": [
+      {
+        "name": "鎌倉彫会館",
+        "url": "https://www.kamakurabori.com/",
+        "experience": true,
+        "experience_desc": "彫り・塗り体験 3,500円〜（要予約）",
+        "address": "神奈川県鎌倉市小町"
+      }
+    ],
+    "purchase_keywords": "鎌倉彫 購入 お盆 菓子鉢",
+    "price_range": "小物 3,000円〜 / 菓子鉢 15,000円〜 / お盆 20,000円〜",
+    "lat": 35.3196,
+    "lng": 139.5469,
+    "source": "https://kougeihin.jp/craft/0507/",
+    "ogp_image_desc": "深い彫りと漆の陰影が美しい鎌倉彫のお盆と菓子鉢"
+  },
+  {
+    "id": "hakuichi_shikki",
+    "name": "輪島沈金",
+    "name_en": "Wajima Chinkin Lacquerware",
+    "name_fr": "Laque Chinkin Wajima",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "regional",
+    "designation_number": 37,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "輪島市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "石川県輪島市で発達した漆器の加飾技法。漆が固まった器の表面を鋭利な刀で彫り、彫った溝に金粉・金箔を埋め込む技法。微細な線描きによる繊細な文様表現が可能で、輪島塗の代表的な加飾技法として世界的に評価される。現在、輪島塗の産地において沈金師として活躍する職人が技を継承している。",
+    "desc_en": "Wajima Chinkin is a lacquerware decoration technique developed in Wajima City, Ishikawa Prefecture. The technique involves carving the surface of hardened lacquerware with sharp tools, then filling the carved grooves with gold powder or gold leaf. Capable of expressing delicate patterns through fine line drawing, it is internationally recognized as a representative decoration technique of Wajima lacquerware.",
+    "techniques": [
+      "沈金彫り",
+      "金粉埋め込み",
+      "金箔押し"
+    ],
+    "materials": [
+      "天然漆",
+      "金粉",
+      "金箔"
+    ],
+    "features": [
+      "漆の黒に金が輝く沈金の荘厳な美しさ",
+      "鋭利な刀で描く繊細な線が生み出す精緻な文様",
+      "輪島塗と並ぶ日本漆芸の頂点を極めた加飾技法"
+    ],
+    "workshops": [
+      {
+        "name": "輪島工房長屋",
+        "url": "https://www.wajimakobo.jp/",
+        "experience": true,
+        "experience_desc": "沈金体験 3,000円〜（要予約）",
+        "address": "石川県輪島市"
+      }
+    ],
+    "purchase_keywords": "輪島沈金 購入 漆器",
+    "price_range": "小皿 15,000円〜 / 菓子鉢 50,000円〜 / 飾り箱 100,000円〜",
+    "lat": 37.3907,
+    "lng": 136.899,
+    "source": "",
+    "ogp_image_desc": "漆の黒地に金の沈金細工が輝く輪島塗の器"
+  },
+  {
+    "id": "hida_shikki",
+    "name": "飛騨春慶",
+    "name_en": "Hida Shunkei Lacquerware",
+    "name_fr": "Laque Hida Shunkei",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 21,
+    "prefecture": "gifu",
+    "prefecture_ja": "岐阜県",
+    "area": "高山市",
+    "founded": 1600,
+    "founded_era": "慶長年間",
+    "desc": "岐阜県高山市で生産される漆器。江戸時代初め、高山城下の大工棟梁が打ち割ったサワラの木の美しい木目を発見し、その枇目（へぎめ）を活かした盆を塗り上げたのが起源とされる。色調が茶器の名品「飛春慶」に似ていたことから「春慶塗」と名付けられた。透き漆を重ねて木目が透けて見える黄・橙の温かな色調が特徴で、高山の観光工芸品として全国的に知られている。",
+    "desc_en": "Hida Shunkei is lacquerware produced in Takayama City, Gifu Prefecture. Said to have started around 1600 during the era of Takayama castle lord Kanamori Nagachika. Characterized by 'Shunkei-nuri' technique of layering transparent lacquer to highlight the wood grain, it has a unique beauty where natural yellow, orange, and brown wood grain shows through. Widely known as a Takayama tourist craft.",
+    "techniques": [
+      "春慶塗（透き漆）",
+      "木地削り",
+      "摺漆"
+    ],
+    "materials": [
+      "木地（サワラ・朴）",
+      "透き漆"
+    ],
+    "features": [
+      "透き漆から透ける木目の自然な美しさ",
+      "飛騨高山の観光と工芸が融合した代表的産地",
+      "黄・橙系の温かい色調が飛騨の自然を表現"
+    ],
+    "workshops": [
+      {
+        "name": "飛騨高山 各工房（産地にご確認ください）",
+        "url": "https://hidashunkei.jp/",
+        "experience": true,
+        "experience_desc": "塗り体験（産地にご確認ください）",
+        "address": "岐阜県高山市"
+      }
+    ],
+    "purchase_keywords": "飛騨春慶 購入 重箱 お盆 高山",
+    "price_range": "箸 2,000円〜 / お椀 5,000円〜 / 重箱 30,000円〜",
+    "lat": 36.1461,
+    "lng": 137.2523,
+    "source": "https://kougeihin.jp/craft/0516/",
+    "ogp_image_desc": "透き漆から木目が透ける飛騨春慶の重箱とお椀"
+  },
+  {
+    "id": "kawatsura_shikki",
+    "name": "川連漆器",
+    "name_en": "Kawatsura Lacquerware",
+    "name_fr": "Laque Kawatsura",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 5,
+    "prefecture": "akita",
+    "prefecture_ja": "秋田県",
+    "area": "湯沢市川連",
+    "founded": 1200,
+    "founded_era": "鎌倉時代",
+    "desc": "秋田県湯沢市川連地区で生産される漆器。鎌倉時代にこの地方を支配した領主の弟が家臣に武具への漆塗りを内職として命じたのが始まりとされる。本格的な椀作りは江戸時代中期から発展し、後期には川連・大館・三梨の3地区を中心に日用品の産地として栄えた。朱・黒の鮮やかな色彩と堅牢な作りが特徴で、現在もお椀・お盆・重箱などの日用漆器を生産している。",
+    "desc_en": "Kawatsura lacquerware is produced in the Kawatsura area of Yuzawa City, Akita Prefecture. Its origins trace to the Kamakura period, when retainers of the Onodera clan used lacquer for repairing bows and armor. Known for its vibrant vermillion and black colors and robust construction, it is now a noted producer of everyday lacquerware including bowls, trays, and jubako boxes.",
+    "techniques": [
+      "木地調整",
+      "下塗り・中塗り・上塗り",
+      "朱塗り",
+      "蒔絵"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（ぶな・とちなど）"
+    ],
+    "features": [
+      "鎌倉時代から続く東北を代表する漆器産地",
+      "朱・黒の鮮やかな色彩と日常使いに適した堅牢な作り",
+      "秋田の豊富な木材資源と漆文化が育んだ伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "川連漆器伝統工芸館",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "秋田県湯沢市川連町"
+      }
+    ],
+    "purchase_keywords": "川連漆器 購入 お椀 お盆",
+    "price_range": "お椀 3,000円〜 / お盆 5,000円〜 / 重箱 15,000円〜",
+    "lat": 39.0833,
+    "lng": 140.5167,
+    "source": "https://kougeihin.jp/craft/0505/",
+    "ogp_image_desc": "川連漆器の朱塗りのお椀とお盆のセット"
+  },
+  {
+    "id": "hidehira_nuri",
+    "name": "秀衡塗",
+    "name_en": "Hidehira Lacquerware",
+    "name_fr": "Laque Hidehira",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 3,
+    "prefecture": "iwate",
+    "prefecture_ja": "岩手県",
+    "area": "西磐井郡平泉町",
+    "founded": 1100,
+    "founded_era": "平安時代末期",
+    "desc": "岩手県平泉町で生産される漆器。平安時代末期の奥州藤原氏・三代藤原秀衡が、平泉の黄金文化の一環として漆器を制作させたのが起源とされる。金箔を豊富に使った菱形文様（秀衡文）と鮮やかな朱・黒漆の組み合わせが特徴で、平泉の黄金文化を今に伝える格調ある漆器として知られる。",
+    "desc_en": "Hidehira lacquerware is produced in Hiraizumi Town, Iwate Prefecture. Its origins lie in the late Heian period, when Fujiwara no Hidehira, third head of the Oshu Fujiwara clan, had lacquerware produced as part of Hiraizumi's golden culture. Characterized by the abundant use of gold leaf in diamond patterns (Hidehira-mon) combined with vibrant vermillion and black lacquer, it is a dignified lacquerware tradition that conveys Hiraizumi's golden heritage.",
+    "techniques": [
+      "金箔押し",
+      "秀衡文（菱形文様）",
+      "朱漆塗り",
+      "黒漆塗り"
+    ],
+    "materials": [
+      "天然漆",
+      "金箔",
+      "木地（欅・朴）"
+    ],
+    "features": [
+      "奥州藤原氏・秀衡の黄金文化を伝える金箔豊富な漆器",
+      "菱形を組み合わせた「秀衡文」という独自の文様",
+      "世界遺産・平泉の歴史的背景を持つ格調高い漆器"
+    ],
+    "workshops": [
+      {
+        "name": "岩手県立平泉世界遺産ガイダンスセンター周辺工房",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "岩手県西磐井郡平泉町"
+      }
+    ],
+    "purchase_keywords": "秀衡塗 購入 平泉",
+    "price_range": "お椀 8,000円〜 / お盆 15,000円〜 / 重箱 50,000円〜",
+    "lat": 38.9878,
+    "lng": 141.1125,
+    "source": "https://kougeihin.jp/craft/0502/",
+    "ogp_image_desc": "秀衡塗の金箔菱形文様が美しい朱塗りのお椀"
+  },
+  {
+    "id": "kishu_shikki",
+    "name": "紀州漆器",
+    "name_en": "Kishu Lacquerware",
+    "name_fr": "Laque Kishu",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 30,
+    "prefecture": "wakayama",
+    "prefecture_ja": "和歌山県",
+    "area": "海南市黒江",
+    "founded": 1500,
+    "founded_era": "室町時代",
+    "desc": "和歌山県海南市黒江地区で生産される漆器。室町〜戦国時代に近江の木地師集団がこの地に移り住み、豊富な紀州ヒノキを素材に木地作りを始めたのが起源とされる。江戸時代には「渋地椀（しぶじわん）」の一大産地として全国に名が知られ、最初は「黒江塗」と呼ばれた。現在は合理的な生産体制で手頃な価格の日用漆器を大量に供給し、全国市場で高いシェアを誇る。",
+    "desc_en": "Kishu lacquerware is produced in the Kuroe area of Kainan City, Wakayama Prefecture. Originating around the Muromachi period, it developed in Kishu, which was rich in both timber and lacquer. Today, through efficient production systems, it supplies large quantities of affordable everyday lacquerware, holding a significant share of the national lacquerware market. Its product range spans from maki-e and chinkin decorated pieces to everyday bowls.",
+    "techniques": [
+      "木地加工",
+      "下地・中塗り・上塗り",
+      "蒔絵",
+      "カシュー塗り（普及品）"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（杉・桧など）",
+      "カシュー樹脂（普及品）"
+    ],
+    "features": [
+      "室町時代から続く和歌山を代表する漆器産地・黒江",
+      "手頃な価格の日用漆器から高級蒔絵品まで幅広い製品群",
+      "全国の漆器市場に広く流通する実用漆器の一大産地"
+    ],
+    "workshops": [
+      {
+        "name": "黒江ぬりもの館",
+        "url": "https://www.kuroe.or.jp/",
+        "experience": true,
+        "experience_desc": "蒔絵体験（要確認）",
+        "address": "和歌山県海南市黒江"
+      }
+    ],
+    "purchase_keywords": "紀州漆器 黒江塗 購入",
+    "price_range": "お椀 2,000円〜 / お盆 3,000円〜 / 重箱 10,000円〜",
+    "lat": 34.1517,
+    "lng": 135.2195,
+    "source": "https://kougeihin.jp/craft/0520/",
+    "ogp_image_desc": "紀州漆器・黒江塗のお椀とお盆のセット"
+  },
+  {
+    "id": "kagawa_shikki",
+    "name": "香川漆器",
+    "name_en": "Kagawa Lacquerware",
+    "name_fr": "Laque Kagawa",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 37,
+    "prefecture": "kagawa",
+    "prefecture_ja": "香川県",
+    "area": "高松市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "香川県高松市を中心に生産される漆器。江戸時代後期、玉楮象谷（たまかじぞうこく）がタイや中国から伝わる「蒟醤（きんま）」「存清（ぞんせい）」などの技法を研究し、日本古来の技法と融合して新しい漆芸の様式を生み出したことが起源。現在は彫漆・蒟醤・存清・後藤塗・讃岐彫の5技法を擁し、多様な装飾技法の宝庫として知られる。",
+    "desc_en": "Kagawa lacquerware is produced mainly in Takamatsu City, Kagawa Prefecture. Its origins trace to the early Edo period, when the lord of Takamatsu domain, Matsudaira Yorishige, invited maki-e artists from Kyoto. It is known as a treasure trove of diverse decorative techniques, encompassing five methods: choushitsu (carved lacquer), kinma, zousei, Goto-nuri, and Sanuki-bori.",
+    "techniques": [
+      "彫漆（ちょうしつ）",
+      "蒟醤（きんま）",
+      "存清（ぞんせい）",
+      "後藤塗",
+      "讃岐彫"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（欅・朴など）",
+      "顔料"
+    ],
+    "features": [
+      "5つの異なる装飾技法を一産地が持つ稀有な漆器文化",
+      "江戸時代の高松藩が育んだ格調ある漆芸の伝統",
+      "「彫漆」「蒟醤」など中国・東南アジア由来の技法を独自発展"
+    ],
+    "workshops": [
+      {
+        "name": "香川漆器協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "香川県高松市"
+      }
+    ],
+    "purchase_keywords": "香川漆器 蒟醤 購入",
+    "price_range": "お椀 5,000円〜 / 飾り皿 15,000円〜 / 花瓶 30,000円〜",
+    "lat": 34.3406,
+    "lng": 134.0433,
+    "source": "https://kougeihin.jp/craft/0522/",
+    "ogp_image_desc": "香川漆器の蒟醤技法が施された皿と茶托"
+  },
+  {
+    "id": "wakasa_nuri",
+    "name": "若狭塗",
+    "name_en": "Wakasa Lacquerware",
+    "name_fr": "Laque Wakasa",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 18,
+    "prefecture": "fukui",
+    "prefecture_ja": "福井県",
+    "area": "小浜市",
+    "founded": 1650,
+    "founded_era": "慶安3年頃",
+    "desc": "福井県小浜市で生産される漆器。江戸時代初期、小浜藩の漆職人が中国の漆器技法をヒントに海底の景色を図案化し、菊塵塗（きくじんぬり）を生み出したのが起源。17世紀中頃には卵の殻・金銀箔で加飾する現在の技法が完成した。日本の漆塗り箸の約80%が生産される「若狭塗箸」が特に有名で、松の葉・菜種・卵殻を漆に埋めて研ぎ出す独自の海底文様が特徴。",
+    "desc_en": "Wakasa lacquerware is produced in Obama City, Fukui Prefecture. The most famous product is the \"Wakasa-nuri chopsticks,\" said to have been devised by Matsura Sanjuro, a retainer of the Obama Domain in the mid-Edo period, with approximately 80% of Japan's lacquered chopsticks produced in this area. A distinctive technique involves attaching pine needles, rapeseed, and eggshells, then polishing them to create fantastical patterns reminiscent of the ocean floor.",
+    "techniques": [
+      "螺鈿・卵殻・松葉貼り付け",
+      "研ぎ出し",
+      "塗り重ね"
+    ],
+    "materials": [
+      "天然漆",
+      "木地（木箸）",
+      "卵の殻",
+      "螺鈿",
+      "松葉・菜種"
+    ],
+    "features": [
+      "日本の漆塗り箸生産の約80%を占める若狭塗箸の産地",
+      "卵殻・松葉・菜種を漆に埋めて研ぎ出す海底模様の独自技法",
+      "福井・若狭の海の豊かさを漆器に表現した幻想的な意匠"
+    ],
+    "workshops": [
+      {
+        "name": "若狭塗箸の里",
+        "url": "",
+        "experience": true,
+        "experience_desc": "箸の絵付け体験（要確認）",
+        "address": "福井県小浜市"
+      }
+    ],
+    "purchase_keywords": "若狭塗 箸 購入",
+    "price_range": "お箸 2,000円〜 / お椀 5,000円〜 / お盆 8,000円〜",
+    "lat": 35.4958,
+    "lng": 135.7447,
+    "source": "https://kougeihin.jp/craft/0518/",
+    "ogp_image_desc": "若狭塗の海底模様が美しい箸とお椀"
+  },
+  {
+    "id": "kanazawa_shikki",
+    "name": "金沢漆器",
+    "name_en": "Kanazawa Lacquerware",
+    "name_fr": "Laque Kanazawa",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 17,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "金沢市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "石川県金沢市で生産される漆器。江戸時代初期、加賀藩主が桃山文化を代表する「高台寺蒔絵」の名工・五十嵐道甫を京都から招いたことが起源とされ、「加賀蒔絵」の伝統が築かれた。金・銀粉・螺鈿を贅沢に使った豪華絢爛な装飾と加賀文化特有の格調を兼ね備えた最高級漆器で、輪島塗と並ぶ石川県を代表する漆芸の産地として国内外に知られている。",
+    "desc_en": "Kanazawa lacquerware is produced in Kanazawa City, Ishikawa Prefecture. It developed when the Maeda clan of Kaga, lords of one million koku, invited master craftsmen from Kyoto to promote lacquer arts. Famous for its intricate \"Kaga maki-e,\" it is known domestically and internationally as a premium lacquerware combining lavish decoration using gold, silver, and mother-of-pearl with the refined elegance characteristic of Kaga culture.",
+    "techniques": [
+      "加賀蒔絵",
+      "螺鈿",
+      "沈金",
+      "金箔押し",
+      "消粉蒔絵"
+    ],
+    "materials": [
+      "天然漆",
+      "金粉・銀粉",
+      "金箔",
+      "螺鈿",
+      "木地（欅・朴）"
+    ],
+    "features": [
+      "加賀百万石の文化が育んだ「加賀蒔絵」の精緻な美",
+      "金・銀・螺鈿を贅沢に使った豪華絢爛な装飾",
+      "輪島塗と並ぶ石川県を代表する最高級漆器の産地"
+    ],
+    "workshops": [
+      {
+        "name": "石川県立伝統産業工芸館",
+        "url": "https://www.ishikawa-dental.com/",
+        "experience": true,
+        "experience_desc": "蒔絵体験（要確認）",
+        "address": "石川県金沢市兼六園"
+      }
+    ],
+    "purchase_keywords": "金沢漆器 加賀蒔絵 購入",
+    "price_range": "お椀 10,000円〜 / 飾り皿 30,000円〜 / 重箱 100,000円〜",
+    "lat": 36.5613,
+    "lng": 136.6562,
+    "source": "https://kougeihin.jp/craft/0515/",
+    "ogp_image_desc": "金沢漆器の加賀蒔絵が施された黒漆の重箱"
+  },
+  {
+    "id": "negoro_nuri",
+    "name": "根来塗",
+    "name_en": "Negoro-nuri (Negoro Lacquerware)",
+    "name_fr": "Laque Negoro",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 30,
+    "prefecture": "wakayama",
+    "prefecture_ja": "和歌山県",
+    "area": "岩出市（旧根来地方）",
+    "founded": 1200,
+    "founded_era": "鎌倉時代",
+    "desc": "和歌山県旧根来地方（現岩出市周辺）に起源を持つ漆器。根来寺の僧侶が日常什器として作り始めたとされ、黒漆を下地に朱漆を重ね塗りする二層塗りが特徴。使い込むほど朱漆が摩耗して下の黒漆が浮き上がる「根来塗の景色」は日本最古の漆器様式のひとつとして知られ、その侘び寂びの美は現代の工芸愛好家からも高い評価を受ける。現在は和歌山・奈良など各地で根来塗の技法が伝承されている。",
+    "desc_en": "Negoro-nuri is lacquerware originating in the old Negoro region of Wakayama Prefecture (around present-day Iwade City). Said to have been made by monks of Negoroji Temple as everyday utensils, characterized by two-layer lacquering with black lacquer as the base and vermilion lacquer on top. Known as one of Japan's oldest lacquerware styles, the 'scenery of Negoro-nuri' where the upper vermilion wears away with use to reveal the black beneath is highly valued by modern craft enthusiasts for its wabi-sabi aesthetic. Today the Negoro-nuri technique is passed down in various regions including Wakayama and Nara.",
+    "techniques": [
+      "黒漆下塗り",
+      "朱漆上塗り（二層塗り）",
+      "拭き漆仕上げ"
+    ],
+    "materials": [
+      "天然漆（朱漆・黒漆）",
+      "木地（欅・朴等）"
+    ],
+    "features": [
+      "黒漆上に朱漆を重ねる日本最古の漆器様式のひとつ",
+      "使い込むほど朱が剥げ黒が現れる「根来塗の景色」という侘び美",
+      "根来寺の僧侶の日用品から始まった約800年の歴史"
+    ],
+    "workshops": [
+      {
+        "name": "根来塗工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "和歌山県岩出市"
+      }
+    ],
+    "purchase_keywords": "根来塗 購入 和歌山 朱漆 漆器",
+    "price_range": "椀 8,000円〜 / 盆 20,000円〜 / 重箱 50,000円〜",
+    "lat": 34.2479,
+    "lng": 135.3702,
+    "source": "https://kougeihin.jp/craft/3001/",
+    "ogp_image_desc": "朱と黒が重なる根来塗の椀と盆"
+  },
+  {
+    "id": "joboji_nuri",
+    "name": "浄法寺塗",
+    "name_en": "Joboji-nuri (Joboji Lacquerware)",
+    "name_fr": "Laque Joboji",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 3,
+    "prefecture": "iwate",
+    "prefecture_ja": "岩手県",
+    "area": "二戸市浄法寺町",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "岩手県二戸市浄法寺町で生産される漆器。地名の由来は中世に北部を支配した浄法寺一族で、言い伝えでは奈良時代に行基がこの地に天台寺を建てた際、中央の僧侶が漆器作りの技術を持ち込んだとされる。素木地に漆を丁寧に重ねた堅牢で素朴な仕上がりが特徴。日本の漆生産量の約60%を占める国内最大の漆産地で採れた純国産漆を直接使い、文化財修理にも用いられる。",
+    "desc_en": "Joboji-nuri is lacquerware produced in Joboji Town, Ninohe City, Iwate Prefecture. Joboji is known as 'Japan's leading lacquer production area,' accounting for approximately 60% of domestic lacquer production, and lacquerware made using the pure domestic lacquer harvested there is called Joboji-nuri. Characterized by a robust and rustic finish achieved by carefully layering lacquer on bare wood, it embodies the functional beauty of authentic lacquerware that can be repaired and re-lacquered. Joboji lacquer, also used for cultural property restoration, supports the foundation of Japan's lacquer culture.",
+    "techniques": [
+      "木地塗り（刷毛塗り）",
+      "漆重ね塗り",
+      "拭き漆"
+    ],
+    "materials": [
+      "浄法寺産天然漆",
+      "木地（桂・朴など）"
+    ],
+    "features": [
+      "日本の漆生産量約60%を占める浄法寺産漆を直接使った漆器",
+      "修理・塗り直しが可能な漆本来の機能美と持続可能性",
+      "文化財修理にも用いられる純国産漆の本場産地工芸"
+    ],
+    "workshops": [
+      {
+        "name": "浄法寺漆産業振興協会（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "漆塗り体験（産地にご確認ください）",
+        "address": "岩手県二戸市浄法寺町"
+      }
+    ],
+    "purchase_keywords": "浄法寺塗 購入 岩手 国産漆 漆器",
+    "price_range": "椀 5,000円〜 / 盆 15,000円〜 / 重箱 40,000円〜",
+    "lat": 40.2151,
+    "lng": 141.264,
+    "source": "https://kougeihin.jp/craft/0503/",
+    "ogp_image_desc": "浄法寺産の純国産漆を使った浄法寺塗の椀と盆"
+  },
+  {
+    "id": "odawara_shikki",
+    "name": "小田原漆器",
+    "name_en": "Odawara Shikki (Odawara Lacquerware)",
+    "name_fr": "Laque d'Odawara",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 14,
+    "prefecture": "kanagawa",
+    "prefecture_ja": "神奈川県",
+    "area": "小田原市",
+    "founded": 1400,
+    "founded_era": "室町時代",
+    "desc": "神奈川県小田原市で生産される漆器。室町時代中期、箱根山系の豊富な木材を使った挽物の器に漆を塗ったのが始まりとされる。その後、北条氏が漆器職人を城下に招き彩漆塗（いろうるしぬり）の技法が確立。江戸時代には東海道小田原宿の名産品として旅人のみやげ物として全国に普及した。ケヤキ・トチなどの木目が透けて見える「木地呂塗り」が産地の代名詞。",
+    "desc_en": "Odawara Shikki is lacquerware produced in Odawara City, Kanagawa Prefecture. Said to have begun in the Muromachi period, it excels in wood processing techniques utilizing the abundant timber of the Hakone mountain range. Known as a specialty product of Odawara post-town on the Tokaido highway during the Edo period, it spread nationwide as souvenirs for travelers. 'Kijiro-nuri'—transparent lacquer application that reveals the wood grain—using diverse woods such as zelkova and Japanese horse chestnut is synonymous with Odawara lacquerware. Still highly regarded as robust and practical lacquerware.",
+    "techniques": [
+      "木地呂塗り（透き漆）",
+      "拭き漆",
+      "刷毛塗り"
+    ],
+    "materials": [
+      "欅（けやき）",
+      "栃（とち）",
+      "朴（ほお）",
+      "天然漆"
+    ],
+    "features": [
+      "木目が透けて見える「木地呂塗り」が代名詞の小田原独自技法",
+      "箱根山系の木材資源を活かした優れた木地加工技術",
+      "東海道小田原宿の名産品として江戸時代から広まった実用漆器"
+    ],
+    "workshops": [
+      {
+        "name": "小田原漆器工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "神奈川県小田原市"
+      }
+    ],
+    "purchase_keywords": "小田原漆器 購入 神奈川 木地呂塗り 漆器",
+    "price_range": "椀 5,000円〜 / 盆 12,000円〜 / 重箱 35,000円〜",
+    "lat": 35.2647,
+    "lng": 139.1527,
+    "source": "https://kougeihin.jp/craft/0508/",
+    "ogp_image_desc": "木目が透けて見える木地呂塗りが美しい小田原漆器の椀と盆"
+  },
+  {
+    "id": "murakami_kibori_taishu",
+    "name": "村上木彫堆朱",
+    "name_en": "Murakami Kibori Taishu (Murakami Wood-Carved Lacquerware)",
+    "name_fr": "Laque Sculptée Murakami Taishu",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 15,
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "村上市",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "新潟県村上市で生産される木彫り漆器。15世紀初め、京都の漆器職人が中国の堆朱を真似て木彫りの上に漆を塗る技法を始め、村上地方の寺院建立の際にその技術が伝えられたのが起源とされる。江戸時代には武士から町民へと広まった。桐などの木地に直接彫刻を施して朱・黒漆を塗る村上独自の「木彫り堆朱」様式で、牡丹・菊などの優美な文様と深みある漆色が特徴。",
+    "desc_en": "Murakami Kibori Taishu is a type of wood-carved lacquerware produced in Murakami City, Niigata Prefecture, independently developing the Chinese-origin 'taishu' (carved lacquer) technique during the Edo period. While traditional taishu involves carving into layers of built-up lacquer, Murakami's style carves intricate patterns directly into a wood base (such as paulownia) before finishing with red or black lacquer, establishing a unique local style. Characterized by elegant motifs of peonies, chrysanthemums, and pine-bamboo-plum along with deep lacquer hues, it is a Niigata tradition nurtured by the samurai culture of the Murakami domain.",
+    "techniques": [
+      "木彫り彫刻（浮彫・沈彫）",
+      "堆朱塗り（朱・黒漆）",
+      "木地加工（桐・朴）",
+      "磨き仕上げ"
+    ],
+    "materials": [
+      "桐・朴などの木地",
+      "朱漆・黒漆",
+      "天然漆"
+    ],
+    "features": [
+      "木地に直接彫刻する村上独自スタイルの「木彫り堆朱」",
+      "牡丹・菊・松竹梅などの優美な文様と深みある朱・黒漆の色",
+      "村上藩武家文化が育んだ新潟を代表する漆器工芸"
+    ],
+    "workshops": [
+      {
+        "name": "若林漆器店",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "新潟県村上市"
+      },
+      {
+        "name": "村上市郷土資料館（えちごやむらかみ）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "新潟県村上市"
+      }
+    ],
+    "purchase_keywords": "村上木彫堆朱 購入 新潟 村上 漆器 堆朱",
+    "price_range": "小物 5,000円〜 / 盆 20,000円〜 / 重箱 60,000円〜",
+    "lat": 38.23,
+    "lng": 139.4822,
+    "source": "https://kougeihin.jp/craft/0509/",
+    "ogp_image_desc": "村上木彫堆朱の牡丹文様が彫られた朱塗りの盆"
+  },
+  {
+    "id": "nikko_bori",
+    "name": "日光彫",
+    "name_en": "Nikko Bori (Nikko Carved Lacquerware)",
+    "name_fr": "Laque Sculptée de Nikko",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "regional",
+    "designation_number": 9,
+    "prefecture": "tochigi",
+    "prefecture_ja": "栃木県",
+    "area": "日光市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "栃木県日光市で生産される木彫り漆器で、日光東照宮の建造（17世紀初頭）に全国から集まった彫刻職人が日光に定着し、参拝客へのみやげ物として木製品に彫刻を施したことが起源とされる。「ひっかき刀」と呼ばれる独特の彫刻刀を手前に引いて削るように彫る技法が最大の特徴で、牡丹・菊・紅葉などの文様が施された盆・箱・額・花器が代表的な製品。日光の豊かな自然と東照宮の華麗な彫刻文化が融合した栃木を代表する伝統工芸。",
+    "desc_en": "Nikko Bori is a wood-carved lacquerware produced in Nikko City, Tochigi Prefecture, said to originate when carving craftsmen who gathered from across Japan to build Nikko Toshogu Shrine (early 17th century) settled in the area and decorated wooden goods as souvenirs for pilgrims. Its defining feature is the use of a unique carving knife called 'hikkaki-to' (pulling knife) that carves by pulling toward the craftsman. Representative products include trays, boxes, frames, and vases decorated with peony, chrysanthemum, and maple leaf motifs. A leading Tochigi tradition that fuses Nikko's natural splendor with the ornate carving culture of Toshogu.",
+    "techniques": [
+      "ひっかき刀彫り",
+      "浮彫・沈彫",
+      "漆塗り（拭き漆・本塗り）",
+      "磨き仕上げ"
+    ],
+    "materials": [
+      "朴（ほお）・桂・栃などの木地",
+      "天然漆",
+      "金粉（蒔絵）"
+    ],
+    "features": [
+      "手前に引いて彫る「ひっかき刀」による日光独自の彫刻技法",
+      "日光東照宮建造に集まった職人文化から生まれた伝統工芸",
+      "牡丹・菊・紅葉などの優美な文様を施した盆・箱・額が代表品"
+    ],
+    "workshops": [
+      {
+        "name": "日光彫工芸品展示販売センター",
+        "url": "",
+        "experience": true,
+        "experience_desc": "ひっかき刀体験 2,000円〜（要確認）",
+        "address": "栃木県日光市"
+      }
+    ],
+    "purchase_keywords": "日光彫 購入 栃木 日光 漆器 木彫り",
+    "price_range": "小物 3,000円〜 / 盆 15,000円〜 / 重箱 50,000円〜",
+    "lat": 36.7483,
+    "lng": 139.5991,
+    "source": "",
+    "ogp_image_desc": "牡丹と紅葉の文様が彫られた日光彫の朱塗りの盆"
+  },
+  {
+    "id": "nibutani_ita",
+    "name": "二風谷イタ",
+    "name_en": "Nibutani Ita (Ainu Carved Tray)",
+    "name_fr": "Plateau Sculpté Aïnou Nibutani",
+    "category": "lacquerware",
+    "category_ja": "漆器",
+    "designation": "meti",
+    "designation_number": 1,
+    "prefecture": "hokkaido",
+    "prefecture_ja": "北海道",
+    "area": "沙流郡平取町二風谷",
+    "founded": 1000,
+    "founded_era": "平安時代以前（アイヌ文化）",
+    "desc": "北海道日高地方・平取町二風谷のアイヌ民族に代々伝わる木彫りの盆（イタ）工芸品。沙流川流域では百年以上前から受け継がれてきた技であり、19世紀半ばには盆が贈り物として献上された記録も残る。ハルニレ・ミズキなどの木材に渦巻き（モレウ）や植物文などアイヌ独自の文様を彫刻し、自然観・世界観を表現。1984年に国の伝統的工芸品に指定され、現在も工芸家が技を継承している。",
+    "desc_en": "Nibutani Ita are wood-carved trays (ita) of the Ainu people of Nibutani, Biratori Town, Hidaka region, Hokkaido, passed down through generations. In the Ainu language, 'ita' means a tray or serving board. Carved from woods such as Japanese elm and dogwood using unique Ainu patterns (spirals, morewu, plant motifs). Designated as a national traditional craft in 1984, it was the first METI-designated craft from Nibutani. These trays embody the Ainu worldview and reverence for nature through carved patterns, with Nibutani craftspeople continuing to inherit and develop the tradition today.",
+    "techniques": [
+      "木彫り（アイヌ文様）",
+      "モレウ（渦巻き文）彫刻",
+      "ウパソウィ（植物文）彫刻",
+      "仕上げ磨き"
+    ],
+    "materials": [
+      "ハルニレ（エルム）",
+      "ミズキ",
+      "地元北海道産広葉樹"
+    ],
+    "features": [
+      "アイヌ民族の世界観を体現する独自の渦巻き・植物文様の木彫り",
+      "1984年METI指定・二風谷初の伝統的工芸品認定のアイヌ文化遺産",
+      "二風谷の工芸家が現代も継承・発展させる北海道唯一の伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "二風谷アイヌ文化博物館",
+        "url": "https://www.biratori-ainu.com/",
+        "experience": true,
+        "experience_desc": "アイヌ文様木彫り体験（要確認）",
+        "address": "北海道沙流郡平取町二風谷"
+      }
+    ],
+    "purchase_keywords": "二風谷イタ 購入 北海道 アイヌ 木彫り 盆",
+    "price_range": "小型 15,000円〜 / 中型 40,000円〜 / 大型 100,000円〜",
+    "lat": 42.5756,
+    "lng": 142.1597,
+    "source": "https://kougeihin.jp/craft/0601/",
+    "ogp_image_desc": "アイヌの渦巻き文様（モレウ）が彫られた二風谷イタの木彫り盆"
+  }
+]

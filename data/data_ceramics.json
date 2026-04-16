@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "kutani_yaki",
+    "name": "九谷焼",
+    "name_en": "Kutani Ware",
+    "name_fr": "Céramique Kutani",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 36,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "加賀市・能美市・小松市",
+    "founded": 1655,
+    "founded_era": "明暦元年",
+    "desc": "石川県加賀地方で生まれた上絵付磁器。17世紀半ば、九谷の鉱山で陶石が発見され、加賀藩の職人が有田で磁器技術を習得して帰り開窯した「古九谷」に始まる。赤・緑・紫・紺青・黄の五彩を駆使した力強く豪華な絵付けが特徴で、一度廃窯の後、19世紀に再興して今日に至る。",
+    "desc_en": "Kutani ware is a colorful porcelain originating from the Kaga region of Ishikawa Prefecture. Known for its bold painting using five colors (red, green, purple, dark blue, and yellow), called 'Kutani Gosai.' Founded in 1655 under the order of the Daishoji Domain, it was revived at the end of the Edo period after a period of closure.",
+    "techniques": [
+      "五彩絵付",
+      "青手",
+      "赤絵金彩",
+      "釉裏金彩",
+      "新九谷"
+    ],
+    "materials": [
+      "花坂陶石",
+      "呉須",
+      "上絵具"
+    ],
+    "features": [
+      "赤・緑・紫・紺青・黄の「九谷五彩」による豪華な絵付け",
+      "国内外の展覧会で高い評価を受け続ける伝統と革新",
+      "1枚の器に職人が数週間かけて描く緻密な絵柄"
+    ],
+    "workshops": [
+      {
+        "name": "鏑木商舗",
+        "url": "https://www.kaburaki.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験 3,300円〜（要予約）",
+        "address": "石川県金沢市"
+      },
+      {
+        "name": "上出長右衛門窯",
+        "url": "https://www.uezu.co.jp/",
+        "experience": false,
+        "address": "石川県能美市"
+      }
+    ],
+    "purchase_keywords": "九谷焼 購入",
+    "price_range": "マグカップ 3,000円〜 / 飾り皿 10,000円〜 / 花瓶 50,000円〜",
+    "lat": 36.2812,
+    "lng": 136.4564,
+    "source": "https://kougeihin.jp/craft/0405/",
+    "ogp_image_desc": "九谷焼の色鮮やかな五彩の皿と花瓶"
+  },
+  {
+    "id": "arita_yaki",
+    "name": "有田焼",
+    "name_en": "Arita Ware",
+    "name_fr": "Porcelaine Arita",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 3,
+    "prefecture": "saga",
+    "prefecture_ja": "佐賀県",
+    "area": "有田町・伊万里市・武雄市",
+    "founded": 1616,
+    "founded_era": "元和2年",
+    "desc": "佐賀県有田町を中心に生産される磁器。1616年（元和2年）、朝鮮陶工・李参平が肥前・泉山で磁器の原料となる陶石を発見したことに始まる。日本最初の磁器として知られ、江戸時代にオランダ東インド会社を通じてヨーロッパに輸出された「伊万里焼」は世界中の王侯貴族に珍重された。現在も年間600万点以上が生産され、日本最大の磁器産地。",
+    "desc_en": "Arita ware is porcelain produced centered around Arita Town, Saga Prefecture. Japan's first porcelain, it began in 1616 when Korean potter Yi Sam-pyeong discovered suitable clay in Hizen-Izumiyama. Exported to Europe as 'Imari' through the Dutch East India Company, it was treasured by royalty worldwide. Today over 6 million pieces are produced annually, making it Japan's largest porcelain center.",
+    "techniques": [
+      "染付",
+      "赤絵",
+      "色絵",
+      "金彩",
+      "白磁"
+    ],
+    "materials": [
+      "泉山陶石",
+      "天草陶石",
+      "コバルト顔料"
+    ],
+    "features": [
+      "日本初の磁器産地として400年の歴史",
+      "ヨーロッパ王侯貴族を魅了した「伊万里焼」の伝統",
+      "毎年4月末〜5月初に「有田陶器市」を開催（100万人規模）"
+    ],
+    "workshops": [
+      {
+        "name": "香蘭社",
+        "url": "https://www.koransha.co.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験 2,000円〜",
+        "address": "佐賀県有田町"
+      },
+      {
+        "name": "深川製磁",
+        "url": "https://www.fukagawa-seiji.co.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験 2,500円〜",
+        "address": "佐賀県有田町"
+      }
+    ],
+    "purchase_keywords": "有田焼 購入",
+    "price_range": "湯呑み 1,500円〜 / 皿 2,000円〜 / 花瓶 20,000円〜",
+    "lat": 33.195,
+    "lng": 129.8845,
+    "source": "https://kougeihin.jp/craft/0424/",
+    "ogp_image_desc": "白磁に染付の文様が美しい有田焼の皿"
+  },
+  {
+    "id": "kiyomizu_yaki",
+    "name": "京焼・清水焼",
+    "name_en": "Kyoto Ware / Kiyomizu Ware",
+    "name_fr": "Céramique de Kyoto / Kiyomizu",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 1,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市東山区・山科区",
+    "founded": 1700,
+    "founded_era": "元禄年間",
+    "desc": "平安京の造営とともに本格的な生産が始まった、京都の陶磁器の総称。17世紀に野々村仁清が華やかな色絵磁器の様式を確立し、尾形乾山が独自の意匠で続いた。茶の湯文化と深く結びつき、繊細で上品な美しさが特徴。京都という地に全国の技術が集まり、現在も伝統と革新が交差する陶芸の都として多くの作家・窯元が活動している。",
+    "desc_en": "Kyoto ware / Kiyomizu ware is the collective term for ceramics produced in Kyoto. Nonomura Ninsei established colored porcelain techniques in the Genroku era (1688-1704), followed by Ogata Kenzan's unique designs. Deeply connected to tea ceremony culture, it is characterized by elegant and delicate beauty. Many artists continue to blend tradition and innovation in this ceramics capital.",
+    "techniques": [
+      "色絵",
+      "金彩",
+      "銀彩",
+      "交趾焼",
+      "青磁",
+      "白磁"
+    ],
+    "materials": [
+      "信楽土",
+      "木節粘土",
+      "上絵具"
+    ],
+    "features": [
+      "茶の湯文化と共に磨かれた繊細で上品な美しさ",
+      "野々村仁清・尾形乾山など歴代名工が生んだ豊かな意匠",
+      "清水寺門前に窯元・ギャラリーが集積し観光と工芸が融合"
+    ],
+    "workshops": [
+      {
+        "name": "陶工房清水",
+        "url": "",
+        "experience": true,
+        "experience_desc": "手びねり・絵付け体験 2,500円〜",
+        "address": "京都府京都市東山区"
+      }
+    ],
+    "purchase_keywords": "清水焼 購入 京焼",
+    "price_range": "茶碗 3,000円〜 / 抹茶碗 8,000円〜 / 花器 30,000円〜",
+    "lat": 34.9981,
+    "lng": 135.7787,
+    "source": "https://kougeihin.jp/craft/0414/",
+    "ogp_image_desc": "金彩と色絵で装飾された京焼・清水焼の茶碗"
+  },
+  {
+    "id": "hagi_yaki",
+    "name": "萩焼",
+    "name_en": "Hagi Ware",
+    "name_fr": "Céramique Hagi",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "yamaguchi",
+    "prefecture_ja": "山口県",
+    "area": "萩市・山口市",
+    "founded": 1604,
+    "founded_era": "慶長9年",
+    "desc": "山口県萩市を中心に生産される陶器。1604年（慶長9年）、毛利輝元が朝鮮陶工の李勺光・李敬兄弟を招いたことに始まる。「茶碗は一楽二萩三唐津」と称されるほど茶人に愛され、淡いピンク・クリーム色の素朴な肌と、使い込むほどに変化する「萩の七化け」が最大の魅力。",
+    "desc_en": "Hagi ware is pottery produced around Hagi City in Yamaguchi Prefecture. Starting in 1604 when Mori Terumoto invited Korean potters, it was beloved by tea practitioners—ranked second only to Raku ware among tea bowls. Its muted pink and cream tones and the 'Seven Transformations of Hagi' (gradual changes with use) are its greatest charms.",
+    "techniques": [
+      "手ひねり",
+      "蹴轆轤",
+      "登り窯焼成"
+    ],
+    "materials": [
+      "大道土",
+      "見島土",
+      "長門の土"
+    ],
+    "features": [
+      "「一楽二萩三唐津」と称される茶人憧れの茶碗",
+      "使い込むほどに変化する「萩の七化け」という景色の変化",
+      "素朴で温かみのある土肌と淡い色調"
+    ],
+    "workshops": [
+      {
+        "name": "坂本窯",
+        "url": "",
+        "experience": true,
+        "experience_desc": "手びねり体験 1,500円〜",
+        "address": "山口県萩市"
+      }
+    ],
+    "purchase_keywords": "萩焼 購入 茶碗",
+    "price_range": "茶碗 5,000円〜 / 湯呑み 3,000円〜 / 花入 20,000円〜",
+    "lat": 34.4056,
+    "lng": 131.399,
+    "source": "https://kougeihin.jp/craft/0419/",
+    "ogp_image_desc": "淡いピンク色の土肌が美しい萩焼の茶碗"
+  },
+  {
+    "id": "kasama_yaki",
+    "name": "笠間焼",
+    "name_en": "Kasama Ware",
+    "name_fr": "Poterie Kasama",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 8,
+    "prefecture": "ibaraki",
+    "prefecture_ja": "茨城県",
+    "area": "笠間市",
+    "founded": 1770,
+    "founded_era": "明和年間",
+    "desc": "茨城県笠間市で生産される陶器。江戸時代中期、箱田（現・笠間市）の地元職人が信楽焼の陶工の指導を受けて窯を開いたのが始まりとされる。廃藩まで藩の保護を受けて発展し、関東最大の陶器産地に成長。特定の様式に縛られない自由な表現が持ち味で、現在100人以上の陶芸家が活動し、毎年GWの「陶炎祭（ひまつり）」に20万人以上が訪れる。",
+    "desc_en": "Kasama ware is pottery produced in Kasama City, Ibaraki Prefecture. Dating to the mid-Edo period (1764-1772), it is the largest pottery producing area in the Kanto region. Known as 'Kasama style is individuality,' it features free expression without a fixed style. Over 100 potters work here, and the annual Himatsu Festival attracts over 200,000 visitors.",
+    "techniques": [
+      "電動轆轤",
+      "手びねり",
+      "たたら成形"
+    ],
+    "materials": [
+      "笠間粘土",
+      "笠間の釉薬"
+    ],
+    "features": [
+      "特定の様式にとらわれない自由な創作「個性が笠間スタイル」",
+      "関東最大の陶産地で100名以上の作家が活動",
+      "毎年GW「陶炎祭（ひまつり）」に全国から20万人が来訪"
+    ],
+    "workshops": [
+      {
+        "name": "陶芸の丘",
+        "url": "https://www.kasama-kankou.jp/",
+        "experience": true,
+        "experience_desc": "手びねり・電動ろくろ体験 1,500円〜",
+        "address": "茨城県笠間市"
+      }
+    ],
+    "purchase_keywords": "笠間焼 購入 作家",
+    "price_range": "マグカップ 2,000円〜 / 皿 1,500円〜 / 花瓶 8,000円〜",
+    "lat": 36.3445,
+    "lng": 140.3048,
+    "source": "https://kougeihin.jp/craft/0403/",
+    "ogp_image_desc": "個性豊かな笠間焼の陶器の数々"
+  },
+  {
+    "id": "mashiko_yaki",
+    "name": "益子焼",
+    "name_en": "Mashiko Ware",
+    "name_fr": "Poterie Mashiko",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 9,
+    "prefecture": "tochigi",
+    "prefecture_ja": "栃木県",
+    "area": "益子町",
+    "founded": 1853,
+    "founded_era": "嘉永6年",
+    "desc": "栃木県益子町で生産される陶器。19世紀中頃に笠間焼の影響を受けて始まり、当初は藩の援助のもと日用品を生産して江戸の台所を支えた。大正13年（1924年）に浜田庄司が移り住み、民藝運動を通じて世界的な評価を確立。現在250軒以上の窯元が集まり、年2回の「益子陶器市」には全国から60万人以上が訪れる。",
+    "desc_en": "Mashiko ware is pottery produced in Mashiko Town, Tochigi Prefecture. Started in 1853 by Otsuka Keisaburo after training in Kasama. The Living National Treasure Hamada Shoji established his base here, gaining worldwide fame through the Folk Craft Movement. Today, over 250 kilns and shops line the streets, attracting over 600,000 visitors to its bi-annual pottery markets.",
+    "techniques": [
+      "登り窯",
+      "電動轆轤",
+      "手びねり",
+      "釉薬技法"
+    ],
+    "materials": [
+      "益子粘土",
+      "釉薬"
+    ],
+    "features": [
+      "人間国宝・濱田庄司が世界に発信した民藝の聖地",
+      "年2回の益子陶器市に60万人以上が来訪する日本最大規模の陶器市",
+      "250軒以上の窯元・ギャラリーが集積する陶の町"
+    ],
+    "workshops": [
+      {
+        "name": "つかもと工房",
+        "url": "https://www.tsukamoto-jyoki.com/",
+        "experience": true,
+        "experience_desc": "手びねり・絵付け体験 1,200円〜",
+        "address": "栃木県益子町"
+      }
+    ],
+    "purchase_keywords": "益子焼 購入 陶器市",
+    "price_range": "マグカップ 1,500円〜 / 鉢 3,000円〜 / 作家物 10,000円〜",
+    "lat": 36.472,
+    "lng": 140.1003,
+    "source": "https://kougeihin.jp/craft/0404/",
+    "ogp_image_desc": "益子焼の素朴で温かみのある陶器の器"
+  },
+  {
+    "id": "mino_yaki",
+    "name": "美濃焼",
+    "name_en": "Mino Ware",
+    "name_fr": "Céramique Mino",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 21,
+    "prefecture": "gifu",
+    "prefecture_ja": "岐阜県",
+    "area": "多治見市・土岐市・瑞浪市・笠原町",
+    "founded": 1300,
+    "founded_era": "鎌倉末期",
+    "desc": "岐阜県東濃地方で生産される陶磁器の総称。今から1,300年以上前、朝鮮半島の須恵器技術が伝わったことに始まり、平安時代には灰釉陶器が焼かれるようになった。安土桃山時代に黄瀬戸・志野・織部など茶陶の名品を生み出し、現在は国内食器シェアの約50%を占める日本最大の陶磁器産地として国内外で使用される。",
+    "desc_en": "Mino ware is a collective term for ceramics produced in the Tono region of Gifu Prefecture. Production began in the late Kamakura period, producing masterpieces of tea ceramics such as Ki-Seto, Seto-guro, Shino, and Oribe. Today it holds approximately 50% of domestic tableware market share—Japan's largest ceramic production area with annual shipments exceeding 180 billion yen.",
+    "techniques": [
+      "黄瀬戸",
+      "志野",
+      "織部",
+      "瀬戸黒",
+      "量産成形"
+    ],
+    "materials": [
+      "木節粘土",
+      "蛙目粘土",
+      "美濃の釉薬"
+    ],
+    "features": [
+      "国内食器シェア約50%を誇る日本最大の陶磁器産地",
+      "黄瀬戸・志野・織部など茶の湯の名品を生んだ歴史",
+      "岐阜県陶磁器工業組合加盟1,500社超の産地規模"
+    ],
+    "workshops": [
+      {
+        "name": "多治見市美濃焼ミュージアム",
+        "url": "https://www.tajimi-bunka.or.jp/minoyaki_museum/",
+        "experience": true,
+        "experience_desc": "ろくろ・手びねり体験 1,100円〜",
+        "address": "岐阜県多治見市"
+      }
+    ],
+    "purchase_keywords": "美濃焼 購入 食器",
+    "price_range": "皿 500円〜 / 茶碗 1,000円〜 / 作家物 20,000円〜",
+    "lat": 35.3228,
+    "lng": 137.1306,
+    "source": "https://kougeihin.jp/craft/0406/",
+    "ogp_image_desc": "美濃焼の志野焼茶碗と織部焼の皿"
+  },
+  {
+    "id": "shigaraki_yaki",
+    "name": "信楽焼",
+    "name_en": "Shigaraki Ware",
+    "name_fr": "Céramique Shigaraki",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 25,
+    "prefecture": "shiga",
+    "prefecture_ja": "滋賀県",
+    "area": "甲賀市信楽町",
+    "founded": 742,
+    "founded_era": "天平14年",
+    "desc": "滋賀県甲賀市信楽町で生産される陶器。742年（天平14年）、聖武天皇の紫香楽宮造営の際に瓦を作ったことが起源とされる日本最古の陶産地の一つ。粗めの土質に自然釉がかかった「焦げ」「灰かぶり」など窯の炎が生み出す偶然の景色が魅力。狸の置物でも世界的に知られる。2013年には「信楽焼」として国の伝統的工芸品に指定。",
+    "desc_en": "Shigaraki ware is pottery from Shigaraki-cho, Koka City, Shiga Prefecture—one of Japan's oldest pottery-producing areas, with origins traced to 742 CE. The beauty of natural ash glaze, scorching, and ash fall created by kiln flames is its hallmark. Also world-famous for tanuki (raccoon dog) figurines. Designated a national traditional craft in 2013.",
+    "techniques": [
+      "登り窯",
+      "穴窯",
+      "手ひねり",
+      "電動轆轤"
+    ],
+    "materials": [
+      "信楽粘土",
+      "自然灰釉"
+    ],
+    "features": [
+      "1,300年の歴史を持つ日本六古窯の一つ",
+      "自然釉が生み出す偶然の景色「焦げ」「灰かぶり」の魅力",
+      "世界中で親しまれる信楽狸の発祥の地"
+    ],
+    "workshops": [
+      {
+        "name": "陶芸の森",
+        "url": "https://www.togeinomori.com/",
+        "experience": true,
+        "experience_desc": "手ひねり・電動ろくろ体験 1,760円〜",
+        "address": "滋賀県甲賀市信楽町"
+      }
+    ],
+    "purchase_keywords": "信楽焼 購入 狸 花瓶",
+    "price_range": "小物 2,000円〜 / 花瓶 5,000円〜 / 狸置物 5,000円〜",
+    "lat": 34.8647,
+    "lng": 136.181,
+    "source": "https://kougeihin.jp/craft/0413/",
+    "ogp_image_desc": "自然釉の景色が美しい信楽焼の壺と花器"
+  },
+  {
+    "id": "bizen_yaki",
+    "name": "備前焼",
+    "name_en": "Bizen Ware",
+    "name_fr": "Céramique Bizen",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 33,
+    "prefecture": "okayama",
+    "prefecture_ja": "岡山県",
+    "area": "備前市伊部",
+    "founded": 1100,
+    "founded_era": "平安末期",
+    "desc": "岡山県備前市伊部（いんべ）地区を中心に生産される陶器。平安末期から続く日本六古窯の一つで、釉薬を使わず1,200〜1,300度の高温で2週間以上焼成する「焼き締め」が特徴。炎と灰が描く「緋襷（ひだすき）」「牡丹餅（ぼたもち）」「胡麻（ごま）」など一期一会の景色が生まれる。使うほどに育つ器として茶人・美食家に愛される。",
+    "desc_en": "Bizen ware is pottery produced in the Inbe district of Bizen City, Okayama Prefecture—one of Japan's Six Ancient Kilns dating to the late Heian period. Fired without glaze at 1,200-1,300°C for over two weeks, unique patterns called 'Hidasuki,' 'Botamochi,' and 'Goma' are created by fire and ash. Beloved by tea practitioners and gourmets for maturing with use.",
+    "techniques": [
+      "焼き締め",
+      "穴窯",
+      "登り窯"
+    ],
+    "materials": [
+      "備前の土（ひよせ）",
+      "松薪"
+    ],
+    "features": [
+      "釉薬不使用・2週間以上の焼成で生まれる一期一会の景色",
+      "千利休も愛した茶陶として「茶碗は一楽二萩三唐津」に並ぶ格式",
+      "使い込むほど育つ「器の成長」が茶人・料理人に愛される理由"
+    ],
+    "workshops": [
+      {
+        "name": "備前焼伝統産業会館",
+        "url": "https://bizen-yaki.or.jp/",
+        "experience": true,
+        "experience_desc": "手びねり体験 1,500円〜",
+        "address": "岡山県備前市伊部"
+      }
+    ],
+    "purchase_keywords": "備前焼 購入 茶碗 徳利",
+    "price_range": "ぐい吞み 3,000円〜 / 茶碗 8,000円〜 / 壺 50,000円〜",
+    "lat": 34.7451,
+    "lng": 134.1841,
+    "source": "https://kougeihin.jp/craft/0418/",
+    "ogp_image_desc": "焼き締めの温かみある備前焼の茶碗と壺"
+  },
+  {
+    "id": "tokoname_yaki",
+    "name": "常滑焼",
+    "name_en": "Tokoname Ware",
+    "name_fr": "Céramique Tokoname",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "常滑市",
+    "founded": 1100,
+    "founded_era": "平安末期",
+    "desc": "愛知県常滑市で生産される陶器。平安末期から続く日本六古窯の一つとして最大規模を誇り、江戸時代には急須・土管・植木鉢などを全国に供給した。現在は急須の生産量日本一を誇り、中国・宜興の紫砂壺に並ぶ「朱泥」急須が有名。市内には「やきもの散歩道」が整備され観光地としても人気。",
+    "desc_en": "Tokoname ware is pottery produced in Tokoname City, Aichi Prefecture—the largest of Japan's Six Ancient Kilns dating to the late Heian period. Famous for teapots, especially the 'Shudei' (red clay) teapot comparable to Chinese Yixing ware. The city features a 'Pottery Walking Path' popular with tourists.",
+    "techniques": [
+      "急須成形",
+      "朱泥焼成",
+      "陶管成形"
+    ],
+    "materials": [
+      "朱泥（酸化鉄含有粘土）",
+      "常滑の粘土"
+    ],
+    "features": [
+      "日本最大の六古窯産地・急須生産量日本一",
+      "中国・宜興の紫砂壺に並ぶ「朱泥」急須の名産地",
+      "陶管・建築資材から工芸品まで多様な製品を生産"
+    ],
+    "workshops": [
+      {
+        "name": "とこなめ陶の森",
+        "url": "https://www.tokoname-tonomori.com/",
+        "experience": true,
+        "experience_desc": "急須作り・手びねり体験 1,500円〜",
+        "address": "愛知県常滑市"
+      }
+    ],
+    "purchase_keywords": "常滑焼 急須 購入 朱泥",
+    "price_range": "急須 3,000円〜 / 急須（作家物）20,000円〜 / 植木鉢 2,000円〜",
+    "lat": 34.8892,
+    "lng": 136.838,
+    "source": "https://kougeihin.jp/craft/0407/",
+    "ogp_image_desc": "朱泥の美しい常滑焼の急須"
+  },
+  {
+    "id": "karatsu_yaki",
+    "name": "唐津焼",
+    "name_en": "Karatsu Ware",
+    "name_fr": "Céramique Karatsu",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 41,
+    "prefecture": "saga",
+    "prefecture_ja": "佐賀県",
+    "area": "唐津市・伊万里市",
+    "founded": 1500,
+    "founded_era": "室町末期",
+    "desc": "佐賀県・長崎県の一部で生産される陶器。16世紀頃から朝鮮半島から渡来した陶工の技術を元に発展し、「一楽二萩三唐津」と称される茶陶の名産地として名高い。素朴な風合いと土味を生かした絵唐津・朝鮮唐津・斑唐津など多様なスタイルが生まれ、千利休や古田織部ら茶人に深く愛された。現在も多くの窯元が伝統の技を守り続けている。",
+    "desc_en": "Karatsu ware is pottery produced in parts of Saga and Nagasaki Prefectures. Developed from around the 16th century using techniques brought by Korean potters, it is renowned as a top tea ceramics production area—ranked third in the saying 'First Raku, Second Hagi, Third Karatsu.' Various styles including E-Karatsu (painted), Chosen-Karatsu, and Madara-Karatsu were deeply beloved by tea masters such as Sen no Rikyu.",
+    "techniques": [
+      "蹴轆轤",
+      "登り窯",
+      "絵唐津",
+      "朝鮮唐津",
+      "斑唐津"
+    ],
+    "materials": [
+      "地元粘土",
+      "鬼板（てつえ）",
+      "藁灰釉"
+    ],
+    "features": [
+      "「一楽二萩三唐津」と称される茶陶の最高峰",
+      "朝鮮半島の影響を受けた素朴で力強い土の表情",
+      "絵唐津・斑唐津など多様なスタイルによる豊かな表現"
+    ],
+    "workshops": [
+      {
+        "name": "唐津市近代図書館・陶芸体験施設（産地にご確認ください）",
+        "url": "https://karatsu-touri.com/",
+        "experience": true,
+        "experience_desc": "手びねり体験（産地にご確認ください）",
+        "address": "佐賀県唐津市"
+      }
+    ],
+    "purchase_keywords": "唐津焼 購入 茶碗 徳利",
+    "price_range": "ぐい吞み 5,000円〜 / 茶碗 15,000円〜 / 徳利 20,000円〜",
+    "lat": 33.45,
+    "lng": 129.969,
+    "source": "https://kougeihin.jp/craft/0425/",
+    "ogp_image_desc": "素朴な土の表情が美しい唐津焼の茶碗"
+  },
+  {
+    "id": "tobe_yaki",
+    "name": "砥部焼",
+    "name_en": "Tobe Ware",
+    "name_fr": "Céramique Tobe",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 38,
+    "prefecture": "ehime",
+    "prefecture_ja": "愛媛県",
+    "area": "砥部町",
+    "founded": 1777,
+    "founded_era": "安永6年",
+    "desc": "愛媛県砥部町で生産される磁器。江戸時代中期に藩主が地元の陶石を原料に磁器生産を計画し、肥前から陶工を招いて始めたのが起源。白磁の器に呉須（コバルト）で手描きする染付文様が特徴で、厚手で丈夫な日常の器として親しまれてきた。戦後は柳宗悦らの指導で手作り・手描きを重視する産地へと発展し、温かみある文様は現代の食卓でも高い人気を誇る。",
+    "desc_en": "Tobe ware is porcelain produced in Tobe Town, Ehime Prefecture. Production began around 1777 using whetstone waste as raw material, encouraged by the domain. Characterized by hand-painted染付 (sometsuke) patterns in cobalt blue on white porcelain, it is beloved as thick, durable everyday tableware. Its simple, warm patterns are highly popular as modern tableware.",
+    "techniques": [
+      "手描き染付",
+      "呉須絵付け",
+      "厚手成形"
+    ],
+    "materials": [
+      "砥部の磁器土",
+      "呉須（コバルト顔料）"
+    ],
+    "features": [
+      "白磁に呉須の手描き文様が映える清潔感あふれる美しさ",
+      "厚手で丈夫な実用性と素朴なぬくもりを兼ね備えた器",
+      "現代の食卓にも馴染む柔らかな絵付けスタイル"
+    ],
+    "workshops": [
+      {
+        "name": "砥部焼観光センター 炎の里",
+        "url": "https://www.tobeyaki.com/",
+        "experience": true,
+        "experience_desc": "絵付け体験 1,000円〜（要予約）",
+        "address": "愛媛県砥部町"
+      }
+    ],
+    "purchase_keywords": "砥部焼 購入 食器",
+    "price_range": "湯呑み 1,500円〜 / 皿 2,000円〜 / 大皿 8,000円〜",
+    "lat": 33.7488,
+    "lng": 132.7934,
+    "source": "https://kougeihin.jp/craft/0421/",
+    "ogp_image_desc": "白磁に呉須の手描き文様が美しい砥部焼の器"
+  },
+  {
+    "id": "iga_yaki",
+    "name": "伊賀焼",
+    "name_en": "Iga Ware",
+    "name_fr": "Céramique Iga",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 24,
+    "prefecture": "mie",
+    "prefecture_ja": "三重県",
+    "area": "伊賀市",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "三重県伊賀市で生産される陶器。7世紀後半から8世紀頃に須恵器の生産が始まり、飛鳥時代には寺院の瓦も焼かれていたとされる長い歴史を持つ。安土桃山時代に伊賀上野の藩主が茶陶として全国に広め、江戸時代には小堀遠州の指導で「遠州伊賀」と呼ばれる薄手の作風も生まれた。現在は茶陶と土鍋の産地として知られる。",
+    "desc_en": "Iga ware is pottery produced in Iga City, Mie Prefecture, with origins in the Nara period. Its coarse clay and long firing process create a 'wabi-sabi' beauty beloved by tea practitioners. Currently known as both a tea ceramics and clay pot production area, practical cookware using the heat-resistant properties of Iga clay is also widely produced.",
+    "techniques": [
+      "登り窯焼成",
+      "焼き締め",
+      "自然釉"
+    ],
+    "materials": [
+      "伊賀の粘土（古琵琶湖層）",
+      "自然灰釉"
+    ],
+    "features": [
+      "奈良時代から続く長い歴史と「わびさび」の茶陶美",
+      "古琵琶湖層の粘土が持つ高い耐熱性から生まれる土鍋の名産地",
+      "炎と自然釉が生み出す景色の偶然性"
+    ],
+    "workshops": [
+      {
+        "name": "伊賀焼陶芸体験（産地にご確認ください）",
+        "url": "https://igayaki.or.jp/",
+        "experience": true,
+        "experience_desc": "手びねり体験（産地にご確認ください）",
+        "address": "三重県伊賀市"
+      }
+    ],
+    "purchase_keywords": "伊賀焼 土鍋 購入 茶碗",
+    "price_range": "土鍋 5,000円〜 / 茶碗 8,000円〜 / 花入 20,000円〜",
+    "lat": 34.7674,
+    "lng": 136.1311,
+    "source": "https://kougeihin.jp/craft/0411/",
+    "ogp_image_desc": "自然釉の景色が美しい伊賀焼の壺と茶碗"
+  },
+  {
+    "id": "tamba_tachikui",
+    "name": "丹波立杭焼",
+    "name_en": "Tamba Tachikui Ware",
+    "name_fr": "Céramique Tamba Tachikui",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "hyogo",
+    "prefecture_ja": "兵庫県",
+    "area": "丹波篠山市今田町立杭",
+    "founded": 1100,
+    "founded_era": "平安末期",
+    "desc": "兵庫県丹波篠山市今田町立杭を中心に生産される陶器。平安末期から続く日本六古窯の一つで、「丹波焼」とも称される。自然釉の景色と歪んだフォルムを生かした素朴な美が特徴。現在も約60軒の窯元が集積し、立杭地区は「丹波焼の里」として多くの陶芸ファンが訪れる。",
+    "desc_en": "Tamba Tachikui ware is pottery produced in Imada-cho Tachikui, Tanba-Sasayama City, Hyogo Prefecture—one of Japan's Six Ancient Kilns dating to the late Heian period. Also known as 'Tamba ware,' it features natural ash glaze and simple, rustic beauty in organic forms. About 60 kilns remain in the Tachikui district, which is visited by many pottery fans as the 'Village of Tamba Ware.'",
+    "techniques": [
+      "登り窯",
+      "蹴轆轤",
+      "自然釉"
+    ],
+    "materials": [
+      "丹波の粘土",
+      "自然灰釉"
+    ],
+    "features": [
+      "日本六古窯の一つ・平安末期から続く長大な歴史",
+      "自然釉の景色と素朴な土の表情が醸す「用の美」",
+      "約60軒の窯元が集積する丹波焼の里"
+    ],
+    "workshops": [
+      {
+        "name": "立杭陶の郷",
+        "url": "https://tokinosato.com/",
+        "experience": true,
+        "experience_desc": "手びねり・電動ろくろ体験 1,500円〜",
+        "address": "兵庫県丹波篠山市今田町"
+      }
+    ],
+    "purchase_keywords": "丹波焼 購入 茶碗 壺",
+    "price_range": "湯呑み 2,000円〜 / 茶碗 5,000円〜 / 壺 30,000円〜",
+    "lat": 35.05,
+    "lng": 135.2,
+    "source": "https://kougeihin.jp/craft/0415/",
+    "ogp_image_desc": "自然釉の景色が豊かな丹波立杭焼の壺と器"
+  },
+  {
+    "id": "satsuma_yaki",
+    "name": "薩摩焼",
+    "name_en": "Satsuma Ware",
+    "name_fr": "Céramique Satsuma",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 46,
+    "prefecture": "kagoshima",
+    "prefecture_ja": "鹿児島県",
+    "area": "薩摩川内市・日置市など",
+    "founded": 1600,
+    "founded_era": "慶長年間",
+    "desc": "鹿児島県で生産される陶磁器。文禄・慶長の役で島津氏が連れ帰った朝鮮陶工たちによって始まり、400年以上の歴史を持つ。堅野系・龍門司系・苗代川系という異なる作風が生まれ、白薩摩（金彩色絵の豪華な磁器）と黒薩摩（鉄釉の素朴な陶器）が並立する。1867年のパリ万博でヨーロッパを席巻し、「Satsuma ware」として世界的な評価を確立した。",
+    "desc_en": "Satsuma ware is ceramics produced in Kagoshima Prefecture. Said to have begun around 1600 when Korean potters brought back by Shimazu Yoshihiro during the Korean campaigns. There are two lineages: Shiro-Satsuma (white porcelain with gold painting and colored decoration) and Kuro-Satsuma (iron-rich black and amber earthenware). White Satsuma was exported to Europe and America in the Meiji era, gaining worldwide recognition as 'Satsuma ware.'",
+    "techniques": [
+      "金彩色絵（白薩摩）",
+      "鉄釉（黒薩摩）",
+      "象嵌"
+    ],
+    "materials": [
+      "白磁土（白薩摩）",
+      "鉄分含有粘土（黒薩摩）"
+    ],
+    "features": [
+      "白薩摩・黒薩摩の二系統という独自の発展",
+      "明治期に「Satsuma ware」として欧米を席巻した国際的評価",
+      "金彩と色絵が輝く白薩摩の豪華な美しさ"
+    ],
+    "workshops": [
+      {
+        "name": "沈壽官窯（産地にご確認ください）",
+        "url": "https://www.chin-jukan.co.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験（産地にご確認ください）",
+        "address": "鹿児島県日置市"
+      }
+    ],
+    "purchase_keywords": "薩摩焼 購入 白薩摩 黒薩摩",
+    "price_range": "湯呑み 3,000円〜 / 花瓶 20,000円〜 / 特選品 100,000円〜",
+    "lat": 31.606,
+    "lng": 130.371,
+    "source": "https://kougeihin.jp/craft/0430/",
+    "ogp_image_desc": "金彩と色絵が輝く白薩摩の花瓶と黒薩摩の壺"
+  },
+  {
+    "id": "tsuboya_yaki",
+    "name": "壺屋焼",
+    "name_en": "Tsuboya Ware",
+    "name_fr": "Céramique Tsuboya",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 47,
+    "prefecture": "okinawa",
+    "prefecture_ja": "沖縄県",
+    "area": "那覇市壺屋",
+    "founded": 1682,
+    "founded_era": "尚貞王17年",
+    "desc": "沖縄県那覇市壺屋地区で生産される陶器。17世紀後半に琉球王府が知花窯・宝口窯・湧田窯など各地の窯を現在の壺屋に統合して誕生した。釉薬を使わない「荒焼（あらやち）」と釉薬をかけた「上焼（じょうやち）」の二種類があり、シーサーや抱瓶など沖縄独自の工芸品が有名。那覇の「やちむん通り」は工芸ファンが集う観光スポット。",
+    "desc_en": "Tsuboya ware is pottery produced in the Tsuboya district of Naha City, Okinawa. Established in 1682 when King Sho Tei of the Ryukyu Kingdom consolidated kilns from around the area. There are two types: 'Arayachi' (unglazed) and 'Joyachi' (glazed). Famous for Shisa lion-dogs and Dachijin (flat flasks), the 'Yachimun Street' in Naha is a tourist spot for craft enthusiasts.",
+    "techniques": [
+      "荒焼（釉薬なし）",
+      "上焼（釉薬あり）",
+      "手びねり"
+    ],
+    "materials": [
+      "沖縄の赤土",
+      "植物灰釉"
+    ],
+    "features": [
+      "琉球王国1682年統合による沖縄陶芸の中心地",
+      "シーサー・抱瓶など沖縄固有の造形文化",
+      "那覇「やちむん通り」は現在も多くの窯元・ギャラリーが集積"
+    ],
+    "workshops": [
+      {
+        "name": "壺屋やちむん通り各工房（産地にご確認ください）",
+        "url": "https://tsuboya.net/",
+        "experience": true,
+        "experience_desc": "手びねり体験（産地にご確認ください）",
+        "address": "沖縄県那覇市壺屋"
+      }
+    ],
+    "purchase_keywords": "壺屋焼 シーサー 購入 やちむん",
+    "price_range": "小シーサー 2,000円〜 / 茶碗 3,000円〜 / 大型シーサー 30,000円〜",
+    "lat": 26.2157,
+    "lng": 127.6915,
+    "source": "https://kougeihin.jp/craft/0431/",
+    "ogp_image_desc": "鮮やかな釉薬と沖縄独自の文様が美しい壺屋焼のシーサーと器"
+  },
+  {
+    "id": "aizu_hongoyaki",
+    "name": "会津本郷焼",
+    "name_en": "Aizu Hongo Ware",
+    "name_fr": "Céramique Aizu Hongo",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 7,
+    "prefecture": "fukushima",
+    "prefecture_ja": "福島県",
+    "area": "大沼郡会津美里町本郷",
+    "founded": 1592,
+    "founded_era": "文禄元年頃",
+    "desc": "福島県会津美里町本郷で生産される陶磁器。会津若松（黒川城）の屋根瓦を焼いたことに始まり、江戸時代初期には会津藩の御用窯として栄えた後、一般の暮らしの器の生産も広がった。東北でも有数の陶産地として知られ、陶器・磁器の両方を生産し、白磁・染付から鉄釉陶器まで多彩なラインアップを持つ。",
+    "desc_en": "Aizu Hongo ware is ceramics produced in Hongo district, Aizumisato Town, Fukushima Prefecture. Said to have started around 1592 when potters invited by Gamo Ujisato began production—one of the oldest pottery areas in Tohoku. Both porcelain and earthenware are produced, ranging from white porcelain and sometsuke to iron-glazed ceramics.",
+    "techniques": [
+      "染付",
+      "白磁",
+      "鉄釉"
+    ],
+    "materials": [
+      "地元粘土",
+      "磁器土",
+      "呉須"
+    ],
+    "features": [
+      "東北最古の陶産地の一つ・約430年の歴史",
+      "陶器・磁器の両方を生産する多彩な産地",
+      "日用品から工芸品まで幅広いラインアップ"
+    ],
+    "workshops": [
+      {
+        "name": "本郷焼産地（産地にご確認ください）",
+        "url": "https://www.aizu-hongo.jp/",
+        "experience": true,
+        "experience_desc": "陶芸体験（産地にご確認ください）",
+        "address": "福島県会津美里町本郷"
+      }
+    ],
+    "purchase_keywords": "会津本郷焼 購入 食器 磁器",
+    "price_range": "湯呑み 1,500円〜 / 皿 2,000円〜 / 花瓶 8,000円〜",
+    "lat": 37.45,
+    "lng": 139.82,
+    "source": "https://kougeihin.jp/craft/0402/",
+    "ogp_image_desc": "会津本郷焼の白磁染付の器と鉄釉の茶碗"
+  },
+  {
+    "id": "agano_yaki",
+    "name": "上野焼",
+    "name_en": "Agano Ware",
+    "name_fr": "Céramique Agano",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 40,
+    "prefecture": "fukuoka",
+    "prefecture_ja": "福岡県",
+    "area": "田川郡福智町上野",
+    "founded": 1601,
+    "founded_era": "慶長6年",
+    "desc": "福岡県田川郡福智町上野地区で生産される陶器。1602年（慶長7年）、千利休から茶道の奥義を学んだ細川忠興が小倉藩主となった際、朝鮮陶工を招いて開窯したのが始まり。忠興の美意識を体現した格調高い茶陶の産地として発展し、後に遠州七窯の一つにも数えられた。上品な色彩と柔らかな土味が特徴。",
+    "desc_en": "Agano ware is pottery produced in Agano district, Fukuchi Town, Tagawa-gun, Fukuoka Prefecture. Said to have been established in 1601 when Hosokawa Tadaoki invited a Korean potter to open a kiln—it developed as the Hosokawa clan's official kiln. Focused on tea ceramics, it is characterized by elegant colors and a soft clay texture.",
+    "techniques": [
+      "蹴轆轤",
+      "釉薬技法",
+      "登り窯"
+    ],
+    "materials": [
+      "上野の粘土",
+      "各種釉薬"
+    ],
+    "features": [
+      "細川家の御用窯として栄えた格式ある茶陶の産地",
+      "朝鮮陶工の技術を受け継ぐ上品で柔らかな土の表情",
+      "九州の茶陶産地として有田焼と並ぶ格式"
+    ],
+    "workshops": [
+      {
+        "name": "上野焼窯元（産地にご確認ください）",
+        "url": "https://agano.jp/",
+        "experience": true,
+        "experience_desc": "陶芸体験（産地にご確認ください）",
+        "address": "福岡県福智町上野"
+      }
+    ],
+    "purchase_keywords": "上野焼 購入 茶碗 茶陶",
+    "price_range": "茶碗 10,000円〜 / 茶入 30,000円〜 / 花入 20,000円〜",
+    "lat": 33.72,
+    "lng": 130.78,
+    "source": "https://kougeihin.jp/craft/0423/",
+    "ogp_image_desc": "上品な色彩と土味が美しい上野焼の茶碗"
+  },
+  {
+    "id": "onta_yaki",
+    "name": "小鹿田焼",
+    "name_en": "Onta Ware",
+    "name_fr": "Céramique Onta",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 44,
+    "prefecture": "oita",
+    "prefecture_ja": "大分県",
+    "area": "日田市源栄町皿山",
+    "founded": 1705,
+    "founded_era": "宝永2年頃",
+    "desc": "大分県日田市源栄町皿山地区で生産される陶器。1705年頃、小石原焼の陶工・柳瀬三右衛門を招いて開窯したとされる。飛び鉋（とびかんな）・刷毛目・打ち刷毛目など独特の装飾技法と、藁灰釉の素朴な美しさが世界的に評価されている。民藝運動の柳宗悦・バーナード・リーチも絶賛した日本民窯の代表例。10軒の窯元のみが生産を担い、分業せず一家で全工程を行う伝統を守っている。",
+    "desc_en": "Onta ware is pottery produced in Sarayama district, Hita City, Oita Prefecture. Established around 1705 when potter Yanase Mitsaemon from Koishiwara ware was invited to open a kiln. Its unique decorative techniques (tobikanna, hakeme, etc.) and rustic beauty with straw ash glaze are internationally recognized. Praised by Yanagi Soetsu and Bernard Leach of the Folk Craft Movement, only 10 kilns produce it, with each family handling the entire process without division of labor.",
+    "techniques": [
+      "飛び鉋（とびかんな）",
+      "刷毛目",
+      "打ち刷毛目",
+      "流し掛け"
+    ],
+    "materials": [
+      "地元粘土",
+      "藁灰釉",
+      "鉄釉"
+    ],
+    "features": [
+      "民藝の聖地・柳宗悦とバーナード・リーチが絶賛した日本の民窯",
+      "飛び鉋・刷毛目など独自の装飾技法による素朴な美",
+      "10軒のみの窯元が家族で全工程を担う希少な伝統"
+    ],
+    "workshops": [
+      {
+        "name": "小鹿田焼の里（見学のみ・販売あり）",
+        "url": "https://onta.jp/",
+        "experience": false,
+        "address": "大分県日田市源栄町皿山"
+      }
+    ],
+    "purchase_keywords": "小鹿田焼 購入 民藝 大分",
+    "price_range": "小皿 1,500円〜 / 茶碗 3,000円〜 / 大鉢 15,000円〜",
+    "lat": 33.296,
+    "lng": 130.982,
+    "source": "https://kougeihin.jp/craft/4401/",
+    "ogp_image_desc": "飛び鉋の装飾が美しい小鹿田焼の器"
+  },
+  {
+    "id": "ohori_soma",
+    "name": "大堀相馬焼",
+    "name_en": "Ohori Soma Ware",
+    "name_fr": "Céramique Ohori Soma",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 7,
+    "prefecture": "fukushima",
+    "prefecture_ja": "福島県",
+    "area": "双葉郡浪江町大堀",
+    "founded": 1690,
+    "founded_era": "元禄年間",
+    "desc": "福島県双葉郡浪江町大堀地区が発祥の陶器。1690年頃、相馬藩の奨励によって始まったとされる。「二重焼」と呼ばれる二重構造の器・駿馬（走り駒）の絵付け・「青ひび」と呼ばれるひび割れ模様（貫入）が三大特徴。2011年の東日本大震災・原発事故による避難で産地が一時消滅の危機に瀕したが、現在は避難先などで復興活動が続けられている。",
+    "desc_en": "Ohori Soma ware originated in Ohori district, Namie Town, Futaba-gun, Fukushima Prefecture. Said to have started around 1690 with encouragement from the Soma domain. Its three defining features are: 'Niijuyaki' (double-walled structure), horse paintings (hashiri-koma), and 'Ao-hibi' (blue crackle glaze). After the 2011 Great East Japan Earthquake and nuclear accident forced evacuation, the production area faced near-extinction, but revival efforts continue at relocation sites.",
+    "techniques": [
+      "二重焼（二重構造）",
+      "駒絵付け",
+      "青ひびの釉薬"
+    ],
+    "materials": [
+      "地元粘土",
+      "青釉"
+    ],
+    "features": [
+      "二重焼・走り駒・青ひびの三大特徴を持つ独自スタイル",
+      "震災・原発事故から復興を続ける産地の強さと職人の意地",
+      "相馬藩公認330年の歴史を持つ福島の伝統陶器"
+    ],
+    "workshops": [
+      {
+        "name": "大堀相馬焼協同組合（産地にご確認ください）",
+        "url": "https://oomori-soma.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験（産地にご確認ください）",
+        "address": "避難先・産地にご確認ください"
+      }
+    ],
+    "purchase_keywords": "大堀相馬焼 購入 相馬焼 福島",
+    "price_range": "湯呑み 2,000円〜 / 二重焼コーヒーカップ 5,000円〜 / 大皿 15,000円〜",
+    "lat": 37.5,
+    "lng": 140.99,
+    "source": "https://kougeihin.jp/craft/0401/",
+    "ogp_image_desc": "青ひびと走り駒の絵が美しい大堀相馬焼の二重焼湯呑み"
+  },
+  {
+    "id": "seto_yaki",
+    "name": "瀬戸焼",
+    "name_en": "Seto Ware",
+    "name_fr": "Céramique Seto",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "瀬戸市",
+    "founded": 1100,
+    "founded_era": "平安末期",
+    "desc": "愛知県瀬戸市で生産される陶磁器。平安末期から続く日本六古窯の一つで、江戸時代に磁器の技術を取り入れ「染付磁器」の生産を始めた。「瀬戸物」という言葉が陶磁器全般の代名詞となるほど普及した歴史を持つ。現在も日本有数の陶磁器産地として、窯業従事者数・出荷額ともに全国上位を誇る。",
+    "desc_en": "Seto ware is ceramics produced in Seto City, Aichi Prefecture—one of Japan's Six Ancient Kilns dating to the late Heian period. By incorporating porcelain techniques in the Edo period and producing染付磁器 (sometsuke porcelain), it became so widespread that 'setomono' became a generic word for ceramics. It remains one of Japan's leading ceramic production areas.",
+    "techniques": [
+      "染付",
+      "釉薬技法",
+      "磁器製造",
+      "陶器製造"
+    ],
+    "materials": [
+      "瀬戸の磁器土・陶器土",
+      "呉須"
+    ],
+    "features": [
+      "「瀬戸物」という言葉の語源となった日本陶磁器の代名詞",
+      "日本六古窯の一つ・平安末期から続く1,000年の歴史",
+      "現在も日本有数の陶磁器産地として産業規模を誇る"
+    ],
+    "workshops": [
+      {
+        "name": "瀬戸蔵ミュージアム",
+        "url": "https://www.city.seto.aichi.jp/docs/2014030600044/",
+        "experience": true,
+        "experience_desc": "手びねり・絵付け体験 1,500円〜",
+        "address": "愛知県瀬戸市"
+      }
+    ],
+    "purchase_keywords": "瀬戸焼 購入 食器 陶磁器",
+    "price_range": "茶碗 1,000円〜 / 皿 1,500円〜 / 作家物 10,000円〜",
+    "lat": 35.2293,
+    "lng": 137.0846,
+    "source": "https://kougeihin.jp/craft/2302/",
+    "ogp_image_desc": "瀬戸焼の染付磁器と釉薬陶器の器"
+  },
+  {
+    "id": "shodai_yaki",
+    "name": "小代焼",
+    "name_en": "Shodai Ware",
+    "name_fr": "Céramique Shodai",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 43,
+    "prefecture": "kumamoto",
+    "prefecture_ja": "熊本県",
+    "area": "荒尾市・玉名市",
+    "founded": 1632,
+    "founded_era": "寛永9年頃",
+    "desc": "熊本県荒尾市・玉名市を中心に生産される陶器。寛永9年（1632年）、細川忠利が豊前から肥後へ国替えとなった際に随行した陶工・源七と八左衛門が焼物師を命じられ始まったとされる。藁灰釉が流れるような「流し掛け」の文様と素朴な土味が特徴で、民藝の「用の美」の精神に合致した作風が茶人・民藝ファンに愛されてきた。",
+    "desc_en": "Shodai ware is pottery produced mainly in Arao City and Tamana City, Kumamoto Prefecture. Said to have started around 1632 with encouragement from the Higo Hosokawa clan. Characterized by flowing 'nagashikake' patterns of straw ash glaze and rustic clay textures, its style aligned with the folk craft spirit of 'beauty in use' has been beloved by tea practitioners and mingei enthusiasts.",
+    "techniques": [
+      "流し掛け",
+      "藁灰釉",
+      "蹴轆轤"
+    ],
+    "materials": [
+      "地元粘土",
+      "藁灰釉",
+      "木灰釉"
+    ],
+    "features": [
+      "流れるような藁灰釉の景色が醸す「用の美」",
+      "細川家御用窯から続く約400年の歴史",
+      "民藝運動にも評価された素朴で力強い土の表情"
+    ],
+    "workshops": [
+      {
+        "name": "小代焼窯元（産地にご確認ください）",
+        "url": "https://shodaiyaki.com/",
+        "experience": true,
+        "experience_desc": "陶芸体験（産地にご確認ください）",
+        "address": "熊本県荒尾市・玉名市"
+      }
+    ],
+    "purchase_keywords": "小代焼 購入 茶碗 民藝 熊本",
+    "price_range": "湯呑み 3,000円〜 / 茶碗 8,000円〜 / 大鉢 20,000円〜",
+    "lat": 32.99,
+    "lng": 130.52,
+    "source": "https://kougeihin.jp/craft/0428/",
+    "ogp_image_desc": "藁灰釉の流れる景色が美しい小代焼の器"
+  },
+  {
+    "id": "hasami_yaki",
+    "name": "波佐見焼",
+    "name_en": "Hasami Ware",
+    "name_fr": "Céramique Hasami",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 42,
+    "prefecture": "nagasaki",
+    "prefecture_ja": "長崎県",
+    "area": "東彼杵郡波佐見町",
+    "founded": 1598,
+    "founded_era": "慶長3年",
+    "desc": "長崎県波佐見町で生産される陶磁器。16世紀末、大村藩主が朝鮮出兵から連れ帰った陶工によって始まり、江戸初期には磁器の生産が始まった。大阪の船着場で船客に食事や酒を提供する食器として広まった厚手染付の「くらわんか碗」が有名で、庶民の日用食器の産地として発展。シンプルで洗練されたデザインは現代の若い世代にも人気が高い。",
+    "desc_en": "Hasami ware is produced in Hasami Town, Nagasaki Prefecture. Founded after the Korean invasions of 1598 by Korean potters, it flourished during the Edo period as affordable everyday tableware. Known for simple, timeless designs and accessible pricing, it has grown into a popular brand among younger generations today.",
+    "techniques": [
+      "型打ち成形",
+      "蛇の目釉剥ぎ",
+      "染付",
+      "白磁"
+    ],
+    "materials": [
+      "陶石",
+      "天草陶石",
+      "長石釉"
+    ],
+    "features": [
+      "江戸時代から続く庶民向け日用食器の伝統",
+      "シンプルで洗練されたデザインが現代ライフスタイルに調和",
+      "有田焼と並ぶ長崎県を代表する磁器産地"
+    ],
+    "workshops": [
+      {
+        "name": "波佐見焼振興会",
+        "url": "https://hasamiyaki.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "長崎県東彼杵郡波佐見町"
+      }
+    ],
+    "purchase_keywords": "波佐見焼 購入 食器",
+    "price_range": "マグカップ 1,500円〜 / 茶碗 1,000円〜 / プレート 2,000円〜",
+    "lat": 33.1044,
+    "lng": 129.8961,
+    "source": "https://kougeihin.jp/craft/0427/",
+    "ogp_image_desc": "波佐見焼のシンプルな白磁の食器セット"
+  },
+  {
+    "id": "mikawachi_yaki",
+    "name": "三川内焼",
+    "name_en": "Mikawachi Ware",
+    "name_fr": "Céramique Mikawachi",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 42,
+    "prefecture": "nagasaki",
+    "prefecture_ja": "長崎県",
+    "area": "佐世保市三川内",
+    "founded": 1598,
+    "founded_era": "慶長3年",
+    "desc": "長崎県佐世保市三川内地区で生産される白磁器。16世紀末の朝鮮出兵で渡来した陶工を祖とし、江戸時代には平戸藩の御用窯として栄えた。藩窯時代に天草地方で陶石が発見されたことで技術が飛躍的に向上し、「唐子絵」と呼ばれる中国風の子供の遊ぶ姿を描いた文様と透明感ある白磁が特徴として確立された。",
+    "desc_en": "Mikawachi ware is a fine white porcelain produced in the Mikawachi area of Sasebo City, Nagasaki Prefecture. Descended from Korean potters brought over in 1598, it served as the official kiln of the Hirado Domain in the Edo period. It is best known for its \"Karako-e\" motif depicting Chinese-style children at play, combined with luminous white porcelain.",
+    "techniques": [
+      "白磁",
+      "染付",
+      "唐子絵",
+      "透かし彫り"
+    ],
+    "materials": [
+      "天草陶石",
+      "長石釉",
+      "呉須"
+    ],
+    "features": [
+      "平戸藩御用窯として発展した格調高い白磁の伝統",
+      "「唐子絵」と呼ばれる愛らしい中国風子供の絵柄",
+      "繊細な透かし彫りなど高度な技法による芸術的作品"
+    ],
+    "workshops": [
+      {
+        "name": "三川内焼伝統産業会館",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "長崎県佐世保市三川内本町"
+      }
+    ],
+    "purchase_keywords": "三川内焼 購入 白磁",
+    "price_range": "湯呑 3,000円〜 / 花瓶 10,000円〜 / 飾り皿 20,000円〜",
+    "lat": 33.1575,
+    "lng": 129.8131,
+    "source": "https://kougeihin.jp/craft/0426/",
+    "ogp_image_desc": "三川内焼の唐子絵が描かれた白磁の茶碗と花瓶"
+  },
+  {
+    "id": "koishiwara_yaki",
+    "name": "小石原焼",
+    "name_en": "Koishiwara Ware",
+    "name_fr": "Céramique Koishiwara",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 40,
+    "prefecture": "fukuoka",
+    "prefecture_ja": "福岡県",
+    "area": "朝倉郡東峰村",
+    "founded": 1682,
+    "founded_era": "天和2年",
+    "desc": "福岡県東峰村で生産される陶器。17世紀前期（江戸時代前期）に黒田藩主が筑前最初の窯を開き、当初は「中野焼」と呼ばれ磁器を焼いていたが、18世紀初めから陶器の生産に移行し「小石原焼」の名が定着した。飛び鉋・刷毛目・流し掛けなどの技法による幾何学的な文様が特徴で、民藝の「用の美」を体現した実用的な器として高く評価される。",
+    "desc_en": "Koishiwara ware is produced in Toho Village, Fukuoka Prefecture. Founded in 1682 when the third lord of the Fukuoka domain brought potters from Imari, it is characterized by geometric patterns created through techniques such as \"tobikanna\" (skipping chisel), brush strokes, and poured glazes. It is highly regarded as functional pottery embodying the folk craft philosophy of \"beauty in use.\"",
+    "techniques": [
+      "飛び鉋",
+      "刷毛目",
+      "流し掛け",
+      "くし描き",
+      "打ち刷毛目"
+    ],
+    "materials": [
+      "小石原の陶土",
+      "木灰釉",
+      "長石釉"
+    ],
+    "features": [
+      "飛び鉋・刷毛目による独特の幾何学模様",
+      "民藝運動の「用の美」を体現した実用的な焼き物",
+      "国の重要無形文化財「小石原焼」の指定を受けた伝統産地"
+    ],
+    "workshops": [
+      {
+        "name": "小石原焼伝統産業会館",
+        "url": "https://koishiwara.jp/",
+        "experience": true,
+        "experience_desc": "陶芸体験（要確認）",
+        "address": "福岡県朝倉郡東峰村小石原"
+      }
+    ],
+    "purchase_keywords": "小石原焼 購入 民藝",
+    "price_range": "湯呑 1,500円〜 / 鉢 3,000円〜 / 大皿 8,000円〜",
+    "lat": 33.4583,
+    "lng": 130.8194,
+    "source": "https://kougeihin.jp/craft/0422/",
+    "ogp_image_desc": "小石原焼の飛び鉋模様が美しい褐色の皿と鉢"
+  },
+  {
+    "id": "takatori_yaki",
+    "name": "高取焼",
+    "name_en": "Takatori Ware",
+    "name_fr": "Céramique Takatori",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "regional",
+    "designation_number": 40,
+    "prefecture": "fukuoka",
+    "prefecture_ja": "福岡県",
+    "area": "飯塚市・嘉麻市",
+    "founded": 1606,
+    "founded_era": "慶長11年",
+    "desc": "福岡県で生産される茶陶。1606年に黒田長政が朝鮮陶工の八山（八蔵）を招いて始まり、遠州七窯の一つに数えられる茶道具の名窯として知られる。「遠州好み」の侘びた美しさを持つ薄手で軽い器が特徴で、白釉・黄釉・黒釉・鉄釉などを流し掛けした複雑な釉調が魅力。",
+    "desc_en": "Takatori ware is a tea ceramics produced in Fukuoka Prefecture. Established in 1606 when Kuroda Nagamasa invited Korean potter Hachiyama (Hachizo), it is known as one of the \"Enshu Seven Kilns\" of tea ceremony ceramics. Characterized by thin, lightweight vessels with a refined wabi aesthetic, featuring complex glaze effects from layered white, yellow, black, and iron glazes.",
+    "techniques": [
+      "流し掛け（多色釉）",
+      "薄作り",
+      "玉作り",
+      "削り仕上げ"
+    ],
+    "materials": [
+      "陶土",
+      "白釉",
+      "黄釉",
+      "鉄釉",
+      "木灰釉"
+    ],
+    "features": [
+      "遠州七窯の一つに数えられる茶道具の名窯",
+      "薄手で軽く「遠州好み」の侘びた美を体現",
+      "多彩な釉薬を流し掛けた複雑な釉調の美しさ"
+    ],
+    "workshops": [
+      {
+        "name": "高取焼宗家",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "福岡県飯塚市"
+      }
+    ],
+    "purchase_keywords": "高取焼 購入 茶碗",
+    "price_range": "茶碗 20,000円〜 / 花入 30,000円〜 / 水指 50,000円〜",
+    "lat": 33.6461,
+    "lng": 130.6913,
+    "source": "",
+    "ogp_image_desc": "高取焼の薄手で流し掛け釉が美しい茶碗"
+  },
+  {
+    "id": "banko_yaki",
+    "name": "萬古焼",
+    "name_en": "Banko Ware",
+    "name_fr": "Céramique Banko",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 24,
+    "prefecture": "mie",
+    "prefecture_ja": "三重県",
+    "area": "四日市市",
+    "founded": 1736,
+    "founded_era": "元文元年",
+    "desc": "三重県四日市市を中心に生産される陶器。約260年前（江戸中期）に茶人でもあった大商人・沼波弄山が「万古不易（永久に変わらない）」の願いを込めて萬古の名を付けたのが始まり。一時中断を経て江戸後期に復活し、明治以降に現在の「四日市萬古焼」として発展。急須・土鍋などの日用品で知られ、急須は日本生産量の約80%を占めるとされる。",
+    "desc_en": "Banko ware is produced primarily in Yokkaichi City, Mie Prefecture. Founded around 1736 by Numami Rozan, the name \"Banko\" means \"eternal and unchanging.\" Today it is nationally known for everyday items such as teapots and clay pots, with Banko teapots accounting for approximately 80% of Japan's teapot production.",
+    "techniques": [
+      "型打ち",
+      "ろくろ成形",
+      "紫泥急須",
+      "墨流し"
+    ],
+    "materials": [
+      "朝明陶土",
+      "紫泥",
+      "木節粘土"
+    ],
+    "features": [
+      "日本の急須生産量の約80%を占める急須の一大産地",
+      "熱伝導性に優れた土鍋が鍋料理文化を支える",
+      "1736年創始の歴史と現代の大量生産技術の融合"
+    ],
+    "workshops": [
+      {
+        "name": "萬古焼工業協同組合",
+        "url": "https://www.bankoyaki.or.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "三重県四日市市"
+      }
+    ],
+    "purchase_keywords": "萬古焼 急須 土鍋 購入",
+    "price_range": "急須 3,000円〜 / 土鍋 3,500円〜 / 湯呑 1,000円〜",
+    "lat": 34.9714,
+    "lng": 136.6243,
+    "source": "https://kougeihin.jp/craft/0410/",
+    "ogp_image_desc": "萬古焼の紫泥急須と土鍋のセット"
+  },
+  {
+    "id": "echizen_yaki",
+    "name": "越前焼",
+    "name_en": "Echizen Ware",
+    "name_fr": "Céramique Echizen",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 18,
+    "prefecture": "fukui",
+    "prefecture_ja": "福井県",
+    "area": "丹生郡越前町",
+    "founded": 1100,
+    "founded_era": "平安時代末期",
+    "desc": "福井県越前町で生産される陶器で、日本六古窯の一つ。平安時代末期に始まり、約900年の歴史を持つ。釉薬を使わず薪窯で焼成する「無釉焼締め」が基本で、灰や炎の作用によって生まれる自然釉（ビードロ釉）と焦げが器に独特の表情を与える。壺・甕・擂鉢などの実用的な器が中心。",
+    "desc_en": "Echizen ware is produced in Echizen Town, Fukui Prefecture, and is one of Japan's Six Ancient Kilns. Beginning in the late Heian period, it has approximately 900 years of history. The basic technique is \"unglazed stoneware\" fired in wood kilns, where natural ash glazes and scorching create unique surfaces on the vessels. It centers on practical forms such as jars, crocks, and mortars.",
+    "techniques": [
+      "無釉焼締め",
+      "自然釉（ビードロ釉）",
+      "登り窯焼成",
+      "たたら成形"
+    ],
+    "materials": [
+      "越前の陶土",
+      "薪（松・雑木）"
+    ],
+    "features": [
+      "日本六古窯の一つとして約900年の歴史を持つ",
+      "釉薬なしの焼締めで自然釉が生み出す土と炎の造形",
+      "壺・甕など実用的な器の伝統を受け継ぐ産地"
+    ],
+    "workshops": [
+      {
+        "name": "越前陶芸村",
+        "url": "https://www.echizen-tougei.com/",
+        "experience": true,
+        "experience_desc": "陶芸体験 1,500円〜",
+        "address": "福井県丹生郡越前町小曽原"
+      }
+    ],
+    "purchase_keywords": "越前焼 購入 壺 甕",
+    "price_range": "湯呑 2,000円〜 / 花瓶 5,000円〜 / 大壺 30,000円〜",
+    "lat": 35.9486,
+    "lng": 136.1633,
+    "source": "https://kougeihin.jp/craft/0412/",
+    "ogp_image_desc": "越前焼の自然釉が流れる焼締めの壺と鉢"
+  },
+  {
+    "id": "raku_yaki",
+    "name": "楽焼",
+    "name_en": "Raku Ware",
+    "name_fr": "Céramique Raku",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 1574,
+    "founded_era": "天正2年頃",
+    "desc": "京都で生まれた茶道のための陶器。16世紀後半に千利休の指導のもと、瓦師の長次郎が創始したとされる。轆轤を使わず手でこねて形成する「手捏ね（てづくね）」技法が特徴で、低温で焼成されるため軽く、茶人が求める「侘び」の美を体現する。代々「楽家」によって守られる唯一無二の伝統。",
+    "desc_en": "Raku ware is a ceramic tradition born in Kyoto for the tea ceremony. In the late 16th century, tile maker Chojiro founded it under the guidance of tea master Sen no Rikyu. Characterized by the \"hand-building\" technique without a wheel, it is fired at low temperatures, resulting in lightweight vessels that embody the wabi aesthetic cherished by tea practitioners. The tradition has been preserved through generations of the Raku family.",
+    "techniques": [
+      "手捏ね（轆轤不使用）",
+      "低温焼成",
+      "鉛釉（現代では無鉛）",
+      "黒楽・赤楽"
+    ],
+    "materials": [
+      "聚楽土",
+      "鉛釉（現代は無鉛代替）"
+    ],
+    "features": [
+      "千利休と長次郎が生み出した茶の湯の精神を体現する茶碗",
+      "轆轤を使わない手捏ね技法による一点一点の個性",
+      "代々「楽家」によって守られる家元制の稀有な陶芸"
+    ],
+    "workshops": [
+      {
+        "name": "楽美術館",
+        "url": "https://raku-yaki.or.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市上京区油小路通一条上ル"
+      }
+    ],
+    "purchase_keywords": "楽焼 茶碗 購入",
+    "price_range": "茶碗 50,000円〜（家元作は数百万円）",
+    "lat": 35.0295,
+    "lng": 135.7479,
+    "source": "https://kougeihin.jp/craft/0413/",
+    "ogp_image_desc": "楽焼の黒楽茶碗と赤楽茶碗"
+  },
+  {
+    "id": "izushi_yaki",
+    "name": "出石焼",
+    "name_en": "Izushi Ware",
+    "name_fr": "Céramique Izushi",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "hyogo",
+    "prefecture_ja": "兵庫県",
+    "area": "豊岡市出石町",
+    "founded": 1784,
+    "founded_era": "天明4年",
+    "desc": "兵庫県豊岡市出石町で生産される磁器。江戸時代に地元で大量の白磁原石が発見されたことを機に、藩主の援助のもと有田から陶工を招いて磁器の生産が始まった。乳白色の白磁に染付や精緻な透かし彫りを施す「白磁の里」として知られ、「東の有田、西の出石」と称されることもある但馬の磁器産地。",
+    "desc_en": "Izushi ware is a porcelain produced in Izushi Town, Toyooka City, Hyogo Prefecture. Porcelain production began in 1784 following the local discovery of pottery stone. Known as the \"home of white porcelain,\" it features milky white porcelain with underglaze blue painting and intricate carving and openwork. The refined white porcelain is sometimes called \"Arita of the East, Izushi of the West.\"",
+    "techniques": [
+      "白磁",
+      "染付",
+      "透かし彫り",
+      "細工物"
+    ],
+    "materials": [
+      "出石陶石",
+      "長石釉"
+    ],
+    "features": [
+      "乳白色の透明感ある白磁が「東の有田、西の出石」と称される",
+      "精緻な透かし彫りや細工物の高度な技術",
+      "兵庫県北部・但馬地方の小さな城下町が育んだ磁器の伝統"
+    ],
+    "workshops": [
+      {
+        "name": "出石焼窯元 永澤永山窯",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "兵庫県豊岡市出石町"
+      }
+    ],
+    "purchase_keywords": "出石焼 白磁 購入",
+    "price_range": "湯呑 3,000円〜 / 皿 5,000円〜 / 花瓶 15,000円〜",
+    "lat": 35.4799,
+    "lng": 134.8777,
+    "source": "https://kougeihin.jp/craft/0416/",
+    "ogp_image_desc": "出石焼の乳白色白磁の皿と透かし彫りの花瓶"
+  },
+  {
+    "id": "otani_yaki",
+    "name": "大谷焼",
+    "name_en": "Otani Ware",
+    "name_fr": "Céramique Otani",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 36,
+    "prefecture": "tokushima",
+    "prefecture_ja": "徳島県",
+    "area": "鳴門市大麻町",
+    "founded": 1780,
+    "founded_era": "安永9年",
+    "desc": "徳島県鳴門市で生産される陶器。安永9年（1780年）に藩窯として磁器の生産を試みたが短期間で閉窯し、天明4年（1784年）に信楽焼の職人を招いた民窯が大谷村に設立されたのが実質的な始まり。一人が横になってろくろを踏み、もう一人が成形する「寝ろくろ」という独特の技法で大型の甕・壺を作り、藍染め産業を支えた。",
+    "desc_en": "Otani ware is produced in Naruto City, Tokushima Prefecture. Beginning around 1780, it is characterized by a unique technique called \"nerokkuro\" (lying-down wheel) used to make large vessels. Two potters work together, with one lying down to turn the wheel while the other shapes the clay, producing large urns and jars used in indigo dyeing. Today it is preserved as a traditional industry of Tokushima.",
+    "techniques": [
+      "寝ろくろ（二人作業）",
+      "大型甕の成形",
+      "たたき技法"
+    ],
+    "materials": [
+      "大谷の陶土",
+      "木灰釉",
+      "鉄釉"
+    ],
+    "features": [
+      "一人が横になってろくろを踏む「寝ろくろ」という世界でも珍しい技法",
+      "藍染め産業を支えた大型甕・壺の生産から始まった歴史",
+      "徳島・阿波の伝統を受け継ぐ四国最大の陶器産地"
+    ],
+    "workshops": [
+      {
+        "name": "大谷焼の里 忠造窯",
+        "url": "",
+        "experience": true,
+        "experience_desc": "陶芸体験（要確認）",
+        "address": "徳島県鳴門市大麻町大谷"
+      }
+    ],
+    "purchase_keywords": "大谷焼 購入 徳島",
+    "price_range": "茶碗 2,000円〜 / 鉢 5,000円〜 / 大甕 50,000円〜",
+    "lat": 34.1706,
+    "lng": 134.5344,
+    "source": "https://kougeihin.jp/craft/0420/",
+    "ogp_image_desc": "大谷焼の大型甕と日常使いの器"
+  },
+  {
+    "id": "akatsu_yaki",
+    "name": "赤津焼",
+    "name_en": "Akatsu Ware",
+    "name_fr": "Céramique Akatsu",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "瀬戸市赤津町",
+    "founded": 1200,
+    "founded_era": "鎌倉時代",
+    "desc": "愛知県瀬戸市赤津地区で生産される陶器で、日本六古窯「瀬戸焼」の中核産地の一つ。奈良時代（700年頃）に焼かれた須恵器に始まり、桃山〜江戸初期に志野・織部・黄瀬戸・御深井などの釉薬技法が確立されて尾張徳川家の御用窯として栄えた。これら「古瀬戸」の伝統釉薬技術が現在まで受け継がれている。",
+    "desc_en": "Akatsu ware is produced in the Akatsu district of Seto City, Aichi Prefecture, and is one of the core areas of \"Seto ware\" within Japan's Six Ancient Kilns. With a history dating to the Kamakura period, it is known as a producer that preserves traditional glazes called \"Ko-Seto\" (ash glaze, yellow Seto, Seto black, Shino, and Oribe). Its diverse glazing techniques represent an important legacy in the history of Japanese ceramics.",
+    "techniques": [
+      "灰釉",
+      "黄瀬戸",
+      "瀬戸黒",
+      "志野釉",
+      "織部釉"
+    ],
+    "materials": [
+      "木節粘土",
+      "蛙目粘土",
+      "長石",
+      "木灰"
+    ],
+    "features": [
+      "鎌倉時代から続く「古瀬戸」の伝統釉薬を現代に伝える",
+      "灰釉・黄瀬戸・瀬戸黒・志野・織部など多彩な釉薬の宝庫",
+      "日本六古窯・瀬戸焼の歴史を最も色濃く残す産地"
+    ],
+    "workshops": [
+      {
+        "name": "瀬戸市新世紀工芸館",
+        "url": "https://www.seto-cul.jp/",
+        "experience": true,
+        "experience_desc": "陶芸体験 1,000円〜",
+        "address": "愛知県瀬戸市西郷町"
+      }
+    ],
+    "purchase_keywords": "赤津焼 購入 瀬戸",
+    "price_range": "茶碗 3,000円〜 / 皿 5,000円〜 / 花瓶 15,000円〜",
+    "lat": 35.2325,
+    "lng": 137.1087,
+    "source": "https://kougeihin.jp/craft/0408/",
+    "ogp_image_desc": "赤津焼の黄瀬戸と志野釉の茶碗"
+  },
+  {
+    "id": "ohi_yaki",
+    "name": "大樋焼",
+    "name_en": "Ohi Ware",
+    "name_fr": "Céramique Ohi",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 17,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "金沢市",
+    "founded": 1666,
+    "founded_era": "寛文6年",
+    "desc": "石川県金沢市で生産される陶器で、1666年（寛文6年）に加賀藩主前田綱紀が茶の湯を奨励した際、裏千家四世仙叟宗室とともに京都から招かれた陶工・長左衛門（後の大樋長左衛門）が始めた。「飴釉（あめぐすり）」と呼ばれる独特の黄褐色の釉薬と、手びねりによる温かみある土物の茶道具が特徴。裏千家の御好み焼として現在も大樋家十一代が伝統を受け継ぎ、加賀百万石の茶道文化を体現する茶陶として400年近く金沢で作り続けられている。",
+    "desc_en": "Ohi Ware is a ceramic produced in Kanazawa City, Ishikawa Prefecture, begun in 1666 by a potter named Chozaemon (later Ohi Chozaemon) who was invited from Kyoto along with Ura Senke's 4th master, Senso Soshitsu, when the Kaga domain lord encouraged the tea ceremony. Characterized by a distinctive amber-brown glaze called 'ame-gusuri' and warm, hand-formed tea utensils. Still produced by the 11th generation of the Ohi family as the preferred ware of Ura Senke, embodying Kaga's tea culture for nearly 400 years.",
+    "techniques": [
+      "飴釉（あめぐすり）",
+      "手びねり成形",
+      "低温焼成",
+      "裏千家御好み焼"
+    ],
+    "materials": [
+      "金沢近郊の陶土",
+      "飴色釉薬（鉛釉系）",
+      "天然鉱物原料"
+    ],
+    "features": [
+      "裏千家御好み焼として400年近く継承される加賀の代表的茶陶",
+      "「飴釉」による独特の黄褐色と手びねりの温かみある造形",
+      "大樋家が一子相伝で守り続ける金沢茶道文化の象徴"
+    ],
+    "workshops": [
+      {
+        "name": "大樋美術館",
+        "url": "https://www.ohimuseum.com/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "石川県金沢市橋場町"
+      }
+    ],
+    "purchase_keywords": "大樋焼 購入 金沢 茶碗 茶道具",
+    "price_range": "茶碗 50,000円〜 / 水指 100,000円〜 / 銘品 500,000円〜",
+    "lat": 36.5748,
+    "lng": 136.6625,
+    "source": "https://kougeihin.jp/craft/1703/",
+    "ogp_image_desc": "飴色の釉薬が美しい大樋焼の茶碗"
+  },
+  {
+    "id": "iwami_yaki",
+    "name": "石見焼",
+    "name_en": "Iwami Ware",
+    "name_fr": "Céramique Iwami",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 32,
+    "prefecture": "shimane",
+    "prefecture_ja": "島根県",
+    "area": "江津市",
+    "founded": 1800,
+    "founded_era": "江戸後期",
+    "desc": "島根県江津市を中心に生産される陶器。江戸時代中期に地元職人が山口県の陶工から製陶法を習ったことに始まり、その後備前から大型甕の技術も取り入れ産地として発展した。塩蔵・味噌・醤油用の大型甕「石見甕」は全国に流通した。現在も薪窯で焼き締める素朴な陶器や日常食器が作られ、土の風合いと実用美が親しまれている。",
+    "desc_en": "Iwami Ware is a ceramic produced mainly in Goto City, Shimane Prefecture, developing from the late Edo to Meiji period as a producer of large jars, pots, and bowls. Using high-quality clay from the Iwami region and wood-fired kiln techniques, it is known for its rustic yet powerful character. Large storage jars called 'Iwami-gama' were distributed nationwide for salt, miso, and soy sauce preservation. Today it also produces everyday tableware and plant pots, beloved for its natural clay texture and functional beauty.",
+    "techniques": [
+      "薪窯焼き締め",
+      "大型成形（甕・壺）",
+      "手びねり",
+      "叩き成形"
+    ],
+    "materials": [
+      "石見の赤土・砂目土",
+      "地元産長石釉",
+      "薪（松・赤松）"
+    ],
+    "features": [
+      "全国に流通した「石見甕」に代表される素朴で力強い大型陶器",
+      "石見地方の良質な陶土と薪窯焼き締めによる優れた保存性能",
+      "江戸後期から続く民衆の生活を支えた実用陶器の産地"
+    ],
+    "workshops": [
+      {
+        "name": "石見焼伝統工芸館（江津市）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "島根県江津市"
+      }
+    ],
+    "purchase_keywords": "石見焼 購入 島根 甕 壺 陶器",
+    "price_range": "小鉢 2,000円〜 / 食器 3,000円〜 / 大甕 30,000円〜",
+    "lat": 34.8568,
+    "lng": 132.2239,
+    "source": "https://kougeihin.jp/craft/0417/",
+    "ogp_image_desc": "石見焼の素朴な大甕と日常食器の並ぶ工房風景"
+  },
+  {
+    "id": "hizen_yoshida",
+    "name": "肥前吉田焼",
+    "name_en": "Hizen Yoshida Ware",
+    "name_fr": "Céramique Hizen Yoshida",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 41,
+    "prefecture": "saga",
+    "prefecture_ja": "佐賀県",
+    "area": "嬉野市吉田",
+    "founded": 1500,
+    "founded_era": "戦国時代",
+    "desc": "佐賀県嬉野市吉田地区で生産される磁器で、有田焼・伊万里焼と同じ肥前磁器の産地として知られる。薄手で軽く丈夫な白磁・染付の日常食器の生産が盛んで、「薄くて軽い吉田焼」として家庭用食器市場で高いシェアを誇る。肥前の磁器産地として確立した技術力をもとに、現代では国内外への量産食器とともに作家的な作品も生まれており、有田・波佐見と並ぶ肥前の磁器文化を支える重要産地の一つ。",
+    "desc_en": "Hizen Yoshida Ware is a porcelain produced in the Yoshida district of Ureshino City, Saga Prefecture, known as a Hizen porcelain production area alongside Arita and Imari ware. Famous for thin, light, and durable white porcelain and blue-and-white everyday tableware, it holds a high share of the household tableware market as 'thin and light Yoshida ware.' Based on established porcelain craftsmanship, today it produces both mass-market tableware for domestic and overseas markets and individual artistic works, making it a key production area supporting Hizen's porcelain culture.",
+    "techniques": [
+      "型打ち成形",
+      "染付（呉須絵付）",
+      "白磁釉",
+      "薄造り"
+    ],
+    "materials": [
+      "肥前陶石",
+      "呉須（コバルト顔料）",
+      "長石釉"
+    ],
+    "features": [
+      "薄くて軽い実用的な白磁・染付食器で家庭用市場を支える産地",
+      "有田・波佐見と並ぶ肥前磁器文化の一翼を担う歴史ある産地",
+      "日常食器から現代作家作品まで幅広く展開する多様な表現"
+    ],
+    "workshops": [
+      {
+        "name": "肥前吉田焼窯元協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "佐賀県嬉野市吉田"
+      }
+    ],
+    "purchase_keywords": "肥前吉田焼 購入 佐賀 磁器 食器",
+    "price_range": "茶碗 1,500円〜 / 皿 2,000円〜 / 揃え 10,000円〜",
+    "lat": 33.103,
+    "lng": 130.0012,
+    "source": "https://kougeihin.jp/craft/4102/",
+    "ogp_image_desc": "肥前吉田焼の薄手白磁と染付の食器セット"
+  },
+  {
+    "id": "sanshu_onigawara",
+    "name": "三州鬼瓦工芸品",
+    "name_en": "Sanshu Onigawara (Demon Roof Tiles)",
+    "name_fr": "Tuiles Démoniaques Sanshu",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "高浜市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "愛知県高浜市を中心に生産される鬼瓦・装飾瓦の工芸品。18世紀初頭から生産が活発化し、300年以上の伝統を持つ。「鬼師」と呼ばれる職人が手彫りで仕上げる魔除けの鬼瓦のほか、家紋入りや室内用のインテリア・エクステリア商品まで多岐にわたる。日本の屋根瓦の約7割を占める三州瓦産地の高度な彫塑技術の結晶として今も継承される。",
+    "desc_en": "Sanshu Onigawara are ornamental demon-face roof tiles and decorative tiles produced mainly in Takahama City, Aichi Prefecture. As a Sanshu roof tile production area dating to the Muromachi period, the demon-face tiles ('onigawara') used to ward off evil from rooftops are individually crafted sculptures carved by hand. Sanshu tiles made from local clay—with excellent compressive strength and low water absorption—account for approximately 70% of Japan's roof tiles. The ornamental demon tiles represent the pinnacle of this region's sculptural craftsmanship.",
+    "techniques": [
+      "手彫り（鬼師）",
+      "型押し成形",
+      "本焼き（窖窯）",
+      "いぶし銀仕上げ"
+    ],
+    "materials": [
+      "三州粘土（高浜粘土）",
+      "薪・ガス窯"
+    ],
+    "features": [
+      "職人「鬼師」の手彫りによる魔除けの伝統彫刻工芸品",
+      "日本の屋根瓦の約7割を占める三州瓦産地の最高技術の結晶",
+      "室町時代から続く伝統的建築装飾として寺社仏閣・住宅屋根を守る"
+    ],
+    "workshops": [
+      {
+        "name": "高浜市かわら美術館・図書館",
+        "url": "https://www.takahama-kawara-museum.jp/",
+        "experience": true,
+        "experience_desc": "鬼瓦絵付け・瓦制作体験（要予約・要確認）",
+        "address": "愛知県高浜市青木町"
+      }
+    ],
+    "purchase_keywords": "三州鬼瓦 購入 愛知 高浜 鬼師 装飾瓦",
+    "price_range": "小型置物 5,000円〜 / 中型鬼瓦 30,000円〜 / 大型特注 100,000円〜",
+    "lat": 34.9235,
+    "lng": 137.0033,
+    "source": "https://kougeihin.jp/craft/0432/",
+    "ogp_image_desc": "職人が手彫りした三州鬼瓦の迫力ある装飾鬼面"
+  },
+  {
+    "id": "imado_yaki",
+    "name": "今戸焼",
+    "name_en": "Imado Ware",
+    "name_fr": "Céramique Imado",
+    "category": "ceramics",
+    "category_ja": "陶磁器",
+    "designation": "regional",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区今戸（浅草）",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "東京都台東区今戸（浅草付近）を発祥とする素朴な土焼きの工芸品。江戸時代から庶民の生活雑器・火鉢・植木鉢・土人形を生産してきた江戸の焼き物文化を代表する産地。現在は白い「招き猫」の発祥地として広く知られており、素朴で温かみある土人形・置物が特徴。明治以降の近代化で産地は大幅に縮小したものの、今も職人が江戸庶民の焼き物文化を伝える伝統を守り続けている。",
+    "desc_en": "Imado Ware originates from the Imado area (near Asakusa) in Taito Ward, Tokyo, representing a rustic earthenware craft tradition. Since the Edo period, it has been a production area for everyday utensils, braziers, plant pots, and clay figurines for the common people. Today it is widely known as the birthplace of the white 'manekineko' (beckoning cat), characterized by rustic yet warm clay figurines and ornaments. Though the production area significantly declined after the Meiji modernization, craftsmen continue to preserve this Edo-era folk pottery tradition.",
+    "techniques": [
+      "手びねり成形",
+      "型押し",
+      "素焼き・本焼き",
+      "鉄絵・彩色"
+    ],
+    "materials": [
+      "関東ローム層の赤土",
+      "鉄絵具",
+      "顔料"
+    ],
+    "features": [
+      "江戸庶民の生活文化から生まれた素朴な土人形・招き猫の発祥地",
+      "火鉢・植木鉢など日常雑器から縁起物まで幅広い江戸の焼き物",
+      "明治以降も職人が守り続ける浅草今戸の伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "今戸焼 白井工房",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区今戸"
+      }
+    ],
+    "purchase_keywords": "今戸焼 購入 東京 浅草 招き猫 土人形",
+    "price_range": "招き猫 3,000円〜 / 土人形 5,000円〜 / 花瓶 10,000円〜",
+    "lat": 35.7178,
+    "lng": 139.7986,
+    "source": "",
+    "ogp_image_desc": "今戸焼の白い招き猫と素朴な土人形"
+  }
+]

@@ -1,0 +1,1355 @@
+[
+  {
+    "id": "echizen_washi",
+    "name": "越前和紙",
+    "name_en": "Echizen Washi Paper",
+    "name_fr": "Papier Washi Echizen",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 18,
+    "prefecture": "fukui",
+    "prefecture_ja": "福井県",
+    "area": "越前市今立地区",
+    "founded": 502,
+    "founded_era": "継体天皇時代",
+    "desc": "福井県越前市今立地区で生産される手漉き和紙。約1,500年の歴史を持ち、「紙の神」川上御前を祀る岡太神社・大滝神社が全国唯一の「紙の神社」として知られる。国内手漉き和紙産地シェアトップを誇り、紙幣・証券・外交文書など公文書向けの高品質な機械すき紙も生産。人間国宝の久保田号、三代目岩野市兵衛ら名工が現代も技術を継承。2014年に「和紙」としてユネスコ無形文化遺産に登録。",
+    "desc_en": "Echizen Washi is handmade Japanese paper from Imadate district, Echizen City, Fukui. With approximately 1,500 years of history, it's known for Okamodoki Shrine dedicated to the 'God of Paper'—Japan's only paper shrine. It leads domestic handmade paper production and also makes high-quality machine-made paper for banknotes, securities, and diplomatic documents. Inscribed on UNESCO's Intangible Cultural Heritage list in 2014 as 'Washi.'",
+    "techniques": [
+      "手漉き（流し漉き・溜め漉き）",
+      "楮・三椏の処理",
+      "自然乾燥"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "三椏（みつまた）",
+      "雁皮（がんぴ）",
+      "トロロアオイ"
+    ],
+    "features": [
+      "2014年ユネスコ無形文化遺産・1,500年の歴史",
+      "紙幣・外交文書にも使われる世界最高水準の和紙産地",
+      "全国唯一「紙の神様」を祀る岡太神社・大滝神社の門前産地"
+    ],
+    "workshops": [
+      {
+        "name": "卯立の工芸館（越前和紙の里）",
+        "url": "https://www.echizenwashi.jp/",
+        "experience": true,
+        "experience_desc": "紙漉き体験 800円〜",
+        "address": "福井県越前市今立地区"
+      }
+    ],
+    "purchase_keywords": "越前和紙 購入 便箋 和紙",
+    "price_range": "便箋 500円〜 / 色紙 1,000円〜 / 特注品 50,000円〜",
+    "lat": 35.914,
+    "lng": 136.1667,
+    "source": "https://kougeihin.jp/craft/0904/",
+    "ogp_image_desc": "光を透かす繊細な越前和紙の美しいシート"
+  },
+  {
+    "id": "mino_washi",
+    "name": "美濃和紙",
+    "name_en": "Mino Washi Paper",
+    "name_fr": "Papier Washi Mino",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 21,
+    "prefecture": "gifu",
+    "prefecture_ja": "岐阜県",
+    "area": "美濃市",
+    "founded": 702,
+    "founded_era": "大宝2年",
+    "desc": "岐阜県美濃市で生産される手漉き和紙。702年（大宝2年）の文書に記録される約1,300年の歴史を持つ。「薄くて丈夫」な美濃紙は障子紙として日本中に普及し、現在も障子紙・書道用紙・照明用紙として広く使われる。2014年に越前和紙・石州半紙とともに「和紙」としてユネスコ無形文化遺産に登録。毎年10月に「美濃和紙あかりアート展」を開催し、和紙照明を使ったアートで30万人以上が訪れる。",
+    "desc_en": "Mino Washi is handmade Japanese paper from Mino City, Gifu Prefecture, with records dating to 702 CE. 'Thin yet durable' Mino paper became widespread as shoji (screen door) paper, still widely used for shoji screens, calligraphy, and lighting. Inscribed on UNESCO's Intangible Cultural Heritage list in 2014. The annual 'Mino Washi Akari Art Exhibition' in October attracts over 300,000 visitors.",
+    "techniques": [
+      "流し漉き",
+      "楮処理",
+      "本美濃紙（重要無形文化財）"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "ネリ（トロロアオイ）"
+    ],
+    "features": [
+      "2014年ユネスコ無形文化遺産・1,300年の歴史",
+      "「薄くて丈夫」な美濃紙は日本の障子文化を支え続ける",
+      "和紙アート展「あかりアート展」に30万人が訪れる文化拠点"
+    ],
+    "workshops": [
+      {
+        "name": "美濃和紙の里会館",
+        "url": "https://www.minoshi.jp/",
+        "experience": true,
+        "experience_desc": "紙漉き体験 700円〜",
+        "address": "岐阜県美濃市"
+      }
+    ],
+    "purchase_keywords": "美濃和紙 購入 障子紙 書道用紙",
+    "price_range": "便箋 400円〜 / 障子紙 1,000円〜 / 照明 10,000円〜",
+    "lat": 35.5453,
+    "lng": 136.9167,
+    "source": "https://kougeihin.jp/craft/0903/",
+    "ogp_image_desc": "温かな光を透かす美濃和紙の照明アート"
+  },
+  {
+    "id": "sekishu_banshi",
+    "name": "石州半紙",
+    "name_en": "Sekishu Banshi Paper",
+    "name_fr": "Papier Sekishu Banshi",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 32,
+    "prefecture": "shimane",
+    "prefecture_ja": "島根県",
+    "area": "浜田市三隅町",
+    "founded": 680,
+    "founded_era": "天武天皇時代頃",
+    "desc": "島根県浜田市三隅地区で生産される手漉き和紙。7世紀頃から始まったとされる長い歴史を持ち、楮（こうぞ）のみを原料とした「楮100%」の手漉き和紙が特徴。丈夫で保存性が高く、証書・書道用紙・障子紙として広く使われてきた。2009年に「石州半紙」単独でユネスコ無形文化遺産に登録（後に越前和紙・美濃和紙と合同登録へ移行）。",
+    "desc_en": "Sekishu Banshi is handmade Japanese paper from Misumi district, Hamada City, Shimane Prefecture. With a history said to have begun in the 7th century, it is characterized by 100% kozo (paper mulberry) raw material. Durable and highly preservation-resistant, it has been widely used for certificates, calligraphy, and shoji screens. Inscribed individually on UNESCO's Intangible Cultural Heritage list in 2009 (later merged with Echizen Washi and Mino Washi).",
+    "techniques": [
+      "楮手漉き",
+      "流し漉き"
+    ],
+    "materials": [
+      "楮（こうぞ）100%",
+      "ネリ（トロロアオイ）"
+    ],
+    "features": [
+      "2009年ユネスコ無形文化遺産（最初の単独登録和紙）",
+      "楮100%使用による抜群の保存性と強度",
+      "石見地方の自然環境が育む清冽な水と楮の恵み"
+    ],
+    "workshops": [
+      {
+        "name": "石州和紙会館",
+        "url": "https://www.sekishu-banshi.jp/",
+        "experience": true,
+        "experience_desc": "紙漉き体験 1,000円〜",
+        "address": "島根県浜田市三隅町"
+      }
+    ],
+    "purchase_keywords": "石州半紙 購入 和紙 書道",
+    "price_range": "書道用紙 600円〜 / 便箋 500円〜 / 特注品 30,000円〜",
+    "lat": 34.88,
+    "lng": 131.97,
+    "source": "https://kougeihin.jp/craft/3201/",
+    "ogp_image_desc": "白く透明感のある石州半紙の手漉き和紙"
+  },
+  {
+    "id": "tosa_washi",
+    "name": "土佐和紙",
+    "name_en": "Tosa Washi Paper",
+    "name_fr": "Papier Washi Tosa",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 39,
+    "prefecture": "kochi",
+    "prefecture_ja": "高知県",
+    "area": "いの町・土佐市",
+    "founded": 900,
+    "founded_era": "平安時代",
+    "desc": "高知県いの町（旧伊野町）・土佐市を中心に生産される手漉き和紙。平安時代から続く歴史を持ち、清流・仁淀川の伏流水を利用して生産される。楮・三椏・雁皮など多様な原料を使い、薄葉紙・書道用紙・書籍用紙から特殊用途の和紙まで多品種を生産。国内和紙生産量で越前和紙と並ぶトップクラスの産地規模を誇る。",
+    "desc_en": "Tosa Washi is handmade Japanese paper produced mainly in Ino Town and Tosa City, Kochi Prefecture. With a history dating to the Heian period, it is produced using underground water from the crystal-clear Niyodo River. Using diverse raw materials including kozo, mitsumata, and ganpi, it produces a wide range from thin paper, calligraphy paper, and book paper to special-purpose washi. It ranks alongside Echizen Washi as a top production area by domestic volume.",
+    "techniques": [
+      "流し漉き",
+      "溜め漉き",
+      "多様な原料処理"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "三椏（みつまた）",
+      "雁皮（がんぴ）"
+    ],
+    "features": [
+      "仁淀川の清冽な伏流水が生む高品質な和紙",
+      "薄葉紙から特殊紙まで多品種を生産する産地の多様性",
+      "国内和紙生産量トップクラスの産業規模"
+    ],
+    "workshops": [
+      {
+        "name": "紙の博物館いの（産地にご確認ください）",
+        "url": "https://www.tosawashi-kami.jp/",
+        "experience": true,
+        "experience_desc": "紙漉き体験 600円〜",
+        "address": "高知県いの町"
+      }
+    ],
+    "purchase_keywords": "土佐和紙 購入 書道用紙 和紙",
+    "price_range": "便箋 500円〜 / 書道用紙 800円〜 / 和紙工芸品 3,000円〜",
+    "lat": 33.54,
+    "lng": 133.42,
+    "source": "https://kougeihin.jp/craft/0909/",
+    "ogp_image_desc": "仁淀川の清水で漉いた土佐和紙のシート"
+  },
+  {
+    "id": "inshu_washi",
+    "name": "因州和紙",
+    "name_en": "Inshu Washi Paper",
+    "name_fr": "Papier Washi Inshu",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 31,
+    "prefecture": "tottori",
+    "prefecture_ja": "鳥取県",
+    "area": "青谷町・用瀬町",
+    "founded": 800,
+    "founded_era": "平安時代初期",
+    "desc": "鳥取県青谷町・用瀬町で生産される手漉き和紙。平安時代初期から続く歴史を持ち、因幡・伯耆地方の清流と豊かな楮を利用して生産される。書道用紙・版画用紙・工芸品用紙として評価が高く、美術・書道の世界で広く使われる和紙産地として知られる。",
+    "desc_en": "Inshu Washi is handmade Japanese paper produced in Aoya Town and Mochigatani Town, Tottori Prefecture. With a history from the early Heian period, it is produced using clear streams and abundant kozo from the Inaba and Hoki region. Highly regarded as calligraphy paper, printmaking paper, and craft paper, it is known as a washi production area widely used in the art and calligraphy world.",
+    "techniques": [
+      "手漉き",
+      "流し漉き"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "三椏（みつまた）"
+    ],
+    "features": [
+      "書道・版画・美術用紙として高く評価される品質",
+      "平安時代から続く因幡の清流と楮が生む和紙",
+      "芸術家・書道家に愛される表現力豊かな和紙"
+    ],
+    "workshops": [
+      {
+        "name": "因州和紙産地（産地にご確認ください）",
+        "url": "https://www.inshu-washi.jp/",
+        "experience": true,
+        "experience_desc": "紙漉き体験（産地にご確認ください）",
+        "address": "鳥取県青谷町"
+      }
+    ],
+    "purchase_keywords": "因州和紙 購入 書道 版画 鳥取",
+    "price_range": "便箋 500円〜 / 書道用紙 800円〜",
+    "lat": 35.51,
+    "lng": 133.99,
+    "source": "https://kougeihin.jp/craft/0905/",
+    "ogp_image_desc": "因州の清水で漉いた因州和紙の書道用紙"
+  },
+  {
+    "id": "uchiyama_washi",
+    "name": "内山和紙",
+    "name_en": "Uchiyama Washi Paper",
+    "name_fr": "Papier Washi Uchiyama",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 20,
+    "prefecture": "nagano",
+    "prefecture_ja": "長野県",
+    "area": "飯山市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "長野県飯山市（旧内山地区）で生産される手漉き和紙。江戸時代初期に美濃で製法を身に付けた職人が地元で漉き始めたのが起源とされ、産地の名から「内山紙」の名が定着した。多量の雪で楮を晒す「凍皮」や雪晒しなど独自の技法が生み出され、寒冷地の冬を生かした漉き作業が紙に特有の強さと白さをもたらす。障子紙・書道用紙として信州を代表する和紙として知られる。",
+    "desc_en": "Uchiyama Washi is handmade Japanese paper from Iiyama City (former Uchiyama district), Nagano Prefecture. With a history from the Muromachi period, it features handmade paper using natural water from Shinano's cold region with kozo as the main material. Winter papermaking (cold-season papermaking) utilizing the snowy region climate gives the paper its characteristic strength and whiteness. Used for shoji screens, calligraphy, and craft paper.",
+    "techniques": [
+      "寒漉き（冬季漉き）",
+      "楮手漉き"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "信濃の清水"
+    ],
+    "features": [
+      "寒冷地の冬に漉く「寒漉き」が生む強さと白さ",
+      "雪国・信州の自然環境が育む独特の和紙",
+      "障子紙・書道用紙として信州伝統工芸を代表"
+    ],
+    "workshops": [
+      {
+        "name": "内山和紙工房（産地にご確認ください）",
+        "url": "https://www.uchiyama-washi.com/",
+        "experience": true,
+        "experience_desc": "紙漉き体験（産地にご確認ください）",
+        "address": "長野県飯山市"
+      }
+    ],
+    "purchase_keywords": "内山和紙 購入 障子紙 長野",
+    "price_range": "便箋 500円〜 / 障子紙 1,200円〜",
+    "lat": 36.85,
+    "lng": 138.37,
+    "source": "https://kougeihin.jp/craft/2001/",
+    "ogp_image_desc": "雪国で寒漉きした内山和紙の白く強い紙"
+  },
+  {
+    "id": "hakone_yosegi",
+    "name": "箱根寄木細工",
+    "name_en": "Hakone Yosegi Marquetry",
+    "name_fr": "Marqueterie Hakone Yosegi",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 14,
+    "prefecture": "kanagawa",
+    "prefecture_ja": "神奈川県",
+    "area": "箱根町畑宿",
+    "founded": 1800,
+    "founded_era": "江戸末期",
+    "desc": "神奈川県箱根町畑宿で生産される木工芸品。江戸末期に始まった、色や木目の異なる多種類の木材を組み合わせて幾何学模様を作り出す技法が特徴。「秘密箱」と呼ばれる仕掛け付きの木箱が有名で、数十から数百の特定の動作をしないと開かない精巧な構造が観光客に人気。現在も職人が手作りで製作し、東海道の宿場町・箱根の代表的な工芸品。",
+    "desc_en": "Hakone Yosegi is woodwork crafts from Hatajuku, Hakone Town, Kanagawa Prefecture. Starting in the late Edo period, the technique combines multiple types of wood with different colors and grains to create geometric patterns. Famous for 'Himitsu-bako' (secret boxes) with mechanisms requiring dozens to hundreds of specific movements to open—a tourist favorite. Still hand-crafted by artisans, it's a representative craft of Hakone on the old Tokaido highway.",
+    "techniques": [
+      "寄木（幾何学模様）",
+      "ヅクかんな削り",
+      "秘密箱仕掛け"
+    ],
+    "materials": [
+      "神代木・楠・桜・桂など多種木材"
+    ],
+    "features": [
+      "色や木目の異なる木材を組み合わせる幾何学模様の美",
+      "数十〜数百の動作で開く「秘密箱」の精巧な仕掛け",
+      "箱根の観光工芸として全国・世界に知られる木工芸品"
+    ],
+    "workshops": [
+      {
+        "name": "本間木工所（箱根寄木細工）",
+        "url": "https://www.miyanoshita.com/honma/",
+        "experience": true,
+        "experience_desc": "寄木コースター作り体験 1,500円〜",
+        "address": "神奈川県箱根町畑宿"
+      }
+    ],
+    "purchase_keywords": "箱根寄木細工 購入 秘密箱 コースター",
+    "price_range": "コースター 800円〜 / 秘密箱 3,000円〜 / 大型箱 20,000円〜",
+    "lat": 35.24,
+    "lng": 139.08,
+    "source": "https://kougeihin.jp/craft/0610/",
+    "ogp_image_desc": "幾何学模様が美しい箱根寄木細工の秘密箱とコースター"
+  },
+  {
+    "id": "edo_sashimono",
+    "name": "江戸指物",
+    "name_en": "Edo Sashimono Furniture",
+    "name_fr": "Mobilier Edo Sashimono",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区・墨田区・江東区",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "東京都の下町（台東区・墨田区・江東区等）で生産される木工家具・建具・調度品。釘や金具を使わず、木材の「組み手（くみて）」だけで構造を支える高度な木工技術が特徴。江戸時代初期から続く伝統で、欅（けやき）・桐・桜など銘木を使った緻密な木組みが美しい。現在も職人が手作りで桐箪笥・茶棚・書院棚などを制作している。",
+    "desc_en": "Edo Sashimono is wooden furniture, fittings, and furnishings produced in the shitamachi districts of Tokyo (Taito, Sumida, Koto wards, etc.). Characterized by advanced woodworking techniques that support structure using only wood 'kumi-te' (joints) without nails or metal fittings. A tradition from the early Edo period, the intricate wood joinery using fine woods like keyaki, paulownia, and cherry is beautiful. Craftsmen still hand-produce Kiri tansu (paulownia chests), tea shelves, and study shelves.",
+    "techniques": [
+      "釘不使用の組み手",
+      "ほぞ組み",
+      "鏡板仕上げ"
+    ],
+    "materials": [
+      "欅（けやき）",
+      "桐（きり）",
+      "桜",
+      "朴（ほお）"
+    ],
+    "features": [
+      "釘・金具なしで木だけで組む高度な「組み手」の技術",
+      "欅・桐・桜など銘木の木目を生かした緻密で美しい構造",
+      "江戸時代から続く実用と美を兼ね備えた木工家具の最高峰"
+    ],
+    "workshops": [
+      {
+        "name": "江戸指物工房（産地にご確認ください）",
+        "url": "https://www.edosashimono.jp/",
+        "experience": false,
+        "address": "東京都台東区・墨田区"
+      }
+    ],
+    "purchase_keywords": "江戸指物 購入 桐箪笥 家具 東京",
+    "price_range": "小物入れ 10,000円〜 / 茶棚 100,000円〜 / 桐箪笥 500,000円〜",
+    "lat": 35.7101,
+    "lng": 139.8,
+    "source": "https://kougeihin.jp/craft/0609/",
+    "ogp_image_desc": "釘なし組み手の精緻な江戸指物の桐箪笥と茶棚"
+  },
+  {
+    "id": "suruga_chikusen",
+    "name": "駿河竹千筋細工",
+    "name_en": "Suruga Take Chikusen Bamboo Craft",
+    "name_fr": "Artisanat en Bambou Suruga",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 22,
+    "prefecture": "shizuoka",
+    "prefecture_ja": "静岡県",
+    "area": "静岡市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "静岡県静岡市で生産される竹工芸品。江戸時代初期に主として武士の内職として始まり、19世紀中頃に岡崎藩士が清水猪兵衛に細工の技法を伝えたことで菓子器・虫籠など工芸品として東海道を往来する旅人に広まった。数百〜数千本の細い竹ひごを丁寧に組み合わせて器・籠・花入れを作る「千筋（ちくすじ）」の繊細な技が特徴で、現代の照明・インテリアとしても高い評価を受けている。",
+    "desc_en": "Suruga Take Chikusen is bamboo crafts produced in Shizuoka City, Shizuoka Prefecture. Characterized by a technique of combining hundreds to thousands of bamboo strips (higo) to create vessels, baskets, and flower vases. The Suruga region (modern Shizuoka) was favored by Tokugawa Ieyasu, and developed from the Edo period as a souvenir along the Tokaido highway. Delicate and intricate pieces woven from thin bamboo strips are also popular as modern lighting and interior design.",
+    "techniques": [
+      "竹ひご製作",
+      "千筋編み",
+      "組み立て"
+    ],
+    "materials": [
+      "真竹（まだけ）",
+      "孟宗竹（もうそうちく）"
+    ],
+    "features": [
+      "数百〜数千本の竹ひごを組む「千筋（ちくすじ）」の繊細な技",
+      "徳川家康ゆかりの駿河で東海道土産として発展した歴史",
+      "現代の照明・インテリアとして国内外で高い評価"
+    ],
+    "workshops": [
+      {
+        "name": "駿河竹千筋細工工房（産地にご確認ください）",
+        "url": "https://suruga-chikusen.jp/",
+        "experience": true,
+        "experience_desc": "竹細工体験（産地にご確認ください）",
+        "address": "静岡県静岡市"
+      }
+    ],
+    "purchase_keywords": "駿河竹千筋細工 購入 竹 照明 静岡",
+    "price_range": "小物入れ 3,000円〜 / 花入れ 10,000円〜 / 照明 30,000円〜",
+    "lat": 34.9756,
+    "lng": 138.3827,
+    "source": "https://kougeihin.jp/craft/0614/",
+    "ogp_image_desc": "繊細な竹ひごが美しい駿河竹千筋細工の籠と花入れ"
+  },
+  {
+    "id": "beppu_take",
+    "name": "別府竹細工",
+    "name_en": "Beppu Bamboo Craft",
+    "name_fr": "Artisanat en Bambou Beppu",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 44,
+    "prefecture": "oita",
+    "prefecture_ja": "大分県",
+    "area": "別府市",
+    "founded": 700,
+    "founded_era": "奈良時代頃",
+    "desc": "大分県別府市で生産される竹工芸品。室町時代に行商用の籠を作って売り出したのが始まりとされ、江戸時代には別府温泉の客向けの台所用品が土産物として人気を集めたことで地場産業として根付いた。明治後期に設立された竹籃科が多くの作家・技術者を育て、六つ目編み・ゴザ目編みなど多様な編み技法で籠から家具・照明まで幅広い製品を生む国内最大の竹細工産地となった。",
+    "desc_en": "Beppu bamboo craft is produced in Beppu City, Oita Prefecture. Said to have begun in the Nara period, Beppu is known as Japan's largest bamboo craft production area. With diverse weaving techniques including mutsume-ami (six-eye weave) and gozame-ami (mat weave), it produces a wide range from baskets and flower vases to furniture and lighting. Its artistic value is also high, having produced Living National Treasures. The abundant madake bamboo of Oita and Beppu supports high-quality bamboo crafts.",
+    "techniques": [
+      "六つ目編み",
+      "ゴザ目編み",
+      "網代編み",
+      "ひし目編み"
+    ],
+    "materials": [
+      "真竹（まだけ）"
+    ],
+    "features": [
+      "国内最大の竹細工産地・多様な編み技法の宝庫",
+      "人間国宝を輩出した竹工芸の芸術的水準の高さ",
+      "籠・花入れから家具・照明まで幅広い現代的展開"
+    ],
+    "workshops": [
+      {
+        "name": "竹細工伝統産業会館",
+        "url": "https://www.beppu-takekougei.jp/",
+        "experience": true,
+        "experience_desc": "竹細工体験 2,000円〜",
+        "address": "大分県別府市"
+      }
+    ],
+    "purchase_keywords": "別府竹細工 購入 竹籠 花入れ",
+    "price_range": "小籠 3,000円〜 / 花入れ 8,000円〜 / 作家物 50,000円〜",
+    "lat": 33.2845,
+    "lng": 131.4927,
+    "source": "https://kougeihin.jp/craft/0630/",
+    "ogp_image_desc": "精緻な編み目が美しい別府竹細工の籠と花入れ"
+  },
+  {
+    "id": "odate_magewappa",
+    "name": "大館曲げわっぱ",
+    "name_en": "Odate Magewappa",
+    "name_fr": "Magewappa d'Odate",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 5,
+    "prefecture": "akita",
+    "prefecture_ja": "秋田県",
+    "area": "大館市",
+    "founded": 1689,
+    "founded_era": "元禄2年",
+    "desc": "秋田県大館市で生産される薄い秋田杉の板を曲げて作った円形の曲げ物。大館城主・佐竹西家が領内の豊富な森林資源を活かして貧しい領民を救うため、下級武士に副業として曲げわっぱの制作を奨励したのが始まりとされる（元禄頃）。薄くしなやかに削った秋田杉を湯につけて曲げ、山桜の皮で縫い合わせる技法が特徴で、木の香りと調湿効果から弁当箱として人気が高い。",
+    "desc_en": "Odate magewappa are round bentwood containers made from thin, bent sheets of Akita cedar, produced in Odate City, Akita Prefecture. Said to have originated in 1689 when the chief retainer of the Odate castle lord encouraged lower-ranking samurai to make them as a side business. Characterized by thinly shaved, pliable Akita cedar bent after soaking in hot water and sewn together with mountain cherry bark. Highly popular as lunchboxes for their cedar fragrance, moisture retention, and breathability.",
+    "techniques": [
+      "薄板削り",
+      "湯曲げ",
+      "山桜皮縫い",
+      "漆仕上げ（一部）"
+    ],
+    "materials": [
+      "秋田杉",
+      "山桜の皮"
+    ],
+    "features": [
+      "秋田杉の香りと調湿効果で弁当が美味しくなる曲げわっぱ",
+      "江戸時代から続く下級武士の副業から発展した伝統工芸",
+      "薄く削った杉を曲げて山桜で縫う400年の技術"
+    ],
+    "workshops": [
+      {
+        "name": "柴田慶信商店",
+        "url": "https://www.shibatayoshinobu.co.jp/",
+        "experience": true,
+        "experience_desc": "曲げわっぱ絵付け体験（要確認）",
+        "address": "秋田県大館市"
+      }
+    ],
+    "purchase_keywords": "大館曲げわっぱ 弁当箱 購入",
+    "price_range": "弁当箱 10,000円〜 / 飯器 15,000円〜 / 重箱 30,000円〜",
+    "lat": 40.271,
+    "lng": 140.5681,
+    "source": "https://kougeihin.jp/craft/0604/",
+    "ogp_image_desc": "大館曲げわっぱの秋田杉製弁当箱"
+  },
+  {
+    "id": "kamo_kiri_tansu",
+    "name": "加茂桐箪笥",
+    "name_en": "Kamo Kiri Tansu",
+    "name_fr": "Commode en Paulownia de Kamo",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 15,
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "加茂市",
+    "founded": 1780,
+    "founded_era": "安永9年頃",
+    "desc": "新潟県加茂市で生産される桐材の箪笥。19世紀初め（文化年間頃）に大工が制作したものが始まりとされ、「文化11年（1814年）購入」と裏書された箪笥が現在も市内に残る。昭和初期に「矢車塗装」が開発されて現在のデザインが完成し、今や全国の桐箪笥の約70%を生産する「桐箪笥の加茂」として知られる。軽くて調湿性に優れた桐と精密な仕口加工が特徴。",
+    "desc_en": "Kamo kiri tansu is a paulownia wood chest of drawers produced in Kamo City, Niigata Prefecture. Paulownia chest production began in the Kamo area in the late Edo period, and today it is nationally known as \"Kamo of paulownia chests.\" Paulownia is lightweight and regulates humidity, making it ideal for storing kimono and clothing. It is characterized by precise joinery and surface finishing by skilled craftspeople.",
+    "techniques": [
+      "精密仕口加工",
+      "表面削り仕上げ",
+      "砥の粉塗り",
+      "金具取付"
+    ],
+    "materials": [
+      "桐材",
+      "金属金具（錠前・引手）"
+    ],
+    "features": [
+      "全国の桐箪笥生産量の大半を占める「桐箪笥の加茂」",
+      "軽くて調湿性に優れた桐は着物収納の最高素材",
+      "精密な仕口加工と美しい木目仕上げの職人技"
+    ],
+    "workshops": [
+      {
+        "name": "加茂家具工業協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "新潟県加茂市"
+      }
+    ],
+    "purchase_keywords": "加茂桐箪笥 桐タンス 購入",
+    "price_range": "小箪笥 50,000円〜 / 本箪笥 150,000円〜 / 総桐 300,000円〜",
+    "lat": 37.665,
+    "lng": 139.0443,
+    "source": "https://kougeihin.jp/craft/0611/",
+    "ogp_image_desc": "加茂桐箪笥の総桐の和箪笥"
+  },
+  {
+    "id": "shogawa_hikimono",
+    "name": "庄川挽物木地",
+    "name_en": "Shogawa Hikimono Kiji",
+    "name_fr": "Tournage sur Bois de Shogawa",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 16,
+    "prefecture": "toyama",
+    "prefecture_ja": "富山県",
+    "area": "砺波市・南砺市",
+    "founded": 1800,
+    "founded_era": "江戸時代後期",
+    "desc": "富山県砺波市・南砺市の庄川流域で生産されるろくろ挽きの木工品。16世紀末に加賀藩が庄川の流れを利用した流木事業を始め、庄川町が北陸有数の貯木集散地となった。その豊富な木材を求めて19世紀後半に職人がろくろ木地を生業とし始めたことが産地の起源とされる。素木・漆塗りの両仕様があり、木目を生かしたお椀・盆・茶托などの日用品を生産する。",
+    "desc_en": "Shogawa hikimono kiji is lathe-turned wooden ware produced in the Shogawa River basin area of Tonami City and Nanto City, Toyama Prefecture. From the late Edo period, many kijishi (wood turners) gathered, utilizing the Shogawa river as a lumber collection point for the Kaga Domain, forming a production center. Both unfinished natural wood and lacquered versions are produced, creating everyday items such as bowls, trays, and saucers that showcase the beauty of wood grain.",
+    "techniques": [
+      "ろくろ挽き",
+      "木地仕上げ",
+      "漆塗り仕上げ（一部）"
+    ],
+    "materials": [
+      "欅・栃・朴などの広葉樹"
+    ],
+    "features": [
+      "庄川の水運を利用して発展した木地師の集積産地",
+      "ろくろ挽きで木目を生かした美しいフォルムの日用品",
+      "素木・漆塗りの両仕様で現代の生活に寄り添う器"
+    ],
+    "workshops": [
+      {
+        "name": "庄川木工協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "富山県砺波市庄川町"
+      }
+    ],
+    "purchase_keywords": "庄川挽物 木地 お椀 購入",
+    "price_range": "お椀 3,000円〜 / お盆 5,000円〜 / 茶托 2,000円〜",
+    "lat": 36.6144,
+    "lng": 136.9286,
+    "source": "https://kougeihin.jp/craft/1501/",
+    "ogp_image_desc": "庄川挽物木地の木目が美しいお椀とお盆"
+  },
+  {
+    "id": "kasukabe_kiri_tansu",
+    "name": "春日部桐箪笥",
+    "name_en": "Kasukabe Kiri Tansu",
+    "name_fr": "Commode en Paulownia de Kasukabe",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 11,
+    "prefecture": "saitama",
+    "prefecture_ja": "埼玉県",
+    "area": "春日部市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "埼玉県春日部市で生産される桐材の箪笥。江戸時代初期、日光東照宮の造営に集まった職人たちが日光街道の宿場町・春日部に住み着き、周辺で採れる桐を使った指物や小物を作り始めたのが起源とされる。江戸中頃には産地としての形が整い、精緻な仕口加工と繊細な表面仕上げが特徴。現在も「東の春日部、西の加茂」と並び称される桐箪笥の名産地。",
+    "desc_en": "Kasukabe kiri tansu is a paulownia wood chest of drawers produced in Kasukabe City, Saitama Prefecture. Chest production developed against the background of active paulownia cultivation in the Kasukabe (former Kasu-kabe) area from the early Edo period. Influenced by the craftsman culture of Edo as a nearby production center, it features precise joinery and delicate surface finishing. Today it remains one of the two major production centers, called \"Kasukabe of the East, Kamo of the West.\"",
+    "techniques": [
+      "精密仕口加工",
+      "砥の粉塗り",
+      "表面削り",
+      "金具取付"
+    ],
+    "materials": [
+      "桐材",
+      "金属金具（錠前・引手）"
+    ],
+    "features": [
+      "「東の春日部、西の加茂」と並び称される桐箪笥の名産地",
+      "江戸の職人文化を受け継いだ精緻な加工技術",
+      "軽くて調湿性に優れた桐材による着物収納の最高峰"
+    ],
+    "workshops": [
+      {
+        "name": "春日部桐箪笥協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "埼玉県春日部市"
+      }
+    ],
+    "purchase_keywords": "春日部桐箪笥 桐タンス 購入",
+    "price_range": "小箪笥 50,000円〜 / 本箪笥 150,000円〜 / 総桐 300,000円〜",
+    "lat": 35.9753,
+    "lng": 139.7528,
+    "source": "https://kougeihin.jp/craft/0607/",
+    "ogp_image_desc": "春日部桐箪笥の総桐の和箪笥"
+  },
+  {
+    "id": "kyo_sashimono",
+    "name": "京指物",
+    "name_en": "Kyo Sashimono",
+    "name_fr": "Menuiserie Kyo",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "京都で生産される木工品の総称。平安時代に始まりを持ち、室町時代以降に専門の指物師が現れ、茶道文化の確立とともに発展してきた。釘を使わず木を組み合わせる精密な「指物」技術が特徴で、無垢板を用いた調度指物から桐・桧・ケヤキなどの素材を生かした茶道具指物まで幅広く手掛ける。京の洗練された美意識を体現した木工芸の精華として知られる。",
+    "desc_en": "Kyo sashimono is a collective term for wooden crafts produced in Kyoto. With traditions dating to the Muromachi period, it features precision \"sashimono\" joinery techniques that combine wood without nails. It produces wooden items closely linked to the tea ceremony and Japanese culture, such as tea utensils, tea boxes, incense containers, drawers, and shelves. Embodying the refined aesthetic sensibility of Kyoto culture, it is prized for the beauty of its wood grain and precision joinery.",
+    "techniques": [
+      "指物組手（釘不使用）",
+      "ほぞ組み",
+      "面取り",
+      "木目仕上げ"
+    ],
+    "materials": [
+      "桐・桧・ケヤキ・紫檀・黒檀などの銘木"
+    ],
+    "features": [
+      "釘を使わない精密な木組み「指物」技術の粋",
+      "茶道文化と深く結びついた京文化の精髄",
+      "銘木の美しい木目を生かした格調ある木工芸術"
+    ],
+    "workshops": [
+      {
+        "name": "京都指物協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市"
+      }
+    ],
+    "purchase_keywords": "京指物 茶道具 棚 購入",
+    "price_range": "小箱 5,000円〜 / 茶箱 30,000円〜 / 棚 100,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/0619/",
+    "ogp_image_desc": "京指物の木目が美しい茶箱と棚"
+  },
+  {
+    "id": "osaka_karaki_sashimono",
+    "name": "大阪唐木指物",
+    "name_en": "Osaka Karaki Sashimono",
+    "name_fr": "Menuiserie Karaki d'Osaka",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 27,
+    "prefecture": "osaka",
+    "prefecture_ja": "大阪府",
+    "area": "大阪市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "大阪で生産される銘木（唐木）を使った木工品。江戸時代初期から大坂の商業都市としての発展とともに、中国・東南アジアから輸入された紫檀・黒檀・花梨などの唐木を使った高級木工品が生産された。釘を使わない精密な指物技術と唐木の美しい木目・色調の組み合わせが最大の特徴。",
+    "desc_en": "Osaka karaki sashimono is wooden crafts using fine imported woods (karaki) produced in Osaka. From the early Edo period, as Osaka developed as a commercial city, high-quality wooden crafts were produced using imported karaki such as rosewood (shitan), ebony (kitan), and padauk (karin) from China and Southeast Asia. The greatest feature is the combination of precise joinery techniques without nails and the beautiful grain and colors of karaki.",
+    "techniques": [
+      "指物組手（釘不使用）",
+      "ほぞ組み",
+      "面取り",
+      "研磨仕上げ"
+    ],
+    "materials": [
+      "紫檀",
+      "黒檀",
+      "花梨",
+      "鉄刀木などの唐木"
+    ],
+    "features": [
+      "紫檀・黒檀・花梨など希少な唐木の美しい木目を生かした工芸",
+      "釘不使用の精密な指物技術と唐木の贅沢な組み合わせ",
+      "大坂商人文化が育んだ実用と美を兼ね備えた最高級木工品"
+    ],
+    "workshops": [
+      {
+        "name": "大阪唐木指物協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "大阪府大阪市"
+      }
+    ],
+    "purchase_keywords": "大阪唐木指物 紫檀 黒檀 購入",
+    "price_range": "小箱 15,000円〜 / 棚 80,000円〜 / 座卓 200,000円〜",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "source": "https://kougeihin.jp/craft/0621/",
+    "ogp_image_desc": "大阪唐木指物の紫檀製の棚と小箱"
+  },
+  {
+    "id": "miyajima_zaiku",
+    "name": "宮島細工",
+    "name_en": "Miyajima Zaiku",
+    "name_fr": "Artisanat de Miyajima",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 34,
+    "prefecture": "hiroshima",
+    "prefecture_ja": "広島県",
+    "area": "廿日市市宮島",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "広島県廿日市市の宮島（厳島）で生産される木工品。鎌倉時代初期に厳島神社・寺院の造営のために鎌倉・京都から大工や指物師が招かれたことが技術の源流とされる。廿日市地区の豊富な森林資源と木材の集散地としての利便性が産業の発展を支え、しゃもじ・茶道具・木象嵌が代表的製品。「宮島のしゃもじ」は今も参拝土産として全国に知られる。",
+    "desc_en": "Miyajima zaiku is wooden crafts produced on Miyajima Island (Itsukushima) in Hatsukaichi City, Hiroshima Prefecture. Developing from the mid-Edo period as souvenirs for pilgrims visiting Itsukushima Shrine, representative products include rice paddles, tea ceremony utensils, and wood mosaic inlay (mokuzogan). In particular, \"Miyajima rice paddles\" are famous and widely known as a symbol of peace. A wooden craft art nurtured on a UNESCO World Heritage island.",
+    "techniques": [
+      "木象嵌（もくぞうがん）",
+      "しゃもじ加工",
+      "ろくろ挽き",
+      "彫刻"
+    ],
+    "materials": [
+      "桜・もみじ・楠などの広葉樹",
+      "異種木材（象嵌用）"
+    ],
+    "features": [
+      "世界遺産・厳島神社の参拝土産として全国に広まった宮島のしゃもじ",
+      "異なる木材を嵌め込む「木象嵌」の繊細な技術",
+      "宮島・厳島の豊かな森と神社文化が育んだ木工芸術"
+    ],
+    "workshops": [
+      {
+        "name": "宮島細工共同組合",
+        "url": "",
+        "experience": true,
+        "experience_desc": "しゃもじ・木象嵌絵付け体験（島内工房で要確認）",
+        "address": "広島県廿日市市宮島町"
+      }
+    ],
+    "purchase_keywords": "宮島細工 しゃもじ 木象嵌 購入",
+    "price_range": "しゃもじ 500円〜 / 木象嵌 3,000円〜 / 茶道具 10,000円〜",
+    "lat": 34.2969,
+    "lng": 132.3198,
+    "source": "https://kougeihin.jp/craft/0629/",
+    "ogp_image_desc": "宮島細工の木象嵌のしゃもじと茶道具"
+  },
+  {
+    "id": "ozu_washi",
+    "name": "大洲和紙",
+    "name_en": "Ozu Washi (Ozu Handmade Paper)",
+    "name_fr": "Papier Washi d'Ozu",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 38,
+    "prefecture": "ehime",
+    "prefecture_ja": "愛媛県",
+    "area": "大洲市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "愛媛県大洲市で生産される手漉き和紙。肱川の清流を利用した和紙づくりが室町時代から続き、楮を主原料とした丈夫で白く美しい和紙として知られる。伊予国（現愛媛県）の和紙産地として発展し、書道・版画・工芸用途に用いられてきた。肱川の清らかな水と四国の温暖な気候が高品質な楮の育成と和紙製造に適しており、職人が一枚一枚丁寧に手漉きで仕上げる伝統技法を守り続けている。",
+    "desc_en": "Ozu Washi is handmade Japanese paper produced in Ozu City, Ehime Prefecture. Paper-making utilizing the clear waters of the Hijikawa River has continued since the Muromachi period, known as strong, white, and beautiful paper with kozo (paper mulberry) as the main raw material. Developed as a paper production area in Iyo Province (present Ehime Prefecture), used for calligraphy, printmaking, and craft applications. The clear water of the Hijikawa and the warm climate of Shikoku are ideal for cultivating high-quality kozo and paper production, with craftspeople continuing the traditional hand-papermaking technique.",
+    "techniques": [
+      "手漉き（流し漉き）",
+      "楮処理",
+      "自然乾燥"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "トロロアオイ",
+      "肱川の清流水"
+    ],
+    "features": [
+      "肱川の清流を活かした室町時代から続く愛媛の手漉き和紙",
+      "楮100%の丈夫で白く美しい紙質が書道・版画用に評価",
+      "四国の温暖な気候と清流が育む高品質な楮栽培の本場産地"
+    ],
+    "workshops": [
+      {
+        "name": "大洲和紙工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "紙漉き体験（産地にご確認ください）",
+        "address": "愛媛県大洲市"
+      }
+    ],
+    "purchase_keywords": "大洲和紙 購入 愛媛 手漉き 和紙",
+    "price_range": "便箋 500円〜 / 色紙 1,000円〜 / 大判シート 2,000円〜",
+    "lat": 33.5074,
+    "lng": 132.5464,
+    "source": "https://kougeihin.jp/craft/0908/",
+    "ogp_image_desc": "肱川の清流で漉かれた大洲和紙の白く美しいシート"
+  },
+  {
+    "id": "nishinouchi_washi",
+    "name": "西ノ内和紙",
+    "name_en": "Nishinouchi Washi (Nishinouchi Handmade Paper)",
+    "name_fr": "Papier Washi Nishinouchi",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "regional",
+    "designation_number": 8,
+    "prefecture": "ibaraki",
+    "prefecture_ja": "茨城県",
+    "area": "常陸大宮市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "茨城県常陸大宮市で生産される手漉き和紙。楮100%を原料とし、那珂川水系の清流を利用して漉かれる和紙は「強くて美しい」ことで知られる。書道・版画・表装・修復用紙として高く評価され、その強靭さから文化財の修復にも使用される。江戸時代には幕府御用紙としても用いられたとされる高格式の和紙で、現在も少数の職人が伝統の手漉き技法を守りながら制作を続けている。",
+    "desc_en": "Nishinouchi Washi is handmade Japanese paper produced in Hitachiomiya City, Ibaraki Prefecture. Made from 100% kozo using the clear waters of the Nakagawa River system, it is known for being 'strong and beautiful.' Highly regarded for calligraphy, printmaking, mounting, and restoration work, its toughness makes it suitable for cultural property restoration. Said to have been used as paper for the Edo Shogunate, it is a prestigious paper, with a small number of craftspeople today continuing to protect the traditional hand-papermaking technique.",
+    "techniques": [
+      "手漉き（流し漉き）",
+      "楮100%処理",
+      "自然乾燥"
+    ],
+    "materials": [
+      "楮（こうぞ）100%",
+      "トロロアオイ",
+      "那珂川水系の清流水"
+    ],
+    "features": [
+      "楮100%の強靭さで文化財修復・表装に使われる高格式和紙",
+      "那珂川の清流を使った茨城県を代表する手漉き和紙産地",
+      "江戸幕府御用紙の伝統を持つ格調ある和紙の産地"
+    ],
+    "workshops": [
+      {
+        "name": "西ノ内和紙工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "紙漉き体験（産地にご確認ください）",
+        "address": "茨城県常陸大宮市"
+      }
+    ],
+    "purchase_keywords": "西ノ内和紙 購入 茨城 手漉き 和紙 書道",
+    "price_range": "便箋 600円〜 / 色紙 1,200円〜 / 大判シート 2,500円〜",
+    "lat": 36.5457,
+    "lng": 140.411,
+    "source": "",
+    "ogp_image_desc": "那珂川の清流で漉かれた西ノ内和紙の強靭で美しいシート"
+  },
+  {
+    "id": "hida_washi",
+    "name": "飛騨和紙",
+    "name_en": "Hida Washi (Hida Handmade Paper)",
+    "name_fr": "Papier Washi Hida",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 21,
+    "prefecture": "gifu",
+    "prefecture_ja": "岐阜県",
+    "area": "飛騨市（旧吉城郡）",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "岐阜県飛騨市（旧吉城郡）で生産される手漉き和紙。飛騨山脈に囲まれた山間地の清流と寒冷な気候が、楮の栽培と和紙製造に適した環境を作り出す。飛騨の清潔な雪解け水を使って漉かれる和紙は白く丈夫で、書道・工芸・民具の素材として地域に根付いている。飛騨の民俗工芸品の原材料としても利用され、飛騨高山の文化圏を支える伝統的な紙文化を今に伝える。",
+    "desc_en": "Hida Washi is handmade Japanese paper produced in Hida City (former Yoshiki District), Gifu Prefecture. The mountain area's clear streams surrounded by the Hida mountain range and cold climate create an environment suitable for kozo cultivation and paper production. Paper made using Hida's clean snowmelt water is white and durable, deeply rooted in the region as a material for calligraphy, crafts, and folk implements. Also used as raw material for Hida folk crafts, it conveys the traditional paper culture supporting the cultural sphere of Hida-Takayama.",
+    "techniques": [
+      "手漉き（流し漉き）",
+      "楮処理",
+      "雪晒し"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "トロロアオイ",
+      "飛騨の清流水（雪解け水）"
+    ],
+    "features": [
+      "飛騨山脈の清流・雪解け水と寒冷気候が生む白く丈夫な和紙",
+      "飛騨高山の民俗工芸・民具の原材料としても活用される",
+      "山間地の清潔な自然環境が保証する飛騨の手漉き和紙文化"
+    ],
+    "workshops": [
+      {
+        "name": "飛騨和紙工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "紙漉き体験（産地にご確認ください）",
+        "address": "岐阜県飛騨市"
+      }
+    ],
+    "purchase_keywords": "飛騨和紙 購入 岐阜 飛騨 手漉き 和紙",
+    "price_range": "便箋 500円〜 / 色紙 1,000円〜 / 大判シート 2,000円〜",
+    "lat": 36.2329,
+    "lng": 137.1889,
+    "source": "https://kougeihin.jp/craft/2101/",
+    "ogp_image_desc": "飛騨山脈の雪解け水で漉かれた飛騨和紙の白く美しいシート"
+  },
+  {
+    "id": "sendai_tansu",
+    "name": "仙台箪笥",
+    "name_en": "Sendai Tansu (Sendai Chest of Drawers)",
+    "name_fr": "Commode Sendai",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 4,
+    "prefecture": "miyagi",
+    "prefecture_ja": "宮城県",
+    "area": "仙台市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "宮城県仙台市で生産される伝統家具。江戸時代末期以降に仙台藩の地場産業として成長し、欅の木地に木目が浮かび上がる木地呂（きじろ）塗りと豪華な鉄製の錺金具（把手・蝶番・飾り金具）を組み合わせた重厚な箪笥が特徴。精巧に打ち出された鉄金具の装飾と欅の木目の対比が独自の重厚美を生む、東北を代表する伝統家具。",
+    "desc_en": "Sendai Tansu are traditional chests of drawers produced in Sendai City, Miyagi Prefecture. Developed from the mid-Edo period against the backdrop of Sendai Castle's samurai culture, characterized by heavy and dignified chests combining high-quality zelkova wood with iron decorative metal fittings (handles, hinges, decorative hardware). The combination of 'iron fittings and zelkova wood' is synonymous with Sendai Tansu, with the contrast between elaborately forged iron fittings and the grain of the zelkova creating a unique beauty. Still produced today by Sendai craftsmen protecting traditional techniques, a representative traditional furniture piece of Tohoku.",
+    "techniques": [
+      "欅木地加工",
+      "鉄製錺金具鍛造",
+      "漆仕上げ",
+      "金具取り付け"
+    ],
+    "materials": [
+      "欅（けやき）",
+      "鉄（鍛造金具）",
+      "天然漆"
+    ],
+    "features": [
+      "欅木地と鉄製錺金具の対比が生む仙台箪笥独自の重厚美",
+      "仙台城下の武家文化が育んだ東北を代表する伝統家具",
+      "精巧な鉄金具装飾と欅の木目が織りなす格調ある工芸品"
+    ],
+    "workshops": [
+      {
+        "name": "仙台箪笥工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "宮城県仙台市"
+      }
+    ],
+    "purchase_keywords": "仙台箪笥 購入 宮城 伝統家具 欅 箪笥",
+    "price_range": "小型 150,000円〜 / 中型 400,000円〜 / 大型特注 1,000,000円〜",
+    "lat": 38.2682,
+    "lng": 140.8694,
+    "source": "https://kougeihin.jp/craft/060210/",
+    "ogp_image_desc": "欅木地と鉄製錺金具が重厚な仙台箪笥の全体像"
+  },
+  {
+    "id": "tendo_shogi_koma",
+    "name": "天童将棋駒",
+    "name_en": "Tendo Shogi Koma (Tendo Shogi Pieces)",
+    "name_fr": "Pièces de Shogi de Tendo",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 6,
+    "prefecture": "yamagata",
+    "prefecture_ja": "山形県",
+    "area": "天童市",
+    "founded": 1830,
+    "founded_era": "天保年間",
+    "desc": "山形県天童市で生産される将棋駒。江戸時代後期、天童地方を治めていた織田藩が財政難を救うため下級武士に駒作りの内職を勧めたことが始まりとされる。現在は国内将棋駒生産量の95%以上を天童市が占める。薩摩黄楊・御蔵島黄楊などの高級木地に、名人級の書家が手書きする「書き駒」から量産の「彫り駒」「彫り埋め駒」まで多様な技術レベルで日本の将棋文化を支える。",
+    "desc_en": "Tendo Shogi Koma are shogi pieces produced in Tendo City, Yamagata Prefecture. Said to have begun in the Tenpo era (1830s) when the Tendo domain encouraged samurai families to make shogi pieces as a side business, Tendo City now produces over 95% of all shogi pieces produced domestically. From 'kaki-goma' (hand-written pieces) where master calligraphers write characters on premium wood such as Satsuma boxwood and Mikurashima boxwood, to mass-produced 'hori-goma' (carved pieces) and 'hori-ume-goma' (inlaid carved pieces), diverse technical levels are produced. The production area supporting Japan's national game—shogi culture.",
+    "techniques": [
+      "木地加工（黄楊の成形）",
+      "手書き文字（書き駒）",
+      "彫り・彫り埋め"
+    ],
+    "materials": [
+      "薩摩黄楊（さつまつげ）",
+      "御蔵島黄楊",
+      "漆（駒文字）"
+    ],
+    "features": [
+      "国内将棋駒生産量95%以上を占める「将棋駒の天童」",
+      "手書きから彫り・彫り埋めまで多様な技術レベルの駒を生産",
+      "天保年間の士族副業奨励から発展した山形の伝統産業"
+    ],
+    "workshops": [
+      {
+        "name": "天童市将棋資料館",
+        "url": "https://www.tendo-shogi.co.jp/",
+        "experience": true,
+        "experience_desc": "将棋駒絵付け体験（産地にご確認ください）",
+        "address": "山形県天童市"
+      }
+    ],
+    "purchase_keywords": "天童将棋駒 購入 山形 将棋 黄楊",
+    "price_range": "普及品（彫り駒）5,000円〜 / 中級（彫り埋め）30,000円〜 / 書き駒上位品 100,000円〜",
+    "lat": 38.363,
+    "lng": 140.3772,
+    "source": "https://kougeihin.jp/craft/1401/",
+    "ogp_image_desc": "薩摩黄楊に手書き文字が映える天童将棋駒の並び"
+  },
+  {
+    "id": "nara_sumi",
+    "name": "奈良墨",
+    "name_en": "Nara Sumi (Nara Ink Stick)",
+    "name_fr": "Encre de Nara",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 29,
+    "prefecture": "nara",
+    "prefecture_ja": "奈良県",
+    "area": "奈良市・大和郡山市",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "奈良県奈良市・大和郡山市を中心に生産される書道用の墨。明日香の地に起源を持ち、都が京都に移ってからも奈良には多くの社寺が残ったため、写経や学問に必要な墨の工房が奈良に根付いた。興福寺二諦坊の燈明の煤から作られた油煙墨が「奈良墨」として名声を得て以来、松煙墨・油煙墨の両製法が受け継がれ、現在は全国の墨生産量の約90%を奈良が占める。",
+    "desc_en": "Nara Sumi are ink sticks for calligraphy produced mainly in Nara City and Yamatokoriyama City, Nara Prefecture. Since the ink-making technique was introduced from China in the Nara period, it developed alongside the manuscript culture of temples such as Kofukuji and Todaiji, with Nara now accounting for approximately 90% of domestic ink production. Made by the traditional method of adding glue (nikawa) to soot obtained by burning pine or oil and kneading it solid, pine-smoke ink and oil-smoke ink each have distinct expressive properties. The highest quality pieces develop an even deeper tone through aging for decades.",
+    "techniques": [
+      "松煙・油煙採取",
+      "膠混練",
+      "成型・乾燥（数ヶ月〜数年）"
+    ],
+    "materials": [
+      "松煙（松脂煤）または油煙（菜種油煤）",
+      "膠（にかわ）",
+      "香料"
+    ],
+    "features": [
+      "全国墨生産量約90%を占める「墨の奈良」を代表する伝統産業",
+      "奈良時代から寺院筆写文化とともに発展した約1,300年の歴史",
+      "松煙墨・油煙墨それぞれの独自表現特性と数十年熟成の最高級品"
+    ],
+    "workshops": [
+      {
+        "name": "古梅園（奈良）",
+        "url": "https://www.kobaien.co.jp/",
+        "experience": true,
+        "experience_desc": "墨づくり体験（予約制）",
+        "address": "奈良県奈良市"
+      }
+    ],
+    "purchase_keywords": "奈良墨 購入 書道 松煙墨 油煙墨 奈良",
+    "price_range": "普及品 1,500円〜 / 中級品 5,000円〜 / 最高級品（熟成）50,000円〜",
+    "lat": 34.6851,
+    "lng": 135.805,
+    "source": "https://kougeihin.jp/craft/10051/",
+    "ogp_image_desc": "精緻な型押し装飾が施された奈良墨の松煙墨と油煙墨"
+  },
+  {
+    "id": "ogatsu_suzuri",
+    "name": "雄勝硯",
+    "name_en": "Ogatsu Suzuri (Ogatsu Inkstone)",
+    "name_fr": "Pierre à Encre d'Ogatsu",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 4,
+    "prefecture": "miyagi",
+    "prefecture_ja": "宮城県",
+    "area": "石巻市雄勝町",
+    "founded": 1400,
+    "founded_era": "室町時代",
+    "desc": "宮城県石巻市雄勝町で産出される粘板岩（スレート）を素材とした硯。室町時代から始まったとされ、雄勝の良質な粘板岩から切り出した石材を丁寧に彫刻して仕上げる。きめ細かい石質は墨のすり下ろしに最適で、全国で使われる硯の多くが雄勝産の石を原料としてきた。硯師が一点一点手彫りで仕上げる伝統的な制作技法が今も守られており、東北の石工文化を代表する工芸品として知られる。",
+    "desc_en": "Ogatsu Suzuri are inkstones made from slate (phylite) quarried in Ogatsu Town, Ishinomaki City, Miyagi Prefecture. Said to have begun in the Muromachi period, stone material cut from Ogatsu's high-quality slate is carefully carved and finished. The fine-grained stone is ideal for grinding ink, and much of the inkstone material used throughout Japan has historically come from Ogatsu. The traditional production technique of individually hand-carving each piece by inkstone craftspeople is still maintained, known as a representative craft of Tohoku's stone-working culture.",
+    "techniques": [
+      "粘板岩切り出し",
+      "手彫り成形",
+      "磨き仕上げ"
+    ],
+    "materials": [
+      "雄勝産粘板岩（スレート）"
+    ],
+    "features": [
+      "きめ細かい粘板岩が墨するりに最適な雄勝の高品質硯石",
+      "全国硯市場に原石を供給してきた日本有数の硯石産地",
+      "室町時代から続く東北の石工文化を代表する伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "雄勝硯生産販売協同組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "宮城県石巻市雄勝町"
+      }
+    ],
+    "purchase_keywords": "雄勝硯 購入 宮城 石巻 硯 書道",
+    "price_range": "小型硯 5,000円〜 / 中型 15,000円〜 / 大型特注品 80,000円〜",
+    "lat": 38.5613,
+    "lng": 141.5087,
+    "source": "https://kougeihin.jp/craft/1001/",
+    "ogp_image_desc": "精緻な手彫り文様が施された雄勝硯の粘板岩硯"
+  },
+  {
+    "id": "hosokawa_shi",
+    "name": "細川紙",
+    "name_en": "Hosokawa Shi (Hosokawa Handmade Paper)",
+    "name_fr": "Papier Hosokawa",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "regional",
+    "designation_number": 11,
+    "prefecture": "saitama",
+    "prefecture_ja": "埼玉県",
+    "area": "比企郡小川町",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "埼玉県比企郡小川町で生産される手漉き和紙。室町時代から続く歴史を持ち、雁皮（がんぴ）・三椏（みつまた）・楮を原料とする薄くて丈夫な高品質の和紙として知られる。2014年に「本美濃紙」「石州半紙」とともにユネスコ無形文化遺産「手漉和紙技術」に登録された。文化財の修復・典籍の保存用紙として国内外から高い評価を受け、小川町の清流と熟練の漉き師の技が一枚一枚の紙に凝縮されている。",
+    "desc_en": "Hosokawa Shi is handmade Japanese paper produced in Ogawa Town, Hiki District, Saitama Prefecture. With a history dating to the Muromachi period, it is known as thin yet strong high-quality paper made from ganpi, mitsumata, and kozo fibers. In 2014, it was inscribed on UNESCO's Intangible Cultural Heritage list as 'Washi—Craftsmanship of Hand-made Japanese Paper' together with Hon Mino-shi and Sekishu Hanshi. Highly regarded domestically and internationally for cultural property restoration and preservation of ancient texts, the clear streams of Ogawa Town and skilled papermakers' techniques are concentrated in each sheet.",
+    "techniques": [
+      "手漉き（流し漉き）",
+      "雁皮・三椏・楮の処理",
+      "自然乾燥"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "三椏（みつまた）",
+      "雁皮（がんぴ）",
+      "トロロアオイ"
+    ],
+    "features": [
+      "2014年ユネスコ無形文化遺産登録・本美濃紙・石州半紙と並ぶ日本三大手漉き和紙",
+      "文化財修復・典籍保存に使われる国際的に評価された埼玉の伝統和紙",
+      "室町時代から続く小川町の清流と熟練の技が生む薄くて丈夫な和紙"
+    ],
+    "workshops": [
+      {
+        "name": "埼玉伝統工芸会館（産地にご確認ください）",
+        "url": "https://www.saitama-traditional-craft.jp/",
+        "experience": true,
+        "experience_desc": "紙漉き体験（要確認）",
+        "address": "埼玉県比企郡小川町"
+      }
+    ],
+    "purchase_keywords": "細川紙 購入 小川和紙 埼玉 手漉き",
+    "price_range": "便箋 500円〜 / 色紙 1,000円〜 / 大判シート 2,000円〜",
+    "lat": 36.0562,
+    "lng": 139.2618,
+    "source": "",
+    "ogp_image_desc": "光を透かす繊細な細川紙の薄くて丈夫な和紙シート"
+  },
+  {
+    "id": "nashio_washi",
+    "name": "名塩和紙",
+    "name_en": "Nashio Washi (Nashio Handmade Paper)",
+    "name_fr": "Papier Washi Nashio",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "hyogo",
+    "prefecture_ja": "兵庫県",
+    "area": "西宮市名塩",
+    "founded": 1500,
+    "founded_era": "室町時代後期",
+    "desc": "兵庫県西宮市名塩地区で生産される和紙。室町時代から続く歴史を持ち、楮（こうぞ）を原料とした「鳥の子紙」の名産地として発展してきた。しなやかで丈夫な名塩和紙は障子紙・表具紙・包装紙として広く使われ、六甲山系の清流と良質な土壌が和紙づくりの環境を支えてきた。近世には大坂周辺への供給地として需要が高まり、兵庫の伝統産業として今日まで受け継がれている。",
+    "desc_en": "Nashio Washi is Japanese paper produced in the Nashio district of Nishinomiya City, Hyogo Prefecture. With a history dating to the Muromachi period, it developed as a famous production area for 'torinoko-gami' (high-quality kozo paper) using kozo as raw material. Supple and durable Nashio Washi has been widely used for shoji paper, mounting paper, and wrapping paper, with the clear streams and fertile soil of the Rokko mountain range supporting the paper-making environment. In the modern era, demand grew as a supplier to the Osaka region, and it continues to be passed down as a traditional industry of Hyogo Prefecture.",
+    "techniques": [
+      "手漉き（流し漉き）",
+      "楮処理",
+      "鳥の子紙仕立て"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "トロロアオイ",
+      "六甲山系の清流水"
+    ],
+    "features": [
+      "室町時代から続く「鳥の子紙」の名産地・兵庫の伝統手漉き和紙",
+      "障子紙・表具紙・包装紙として広く愛用されるしなやかで丈夫な和紙",
+      "六甲山系の清流と良質な土壌が和紙づくりを支える兵庫の産地"
+    ],
+    "workshops": [
+      {
+        "name": "名塩和紙工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "兵庫県西宮市名塩"
+      }
+    ],
+    "purchase_keywords": "名塩和紙 購入 兵庫 手漉き 和紙 鳥の子",
+    "price_range": "便箋 500円〜 / 色紙 1,000円〜 / 大判シート 2,000円〜",
+    "lat": 34.8178,
+    "lng": 135.3109,
+    "source": "https://kougeihin.jp/craft/2801/",
+    "ogp_image_desc": "六甲山系の清流で漉かれた名塩和紙の白く美しいシート"
+  },
+  {
+    "id": "yoshino_washi",
+    "name": "吉野和紙",
+    "name_en": "Yoshino Washi (Yoshino Handmade Paper)",
+    "name_fr": "Papier Washi Yoshino",
+    "category": "paper",
+    "category_ja": "和紙",
+    "designation": "meti",
+    "designation_number": 29,
+    "prefecture": "nara",
+    "prefecture_ja": "奈良県",
+    "area": "吉野郡吉野町",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "奈良県吉野郡吉野町で生産される手漉き和紙。奈良時代から続く由緒ある産地で、吉野山系の清流・吉野川の水と良質な楮を使って漉かれる。薄くて透明感があり強度も高い「吉野薄美濃」は文化財修復・版画・書道用紙として国内外で重宝されてきた。世界遺産・吉野山の麓で受け継がれる古都奈良の伝統和紙として、現代も少数の職人が手漉きの技を継承し続けている。",
+    "desc_en": "Yoshino Washi is handmade Japanese paper produced in Yoshino Town, Yoshino District, Nara Prefecture. A prestigious production area dating to the Nara period, it is made using the clear waters of the Yoshino River from the Yoshino mountain range and high-quality kozo. The thin, translucent yet strong 'Yoshino usumino' has long been prized domestically and internationally for cultural property restoration, printmaking, and calligraphy paper. As the traditional paper of ancient Nara, passed down at the foot of the UNESCO World Heritage Yoshino-san, a small number of craftspeople continue to inherit the hand-papermaking technique today.",
+    "techniques": [
+      "手漉き（流し漉き）",
+      "楮処理",
+      "自然乾燥"
+    ],
+    "materials": [
+      "楮（こうぞ）",
+      "トロロアオイ",
+      "吉野川の清流水"
+    ],
+    "features": [
+      "奈良時代から続く世界遺産・吉野山麓の由緒ある手漉き和紙産地",
+      "薄くて透明感があり強度も高い吉野薄美濃は文化財修復・版画用途に重宝",
+      "吉野川の清流と良質な楮が生む古都奈良の伝統和紙文化"
+    ],
+    "workshops": [
+      {
+        "name": "吉野和紙工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "奈良県吉野郡吉野町"
+      }
+    ],
+    "purchase_keywords": "吉野和紙 購入 奈良 吉野 手漉き 和紙",
+    "price_range": "便箋 500円〜 / 色紙 1,000円〜 / 大判シート 2,000円〜",
+    "lat": 34.3717,
+    "lng": 135.8543,
+    "source": "https://kougeihin.jp/craft/2901/",
+    "ogp_image_desc": "吉野川の清流で漉かれた吉野和紙の薄く透明感のある美しいシート"
+  },
+  {
+    "id": "narakiso_rokuro",
+    "name": "南木曽ろくろ細工",
+    "name_en": "Narakiso Rokuro Zaiku (Narakiso Lathe-Turned Wood Craft)",
+    "name_fr": "Tournage sur Bois de Narakiso",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 20,
+    "prefecture": "nagano",
+    "prefecture_ja": "長野県",
+    "area": "木曽郡南木曽町",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "長野県木曽郡南木曽町で生産される木製ろくろ挽き工芸品。木曽ヒノキ・サワラなどの良質な銘木を使い、電動ろくろや手持ちかんなで挽いて成形する轆轤（ろくろ）細工の技術が特徴。盆・椀・花器・茶道具など多彩な製品を生産し、木曽の豊富な森林資源を活かした伝統工芸として地域経済を支えてきた。木目を生かした素朴な美しさと実用性を兼ね備えた南木曽の木工芸は、木曽路の工芸文化を今に伝える貴重な産業遺産。",
+    "desc_en": "Narakiso Rokuro Zaiku is lathe-turned wooden craft produced in Narakiso Town, Kiso District, Nagano Prefecture. Using high-quality timber such as Kiso cypress and sawara cypress, the craft is characterized by the technique of shaping on a lathe using electric lathes and hand planes. A diverse range of products is produced including trays, bowls, flower vases, and tea ceremony utensils, supporting the regional economy as a traditional craft utilizing the abundant forest resources of Kiso. The humble beauty showcasing natural wood grain combined with practicality makes Narakiso's wooden craft a precious industrial heritage conveying the craft culture of the Kiso Road.",
+    "techniques": [
+      "ろくろ挽き（電動ろくろ・手持ちかんな）",
+      "木地仕上げ",
+      "漆仕上げ（一部）"
+    ],
+    "materials": [
+      "木曽ヒノキ",
+      "サワラ",
+      "欅・栃などの広葉樹"
+    ],
+    "features": [
+      "木曽ヒノキ・サワラの良質な銘木をろくろ挽きで成形する木曽の伝統木工",
+      "盆・椀・花器・茶道具など日用品から茶道具まで多彩な製品を生産",
+      "木曽の豊富な森林資源と職人技が一体となった南木曽の木工芸文化"
+    ],
+    "workshops": [
+      {
+        "name": "南木曽ろくろ細工工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "長野県木曽郡南木曽町"
+      }
+    ],
+    "purchase_keywords": "南木曽ろくろ細工 購入 木曽 長野 木工",
+    "price_range": "小皿 2,000円〜 / 椀 5,000円〜 / 花器 10,000円〜",
+    "lat": 35.5958,
+    "lng": 137.5886,
+    "source": "https://kougeihin.jp/craft/0613/",
+    "ogp_image_desc": "木曽ヒノキの木目が美しい南木曽ろくろ細工の椀と盆"
+  },
+  {
+    "id": "akita_sugi_okedaru",
+    "name": "秋田杉桶樽",
+    "name_en": "Akita Sugi Oke Daru (Akita Cedar Tub and Barrel)",
+    "name_fr": "Tonnellerie en Cèdre d'Akita",
+    "category": "woodwork",
+    "category_ja": "木竹工芸品",
+    "designation": "meti",
+    "designation_number": 5,
+    "prefecture": "akita",
+    "prefecture_ja": "秋田県",
+    "area": "大館市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "秋田県大館市を中心に生産される秋田杉製の桶（おけ）・樽（たる）。秋田杉の産地・大館で江戸時代から桶職人が活動し、酒造・醤油・味噌醸造用の大型木桶から日用品の手桶まで幅広く生産してきた。年輪が細かく強靭な秋田杉は水分への耐久性が高く、漬物桶・風呂桶・おひつなど生活に根付いた実用的な木工芸品として愛されてきた。秋田の豊富な杉資源と桶職人の精巧な竹・針金タガ締め技術が生む、機能美と伝統が融合した工芸品。",
+    "desc_en": "Akita Sugi Oke Daru are tubs and barrels made from Akita cedar, produced mainly in Odate City, Akita Prefecture. In Odate, the production area of Akita cedar, barrel craftspeople have been active since the Edo period, producing a wide range from large wooden barrels for sake brewing, soy sauce, and miso fermentation, to everyday hand buckets. Akita cedar with its fine grain rings is highly durable against moisture, and has long been cherished as practical wooden craft deeply rooted in daily life, including pickling tubs, bathtubs, and rice cookers (ohitsu). This is a craft that fuses functional beauty and tradition, born from Akita's abundant cedar resources and the precise bamboo/wire hoop-binding techniques of barrel craftspeople.",
+    "techniques": [
+      "薄板削り出し",
+      "竹タガ締め（竹・針金）",
+      "側板接合",
+      "底板仕込み"
+    ],
+    "materials": [
+      "秋田杉",
+      "竹（タガ用）",
+      "針金"
+    ],
+    "features": [
+      "秋田杉の細かい年輪と高い耐久性が生む桶・樽の実用的工芸品",
+      "酒造・醤油・味噌醸造から漬物桶・風呂桶まで幅広い生活用途",
+      "大館の豊富な秋田杉資源と精巧な竹タガ締め技術が生む機能美"
+    ],
+    "workshops": [
+      {
+        "name": "大館市秋田杉工芸（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "秋田県大館市"
+      }
+    ],
+    "purchase_keywords": "秋田杉桶樽 購入 桶 樽 秋田杉 大館",
+    "price_range": "小型手桶 5,000円〜 / 漬物桶 15,000円〜 / 大型醸造桶 100,000円〜",
+    "lat": 40.271,
+    "lng": 140.5681,
+    "source": "https://kougeihin.jp/craft/0605/",
+    "ogp_image_desc": "秋田杉の年輪が美しい竹タガ締めの桶と樽"
+  }
+]

@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>地図で探す伝統工芸品 — 都道府県別一覧 | Terroir HUB CRAFT</title>
+<meta name="description" content="日本地図から伝統工芸品を産地・都道府県別に探せます。石川県の九谷焼・輪島塗、京都府の西陣織・京漆器など46都道府県の工芸品を網羅。">
+<link rel="canonical" href="https://craft.terroirhub.com/craft/map/">
+<link rel="alternate" hreflang="ja" href="https://craft.terroirhub.com/craft/map/">
+<link rel="alternate" hreflang="en" href="https://craft.terroirhub.com/en/craft/map/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://craft.terroirhub.com/craft/map/",
+      "url": "https://craft.terroirhub.com/craft/map/",
+      "name": "地図で探す伝統工芸品 — 都道府県別一覧 | Terroir HUB CRAFT",
+      "description": "日本地図から伝統工芸品を産地・都道府県別に探せます。",
+      "inLanguage": "ja",
+      "isPartOf": {"@id": "https://craft.terroirhub.com/"}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem","position": 1,"name": "Terroir HUB CRAFT","item": "https://craft.terroirhub.com/"},
+        {"@type": "ListItem","position": 2,"name": "産地から探す","item": "https://craft.terroirhub.com/craft/map/"}
+      ]
+    }
+  ]
+}
+</script>
+<style>
+:root{
+  --bg:#FAF8F5;--bg2:#F3EDE6;--accent:#2E5E4E;--accent2:#C4A265;
+  --accent-light:#EAF2EE;--accent-gold:#E8C97A;--text:#1A1A18;
+  --text2:#5C5A56;--text3:#8A8880;--border:#E8E0D6;
+  --nav-h:56px;--radius:12px;
+  --shadow:0 2px 16px rgba(46,94,78,.10);--shadow-lg:0 8px 40px rgba(46,94,78,.16);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans JP','Inter',sans-serif;font-size:15px;line-height:1.7;-webkit-font-smoothing:antialiased}
+
+nav{position:fixed;top:0;left:0;right:0;height:var(--nav-h);background:rgba(250,248,245,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:1000;display:flex;align-items:center;padding:0 24px;gap:24px}
+.nav-logo{font-family:'Shippori Mincho',serif;font-size:17px;font-weight:700;color:var(--accent);letter-spacing:.05em;text-decoration:none;white-space:nowrap}
+.nav-logo span{color:var(--accent2);font-size:11px;letter-spacing:.12em;display:block;font-family:'Inter',sans-serif;font-weight:600;text-transform:uppercase}
+.nav-links{display:flex;align-items:center;gap:20px;margin-left:8px}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;font-weight:500;transition:color .2s;white-space:nowrap}
+.nav-links a:hover,.nav-links a.active{color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+.auth-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 16px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.auth-btn:hover{background:#245048}
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:4px}
+.hamburger span{width:22px;height:2px;background:var(--text);border-radius:2px;transition:all .3s}
+.mobile-menu{position:fixed;top:0;right:-100%;width:280px;height:100dvh;background:var(--bg);border-left:1px solid var(--border);z-index:2000;transition:right .3s ease;padding:80px 24px 32px;display:flex;flex-direction:column;gap:16px}
+.mobile-menu.open{right:0}
+.mobile-menu a{color:var(--text);text-decoration:none;font-size:16px;font-weight:500;padding:12px 0;border-bottom:1px solid var(--border)}
+.menu-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:1999}
+.menu-overlay.open{display:block}
+.mm-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:24px;cursor:pointer;color:var(--text2)}
+
+/* Page header */
+.page-header{padding-top:calc(var(--nav-h) + 48px);padding-bottom:48px;padding-left:24px;padding-right:24px;background:linear-gradient(135deg,#f0ebe3,#e8f0ec)}
+.page-header-inner{max-width:1400px;margin:0 auto}
+.page-header-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.page-header h1{font-family:'Shippori Mincho',serif;font-size:clamp(30px,4vw,44px);font-weight:700;margin-bottom:12px}
+.page-header p{color:var(--text2);font-size:15px;max-width:600px}
+.page-header-stats{display:flex;gap:32px;margin-top:24px;flex-wrap:wrap}
+.header-stat{display:flex;flex-direction:column}
+.header-stat-num{font-family:'Inter',sans-serif;font-size:28px;font-weight:700;color:var(--accent);line-height:1}
+.header-stat-label{font-size:12px;color:var(--text3);margin-top:4px}
+
+/* Main map layout */
+.map-wrapper{max-width:1400px;margin:0 auto;padding:40px 24px 0}
+.map-layout{display:grid;grid-template-columns:1fr 380px;gap:32px;align-items:start}
+
+/* SVG Map container */
+.map-container{background:#fff;border:1px solid var(--border);border-radius:20px;overflow:hidden;box-shadow:var(--shadow);position:relative}
+.map-container-inner{padding:20px}
+.map-legend{display:flex;gap:16px;flex-wrap:wrap;padding:12px 20px;border-top:1px solid var(--border);background:var(--bg2)}
+.legend-item{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text2)}
+.legend-dot{width:12px;height:12px;border-radius:50%;flex-shrink:0;border:1px solid rgba(0,0,0,.08)}
+.legend-dot.none{background:#EDE7DE}
+.legend-dot.low{background:#d4e8de}
+.legend-dot.mid{background:#a2cdb8}
+.legend-dot.high{background:#2E5E4E}
+
+/* SVG prefecture styles */
+#japan-map{width:100%;height:auto;display:block}
+.pref-path{
+  fill:#d4e8de;
+  stroke:#fff;
+  stroke-width:1.5;
+  cursor:pointer;
+  transition:fill .2s,stroke .2s;
+  stroke-linejoin:round;
+}
+.pref-path:hover{fill:var(--accent-light);stroke:var(--accent);stroke-width:2}
+.pref-path.hovered{fill:var(--accent-light);stroke:var(--accent);stroke-width:2}
+.pref-path.selected{fill:var(--accent);stroke:#1a4035;stroke-width:2.5}
+.pref-path.count-none{fill:#EDE7DE}
+.pref-path.count-low{fill:#d4e8de}
+.pref-path.count-mid{fill:#a2cdb8}
+.pref-path.count-high{fill:#2E5E4E}
+.pref-path.count-high.hovered,.pref-path.count-high:hover{fill:#245048}
+.pref-label{font-family:'Noto Sans JP',sans-serif;font-size:7px;fill:#1A1A18;pointer-events:none;text-anchor:middle;dominant-baseline:middle;font-weight:500}
+
+/* Map tooltip */
+.map-tooltip{position:absolute;background:rgba(26,26,24,.88);color:#fff;font-size:12px;padding:6px 10px;border-radius:6px;pointer-events:none;white-space:nowrap;z-index:100;transition:opacity .15s;opacity:0;backdrop-filter:blur(6px)}
+.map-tooltip.visible{opacity:1}
+
+/* Info panel */
+.map-panel{background:#fff;border:1px solid var(--border);border-radius:20px;box-shadow:var(--shadow);position:sticky;top:calc(var(--nav-h) + 16px);overflow:hidden}
+.panel-default{padding:40px 32px;text-align:center;color:var(--text3)}
+.panel-default-icon{font-size:56px;margin-bottom:16px;opacity:.5}
+.panel-default-title{font-family:'Shippori Mincho',serif;font-size:18px;color:var(--text2);margin-bottom:8px}
+.panel-default-desc{font-size:13px;line-height:1.7}
+
+.panel-content{display:none;padding:0}
+.panel-pref-hero{background:linear-gradient(135deg,var(--accent-light),#f0e8d8);padding:28px 28px 20px;border-bottom:1px solid var(--border)}
+.panel-pref-label{font-family:'Inter',sans-serif;font-size:10px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.panel-pref-name{font-family:'Shippori Mincho',serif;font-size:32px;font-weight:700;color:var(--text);line-height:1.2;margin-bottom:8px}
+.panel-pref-name-en{font-family:'Inter',sans-serif;font-size:13px;color:var(--text3);letter-spacing:.08em;text-transform:uppercase;margin-bottom:12px}
+.panel-count-badge{display:inline-flex;align-items:center;gap:6px;background:var(--accent);color:#fff;border-radius:20px;padding:6px 14px;font-size:13px;font-weight:600;font-family:'Inter',sans-serif}
+.panel-count-badge .n{font-size:22px;font-weight:700;line-height:1}
+.panel-count-badge .u{font-family:'Noto Sans JP',sans-serif;font-size:12px}
+
+.panel-body{padding:24px 28px}
+.panel-chips-title{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--text3);margin-bottom:14px;font-family:'Inter',sans-serif}
+.craft-chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px}
+.craft-chip{display:inline-block;background:var(--bg2);color:var(--accent);text-decoration:none;font-size:12px;font-weight:500;padding:5px 12px;border-radius:20px;border:1px solid rgba(46,94,78,.15);transition:all .2s;white-space:nowrap;font-family:'Noto Sans JP',sans-serif}
+.craft-chip:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+.craft-chip.cat-ceramics{border-left:3px solid #b5784a}
+.craft-chip.cat-lacquerware{border-left:3px solid #c4121a}
+.craft-chip.cat-textiles{border-left:3px solid #6b4fa0}
+.craft-chip.cat-dyeing{border-left:3px solid #e06080}
+.craft-chip.cat-metalwork{border-left:3px solid #607090}
+.craft-chip.cat-paper_woodwork{border-left:3px solid #8a7040}
+.craft-chip.cat-dolls{border-left:3px solid #d08030}
+.craft-chip.cat-buddhist{border-left:3px solid #5a8050}
+.craft-chip.cat-other{border-left:3px solid #888}
+
+.view-all-btn{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--accent);color:#fff;text-decoration:none;border-radius:10px;padding:12px 20px;font-size:14px;font-weight:600;font-family:'Noto Sans JP',sans-serif;transition:all .2s;margin-top:8px}
+.view-all-btn:hover{background:#245048;transform:translateY(-1px)}
+.view-all-btn::after{content:'→';font-size:16px}
+
+/* Region cards below map */
+.region-section{max-width:1400px;margin:48px auto 0;padding:0 24px 80px}
+.region-section-header{display:flex;align-items:baseline;gap:16px;margin-bottom:8px}
+.section-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent)}
+.section-title{font-family:'Shippori Mincho',serif;font-size:clamp(22px,3vw,30px);font-weight:700;margin-bottom:8px}
+.section-desc{color:var(--text2);font-size:14px;margin-bottom:32px}
+
+.region-cards{display:grid;grid-template-columns:repeat(7,1fr);gap:12px;margin-bottom:48px}
+.region-card-mini{background:#fff;border:1px solid var(--border);border-radius:12px;padding:16px 12px;text-align:center;cursor:pointer;transition:all .2s;text-decoration:none;display:flex;flex-direction:column;align-items:center}
+.region-card-mini:hover{border-color:var(--accent);transform:translateY(-3px);box-shadow:var(--shadow)}
+.region-card-mini.active{border-color:var(--accent);background:var(--accent-light)}
+.rcm-name{font-family:'Shippori Mincho',serif;font-size:14px;font-weight:700;color:var(--text);margin-bottom:4px}
+.rcm-count{font-family:'Inter',sans-serif;font-size:18px;font-weight:700;color:var(--accent)}
+.rcm-unit{font-size:11px;color:var(--text3)}
+
+/* Pref list under map */
+.pref-list-section{margin-top:48px}
+.pref-region-header{font-family:'Shippori Mincho',serif;font-size:18px;font-weight:700;padding-bottom:10px;border-bottom:2px solid var(--accent);margin-bottom:16px;margin-top:32px;color:var(--text)}
+.pref-mini-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:8px;margin-bottom:8px}
+.pref-mini-item{background:#fff;border:1px solid var(--border);border-radius:8px;padding:10px 8px;text-align:center;cursor:pointer;transition:all .2s;text-decoration:none;display:block}
+.pref-mini-item:hover{border-color:var(--accent);background:var(--accent-light)}
+.pmi-name{font-size:13px;font-weight:500;color:var(--text);display:block}
+.pmi-count{font-size:11px;color:var(--accent);font-weight:700;font-family:'Inter',sans-serif;margin-top:2px;display:block}
+
+/* Loading state */
+.loading-overlay{position:absolute;inset:0;background:rgba(250,248,245,.8);display:flex;align-items:center;justify-content:center;z-index:50;border-radius:20px}
+.loading-spinner{width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Footer */
+footer{background:#1a1a18;color:rgba(255,255,255,.5);padding:40px 24px 24px;font-size:13px}
+.footer-inner{max-width:1400px;margin:0 auto}
+.footer-top{display:grid;grid-template-columns:1fr 2fr;gap:48px;margin-bottom:40px}
+.footer-brand{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:8px}
+.footer-brand-en{font-size:11px;letter-spacing:.15em;color:var(--accent-gold);font-family:'Inter',sans-serif;text-transform:uppercase}
+.footer-desc{font-size:13px;color:rgba(255,255,255,.45);margin-top:12px;line-height:1.7}
+.footer-links{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.footer-col h4{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px}
+.footer-col a{display:block;color:rgba(255,255,255,.45);text-decoration:none;font-size:12px;margin-bottom:8px;transition:color .2s}
+.footer-col a:hover{color:rgba(255,255,255,.9)}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;display:flex;justify-content:space-between;align-items:center;font-size:12px}
+
+/* Responsive */
+@media(max-width:1100px){
+  .map-layout{grid-template-columns:1fr;gap:24px}
+  .map-panel{position:static}
+  .region-cards{grid-template-columns:repeat(7,1fr)}
+}
+@media(max-width:900px){
+  .nav-links{display:none}
+  .hamburger{display:flex}
+  .footer-top{grid-template-columns:1fr}
+  .footer-links{grid-template-columns:repeat(2,1fr)}
+  .region-cards{grid-template-columns:repeat(4,1fr)}
+}
+@media(max-width:600px){
+  .map-wrapper{padding:24px 16px 0}
+  .region-section{padding:0 16px 60px}
+  .page-header-stats{gap:20px}
+  .region-cards{grid-template-columns:repeat(3,1fr);gap:8px}
+  .pref-mini-grid{grid-template-columns:repeat(auto-fill,minmax(80px,1fr))}
+  .footer-links{grid-template-columns:1fr}
+  .footer-bottom{flex-direction:column;gap:12px;text-align:center}
+  .panel-pref-name{font-size:24px}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">Terroir HUB<span>CRAFT</span></a>
+  <div class="nav-links">
+    <a href="/craft/search/">工芸品検索</a>
+    <a href="/craft/category/">カテゴリ</a>
+    <a href="/craft/map/" class="active">地図で探す</a>
+    <a href="/craft/experience/">体験・工房</a>
+    <a href="/craft/plans/">プラン</a>
+  </div>
+  <div class="nav-right">
+    <button class="auth-btn">ログイン</button>
+    <button class="hamburger" onclick="openMM()" aria-label="メニュー"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="menu-overlay" id="mmOverlay" onclick="closeMM()"></div>
+<div class="mobile-menu" id="mobileMenu">
+  <button class="mm-close" onclick="closeMM()">✕</button>
+  <a href="/craft/search/" onclick="closeMM()">🔍 工芸品検索</a>
+  <a href="/craft/category/" onclick="closeMM()">🏺 カテゴリ一覧</a>
+  <a href="/craft/map/" onclick="closeMM()">🗾 地図で探す</a>
+  <a href="/craft/experience/" onclick="closeMM()">🎨 体験・工房</a>
+  <a href="/craft/plans/" onclick="closeMM()">⭐ プラン</a>
+  <a href="https://terroirhub.com">Terroir HUB TOP</a>
+</div>
+
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-label">Map Discovery</p>
+    <h1>産地から探す</h1>
+    <p>地図で日本の伝統工芸品を探す — 都道府県をクリックして、その土地ならではの工芸品を発見してください。</p>
+    <div class="page-header-stats">
+      <div class="header-stat">
+        <span class="header-stat-num" id="total-count">...</span>
+        <span class="header-stat-label">総工芸品数</span>
+      </div>
+      <div class="header-stat">
+        <span class="header-stat-num">46</span>
+        <span class="header-stat-label">工芸品産地都道府県</span>
+      </div>
+      <div class="header-stat">
+        <span class="header-stat-num">9</span>
+        <span class="header-stat-label">工芸カテゴリ</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="map-wrapper">
+  <div class="map-layout">
+
+    <!-- SVG Map -->
+    <div class="map-container">
+      <div class="map-container-inner" style="position:relative">
+        <div class="loading-overlay" id="mapLoading">
+          <div class="loading-spinner"></div>
+        </div>
+        <svg id="japan-map" viewBox="0 0 800 860" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="日本地図 — 都道府県別伝統工芸品">
+          <title>日本地図 — 都道府県別伝統工芸品</title>
+          <defs>
+            <filter id="shadow-pref" x="-10%" y="-10%" width="120%" height="120%">
+              <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(46,94,78,.25)"/>
+            </filter>
+          </defs>
+
+          <!-- ===== HOKKAIDO ===== -->
+          <path class="pref-path" data-pref="hokkaido" data-name="北海道"
+            d="M560,30 L620,28 L670,40 L700,55 L710,80 L700,110 L680,130 L660,145 L635,148 L610,140 L590,125 L570,110 L555,90 L548,68 Z"/>
+          <!-- Hokkaido peninsula -->
+          <path class="pref-path" data-pref="hokkaido" data-name="北海道"
+            d="M560,30 L548,68 L555,90 L540,95 L530,85 L525,70 L535,50 Z"/>
+          <text class="pref-label" x="628" y="88">北海道</text>
+
+          <!-- ===== TOHOKU ===== -->
+          <!-- Aomori -->
+          <path class="pref-path" data-pref="aomori" data-name="青森県"
+            d="M530,168 L560,162 L575,170 L580,190 L572,205 L555,210 L538,205 L525,195 L520,180 Z"/>
+          <text class="pref-label" x="549" y="188">青森</text>
+
+          <!-- Iwate -->
+          <path class="pref-path" data-pref="iwate" data-name="岩手県"
+            d="M558,212 L578,207 L592,215 L596,235 L592,260 L580,278 L562,280 L548,268 L542,248 L544,228 Z"/>
+          <text class="pref-label" x="569" y="245">岩手</text>
+
+          <!-- Miyagi -->
+          <path class="pref-path" data-pref="miyagi" data-name="宮城県"
+            d="M542,250 L558,248 L570,258 L572,275 L560,282 L546,280 L536,270 L534,258 Z"/>
+          <text class="pref-label" x="552" y="267">宮城</text>
+
+          <!-- Akita -->
+          <path class="pref-path" data-pref="akita" data-name="秋田県"
+            d="M518,195 L534,193 L542,205 L544,228 L538,248 L526,258 L512,255 L502,240 L500,218 L508,203 Z"/>
+          <text class="pref-label" x="521" y="228">秋田</text>
+
+          <!-- Yamagata -->
+          <path class="pref-path" data-pref="yamagata" data-name="山形県"
+            d="M502,242 L516,240 L526,250 L528,268 L520,282 L506,285 L492,278 L486,262 L488,248 Z"/>
+          <text class="pref-label" x="507" y="264">山形</text>
+
+          <!-- Fukushima -->
+          <path class="pref-path" data-pref="fukushima" data-name="福島県"
+            d="M488,280 L510,278 L528,282 L542,285 L548,300 L540,318 L522,322 L504,320 L488,315 L478,300 L480,288 Z"/>
+          <text class="pref-label" x="513" y="300">福島</text>
+
+          <!-- ===== KANTO ===== -->
+          <!-- Ibaraki -->
+          <path class="pref-path" data-pref="ibaraki" data-name="茨城県"
+            d="M548,302 L562,298 L572,305 L575,322 L568,340 L554,345 L540,340 L534,325 L536,310 Z"/>
+          <text class="pref-label" x="554" y="323">茨城</text>
+
+          <!-- Tochigi -->
+          <path class="pref-path" data-pref="tochigi" data-name="栃木県"
+            d="M522,298 L538,295 L548,305 L546,322 L534,332 L520,330 L508,322 L506,308 Z"/>
+          <text class="pref-label" x="527" y="315">栃木</text>
+
+          <!-- Gunma -->
+          <path class="pref-path" data-pref="gunma" data-name="群馬県"
+            d="M500,300 L514,296 L522,306 L520,322 L508,328 L494,325 L485,315 L486,305 Z"/>
+          <text class="pref-label" x="502" y="314">群馬</text>
+
+          <!-- Saitama -->
+          <path class="pref-path" data-pref="saitama" data-name="埼玉県"
+            d="M494,322 L508,320 L520,328 L518,342 L506,348 L492,345 L484,336 L484,328 Z"/>
+          <text class="pref-label" x="501" y="336">埼玉</text>
+
+          <!-- Chiba -->
+          <path class="pref-path" data-pref="chiba" data-name="千葉県"
+            d="M534,338 L548,335 L562,340 L566,358 L558,372 L544,378 L532,370 L526,356 L528,344 Z"/>
+          <text class="pref-label" x="545" y="357">千葉</text>
+
+          <!-- Tokyo -->
+          <path class="pref-path" data-pref="tokyo" data-name="東京都"
+            d="M510,342 L522,340 L530,348 L528,358 L518,362 L508,358 L504,350 Z"/>
+          <text class="pref-label" x="515" y="352">東京</text>
+
+          <!-- Kanagawa -->
+          <path class="pref-path" data-pref="kanagawa" data-name="神奈川県"
+            d="M502,360 L514,356 L526,360 L525,374 L514,380 L500,378 L492,370 L492,364 Z"/>
+          <text class="pref-label" x="508" y="370">神奈川</text>
+
+          <!-- ===== CHUBU / HOKURIKU ===== -->
+          <!-- Niigata -->
+          <path class="pref-path" data-pref="niigata" data-name="新潟県"
+            d="M448,258 L468,252 L482,256 L490,272 L492,292 L486,308 L472,312 L456,305 L444,292 L440,275 Z"/>
+          <text class="pref-label" x="466" y="283">新潟</text>
+
+          <!-- Toyama -->
+          <path class="pref-path" data-pref="toyama" data-name="富山県"
+            d="M440,318 L456,312 L466,320 L464,336 L452,342 L438,338 L432,328 Z"/>
+          <text class="pref-label" x="449" y="330">富山</text>
+
+          <!-- Ishikawa -->
+          <path class="pref-path" data-pref="ishikawa" data-name="石川県"
+            d="M414,310 L430,306 L440,315 L440,332 L430,342 L418,345 L406,338 L402,325 L406,314 Z"/>
+          <!-- Noto peninsula -->
+          <path class="pref-path" data-pref="ishikawa" data-name="石川県"
+            d="M420,290 L430,285 L436,292 L430,302 L420,305 L414,298 Z"/>
+          <text class="pref-label" x="420" y="325">石川</text>
+
+          <!-- Fukui -->
+          <path class="pref-path" data-pref="fukui" data-name="福井県"
+            d="M398,342 L414,338 L424,346 L422,362 L410,368 L396,364 L389,352 Z"/>
+          <text class="pref-label" x="406" y="355">福井</text>
+
+          <!-- Yamanashi -->
+          <path class="pref-path" data-pref="yamanashi" data-name="山梨県"
+            d="M480,348 L494,344 L504,352 L502,366 L490,372 L476,368 L470,358 Z"/>
+          <text class="pref-label" x="486" y="359">山梨</text>
+
+          <!-- Nagano -->
+          <path class="pref-path" data-pref="nagano" data-name="長野県"
+            d="M448,338 L464,332 L476,340 L480,358 L474,378 L460,384 L444,380 L436,366 L434,350 Z"/>
+          <text class="pref-label" x="457" y="360">長野</text>
+
+          <!-- Gifu -->
+          <path class="pref-path" data-pref="gifu" data-name="岐阜県"
+            d="M420,358 L436,352 L448,360 L450,378 L440,392 L424,396 L410,388 L405,373 L408,360 Z"/>
+          <text class="pref-label" x="427" y="378">岐阜</text>
+
+          <!-- Shizuoka -->
+          <path class="pref-path" data-pref="shizuoka" data-name="静岡県"
+            d="M468,378 L482,374 L494,378 L498,394 L488,408 L472,412 L458,406 L452,392 L456,380 Z"/>
+          <text class="pref-label" x="475" y="394">静岡</text>
+
+          <!-- Aichi -->
+          <path class="pref-path" data-pref="aichi" data-name="愛知県"
+            d="M438,388 L452,384 L462,392 L462,408 L450,416 L436,412 L427,402 L428,392 Z"/>
+          <text class="pref-label" x="444" y="401">愛知</text>
+
+          <!-- ===== KINKI ===== -->
+          <!-- Mie -->
+          <path class="pref-path" data-pref="mie" data-name="三重県"
+            d="M406,394 L420,388 L432,394 L432,410 L422,425 L408,430 L396,422 L390,408 L392,397 Z"/>
+          <text class="pref-label" x="411" y="411">三重</text>
+
+          <!-- Shiga -->
+          <path class="pref-path" data-pref="shiga" data-name="滋賀県"
+            d="M378,370 L392,364 L402,372 L402,388 L392,396 L378,392 L370,383 L371,374 Z"/>
+          <text class="pref-label" x="385" y="381">滋賀</text>
+
+          <!-- Kyoto -->
+          <path class="pref-path" data-pref="kyoto" data-name="京都府"
+            d="M355,358 L370,352 L382,360 L382,378 L370,385 L356,381 L347,370 L348,361 Z"/>
+          <text class="pref-label" x="364" y="370">京都</text>
+
+          <!-- Osaka -->
+          <path class="pref-path" data-pref="osaka" data-name="大阪府"
+            d="M352,378 L364,374 L374,382 L372,396 L360,402 L348,398 L342,388 L344,381 Z"/>
+          <text class="pref-label" x="357" y="390">大阪</text>
+
+          <!-- Hyogo -->
+          <path class="pref-path" data-pref="hyogo" data-name="兵庫県"
+            d="M322,356 L340,350 L354,356 L355,372 L345,382 L328,382 L316,372 L313,361 Z"/>
+          <!-- Awaji island (small) -->
+          <path class="pref-path" data-pref="hyogo" data-name="兵庫県"
+            d="M330,390 L336,387 L340,392 L336,399 L330,397 Z"/>
+          <text class="pref-label" x="334" y="366">兵庫</text>
+
+          <!-- Nara -->
+          <path class="pref-path" data-pref="nara" data-name="奈良県"
+            d="M354,394 L366,390 L375,398 L372,414 L360,420 L347,416 L341,405 L344,396 Z"/>
+          <text class="pref-label" x="357" y="407">奈良</text>
+
+          <!-- Wakayama -->
+          <path class="pref-path" data-pref="wakayama" data-name="和歌山県"
+            d="M337,408 L350,404 L360,412 L358,428 L346,436 L332,432 L324,420 L326,410 Z"/>
+          <text class="pref-label" x="340" y="421">和歌山</text>
+
+          <!-- ===== CHUGOKU ===== -->
+          <!-- Tottori -->
+          <path class="pref-path" data-pref="tottori" data-name="鳥取県"
+            d="M292,342 L312,337 L325,344 L323,358 L309,362 L294,358 L285,350 Z"/>
+          <text class="pref-label" x="304" y="350">鳥取</text>
+
+          <!-- Shimane -->
+          <path class="pref-path" data-pref="shimane" data-name="島根県"
+            d="M254,340 L278,335 L295,340 L292,356 L274,360 L256,357 L246,348 Z"/>
+          <text class="pref-label" x="270" y="348">島根</text>
+
+          <!-- Okayama -->
+          <path class="pref-path" data-pref="okayama" data-name="岡山県"
+            d="M292,360 L310,355 L324,362 L323,378 L310,385 L294,382 L284,373 L285,363 Z"/>
+          <text class="pref-label" x="304" y="372">岡山</text>
+
+          <!-- Hiroshima -->
+          <path class="pref-path" data-pref="hiroshima" data-name="広島県"
+            d="M258,358 L278,353 L292,360 L290,376 L276,382 L259,378 L250,368 Z"/>
+          <text class="pref-label" x="270" y="368">広島</text>
+
+          <!-- Yamaguchi -->
+          <path class="pref-path" data-pref="yamaguchi" data-name="山口県"
+            d="M220,358 L242,352 L258,358 L256,374 L240,380 L222,376 L213,366 Z"/>
+          <text class="pref-label" x="234" y="366">山口</text>
+
+          <!-- ===== SHIKOKU ===== -->
+          <!-- Tokushima -->
+          <path class="pref-path" data-pref="tokushima" data-name="徳島県"
+            d="M316,392 L330,388 L340,396 L337,410 L323,414 L311,408 L307,398 Z"/>
+          <text class="pref-label" x="321" y="402">徳島</text>
+
+          <!-- Kagawa -->
+          <path class="pref-path" data-pref="kagawa" data-name="香川県"
+            d="M300,380 L316,375 L326,381 L323,392 L308,394 L298,388 Z"/>
+          <text class="pref-label" x="311" y="386">香川</text>
+
+          <!-- Ehime -->
+          <path class="pref-path" data-pref="ehime" data-name="愛媛県"
+            d="M272,382 L290,378 L302,385 L300,400 L285,406 L270,402 L263,392 Z"/>
+          <text class="pref-label" x="282" y="393">愛媛</text>
+
+          <!-- Kochi -->
+          <path class="pref-path" data-pref="kochi" data-name="高知県"
+            d="M282,404 L306,400 L320,406 L318,422 L302,428 L284,424 L274,414 Z"/>
+          <text class="pref-label" x="296" y="415">高知</text>
+
+          <!-- ===== KYUSHU ===== -->
+          <!-- Fukuoka -->
+          <path class="pref-path" data-pref="fukuoka" data-name="福岡県"
+            d="M196,356 L216,350 L226,358 L222,374 L206,378 L191,372 L186,362 Z"/>
+          <text class="pref-label" x="205" y="364">福岡</text>
+
+          <!-- Saga -->
+          <path class="pref-path" data-pref="saga" data-name="佐賀県"
+            d="M174,362 L190,358 L200,366 L197,380 L184,384 L172,378 L166,370 Z"/>
+          <text class="pref-label" x="182" y="372">佐賀</text>
+
+          <!-- Nagasaki -->
+          <path class="pref-path" data-pref="nagasaki" data-name="長崎県"
+            d="M152,358 L170,353 L180,360 L177,375 L163,380 L149,374 L142,364 Z"/>
+          <!-- Goto islands (small) -->
+          <path class="pref-path" data-pref="nagasaki" data-name="長崎県"
+            d="M132,362 L140,359 L144,364 L140,370 L132,368 Z"/>
+          <text class="pref-label" x="160" y="366">長崎</text>
+
+          <!-- Kumamoto -->
+          <path class="pref-path" data-pref="kumamoto" data-name="熊本県"
+            d="M175,378 L196,374 L208,382 L205,400 L188,406 L172,400 L165,390 Z"/>
+          <text class="pref-label" x="186" y="390">熊本</text>
+
+          <!-- Oita -->
+          <path class="pref-path" data-pref="oita" data-name="大分県"
+            d="M208,368 L226,364 L236,372 L234,388 L220,394 L206,388 L199,378 Z"/>
+          <text class="pref-label" x="216" y="380">大分</text>
+
+          <!-- Miyazaki -->
+          <path class="pref-path" data-pref="miyazaki" data-name="宮崎県"
+            d="M210,394 L226,390 L238,397 L236,414 L222,420 L208,416 L200,406 Z"/>
+          <text class="pref-label" x="218" y="406">宮崎</text>
+
+          <!-- Kagoshima -->
+          <path class="pref-path" data-pref="kagoshima" data-name="鹿児島県"
+            d="M185,408 L202,404 L212,412 L210,430 L196,436 L180,432 L172,420 Z"/>
+          <!-- Amami (small) -->
+          <path class="pref-path" data-pref="kagoshima" data-name="鹿児島県"
+            d="M180,446 L188,443 L192,448 L188,454 L180,452 Z"/>
+          <text class="pref-label" x="191" y="421">鹿児島</text>
+
+          <!-- ===== OKINAWA (inset box) ===== -->
+          <rect x="40" y="780" width="160" height="68" rx="6" fill="none" stroke="var(--border)" stroke-width="1.5" stroke-dasharray="4,3"/>
+          <text x="46" y="775" font-family="'Noto Sans JP',sans-serif" font-size="9" fill="var(--text3)">沖縄（インセット）</text>
+          <path class="pref-path" data-pref="okinawa" data-name="沖縄県"
+            d="M56,790 L100,787 L130,791 L140,802 L128,814 L96,817 L64,813 L50,803 Z"/>
+          <!-- Miyako/Yaeyama island chain (simplified) -->
+          <path class="pref-path" data-pref="okinawa" data-name="沖縄県"
+            d="M152,798 L168,795 L174,801 L168,808 L152,806 Z"/>
+          <text class="pref-label" x="95" y="803">沖縄</text>
+
+          <!-- Sea of Japan label -->
+          <text x="300" y="310" font-family="'Inter',sans-serif" font-size="10" fill="var(--text3)" opacity=".5" text-anchor="middle">日本海</text>
+          <!-- Pacific Ocean label -->
+          <text x="590" y="380" font-family="'Inter',sans-serif" font-size="10" fill="var(--text3)" opacity=".5" text-anchor="middle">太平洋</text>
+        </svg>
+
+        <!-- Tooltip -->
+        <div class="map-tooltip" id="mapTooltip"></div>
+      </div>
+      <div class="map-legend">
+        <div class="legend-item"><div class="legend-dot none"></div>工芸品なし</div>
+        <div class="legend-item"><div class="legend-dot low"></div>1〜4品目</div>
+        <div class="legend-item"><div class="legend-dot mid"></div>5〜7品目</div>
+        <div class="legend-item"><div class="legend-dot high"></div>8品目以上</div>
+      </div>
+    </div>
+
+    <!-- Info Panel -->
+    <div class="map-panel" id="mapPanel">
+      <div class="panel-default" id="panelDefault">
+        <div class="panel-default-icon">🗾</div>
+        <h2 class="panel-default-title">都道府県を選んでください</h2>
+        <p class="panel-default-desc">地図上の都道府県をクリックすると、その地域の伝統工芸品が表示されます。</p>
+      </div>
+      <div class="panel-content" id="panelContent">
+        <div class="panel-pref-hero">
+          <p class="panel-pref-label" id="panelRegionLabel">Region</p>
+          <h2 class="panel-pref-name" id="panelPrefName"></h2>
+          <p class="panel-pref-name-en" id="panelPrefNameEn"></p>
+          <div class="panel-count-badge">
+            <span class="n" id="panelCount">0</span>
+            <span class="u">品目の伝統工芸品</span>
+          </div>
+        </div>
+        <div class="panel-body">
+          <p class="panel-chips-title">収録工芸品</p>
+          <div class="craft-chips" id="panelChips"></div>
+          <a href="#" class="view-all-btn" id="panelViewAll">すべて見る</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Region summary cards -->
+<div class="region-section">
+  <p class="section-label">都道府県別</p>
+  <h2 class="section-title">地域別工芸品数</h2>
+  <p class="section-desc">工芸品数の多い都道府県から探せます。</p>
+
+  <div id="topPrefCards" class="region-cards">
+    <!-- Populated by JS -->
+  </div>
+
+  <!-- Full prefecture list -->
+  <div class="pref-list-section" id="fullPrefList">
+    <!-- Populated by JS -->
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-brand">Terroir HUB<br>CRAFT</div>
+        <div class="footer-brand-en">Traditional Crafts of Japan</div>
+        <p class="footer-desc">経産省指定240品目以上の伝統的工芸品を網羅したデータベースメディア。</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>探す</h4>
+          <a href="/craft/search/">工芸品検索</a>
+          <a href="/craft/category/">カテゴリ一覧</a>
+          <a href="/craft/map/">地図で探す</a>
+          <a href="/craft/experience/">体験・工房</a>
+        </div>
+        <div class="footer-col">
+          <h4>学ぶ</h4>
+          <a href="/craft/guide/">工芸の教科書</a>
+          <a href="/craft/guide/history/">歴史と文化</a>
+          <a href="/craft/guide/techniques/">技法図鑑</a>
+        </div>
+        <div class="footer-col">
+          <h4>Terroir HUB</h4>
+          <a href="https://terroirhub.com">トップページ</a>
+          <a href="https://sake.terroirhub.com">日本酒</a>
+          <a href="https://shochu.terroirhub.com">焼酎・泡盛</a>
+          <a href="/craft/plans/">プラン</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 合同会社FOMUS / Terroir HUB CRAFT</span>
+      <div style="display:flex;gap:16px">
+        <a href="/privacy/" style="color:rgba(255,255,255,.35);text-decoration:none">プライバシーポリシー</a>
+        <a href="/terms/" style="color:rgba(255,255,255,.35);text-decoration:none">利用規約</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+// ============================================================
+// Mobile menu
+// ============================================================
+function openMM(){document.getElementById('mobileMenu').classList.add('open');document.getElementById('mmOverlay').classList.add('open')}
+function closeMM(){document.getElementById('mobileMenu').classList.remove('open');document.getElementById('mmOverlay').classList.remove('open')}
+
+// ============================================================
+// Prefecture metadata
+// ============================================================
+const PREF_META = {
+  hokkaido:{ja:'北海道',en:'Hokkaido',region:'北海道・東北'},
+  aomori:{ja:'青森県',en:'Aomori',region:'北海道・東北'},
+  iwate:{ja:'岩手県',en:'Iwate',region:'北海道・東北'},
+  miyagi:{ja:'宮城県',en:'Miyagi',region:'北海道・東北'},
+  akita:{ja:'秋田県',en:'Akita',region:'北海道・東北'},
+  yamagata:{ja:'山形県',en:'Yamagata',region:'北海道・東北'},
+  fukushima:{ja:'福島県',en:'Fukushima',region:'北海道・東北'},
+  ibaraki:{ja:'茨城県',en:'Ibaraki',region:'関東'},
+  tochigi:{ja:'栃木県',en:'Tochigi',region:'関東'},
+  gunma:{ja:'群馬県',en:'Gunma',region:'関東'},
+  saitama:{ja:'埼玉県',en:'Saitama',region:'関東'},
+  chiba:{ja:'千葉県',en:'Chiba',region:'関東'},
+  tokyo:{ja:'東京都',en:'Tokyo',region:'関東'},
+  kanagawa:{ja:'神奈川県',en:'Kanagawa',region:'関東'},
+  niigata:{ja:'新潟県',en:'Niigata',region:'中部・北陸'},
+  toyama:{ja:'富山県',en:'Toyama',region:'中部・北陸'},
+  ishikawa:{ja:'石川県',en:'Ishikawa',region:'中部・北陸'},
+  fukui:{ja:'福井県',en:'Fukui',region:'中部・北陸'},
+  yamanashi:{ja:'山梨県',en:'Yamanashi',region:'中部・北陸'},
+  nagano:{ja:'長野県',en:'Nagano',region:'中部・北陸'},
+  gifu:{ja:'岐阜県',en:'Gifu',region:'中部・北陸'},
+  shizuoka:{ja:'静岡県',en:'Shizuoka',region:'中部・北陸'},
+  aichi:{ja:'愛知県',en:'Aichi',region:'中部・北陸'},
+  mie:{ja:'三重県',en:'Mie',region:'近畿'},
+  shiga:{ja:'滋賀県',en:'Shiga',region:'近畿'},
+  kyoto:{ja:'京都府',en:'Kyoto',region:'近畿'},
+  osaka:{ja:'大阪府',en:'Osaka',region:'近畿'},
+  hyogo:{ja:'兵庫県',en:'Hyogo',region:'近畿'},
+  nara:{ja:'奈良県',en:'Nara',region:'近畿'},
+  wakayama:{ja:'和歌山県',en:'Wakayama',region:'近畿'},
+  tottori:{ja:'鳥取県',en:'Tottori',region:'中国・四国'},
+  shimane:{ja:'島根県',en:'Shimane',region:'中国・四国'},
+  okayama:{ja:'岡山県',en:'Okayama',region:'中国・四国'},
+  hiroshima:{ja:'広島県',en:'Hiroshima',region:'中国・四国'},
+  yamaguchi:{ja:'山口県',en:'Yamaguchi',region:'中国・四国'},
+  tokushima:{ja:'徳島県',en:'Tokushima',region:'中国・四国'},
+  kagawa:{ja:'香川県',en:'Kagawa',region:'中国・四国'},
+  ehime:{ja:'愛媛県',en:'Ehime',region:'中国・四国'},
+  kochi:{ja:'高知県',en:'Kochi',region:'中国・四国'},
+  fukuoka:{ja:'福岡県',en:'Fukuoka',region:'九州・沖縄'},
+  saga:{ja:'佐賀県',en:'Saga',region:'九州・沖縄'},
+  nagasaki:{ja:'長崎県',en:'Nagasaki',region:'九州・沖縄'},
+  kumamoto:{ja:'熊本県',en:'Kumamoto',region:'九州・沖縄'},
+  oita:{ja:'大分県',en:'Oita',region:'九州・沖縄'},
+  miyazaki:{ja:'宮崎県',en:'Miyazaki',region:'九州・沖縄'},
+  kagoshima:{ja:'鹿児島県',en:'Kagoshima',region:'九州・沖縄'},
+  okinawa:{ja:'沖縄県',en:'Okinawa',region:'九州・沖縄'}
+};
+
+const REGIONS_ORDER = ['北海道・東北','関東','中部・北陸','近畿','中国・四国','九州・沖縄'];
+
+// ============================================================
+// Data loading
+// ============================================================
+const DATA_FILES = [
+  '/data/data_ceramics.json',
+  '/data/data_lacquerware.json',
+  '/data/data_metalwork.json',
+  '/data/data_paper_woodwork.json',
+  '/data/data_textiles.json',
+  '/data/data_dyeing.json',
+  '/data/data_dolls.json',
+  '/data/data_buddhist.json',
+  '/data/data_other.json'
+];
+
+// prefecture slug → [{name, category, id}, ...]
+let prefCrafts = {};
+let allCrafts = [];
+let dataLoaded = false;
+
+async function loadAllData() {
+  try {
+    const results = await Promise.all(
+      DATA_FILES.map(f => fetch(f).then(r => r.ok ? r.json() : []).catch(() => []))
+    );
+    results.forEach(arr => {
+      if (!Array.isArray(arr)) return;
+      arr.forEach(item => {
+        if (!item.prefecture) return;
+        const pref = item.prefecture;
+        if (!prefCrafts[pref]) prefCrafts[pref] = [];
+        prefCrafts[pref].push({name: item.name, category: item.category, id: item.id, name_en: item.name_en});
+        allCrafts.push(item);
+      });
+    });
+    dataLoaded = true;
+    onDataReady();
+  } catch(e) {
+    console.warn('Data load error:', e);
+    document.getElementById('mapLoading').style.display = 'none';
+  }
+}
+
+function onDataReady() {
+  const loading = document.getElementById('mapLoading');
+  if (loading) loading.style.display = 'none';
+
+  // Update total count
+  const total = allCrafts.length;
+  const el = document.getElementById('total-count');
+  if (el) el.textContent = total + '品目以上';
+
+  // Color map prefectures
+  colorPrefectures();
+
+  // Build top cards
+  buildTopCards();
+
+  // Build full pref list
+  buildFullPrefList();
+}
+
+function getCountClass(count) {
+  if (count === 0) return 'count-none';
+  if (count <= 4) return 'count-low';
+  if (count <= 7) return 'count-mid';
+  return 'count-high';
+}
+
+function colorPrefectures() {
+  const paths = document.querySelectorAll('.pref-path');
+  const seen = new Set();
+  paths.forEach(path => {
+    const pref = path.dataset.pref;
+    if (!pref || seen.has(pref)) return;
+    seen.add(pref);
+    const count = (prefCrafts[pref] || []).length;
+    path.classList.add(getCountClass(count));
+  });
+  // For duplicate pref paths (islands), apply same class
+  paths.forEach(path => {
+    const pref = path.dataset.pref;
+    if (!pref) return;
+    const count = (prefCrafts[pref] || []).length;
+    // Remove any existing count class
+    path.classList.remove('count-none','count-low','count-mid','count-high');
+    path.classList.add(getCountClass(count));
+  });
+}
+
+// ============================================================
+// SVG interaction
+// ============================================================
+const tooltip = document.getElementById('mapTooltip');
+let currentSelected = null;
+
+function getPrefPaths(pref) {
+  return document.querySelectorAll(`.pref-path[data-pref="${pref}"]`);
+}
+
+document.querySelectorAll('.pref-path').forEach(path => {
+  path.addEventListener('mouseenter', function(e) {
+    const pref = this.dataset.pref;
+    const name = this.dataset.name;
+    if (!pref) return;
+    const count = dataLoaded ? (prefCrafts[pref] || []).length : 0;
+    // Highlight all paths for this pref
+    getPrefPaths(pref).forEach(p => { if (!p.classList.contains('selected')) p.classList.add('hovered'); });
+    // Show tooltip
+    tooltip.textContent = name + (dataLoaded ? `  ${count}品目` : '');
+    tooltip.classList.add('visible');
+    moveTip(e);
+  });
+
+  path.addEventListener('mousemove', moveTip);
+
+  path.addEventListener('mouseleave', function() {
+    const pref = this.dataset.pref;
+    getPrefPaths(pref).forEach(p => p.classList.remove('hovered'));
+    tooltip.classList.remove('visible');
+  });
+
+  path.addEventListener('click', function() {
+    const pref = this.dataset.pref;
+    selectPref(pref);
+  });
+});
+
+function moveTip(e) {
+  const rect = document.getElementById('japan-map').parentElement.getBoundingClientRect();
+  const x = e.clientX - rect.left + 12;
+  const y = e.clientY - rect.top - 10;
+  tooltip.style.left = Math.min(x, rect.width - 160) + 'px';
+  tooltip.style.top = Math.max(y, 0) + 'px';
+}
+
+function selectPref(pref) {
+  if (!pref) return;
+  // Deselect previous
+  if (currentSelected) {
+    getPrefPaths(currentSelected).forEach(p => p.classList.remove('selected'));
+  }
+  currentSelected = pref;
+  getPrefPaths(pref).forEach(p => { p.classList.add('selected'); p.classList.remove('hovered'); });
+
+  // Update panel
+  showPanel(pref);
+
+  // Highlight corresponding card
+  document.querySelectorAll('.region-card-mini').forEach(c => {
+    c.classList.toggle('active', c.dataset.pref === pref);
+  });
+
+  // Scroll panel into view on mobile
+  if (window.innerWidth < 1100) {
+    document.getElementById('mapPanel').scrollIntoView({behavior:'smooth', block:'start'});
+  }
+}
+
+function showPanel(pref) {
+  const meta = PREF_META[pref];
+  const crafts = prefCrafts[pref] || [];
+
+  document.getElementById('panelDefault').style.display = 'none';
+  const content = document.getElementById('panelContent');
+  content.style.display = 'block';
+
+  document.getElementById('panelRegionLabel').textContent = meta ? meta.region : '';
+  document.getElementById('panelPrefName').textContent = meta ? meta.ja : pref;
+  document.getElementById('panelPrefNameEn').textContent = meta ? meta.en : '';
+  document.getElementById('panelCount').textContent = crafts.length;
+
+  const chips = document.getElementById('panelChips');
+  chips.innerHTML = '';
+  crafts.forEach(c => {
+    const a = document.createElement('a');
+    a.href = `/craft/region/${pref}/`;
+    a.className = `craft-chip cat-${c.category || 'other'}`;
+    a.textContent = c.name;
+    a.title = c.name_en || '';
+    chips.appendChild(a);
+  });
+  if (crafts.length === 0) {
+    chips.innerHTML = '<span style="color:var(--text3);font-size:13px">現在データがありません</span>';
+  }
+
+  const viewAll = document.getElementById('panelViewAll');
+  viewAll.href = `/craft/region/${pref}/`;
+  viewAll.textContent = `${meta ? meta.ja : ''}のすべての工芸品を見る`;
+}
+
+// ============================================================
+// Top prefecture cards
+// ============================================================
+function buildTopCards() {
+  const container = document.getElementById('topPrefCards');
+  if (!container) return;
+
+  // Sort prefectures by count descending, take top 14 (two rows of 7)
+  const sorted = Object.keys(PREF_META).sort((a, b) => {
+    return (prefCrafts[b] || []).length - (prefCrafts[a] || []).length;
+  }).slice(0, 14);
+
+  container.innerHTML = '';
+  sorted.forEach(pref => {
+    const meta = PREF_META[pref];
+    const count = (prefCrafts[pref] || []).length;
+    const card = document.createElement('div');
+    card.className = 'region-card-mini';
+    card.dataset.pref = pref;
+    card.innerHTML = `<span class="rcm-name">${meta.ja.replace('県','').replace('都','').replace('府','').replace('道','')}</span><span class="rcm-count">${count}</span><span class="rcm-unit">品目</span>`;
+    card.addEventListener('click', () => selectPref(pref));
+    container.appendChild(card);
+  });
+}
+
+// ============================================================
+// Full prefecture list by region
+// ============================================================
+function buildFullPrefList() {
+  const container = document.getElementById('fullPrefList');
+  if (!container) return;
+
+  // Group by region
+  const byRegion = {};
+  REGIONS_ORDER.forEach(r => byRegion[r] = []);
+  Object.entries(PREF_META).forEach(([slug, meta]) => {
+    if (byRegion[meta.region]) byRegion[meta.region].push(slug);
+  });
+
+  let html = '';
+  REGIONS_ORDER.forEach(region => {
+    const prefs = byRegion[region];
+    html += `<div class="pref-region-header">${region}</div><div class="pref-mini-grid">`;
+    prefs.forEach(pref => {
+      const meta = PREF_META[pref];
+      const count = (prefCrafts[pref] || []).length;
+      html += `<a class="pref-mini-item" href="/craft/region/${pref}/" data-pref="${pref}">
+        <span class="pmi-name">${meta.ja}</span>
+        <span class="pmi-count">${count}品目</span>
+      </a>`;
+    });
+    html += '</div>';
+  });
+  container.innerHTML = html;
+
+  // Click to select on map
+  container.querySelectorAll('.pref-mini-item').forEach(item => {
+    item.addEventListener('click', function(e) {
+      e.preventDefault();
+      const pref = this.dataset.pref;
+      selectPref(pref);
+      // Scroll map into view
+      document.getElementById('japan-map').scrollIntoView({behavior:'smooth', block:'start'});
+    });
+  });
+}
+
+// ============================================================
+// Init
+// ============================================================
+loadAllData();
+</script>
+</body>
+</html>

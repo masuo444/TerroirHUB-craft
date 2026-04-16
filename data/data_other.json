@@ -1,0 +1,1303 @@
+[
+  {
+    "id": "edo_kiriko",
+    "name": "江戸切子",
+    "name_en": "Edo Kiriko",
+    "name_fr": "Verre Taillé Edo",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "墨田区・江東区",
+    "founded": 1834,
+    "founded_era": "天保5年",
+    "desc": "東京都墨田区・江東区を中心に生産されるカットガラス工芸品。1834年（天保5年）、江戸・大伝馬町でビードロ屋を営む加賀屋久兵衛が英国製カットガラスを模してガラスに彫刻を施したのが起源。明治期に英国人指導で西洋式技法が加わり、矢来・魚子（ななこ）・六角籠目などの伝統文様をダイヤモンドホイールで削り出す精緻な技術が確立された。カットの角度が生む光の乱反射と独特の輝きが魅力で、酒器・グラスから現代小物まで幅広く親しまれている。",
+    "desc_en": "Edo Kiriko is a cut glass craft produced mainly in Sumida Ward and Koto Ward, Tokyo. Said to have originated around 1834 when Edo glassware dealer Kagaya Kyubei engraved glass surfaces with corundum. Characterized by cutting traditional patterns such as yurai (bamboo fence), nanako (fish roe), and hexagonal basket weave using diamond wheels and whetstones, the multi-angle refraction of light creates a unique brilliance. Highly popular domestically and internationally as a representative Tokyo traditional craft, it is enjoyed in diverse products including sake vessels, glasses, and accessories.",
+    "techniques": [
+      "ダイヤモンドホイール切り",
+      "砥石研磨",
+      "矢来文様",
+      "魚子（ななこ）文様",
+      "六角籠目文様"
+    ],
+    "materials": [
+      "クリスタルガラス",
+      "色被せガラス"
+    ],
+    "features": [
+      "伝統文様の精緻な切り込みが生む光の乱反射と美しい輝き",
+      "江戸末期から続くカットガラスの東京を代表する伝統工芸",
+      "酒器・グラスから現代的な小物まで幅広い製品展開"
+    ],
+    "workshops": [
+      {
+        "name": "江戸切子協同組合",
+        "url": "https://www.edokiriko.or.jp/",
+        "experience": true,
+        "experience_desc": "切子体験（各工房で受付）3,000円〜",
+        "address": "東京都墨田区"
+      },
+      {
+        "name": "東京江戸切子ショールーム（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都江東区"
+      }
+    ],
+    "purchase_keywords": "江戸切子 グラス 購入 東京",
+    "price_range": "グラス 5,000円〜 / ぐい呑み 8,000円〜 / 花瓶 30,000円〜",
+    "lat": 35.7012,
+    "lng": 139.8142,
+    "source": "https://kougeihin.jp/craft/1404/",
+    "ogp_image_desc": "光を乱反射する江戸切子の色被せガラスのグラスと酒器"
+  },
+  {
+    "id": "satsuma_kiriko",
+    "name": "薩摩切子",
+    "name_en": "Satsuma Kiriko",
+    "name_fr": "Verre Taillé Satsuma",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "regional",
+    "designation_number": 46,
+    "prefecture": "kagoshima",
+    "prefecture_ja": "鹿児島県",
+    "area": "鹿児島市",
+    "founded": 1846,
+    "founded_era": "弘化3年",
+    "desc": "鹿児島県鹿児島市で生産される色被せガラスのカット工芸品。幕末の薩摩藩主・島津斉興・斉彬父子が西洋のガラス技術を導入し、1846年頃から生産が始まった。透明ガラスの上に色ガラスを厚く被せ、深くカットすることで「ぼかし」と呼ばれる独特の色グラデーションが生まれる点が最大の特徴。明治維新後に一度途絶えたが、昭和期に現代の職人によって技術が復興された。江戸切子とともに「日本二大切子」として国内外で高く評価されている。",
+    "desc_en": "Satsuma Kiriko is a cut colored glass craft produced in Kagoshima City, Kagoshima Prefecture. Production began around 1846 when Satsuma Domain lords Shimazu Narioki and Nariakira introduced Western glass technology. Its defining feature is the unique color gradation called 'bokashi' created by thickly applying colored glass over clear glass and then deep-cutting. After disappearing following the Meiji Restoration, the technique was revived by modern craftspeople in the Showa period. Together with Edo Kiriko, it is internationally recognized as one of Japan's 'Two Great Kiriko' glass arts.",
+    "techniques": [
+      "色被せガラス",
+      "ダイヤモンドホイール切り",
+      "ぼかし（グラデーション）カット",
+      "砥石研磨"
+    ],
+    "materials": [
+      "色被せガラス（紅・藍・緑・紫など）",
+      "クリスタルガラス"
+    ],
+    "features": [
+      "深いカットが生む「ぼかし」グラデーションが他にない美しさ",
+      "幕末の薩摩藩が西洋技術を導入して生み出した歴史的工芸",
+      "江戸切子と並ぶ「日本二大切子」として世界的に評価"
+    ],
+    "workshops": [
+      {
+        "name": "薩摩ガラス工芸",
+        "url": "https://www.satsumaglasscraft.co.jp/",
+        "experience": true,
+        "experience_desc": "切子体験（要予約）5,000円〜",
+        "address": "鹿児島県鹿児島市"
+      }
+    ],
+    "purchase_keywords": "薩摩切子 グラス 購入 鹿児島",
+    "price_range": "グラス 15,000円〜 / ぐい呑み 20,000円〜 / 花瓶 80,000円〜",
+    "lat": 31.5966,
+    "lng": 130.5571,
+    "source": "",
+    "ogp_image_desc": "ぼかしグラデーションが美しい薩摩切子の紅色ぐい呑みとグラス"
+  },
+  {
+    "id": "kyo_sensu",
+    "name": "京扇子",
+    "name_en": "Kyo Sensu",
+    "name_fr": "Éventail de Kyoto",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 877,
+    "founded_era": "元慶元年頃",
+    "desc": "京都府京都市で生産される折りたたみ式扇子。平安時代の877年頃に木簡を束ねた「桧扇（ひおうぎ）」が起源とされ、その後紙扇へと発展した。扇骨の加工・地紙の制作・絵付け・貼り加工など複数の専門職人が分業して仕上げる高度な工芸品で、能・狂言・茶道・日本舞踊など日本の伝統芸能に欠かせない必需品として発展した。現代も冠婚葬祭・贈答品から日常の涼取りまで幅広く使われる、日本文化の象徴的な工芸品。",
+    "desc_en": "Kyo Sensu are folding fans produced in Kyoto City, Kyoto Prefecture. Said to have originated around 877 in the Heian period from 'hiougi,' wooden fans made from bundled wooden tablets, later evolving into paper fans. A sophisticated craft completed through the division of labor among multiple specialist craftspeople covering rib processing, paper creation, painting, and assembly. They developed as indispensable items for traditional Japanese performing arts including Noh, Kyogen, tea ceremony, and Japanese dance. Still widely used today from weddings and ceremonies to gifts and everyday cooling.",
+    "techniques": [
+      "扇骨加工（竹・木）",
+      "地紙制作",
+      "絵付け",
+      "貼り加工",
+      "仕上げ組み立て"
+    ],
+    "materials": [
+      "竹（扇骨）",
+      "和紙（地紙）",
+      "絹地紙"
+    ],
+    "features": [
+      "平安時代から続く分業制の高度な工芸品",
+      "能・狂言・茶道など日本の伝統芸能に欠かせない文化的必需品",
+      "絵師・骨師・貼師など複数の専門職人が連携する京都の工芸文化"
+    ],
+    "workshops": [
+      {
+        "name": "宮脇賣扇庵",
+        "url": "https://www.baisenan.co.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市中京区"
+      },
+      {
+        "name": "京都市伝統産業ふれあい館",
+        "url": "https://kmtc.jp/",
+        "experience": true,
+        "experience_desc": "扇子絵付け体験（要確認）",
+        "address": "京都府京都市左京区"
+      }
+    ],
+    "purchase_keywords": "京扇子 購入 扇子 京都",
+    "price_range": "普及品 1,500円〜 / 茶道用 5,000円〜 / 高級品 30,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/1411/",
+    "ogp_image_desc": "繊細な絵付けが美しい京扇子の扇面と扇骨"
+  },
+  {
+    "id": "edo_sensu",
+    "name": "江戸扇子",
+    "name_en": "Edo Sensu",
+    "name_fr": "Éventail Edo",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "regional",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "東京都",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "東京（江戸）で生産される折りたたみ式扇子。京都から伝わった扇子製作の技術が「粋（いき）」な江戸の美意識と融合して独自の様式を確立した。京扇子が多くの職人の分業で作られるのに対し、江戸扇子は一人の職人がすべての工程を担う「江戸の一人仕事」が伝統的な特徴。骨数が少なくシンプルで力強いデザインが多く、落語家・芸人など江戸の庶民文化と深く結びついて発展した。",
+    "desc_en": "Edo Sensu are folding fans produced in Tokyo (Edo). Fan-making techniques transmitted from Kyoto merged with the 'iki' (stylish refinement) aesthetics of Edo to establish a unique style. While Kyo Sensu is made through the division of labor among many craftspeople, Edo Sensu is traditionally characterized by 'Edo's solo work'—a single craftsperson handling all processes. Featuring fewer ribs and often simple, bold designs, it developed closely intertwined with the popular culture of Edo through rakugo performers and entertainers.",
+    "techniques": [
+      "一人仕事（全工程単独制作）",
+      "扇骨加工",
+      "紙貼り",
+      "仕上げ"
+    ],
+    "materials": [
+      "竹（扇骨）",
+      "和紙"
+    ],
+    "features": [
+      "一人の職人が全工程を担う「江戸の一人仕事」が最大の特徴",
+      "シンプルで粋なデザインが江戸の庶民文化と深く融合",
+      "落語・芸能など江戸文化の小道具として発展した歴史"
+    ],
+    "workshops": [
+      {
+        "name": "江戸扇子（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都"
+      }
+    ],
+    "purchase_keywords": "江戸扇子 購入 扇子 東京",
+    "price_range": "普及品 2,000円〜 / 高級品 20,000円〜",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "source": "",
+    "ogp_image_desc": "シンプルで粋なデザインの江戸扇子"
+  },
+  {
+    "id": "kyo_uchiwa",
+    "name": "京うちわ",
+    "name_en": "Kyo Uchiwa",
+    "name_fr": "Éventail Rond de Kyoto",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "京都府京都市で生産される柄と骨が別体の丸型うちわ。南北朝時代に朝鮮うちわ（朝鮮団扇）が倭寇を通じて西日本にもたらされ、紀州・大和を経て深草に伝わったのが始まりとされる。竹を細かく割いて骨を作り、和紙や絹の面を貼った後に木の柄を後から差し込む「挿し柄（さしえ）」構造が京うちわ独自の特徴。絵師・骨師・貼り師の分業で仕上げる高度な工芸品で、茶道具・夏の装飾品として今も珍重されている。",
+    "desc_en": "Kyo Uchiwa are round fans with separate handle and ribs, produced in Kyoto City, Kyoto Prefecture. They inherit the style of 'gosho uchiwa' (imperial fan) transmitted from China via the Korean Peninsula during the Nara period. Characterized by the 'sashie' (inserted handle) structure where a wooden handle is inserted after attaching painted washi paper or silk faces onto a finely split bamboo frame. Developed as a sophisticated division-of-labor craft among painters, rib-makers, and pasting specialists for use as summer decorations, cooling tools, and tea ceremony implements.",
+    "techniques": [
+      "挿し柄（さしえ）構造",
+      "竹骨制作",
+      "和紙・絹面張り",
+      "絵付け"
+    ],
+    "materials": [
+      "竹（骨）",
+      "和紙・絹（面）",
+      "木（柄）"
+    ],
+    "features": [
+      "柄と骨が別体の「挿し柄」構造が京うちわ独自の特徴",
+      "絵師・骨師・貼師の分業による高度な工芸文化",
+      "茶道具・夏の装飾品として愛用される京都の美意識"
+    ],
+    "workshops": [
+      {
+        "name": "阿以波（あいは）",
+        "url": "https://kyo-uchiwa.co.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市中京区"
+      }
+    ],
+    "purchase_keywords": "京うちわ 購入 うちわ 京都",
+    "price_range": "普及品 2,000円〜 / 高級品 20,000円〜 / 特注品 50,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/1412/",
+    "ogp_image_desc": "繊細な絵付けが施された京うちわの丸い扇面と木の柄"
+  },
+  {
+    "id": "marugame_uchiwa",
+    "name": "丸亀うちわ",
+    "name_en": "Marugame Uchiwa",
+    "name_fr": "Éventail Marugame",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 37,
+    "prefecture": "kagawa",
+    "prefecture_ja": "香川県",
+    "area": "丸亀市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "香川県丸亀市で生産される竹製うちわ。現在、日本国内で流通するうちわの約90%が丸亀市産であり、国内最大のうちわ産地として知られる。江戸時代に金刀比羅宮（こんぴらさん）の参拝土産として「渋うちわ」が販売されたことが産地発展の契機となった。竹を割いて骨を作り機械生産と手作業を組み合わせた独自の生産体制で、年間1億本以上を出荷する。夏の風物詩として全国で広く親しまれている。",
+    "desc_en": "Marugame Uchiwa are bamboo fans produced in Marugame City, Kagawa Prefecture. Currently approximately 90% of fans distributed in Japan are made in Marugame, making it Japan's largest fan production area. The region's development as a production center was triggered by the sale of 'shibu uchiwa' (persimmon-tannin lacquered fans) as souvenirs for Kotohira-gu (Konpira-san) shrine visitors during the Edo period. Using a unique production system combining machine production and hand labor to split bamboo into ribs, it ships more than 100 million fans annually.",
+    "techniques": [
+      "竹骨割り",
+      "型抜き",
+      "貼り加工",
+      "印刷・絵付け"
+    ],
+    "materials": [
+      "竹",
+      "和紙・ポリプロピレン"
+    ],
+    "features": [
+      "国内うちわ流通の約90%を占める日本最大のうちわ産地",
+      "金刀比羅宮参拝土産から発展した江戸時代からの産地史",
+      "年間1億本以上を出荷する規模と伝統の両立"
+    ],
+    "workshops": [
+      {
+        "name": "うちわの港ミュージアム",
+        "url": "https://uchiwa-museum.jp/",
+        "experience": true,
+        "experience_desc": "うちわ製作体験 800円〜",
+        "address": "香川県丸亀市"
+      }
+    ],
+    "purchase_keywords": "丸亀うちわ 購入 うちわ 香川",
+    "price_range": "普及品 300円〜 / 高級竹うちわ 2,000円〜",
+    "lat": 34.2896,
+    "lng": 133.7981,
+    "source": "https://kougeihin.jp/craft/1416/",
+    "ogp_image_desc": "丸亀うちわの竹骨が透けて見える繊細な夏うちわ"
+  },
+  {
+    "id": "boshu_uchiwa",
+    "name": "房州うちわ",
+    "name_en": "Boshu Uchiwa",
+    "name_fr": "Éventail Boshu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 12,
+    "prefecture": "chiba",
+    "prefecture_ja": "千葉県",
+    "area": "館山市・南房総市",
+    "founded": 1877,
+    "founded_era": "明治10年頃",
+    "desc": "千葉県館山市・南房総市を中心に生産される竹製丸型うちわ。明治時代中頃から本格的な生産が始まり、房州（南房総）産の女竹（めだけ）を骨に使う点が特徴。1本の竹を丸い柄のまま使い、その先端部分を細く割いて骨を作る「丸柄（まるえ）」製法が独特で、継ぎ目のない一体構造が強度と美しさを兼ね備える。涼感のある丸みを帯びた形と細かい骨格の透け感が夏の風物詩として珍重されている。",
+    "desc_en": "Boshu Uchiwa are round bamboo fans produced mainly in Tateyama City and Minami Boso City, Chiba Prefecture. Full-scale production began around the mid-Meiji period, distinguished by the use of locally-sourced female bamboo (medake) from Boshu (South Boso) for the ribs. The unique 'marugara' (round handle) technique uses a single bamboo stalk with the round handle intact, finely splitting the tip portion to create ribs—a seamless one-piece construction combining strength and beauty. Prized as a summer seasonal item for its cooling rounded form and the delicate translucency of fine ribs.",
+    "techniques": [
+      "丸柄（まるえ）製法",
+      "女竹骨割り",
+      "紙貼り",
+      "染め加工"
+    ],
+    "materials": [
+      "女竹（めだけ）",
+      "和紙"
+    ],
+    "features": [
+      "1本の竹から骨を作る継ぎ目なしの「丸柄」製法が独自の特徴",
+      "房州産の女竹を使った涼感ある細かな骨格の美しさ",
+      "国の伝統的工芸品指定を受けた千葉県唯一のうちわ産地"
+    ],
+    "workshops": [
+      {
+        "name": "房州うちわ振興協議会（産地にご確認ください）",
+        "url": "https://boshu-uchiwa.com/",
+        "experience": true,
+        "experience_desc": "うちわ製作体験（産地にご確認ください）",
+        "address": "千葉県南房総市"
+      }
+    ],
+    "purchase_keywords": "房州うちわ 購入 うちわ 千葉",
+    "price_range": "普及品 500円〜 / 高級品 3,000円〜",
+    "lat": 34.9982,
+    "lng": 139.8688,
+    "source": "https://kougeihin.jp/craft/1402/",
+    "ogp_image_desc": "細かい竹骨の透け感が美しい房州うちわと女竹の丸柄"
+  },
+  {
+    "id": "koshu_suisho_kiseki",
+    "name": "甲州水晶貴石細工",
+    "name_en": "Koshu Crystal Gemstone Work",
+    "name_fr": "Art Lapidaire Koshu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 19,
+    "prefecture": "yamanashi",
+    "prefecture_ja": "山梨県",
+    "area": "甲府市",
+    "founded": 1200,
+    "founded_era": "鎌倉時代",
+    "desc": "山梨県甲府市を中心とした水晶・貴石加工工芸。約千年前、御嶽昇仙峡の奥地で水晶の原石が発見されたことが起源とされ、江戸時代中期には神官が京都の玉造りに原石を持参して加工させるようになった。その後、江戸時代後期に甲府で研磨技術が確立されると産地として本格的に発展し、明治以降は輸入宝石も扱うジュエリー産業へ拡大。現在も甲府市は国内ジュエリー生産トップシェアを誇る宝石工芸の集積地として知られる。",
+    "desc_en": "Koshu Crystal Gemstone Work is a crystal and gemstone crafting art centered in Kofu City, Yamanashi Prefecture. Good-quality crystals have been produced in Koshu (Yamanashi) since ancient times, said to have originated when Buddhist monks began making crystal prayer beads around the Kamakura period. During the Edo period, Kofu's crystal craftspeople became known nationwide, and from the Meiji era it developed into a jewelry industry also handling imported gemstones. Today, Kofu City still holds the top domestic share in jewelry production, with concentrated techniques for polishing, carving, and decorating precious stones.",
+    "techniques": [
+      "水晶研磨",
+      "貴石彫刻",
+      "カボション加工",
+      "ファセットカット",
+      "念珠加工"
+    ],
+    "materials": [
+      "水晶",
+      "ルビー・エメラルド・サファイアなど貴石",
+      "半貴石"
+    ],
+    "features": [
+      "国内ジュエリー生産トップシェアを誇る山梨・甲府の宝石産業",
+      "鎌倉時代の水晶念珠から800年以上続く石細工の伝統",
+      "水晶の研磨・彫刻から現代ジュエリーまで幅広い技術集積"
+    ],
+    "workshops": [
+      {
+        "name": "山梨宝石博物館",
+        "url": "https://www.gemmuseum.jp/",
+        "experience": true,
+        "experience_desc": "宝石研磨体験 2,000円〜",
+        "address": "山梨県甲府市"
+      }
+    ],
+    "purchase_keywords": "甲州水晶 貴石細工 購入 甲府 ジュエリー",
+    "price_range": "水晶念珠 5,000円〜 / ルース（裸石）1,000円〜 / アクセサリー 10,000円〜",
+    "lat": 35.6635,
+    "lng": 138.5685,
+    "source": "https://kougeihin.jp/craft/1201/",
+    "ogp_image_desc": "甲州水晶貴石細工の透明感ある水晶球と宝石装飾品"
+  },
+  {
+    "id": "koshu_inden",
+    "name": "甲州印伝",
+    "name_en": "Koshu Inden",
+    "name_fr": "Cuir Laqué Inden de Koshu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 19,
+    "prefecture": "yamanashi",
+    "prefecture_ja": "山梨県",
+    "area": "甲府市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "山梨県甲府市で生産される鹿革に漆で模様を付けた革工芸品。江戸時代後期には既に財布や巾着の素材として広く親しまれ、滑稽本「東海道中膝栗毛」にも甲州印伝の巾着が登場するほど知られていた。燻した鹿革に型紙で漆を摺り付けて模様を施す技法が独特で、軽くて丈夫な鹿革と漆文様が一体となった財布・バッグ・小物が代表的な製品。現在も甲府市の印伝屋を中心に伝統が守られている。",
+    "desc_en": "Koshu Inden is a leather craft from Kofu City, Yamanashi Prefecture, featuring deer hide decorated with lacquer patterns. Said to have been founded in the early Edo period by Inden-ya (Uehara Yushichi) in Kofu, it is known as a craft associated with Takeda Shingen's Koshu. The technique is unique: deer hide is smoked and softened, then lacquer patterns are applied using stencils. Representative products include wallets, bags, and small accessories combining the lightweight durability of deer hide with lacquer patterns. The tradition continues today centered on Inden-ya in Kofu.",
+    "techniques": [
+      "鹿革燻し加工",
+      "型紙による漆摺り",
+      "漆文様加工"
+    ],
+    "materials": [
+      "鹿革",
+      "漆",
+      "型紙"
+    ],
+    "features": [
+      "鹿革×漆文様という日本独自の革工芸技法",
+      "武田信玄ゆかりの甲州を代表する伝統工芸品",
+      "軽くて丈夫な鹿革と美しい漆模様が融合した実用工芸"
+    ],
+    "workshops": [
+      {
+        "name": "印伝屋 上原勇七（本店）",
+        "url": "https://www.inden-ya.co.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "山梨県甲府市"
+      }
+    ],
+    "purchase_keywords": "甲州印伝 購入 財布 印伝 甲府",
+    "price_range": "小物入れ 3,000円〜 / 財布 8,000円〜 / バッグ 30,000円〜",
+    "lat": 35.6635,
+    "lng": 138.5685,
+    "source": "https://kougeihin.jp/craft/1407/",
+    "ogp_image_desc": "甲州印伝の鹿革に漆で模様が施された財布と小物入れ"
+  },
+  {
+    "id": "kumano_fude",
+    "name": "熊野筆",
+    "name_en": "Kumano Fude",
+    "name_fr": "Pinceaux Kumano",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 34,
+    "prefecture": "hiroshima",
+    "prefecture_ja": "広島県",
+    "area": "安芸郡熊野町",
+    "founded": 1830,
+    "founded_era": "天保年間",
+    "desc": "広島県安芸郡熊野町で生産される毛筆・化粧筆。江戸時代、農業だけでは生活が難しかった農民が紀州熊野・大和吉野方面へ出稼ぎし、帰路に筆を仕入れて行商したのが縁の始まり。江戸時代後期に広島藩の御用筆司から筆作りを習得した村人が帰郷して技術を広め、産地が形成された。現在は国内の毛筆・化粧筆生産の約80%を占める日本最大の筆産地で、世界の化粧品ブランドからも高く評価される穂作りの技術が受け継がれている。",
+    "desc_en": "Kumano Fude are calligraphy brushes and makeup brushes produced in Kumano Town, Aki District, Hiroshima Prefecture. Around the Tenpo era (1830-44) at the end of the Edo period, farmers began itinerant brush selling as a side business, acquiring techniques from Nara and Arima to form the production area. Currently the largest brush production area in Japan, accounting for approximately 80% of domestic production of calligraphy brushes, Western brushes, and makeup brushes. The high-quality hair selection and tassel-making techniques are highly regarded by cosmetics brands worldwide, with exports to Europe and China.",
+    "techniques": [
+      "毛の選別・洗浄",
+      "穂作り（毛束整形）",
+      "糸巻き",
+      "軸付け仕上げ"
+    ],
+    "materials": [
+      "イタチ・タヌキ・馬毛（書道筆）",
+      "ヤギ・リスなど（化粧筆）",
+      "竹・木（軸）"
+    ],
+    "features": [
+      "国内毛筆・化粧筆生産の約80%を占める日本最大の筆産地",
+      "書道用筆から化粧ブラシまで幅広い高品質な筆を生産",
+      "世界の化粧品ブランドからも認められる穂作り技術"
+    ],
+    "workshops": [
+      {
+        "name": "熊野筆振興会",
+        "url": "https://www.kumano-fude.com/",
+        "experience": true,
+        "experience_desc": "筆作り体験（産地各工房で受付）",
+        "address": "広島県安芸郡熊野町"
+      }
+    ],
+    "purchase_keywords": "熊野筆 購入 書道筆 化粧筆 広島",
+    "price_range": "書道用小筆 1,000円〜 / 大筆 5,000円〜 / 化粧ブラシセット 10,000円〜",
+    "lat": 34.3498,
+    "lng": 132.5977,
+    "source": "https://kougeihin.jp/craft/1007/",
+    "ogp_image_desc": "熊野筆の書道用毛筆と化粧用メイクブラシのセット"
+  },
+  {
+    "id": "toyohashi_fude",
+    "name": "豊橋筆",
+    "name_en": "Toyohashi Fude",
+    "name_fr": "Pinceaux Toyohashi",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "豊橋市",
+    "founded": 1804,
+    "founded_era": "文化年間",
+    "desc": "愛知県豊橋市で生産される毛筆。江戸時代、吉田藩の藩主が京都の職人を御用筆匠として招き、下級武士の副業として筆作りを奨励したのが始まりとされる。明治初年には現代の筆と同じ製法（水筆）が確立され、産地が本格化。熊野（広島）と並ぶ国内二大毛筆産地として知られ、職人が手作業で穂を整える伝統的製法を今も守りながら、練習用から書家向け高級筆まで幅広い書道用筆を生産している。",
+    "desc_en": "Toyohashi Fude are calligraphy brushes produced in Toyohashi City, Aichi Prefecture. Production is said to have begun around the Bunka era (1804-18) in the Edo period when technicians were invited from Nara, and it is known as one of Japan's two major calligraphy brush production areas alongside Kumano (Hiroshima). The quality of calligraphy brushes, made through careful hair selection and meticulous tassel-making, is highly regarded, and the traditional production method of hand-trimming brush tassels by local craftspeople is still maintained today. The lineup spans from practice brushes for calligraphy classes and schools to premium handmade brushes favored by calligraphers.",
+    "techniques": [
+      "毛の選別・洗浄",
+      "穂作り（手作業）",
+      "糸巻き",
+      "軸付け"
+    ],
+    "materials": [
+      "イタチ・タヌキ・馬毛",
+      "竹・木（軸）"
+    ],
+    "features": [
+      "熊野と並ぶ国内二大毛筆産地のひとつ",
+      "職人による手作業の穂作りが守られる伝統的製法",
+      "練習用から高級書家用まで幅広い書道用筆を生産"
+    ],
+    "workshops": [
+      {
+        "name": "豊橋筆組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "愛知県豊橋市"
+      }
+    ],
+    "purchase_keywords": "豊橋筆 購入 書道筆 毛筆 愛知",
+    "price_range": "小筆 1,500円〜 / 大筆 5,000円〜 / 高級手作り筆 30,000円〜",
+    "lat": 34.7691,
+    "lng": 137.3923,
+    "source": "https://kougeihin.jp/craft/1002/",
+    "ogp_image_desc": "豊橋筆の書道用毛筆各種。細筆から大筆まで"
+  },
+  {
+    "id": "akama_suzuri",
+    "name": "赤間硯",
+    "name_en": "Akama Suzuri",
+    "name_fr": "Pierre à Encre Akama",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 35,
+    "prefecture": "yamaguchi",
+    "prefecture_ja": "山口県",
+    "area": "下関市",
+    "founded": 700,
+    "founded_era": "奈良時代頃",
+    "desc": "山口県下関市彦島の赤間石を素材とした硯（すずり）。鎌倉時代初めには既に鶴岡八幡宮へ奉納された記録があり、毛利氏（長州藩）の時代には藩主が石山を「御止め山」として管理し、参勤交代の贈り物に用いるほど珍重された。赤紫色のきめ細かい石肌が墨を滑らかに磨り下ろし、発墨の良さで文人・書家に長く愛用されてきた長州藩の名産品。現在も下関の職人が採掘・加工を続けている。",
+    "desc_en": "Akama Suzuri are inkstones made from Akama stone quarried in Hikoshima, Shimonoseki City, Yamaguchi Prefecture. Akama stone (Akamaga-seki stone), characterized by its reddish-purple hue, has been used for inkstones since around the Nara period. Its fine-grained stone texture grinds ink smoothly with good ink-releasing quality and beautiful ink gliding, long favored by literati and calligraphers as a high-quality inkstone. Counted among Japan's three great inkstones alongside Tankei and Touka, craftspeople continue to quarry and process the stone in Shimonoseki as a representative traditional craft.",
+    "techniques": [
+      "石材採掘",
+      "粗削り",
+      "彫刻・墨池加工",
+      "磨き仕上げ"
+    ],
+    "materials": [
+      "赤間石（赤間関石）"
+    ],
+    "features": [
+      "赤紫色の石肌と滑らかな発墨が評価される日本三大硯のひとつ",
+      "奈良時代から文人・書家に愛用されてきた長い歴史",
+      "下関・彦島で採掘・加工される山口県を代表する石工芸"
+    ],
+    "workshops": [
+      {
+        "name": "赤間硯（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "山口県下関市"
+      }
+    ],
+    "purchase_keywords": "赤間硯 購入 硯 書道具 下関",
+    "price_range": "小型硯 5,000円〜 / 中型硯 20,000円〜 / 大型特注品 100,000円〜",
+    "lat": 33.9498,
+    "lng": 130.9209,
+    "source": "https://kougeihin.jp/craft/1009/",
+    "ogp_image_desc": "赤紫色の石肌が美しい赤間硯の彫刻が施された大型硯"
+  },
+  {
+    "id": "unshu_soroban",
+    "name": "雲州そろばん",
+    "name_en": "Unshu Soroban",
+    "name_fr": "Boulier Unshu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 32,
+    "prefecture": "shimane",
+    "prefecture_ja": "島根県",
+    "area": "仁多郡奥出雲町",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "島根県仁多郡奥出雲町（旧仁多町・横田町）で生産される木製そろばん。江戸時代後期、仁多町の大工が広島の職人のそろばんを手本に、地元のカシ・ウメ・ススタケを使って作り始めたのが起源。横田町の職人が珠を削る手回しろくろを完成させたことで生産が急増し、「そろばんといえば雲州」と全国に知られる産地となった。現在は国内のそろばん生産の約70%を占める日本最大の産地で、精密な手作りの技術が今も受け継がれている。",
+    "desc_en": "Unshu Soroban are wooden abacuses produced in Okuizumo Town, Nita District, Shimane Prefecture. Around the mid-Edo period, production began as a side business for farmers, developing into a production area utilizing the characteristics of the mountain region's abundant quality wood and bamboo. Currently the largest abacus production area in Japan, accounting for approximately 70% of domestic production, with the precise handcrafting method of finishing all wooden frames, beams, and beads by hand still being maintained. Even in modern times with widespread ICT education, there is continued strong demand as a tool for mental arithmetic and mathematics education, with high regard as a traditional craft.",
+    "techniques": [
+      "木地加工（枠・梁）",
+      "玉加工（珠削り）",
+      "組み立て・仕上げ"
+    ],
+    "materials": [
+      "ツゲ（珠）",
+      "サクラ・シラカシ（枠・梁）",
+      "竹（串・心棒）"
+    ],
+    "features": [
+      "国内そろばん生産の約70%を占める日本最大のそろばん産地",
+      "木枠・梁・珠すべてを手作業で仕上げる精密な職人技",
+      "現代でも暗算教育ツールとして需要が続く実用的伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "雲州そろばん伝統産業会館",
+        "url": "https://www.okuizumo.org/",
+        "experience": true,
+        "experience_desc": "そろばん製作体験（要確認）",
+        "address": "島根県仁多郡奥出雲町"
+      }
+    ],
+    "purchase_keywords": "雲州そろばん 購入 そろばん 島根",
+    "price_range": "普及品 3,000円〜 / 上質品 15,000円〜 / 工芸品 50,000円〜",
+    "lat": 35.1938,
+    "lng": 133.0163,
+    "source": "https://kougeihin.jp/craft/1006/",
+    "ogp_image_desc": "雲州そろばんの精巧な木製珠と竹串の美しいそろばん"
+  },
+  {
+    "id": "sanuki_temari",
+    "name": "讃岐かがり手まり",
+    "name_en": "Sanuki Kagari Temari",
+    "name_fr": "Balle Brodée Sanuki",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 37,
+    "prefecture": "kagawa",
+    "prefecture_ja": "香川県",
+    "area": "高松市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "香川県高松市（旧讃岐国）で制作される装飾的な手まり。綿を芯に丸く成形し、色とりどりの絹糸・木綿糸を幾何学模様に精緻に巻き付けて作る。江戸時代に高松藩の城下町で正月の縁起物・女の子の遊び道具として発展し、職人・一般家庭ともに制作が広まった。現在は正月飾り・インテリア装飾・贈答品として親しまれ、手まり教室・体験も各地で盛んに行われている。",
+    "desc_en": "Sanuki Kagari Temari are decorative embroidered balls made in Takamatsu City (formerly Sanuki Province), Kagawa Prefecture. Made by forming cotton into a round core and then meticulously wrapping colorful silk and cotton threads in intricate geometric patterns. Developed in the castle town of the Takamatsu Domain during the Edo period as New Year's good luck charms and toys for girls, production spread among craftspeople and ordinary households. Today they are enjoyed as New Year decorations, interior accessories, and gifts, with temari classes and hands-on experiences actively held throughout the region.",
+    "techniques": [
+      "綿芯成形",
+      "土台糸巻き",
+      "幾何学模様かがり刺し",
+      "仕上げ整形"
+    ],
+    "materials": [
+      "綿（芯）",
+      "絹糸・木綿糸",
+      "縫い針"
+    ],
+    "features": [
+      "色糸の幾何学模様が美しい讃岐の伝統的な縁起装飾工芸",
+      "正月飾り・インテリア・贈答品として親しまれる実用的美術品",
+      "手まり教室・体験が盛んな高松市の文化的工芸"
+    ],
+    "workshops": [
+      {
+        "name": "讃岐かがり手まり保存会（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "手まり制作体験（要確認）",
+        "address": "香川県高松市"
+      }
+    ],
+    "purchase_keywords": "讃岐かがり手まり 購入 手まり 香川",
+    "price_range": "小型 2,000円〜 / 中型 5,000円〜 / 大型特注品 20,000円〜",
+    "lat": 34.3402,
+    "lng": 134.0432,
+    "source": "https://kougeihin.jp/craft/3703/",
+    "ogp_image_desc": "色とりどりの糸が幾何学模様に巻かれた讃岐かがり手まり"
+  },
+  {
+    "id": "wa_rosoku",
+    "name": "和蝋燭",
+    "name_en": "Wa Rosoku",
+    "name_fr": "Bougie Traditionnelle Japonaise",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市ほか全国各地",
+    "founded": 1400,
+    "founded_era": "室町時代",
+    "desc": "植物性の木蝋（もくろう）を原料とした日本伝統のろうそく。ハゼの実・ウルシの実などから採取した木蝋を、い草・和紙で作った芯（しん）に何度も重ねて塗り固めて作る。炎が大きく揺らぎ、すすが少なく、燃焼時間が長いという特性がある。仏事・神事・茶道の場で欠かせない日本独自のろうそく文化として発展し、京都・愛知（一色）・滋賀・富山などが主要産地として知られる。",
+    "desc_en": "Wa Rosoku are traditional Japanese candles made from plant-based wood wax (mokuro). Made by repeatedly coating an inner core of rush grass and Japanese paper with wood wax extracted from the fruits of hazenoki and urushi trees. They have characteristics of a large flickering flame, little soot, and long burning time. Developed as a uniquely Japanese candle culture indispensable for Buddhist ceremonies, Shinto rituals, and tea ceremony, with Kyoto, Aichi (Isshiki), Shiga, and Toyama known as major production areas.",
+    "techniques": [
+      "木蝋精製",
+      "い草・和紙の芯巻き",
+      "木蝋重ね塗り",
+      "仕上げ削り"
+    ],
+    "materials": [
+      "ハゼの実・ウルシの実（木蝋原料）",
+      "い草・和紙（芯）"
+    ],
+    "features": [
+      "植物性木蝋と和紙芯による大きな炎・少ないすすの独自特性",
+      "仏事・神事・茶道に欠かせない日本固有のろうそく文化",
+      "ハゼ・ウルシの木蝋を手作業で重ね塗りする伝統的製法"
+    ],
+    "workshops": [
+      {
+        "name": "中村ローソク（京都）",
+        "url": "https://www.nakamurarosoku.com/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市伏見区"
+      }
+    ],
+    "purchase_keywords": "和蝋燭 購入 ろうそく 仏具 京都",
+    "price_range": "小型 500円〜 / 中型 2,000円〜 / 大型仏壇用 10,000円〜",
+    "lat": 34.9395,
+    "lng": 135.7587,
+    "source": "https://kougeihin.jp/craft/2614/",
+    "ogp_image_desc": "い草芯の和蝋燭が揺れる炎の美しさ。仏壇用和ろうそく各種"
+  },
+  {
+    "id": "bekko_zaiku",
+    "name": "鼈甲細工",
+    "name_en": "Bekko Zaiku",
+    "name_fr": "Travail d'Écaille de Tortue",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "主に東京都台東区（浅草・上野周辺）で生産されるタイマイの甲羅を使った装飾工芸品。江戸時代から関東地方で盛んに和装品が作られ、タイマイ甲羅独自の張り合わせ技術で発展してきた。加熱軟化させた甲羅を型に押し当てて成形・接合する技法が特徴で、かんざし・帯留め・眼鏡フレームなどが代表的な製品。現在はワシントン条約による素材規制で職人数・生産量ともに減少しているが、既存素材での制作と代替素材の開発が続けられている。",
+    "desc_en": "Bekko Zaiku is decorative crafts made from hawksbill sea turtle shell, produced mainly in Taito Ward (around Asakusa and Ueno), Tokyo. Techniques transmitted from Nagasaki around the mid-Edo period developed in Edo/Tokyo, with hair ornaments (kanzashi), brooches, eyeglass frames, and obi clasps as representative products. The distinctive technique involves heating the hawksbill shell in hot water or flame to soften it, then pressing it into molds for shaping and joining. Currently the number of craftspeople and production volume are declining due to difficulty sourcing materials under CITES (Washington Convention) commercial trade restrictions, though production with existing materials and development of alternative materials continue.",
+    "techniques": [
+      "加熱軟化成形",
+      "熱圧着接合",
+      "彫刻・透かし彫り",
+      "磨き仕上げ"
+    ],
+    "materials": [
+      "タイマイ甲羅（鼈甲）",
+      "代替素材（アセテート等）"
+    ],
+    "features": [
+      "タイマイ甲羅の透明感と茶色の班模様が生む唯一無二の美しさ",
+      "ワシントン条約で希少となった江戸以来の伝統装飾工芸",
+      "かんざし・眼鏡フレームなど精緻な成形技術による装身具"
+    ],
+    "workshops": [
+      {
+        "name": "東京鼈甲工芸協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "鼈甲細工 購入 かんざし べっこう 東京",
+    "price_range": "帯留め 30,000円〜 / かんざし 50,000円〜 / 眼鏡フレーム 100,000円〜",
+    "lat": 35.7127,
+    "lng": 139.7891,
+    "source": "https://kougeihin.jp/craft/140610/",
+    "ogp_image_desc": "鼈甲細工の琥珀色の透明感が美しいかんざしと帯留め"
+  },
+  {
+    "id": "awa_ningyo_joruri",
+    "name": "阿波人形浄瑠璃人形",
+    "name_en": "Awa Ningyo Joruri Puppet",
+    "name_fr": "Marionnette de Bunraku Awa",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "regional",
+    "designation_number": 36,
+    "prefecture": "tokushima",
+    "prefecture_ja": "徳島県",
+    "area": "徳島市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "徳島県の伝統芸能「阿波人形浄瑠璃」で使用される工芸的人形。江戸時代初期頃から徳島（阿波）の農村に人形浄瑠璃が根付き、大坂の文楽の影響を受けながら独自の阿波スタイルが発展した。人形は主遣い（あるいは三人遣い）が胴体・首・手足を動かす精巧な構造を持ち、表情豊かな彫刻の首・精巧に刺繍された衣装・精密な手足の仕掛けが人形師の技術の粋を示す。現在も農村歌舞伎・お盆祭りの場で上演が続く徳島の誇る伝統芸能の象徴的工芸品。",
+    "desc_en": "Awa Ningyo Joruri Puppets are craft puppets used in 'Awa Ningyo Joruri,' a traditional performing art of Tokushima Prefecture. From the early Edo period, ningyo joruri (puppet theater) took root in the farming villages of Tokushima (Awa), developing a unique Awa style influenced by Osaka's Bunraku. The puppets have sophisticated structures operated by the main puppeteer (or three puppeteers) moving the torso, head, and limbs, with expressively carved heads, intricately embroidered costumes, and precision-engineered limb mechanisms showcasing the pinnacle of puppet-maker craftsmanship. Still performed at rural kabuki and Obon festivals, they are iconic craft objects of Tokushima's proud traditional performing arts.",
+    "techniques": [
+      "首彫刻（かしら制作）",
+      "衣装制作（刺繍・縫製）",
+      "手足の仕掛け制作",
+      "胴体構造組み立て"
+    ],
+    "materials": [
+      "木（首・胴体・手足）",
+      "絹・木綿（衣装）",
+      "金糸・銀糸（刺繍）"
+    ],
+    "features": [
+      "三人遣いで操る高度な構造を持つ阿波の伝統人形浄瑠璃人形",
+      "農村歌舞伎・お盆祭りで今も上演が続く生きた工芸文化",
+      "表情豊かな彫刻首と精巧な衣装が職人技術の粋を示す"
+    ],
+    "workshops": [
+      {
+        "name": "阿波十郎兵衛屋敷",
+        "url": "https://www.awajurobeiyashiki.jp/",
+        "experience": true,
+        "experience_desc": "人形遣い体験・公演鑑賞",
+        "address": "徳島県徳島市"
+      }
+    ],
+    "purchase_keywords": "阿波人形 購入 人形浄瑠璃 徳島",
+    "price_range": "小型飾り人形 10,000円〜 / 本格舞台用人形 100,000円〜",
+    "lat": 34.0659,
+    "lng": 134.5594,
+    "source": "",
+    "ogp_image_desc": "阿波人形浄瑠璃の精巧な首彫刻と華やかな衣装の人形"
+  },
+  {
+    "id": "gifu_lantern",
+    "name": "岐阜提灯",
+    "name_en": "Gifu Chochin",
+    "name_fr": "Lanterne Gifu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 21,
+    "prefecture": "gifu",
+    "prefecture_ja": "岐阜県",
+    "area": "岐阜市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "岐阜県岐阜市で生産される長良川和紙と竹を使った伝統的な提灯。江戸時代中期頃から岐阜の豊富な竹・和紙を活かした提灯制作が始まり、盆提灯の主要産地として発展した。細い竹ひごを螺旋状に巻いた骨組みに薄い美濃和紙を貼り、絵師が草花・風景・家紋などを描き入れる。和紙を通した柔らかく幻想的な灯りは日本の夏の風物詩で、岐阜は国内盆提灯生産の主要産地として全国に出荷している。",
+    "desc_en": "Gifu Chochin are traditional lanterns produced in Gifu City, Gifu Prefecture, using Nagara River washi paper and bamboo. Around the mid-Edo period, lantern production began utilizing Gifu's abundant bamboo and washi paper, developing into a major production area for Obon lanterns. Thin bamboo strips are wound in a spiral frame, covered with thin Mino washi paper, onto which painters add flowers, landscapes, and family crests. The soft, fantastical light through the washi paper is a summer seasonal feature in Japan, and Gifu ships nationwide as a major domestic producer of Obon lanterns.",
+    "techniques": [
+      "竹ひご螺旋巻き骨組み",
+      "和紙貼り",
+      "絵付け",
+      "仕上げ組み立て"
+    ],
+    "materials": [
+      "竹ひご",
+      "美濃和紙",
+      "絵の具・金箔"
+    ],
+    "features": [
+      "竹螺旋骨組みに薄い和紙を貼った岐阜独自の提灯構造",
+      "和紙越しの幻想的な灯りが生む日本の夏の風物詩",
+      "国内盆提灯の主要産地として全国に出荷する岐阜の工芸"
+    ],
+    "workshops": [
+      {
+        "name": "岐阜提灯（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "岐阜県岐阜市"
+      }
+    ],
+    "purchase_keywords": "岐阜提灯 購入 盆提灯 岐阜",
+    "price_range": "小型提灯 3,000円〜 / 盆提灯 10,000円〜 / 大型特注品 50,000円〜",
+    "lat": 35.4231,
+    "lng": 136.7607,
+    "source": "https://kougeihin.jp/craft/1409/",
+    "ogp_image_desc": "岐阜提灯の和紙越しに幻想的に輝く盆提灯"
+  },
+  {
+    "id": "edo_glass",
+    "name": "江戸ガラス",
+    "name_en": "Edo Glass",
+    "name_fr": "Verre Soufflé Edo",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "江東区・墨田区",
+    "founded": 1800,
+    "founded_era": "江戸時代後期",
+    "desc": "東京（江戸）で江戸時代後期から発展した吹きガラス工芸。江戸末期から明治にかけて西洋のガラス技術と日本の職人技術が融合し、吹き竿でガラスを吹いて形を作る「宙吹き（ちゅうぶき）」や型に吹き込む「型吹き」技法で制作される。切子（カット装飾）を施すことの多い江戸切子とは異なり、素朴で温かみのある吹きガラスの形状が特徴。金魚鉢・徳利・ぐい呑みなどの日常器が代表的で、東京の職人が命を吹き込む工芸品として現代も愛されている。",
+    "desc_en": "Edo Glass is blown glasswork that developed in Tokyo (Edo) from the late Edo period. From the end of the Edo period through the Meiji era, Western glass techniques merged with Japanese craftsmanship, producing pieces through 'chubuki' (free blowing) where glass is blown with a blowpipe, and 'kataguki' (mold blowing). Unlike Edo Kiriko, which often features cut decoration, Edo Glass is characterized by the simple, warm forms of blown glass. Representative items include goldfish bowls, sake bottles (tokkuri), and sake cups (guinomi), still cherished today as crafts breathed into life by Tokyo artisans.",
+    "techniques": [
+      "宙吹き（ちゅうぶき）",
+      "型吹き",
+      "色ガラス吹き",
+      "成形仕上げ"
+    ],
+    "materials": [
+      "ソーダガラス",
+      "色ガラス（酸化金属着色）"
+    ],
+    "features": [
+      "吹きガラスの温かみある素朴な形状が江戸切子と対をなす東京のガラス工芸",
+      "金魚鉢・徳利・ぐい呑みなど日本の日常器に溶け込む工芸",
+      "江戸末期〜明治に西洋技術と日本職人技術が融合した歴史"
+    ],
+    "workshops": [
+      {
+        "name": "墨田区のガラス工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "吹きガラス体験（各工房で受付）3,000円〜",
+        "address": "東京都墨田区・江東区"
+      }
+    ],
+    "purchase_keywords": "江戸ガラス 購入 吹きガラス 金魚鉢 東京",
+    "price_range": "ぐい呑み 3,000円〜 / 徳利 8,000円〜 / 金魚鉢 20,000円〜",
+    "lat": 35.7012,
+    "lng": 139.8142,
+    "source": "https://kougeihin.jp/craft/1309/",
+    "ogp_image_desc": "江戸ガラスの温かみある色ガラスの金魚鉢と徳利"
+  },
+  {
+    "id": "echigo_jofu",
+    "name": "越後上布",
+    "name_en": "Echigo Jofu",
+    "name_fr": "Lin Fin d'Echigo",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "regional",
+    "designation_number": 15,
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "南魚沼市・魚沼市",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "新潟県南魚沼市・魚沼市を中心に生産される麻織物の最高峰。奈良時代には越後国の特産品として朝廷への献上品となっていたほどの長い歴史を持つ。苧麻（ちょま）の細い繊維を指先で手績みした極細の糸で手機（てばた）により織られ、積雪を利用した「雪さらし」で白く漂白する工程が特徴的。2009年にはユネスコ無形文化遺産に「越後上布・小千谷縮布」として登録され、日本麻織物の最高峰として国際的に評価されている。",
+    "desc_en": "Echigo Jofu is the pinnacle of linen textiles produced mainly in Minamiuonuma City and Uonuma City, Niigata Prefecture. It has a long history, having been offered as tribute to the imperial court as a specialty of Echigo Province since the Nara period. It is woven on handlooms using ultrafine threads spun by hand from the thin fibers of ramie (choma), with the characteristic process of bleaching white using 'yuki sarashi' (snow bleaching) by spreading the fabric on snow. In 2009, it was registered as a UNESCO Intangible Cultural Heritage as 'Echigo Jofu and Ojiya Chijimi Fabrics,' internationally recognized as the pinnacle of Japanese linen weaving.",
+    "techniques": [
+      "苧麻手績み（ちょまてうみ）",
+      "手機（てばた）織り",
+      "雪さらし（雪漂白）",
+      "絣柄染め"
+    ],
+    "materials": [
+      "苧麻（ちょま）"
+    ],
+    "features": [
+      "ユネスコ無形文化遺産「越後上布・小千谷縮布」に登録（2009年）",
+      "苧麻の手績み糸×雪さらしという越後の自然を活かした製法",
+      "奈良時代から続く日本麻織物の最高峰"
+    ],
+    "workshops": [
+      {
+        "name": "越後上布・小千谷縮布技術保存協会",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "新潟県南魚沼市"
+      }
+    ],
+    "purchase_keywords": "越後上布 購入 麻織物 着物 新潟",
+    "price_range": "端切れ 5,000円〜 / 反物（着物一反）300,000円〜",
+    "lat": 37.0581,
+    "lng": 138.882,
+    "source": "",
+    "ogp_image_desc": "雪の上で白く晒される越後上布の絣麻織物"
+  },
+  {
+    "id": "iga_kumiimo",
+    "name": "伊賀組紐",
+    "name_en": "Iga Kumihimo",
+    "name_fr": "Tresse de Soie Iga",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 24,
+    "prefecture": "mie",
+    "prefecture_ja": "三重県",
+    "area": "伊賀市",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "三重県伊賀市で生産される絹糸の組紐（くみひも）。奈良時代から仏具・装束の飾り紐として発展し、江戸時代には帯締め・羽織紐など和装の小物として需要が拡大した。台組（だいぐみ）と呼ばれる丸台・角台・高台などの専用道具で、複数の糸を規則的に組み上げる技法が特徴。現代は和装小物にとどまらず、ハンドバッグの持ち手・ブレスレット・ネクタイなど現代ファッション小物にも展開。映画「君の名は。」（2016年）のモチーフとして世界的に注目された。",
+    "desc_en": "Iga Kumihimo are braided silk cords produced in Iga City, Mie Prefecture. Developed from the Nara period as decorative cords for Buddhist implements and imperial robes, demand expanded during the Edo period for Japanese clothing accessories such as obi clasps and haori ties. The technique is characterized by the use of specialized tools called 'daigumi' such as marudai (round stand), kakudai (square stand), and takadai (high stand) to systematically braid multiple threads together. Today, production extends beyond Japanese clothing accessories to modern fashion items including handbag handles, bracelets, and neckties. Gained worldwide attention as the motif of the film 'Your Name' (2016).",
+    "techniques": [
+      "丸台組み",
+      "角台組み",
+      "高台組み",
+      "撚り・縒り糸技法"
+    ],
+    "materials": [
+      "絹糸",
+      "金糸・銀糸"
+    ],
+    "features": [
+      "映画「君の名は。」で世界中に知られた伊賀の伝統組紐文化",
+      "帯締め・羽織紐から現代ファッション小物まで幅広く展開",
+      "丸台・角台・高台など専用道具で複数の糸を組み上げる精密技法"
+    ],
+    "workshops": [
+      {
+        "name": "くみひも処 組楽（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "組紐制作体験 2,000円〜",
+        "address": "三重県伊賀市"
+      },
+      {
+        "name": "組紐センター（伊賀市）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "組紐体験（要確認）",
+        "address": "三重県伊賀市"
+      }
+    ],
+    "purchase_keywords": "伊賀組紐 購入 帯締め 組紐 三重",
+    "price_range": "帯締め 5,000円〜 / ブレスレット 3,000円〜 / 特注帯締め 30,000円〜",
+    "lat": 34.7673,
+    "lng": 136.1295,
+    "source": "https://kougeihin.jp/craft/2401/",
+    "ogp_image_desc": "伊賀組紐の色とりどりの絹糸が組み上げられた帯締めと組紐"
+  },
+  {
+    "id": "suruga_hina",
+    "name": "駿河雛具",
+    "name_en": "Suruga Hinagu",
+    "name_fr": "Accessoires de Poupée Hinaningyo Suruga",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 22,
+    "prefecture": "shizuoka",
+    "prefecture_ja": "静岡県",
+    "area": "静岡市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "静岡県静岡市（旧駿河国）で生産される雛人形用の小道具・調度品類。16世紀、今川氏が駿河を治めた時代から既に生産が行われていたとされ、その後の駿府築城で集まった職人技術と温暖多湿な気候が産地発展を後押しした。雛段に飾る御道具類（厨子・御駕籠・箪笥・長持・鏡台など）の精緻な塗り物・竹細工・刺繍・金具装飾が特徴で、人形本体ではなく付属品・調度品の専門産地として知られる。",
+    "desc_en": "Suruga Hinagu are small accessories and furnishings for hinaningyo (traditional dolls for Girls' Day) produced in Shizuoka City (formerly Suruga Province), Shizuoka Prefecture. At the beginning of the Edo period, when Tokugawa Ieyasu built Sunpu Castle, craftspeople gathered from across Japan and diverse craft techniques took root in Shizuoka, forming the foundation of the production area. Characterized by the intricate lacquerwork, bamboo crafts, embroidery, and metal fittings on the miniature furnishings for the hinaningyo display (shrine cabinets, palanquins, chests of drawers, large trunks, dressing tables, etc.), it is known as a production area for accessories and furnishings rather than the dolls themselves. Still shipping to the national hinaningyo market as a major production area for doll accessories.",
+    "techniques": [
+      "塗り物（漆・合成漆）",
+      "竹細工",
+      "金具装飾",
+      "刺繍・縫製"
+    ],
+    "materials": [
+      "木・竹",
+      "漆・合成漆",
+      "金箔・金具",
+      "絹・木綿"
+    ],
+    "features": [
+      "雛人形本体ではなく「お道具類」の精緻な制作に特化した産地",
+      "家康の駿府築城で集まった多様な職人技術が集積する歴史的背景",
+      "塗り物・竹細工・金具・刺繍が融合した精密なミニチュア工芸"
+    ],
+    "workshops": [
+      {
+        "name": "静岡雛具（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "静岡県静岡市"
+      }
+    ],
+    "purchase_keywords": "駿河雛具 購入 雛道具 静岡",
+    "price_range": "小型道具セット 5,000円〜 / 標準セット 30,000円〜 / 高級特注品 200,000円〜",
+    "lat": 34.9756,
+    "lng": 138.3831,
+    "source": "https://kougeihin.jp/craft/1305/",
+    "ogp_image_desc": "駿河雛具の精緻な塗り物の御道具類と竹細工の調度品"
+  },
+  {
+    "id": "banshu_soroban",
+    "name": "播州そろばん",
+    "name_en": "Banshu Soroban (Banshu Abacus)",
+    "name_fr": "Boulier Banshu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "hyogo",
+    "prefecture_ja": "兵庫県",
+    "area": "小野市",
+    "founded": 1750,
+    "founded_era": "江戸時代中期",
+    "desc": "兵庫県小野市で生産されるそろばん。安土桃山時代に豊臣秀吉の三木城攻略の折、大津に逃れた住民がそろばんの技法を習得して帰郷し、製造を始めたのが起源とされる。雲州そろばん（島根）と並ぶ国内二大そろばん産地の一つで、現代でも国産そろばんの大半を生産している。珠をひとつひとつ手作業で仕上げる精密な工程が特徴で、近年はそろばん学習の再評価とともに需要も回復しつつある。",
+    "desc_en": "Banshu Soroban are abacuses produced in Ono City, Hyogo Prefecture. One of Japan's two major abacus production areas alongside Unshu Soroban (Shimane Prefecture), it remains a leading production center producing the majority of domestically made abacuses today. Production began centered in Ono City from the mid-Edo period, characterized by the precise process of individually hand-finishing each one-unit and five-unit bead and a commitment to ease of use. In recent years, demand has recovered along with a reassessment of abacus learning, and it is attracting attention as a traditional craft supporting Japan's culture of mental arithmetic.",
+    "techniques": [
+      "珠削り・穴あけ",
+      "軸通し・枠組み",
+      "仕上げ研磨",
+      "漆塗り（高級品）"
+    ],
+    "materials": [
+      "黄楊（つげ）",
+      "紅木（こうき）",
+      "真竹（枠）"
+    ],
+    "features": [
+      "国産そろばんの大半を生産する「播州そろばん」の小野市",
+      "雲州そろばんと並ぶ日本二大産地・一珠一珠を手仕上げする精密工芸",
+      "日本のそろばん学習文化を支え続ける江戸中期から続く伝統産業"
+    ],
+    "workshops": [
+      {
+        "name": "播州そろばん工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "兵庫県小野市"
+      }
+    ],
+    "purchase_keywords": "播州そろばん 購入 小野市 兵庫 そろばん",
+    "price_range": "普及品 2,000円〜 / 中級品 10,000円〜 / 黄楊高級品 50,000円〜",
+    "lat": 34.8513,
+    "lng": 134.9293,
+    "source": "https://kougeihin.jp/craft/1004/",
+    "ogp_image_desc": "黄楊の珠が整然と並ぶ播州そろばんの美しい工芸品"
+  },
+  {
+    "id": "tsugaru_kogin",
+    "name": "津軽こぎん刺し",
+    "name_en": "Tsugaru Kogin Zashi (Tsugaru Kogin Embroidery)",
+    "name_fr": "Broderie Kogin du Tsugaru",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "regional",
+    "designation_number": 2,
+    "prefecture": "aomori",
+    "prefecture_ja": "青森県",
+    "area": "弘前市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "青森県津軽地方に伝わる刺し子の一種。江戸時代から農村女性が麻布に白い木綿糸でびっしりと刺していく独特の刺繍技法で、防寒・補強の実用性と幾何学的な美しさを兼ね備える。「こぎん」の語源は「小巾（こはば）」で、もとは農作業着（こぎん着）の補強として発展した。水玉・十字・斜め格子などの幾何学文様が特徴で、雪深い津軽の長い冬の手仕事として女性たちが受け継いできた東北を代表する刺し子工芸。",
+    "desc_en": "Tsugaru Kogin Zashi is a type of sashiko embroidery from the Tsugaru region of Aomori Prefecture. Since the Edo period, rural women have used a distinctive embroidery technique of closely stitching white cotton thread onto linen cloth, combining the practicality of cold protection and reinforcement with geometric beauty. The word 'kogin' derives from 'kohaba' (small width), originally developing as reinforcement for farm work clothing (kogin clothing). Characterized by geometric patterns such as polka dots, crosses, and diagonal lattice, it has been passed down by women as the winter handiwork of snowy Tsugaru, representing Tohoku's sashiko craft tradition.",
+    "techniques": [
+      "刺し子技法（麻布への刺繍）",
+      "幾何学文様設計",
+      "木綿糸刺繍"
+    ],
+    "materials": [
+      "麻布（こぎん布）",
+      "白木綿糸",
+      "絹糸（現代）"
+    ],
+    "features": [
+      "麻布に木綿糸で刺す幾何学文様の美しさと防寒実用性を兼ね備えた津軽の刺し子",
+      "江戸時代の農村女性が農作業着の補強から発展させた東北の刺繍文化",
+      "雪深い津軽の長い冬の手仕事として女性たちが受け継いできた伝統技芸"
+    ],
+    "workshops": [
+      {
+        "name": "弘前市立観光館（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "こぎん刺し体験（要確認）",
+        "address": "青森県弘前市"
+      }
+    ],
+    "purchase_keywords": "津軽こぎん刺し 購入 弘前 青森 刺し子",
+    "price_range": "コースター 1,500円〜 / バッグ 8,000円〜 / 着物帯飾り 30,000円〜",
+    "lat": 40.603,
+    "lng": 140.464,
+    "source": "",
+    "ogp_image_desc": "白木綿糸の幾何学文様が美しい津軽こぎん刺しの布地"
+  },
+  {
+    "id": "nachiguro_ishi",
+    "name": "那智黒石工芸品",
+    "name_en": "Nachiguro Ishi Kogeihinn (Nachiguro Stone Craft)",
+    "name_fr": "Artisanat en Pierre Noire Nachi",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 24,
+    "prefecture": "mie",
+    "prefecture_ja": "三重県",
+    "area": "熊野市",
+    "founded": 1300,
+    "founded_era": "室町時代",
+    "desc": "三重県熊野市で産出・加工される那智黒石を使った工芸品。熊野の那智黒石は粘板岩の一種で、きめが細かく研磨すると漆黒の光沢が生まれることが特徴。室町時代から碁石・硯・置物などに加工されてきた歴史を持ち、特に日本の碁石の大部分は那智黒石から作られてきた。熊野三山参詣との結びつきから全国に知られ、囲碁文化を支えてきた重要な石材産地として今日まで受け継がれている。",
+    "desc_en": "Nachiguro Ishi Kogeihin are craft objects produced using nachiguro stone quarried and processed in Kumano City, Mie Prefecture. Nachiguro stone from Kumano is a type of slate (phylite), characterized by its fine grain that produces a jet-black luster when polished. It has a history of being processed into go pieces, inkstones, and figurines since the Muromachi period, and most of Japan's go pieces have traditionally been made from nachiguro stone. Known throughout Japan through its connection with the pilgrimage to the Kumano Sanzan shrines, it continues to be passed down today as an important stone material production area supporting go culture.",
+    "techniques": [
+      "那智黒石切り出し",
+      "研磨・光沢出し",
+      "彫刻・成形"
+    ],
+    "materials": [
+      "那智黒石（粘板岩）"
+    ],
+    "features": [
+      "漆黒の光沢が美しい那智黒石は日本の碁石の主要原材料産地",
+      "室町時代から碁石・硯・置物に加工される熊野の伝統石工芸",
+      "熊野三山参詣文化と結びついた全国に知られる三重の石材産地"
+    ],
+    "workshops": [
+      {
+        "name": "那智黒石工芸組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "三重県熊野市"
+      }
+    ],
+    "purchase_keywords": "那智黒石 購入 碁石 硯 熊野 三重",
+    "price_range": "碁石セット 10,000円〜 / 硯 5,000円〜 / 置物 3,000円〜",
+    "lat": 33.7226,
+    "lng": 136.0484,
+    "source": "https://kougeihin.jp/craft/2403/",
+    "ogp_image_desc": "漆黒の光沢が美しい那智黒石の碁石と硯"
+  },
+  {
+    "id": "koshu_tebori_insho",
+    "name": "甲州手彫印章",
+    "name_en": "Koshu Tebori Insho (Koshu Hand-Carved Seal)",
+    "name_fr": "Sceau Taillé Main de Koshu",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 19,
+    "prefecture": "yamanashi",
+    "prefecture_ja": "山梨県",
+    "area": "甲府市",
+    "founded": 1800,
+    "founded_era": "江戸時代後期",
+    "desc": "山梨県甲府市で生産される手彫り印章（はんこ・印鑑）。甲州水晶の加工技術が根付いた甲府の職人技術が印章彫刻にも展開され、江戸時代後期から産地として発展してきた。職人が一点一点手彫りで文字・文様を彫る細密な技術と、水晶・黒水牛・柘植など多様な素材使いが特徴の高級手彫り印章産地として全国に知られる。機械彫りとは一線を画す手彫りの温かみと精緻さが、官公庁・法人・個人の重要印として根強い需要を支えている。",
+    "desc_en": "Koshu Tebori Insho are hand-carved seals (hanko/inkan) produced in Kofu City, Yamanashi Prefecture. The craftsmen's skills rooted in the processing of Koshu crystal were also applied to seal carving, developing as a production area from the late Edo period. Known nationwide as a high-quality hand-carved seal production area, characterized by intricate techniques of hand-carving characters and patterns one by one, and the use of diverse materials including crystal, black water buffalo horn, and boxwood. The warmth and precision of hand carving that sets it apart from machine carving continues to support steady demand for important seals used by government offices, corporations, and individuals.",
+    "techniques": [
+      "手彫り文字彫刻",
+      "素材研磨・成形",
+      "篆刻技法"
+    ],
+    "materials": [
+      "水晶（甲州水晶）",
+      "黒水牛（角）",
+      "柘植（つげ）"
+    ],
+    "features": [
+      "甲州水晶の加工技術から発展した甲府の精緻な手彫り印章産地",
+      "水晶・黒水牛・柘植など多様な高級素材に手彫りで文字を刻む技術",
+      "機械彫りとは異なる温かみと精緻さが重要印章として根強く愛用される"
+    ],
+    "workshops": [
+      {
+        "name": "甲府手彫印章工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "山梨県甲府市"
+      }
+    ],
+    "purchase_keywords": "甲州手彫印章 購入 甲府 水晶印鑑 はんこ",
+    "price_range": "柘植印鑑 5,000円〜 / 黒水牛 15,000円〜 / 水晶 30,000円〜",
+    "lat": 35.663,
+    "lng": 138.5683,
+    "source": "https://kougeihin.jp/craft/1408/",
+    "ogp_image_desc": "甲州水晶と黒水牛の手彫り印章が並ぶ甲府の伝統工芸品"
+  },
+  {
+    "id": "kyo_hyogu",
+    "name": "京表具",
+    "name_en": "Kyo Hyogu (Kyoto Mounting Craft)",
+    "name_fr": "Montage d'Art de Kyoto",
+    "category": "other",
+    "category_ja": "その他工芸品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 700,
+    "founded_era": "平安時代",
+    "desc": "京都で制作される掛け軸・屏風・襖・巻物などの表具（表装）工芸。平安時代から宮廷・寺院の絵画・書を保護・展示するための表装技術として発展し、薄美濃紙・金箔・錦裂などの高級素材を組み合わせた格調ある仕立てが特徴。文化財保存の要でもある京表具師の技術は国内外の美術品修復にも活用される。古都京都の文化的土壌で磨かれた表具の美は、和の精神と職人技の粋を体現する工芸として現代も高い評価を受ける。",
+    "desc_en": "Kyo Hyogu is the craft of mounting and framing—hanging scrolls, folding screens, sliding doors, and scrolls—produced in Kyoto. Developed from the Heian period as a technique for protecting and displaying paintings and calligraphy for the imperial court and temples, it features dignified finishing combining premium materials such as thin Mino paper, gold leaf, and brocade. The skills of Kyoto mounting craftspeople, also essential for cultural property conservation, are applied to art restoration domestically and internationally. The beauty of mounting refined in the cultural soil of ancient Kyoto continues to receive high acclaim today as a craft embodying the spirit of Japanese aesthetics and the pinnacle of craftsmen's skills.",
+    "techniques": [
+      "裏打ち（和紙重ね）",
+      "糊付け・張り合わせ",
+      "金箔押し",
+      "裂地（きれじ）選定・縫製"
+    ],
+    "materials": [
+      "薄美濃紙・和紙",
+      "金箔",
+      "錦裂・絹裂",
+      "天然糊"
+    ],
+    "features": [
+      "平安時代から宮廷・寺院の絵画・書を保護する京都の格調ある表装工芸",
+      "文化財修復・美術品保存の要として国内外から高い評価を受ける技術",
+      "薄美濃紙・金箔・錦裂など高級素材を組み合わせた京表具の格式と美"
+    ],
+    "workshops": [
+      {
+        "name": "京都表具協同組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市"
+      }
+    ],
+    "purchase_keywords": "京表具 購入 掛け軸 表装 京都",
+    "price_range": "掛け軸表装 30,000円〜 / 屏風 100,000円〜 / 襖 50,000円〜（1枚）",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/1413/",
+    "ogp_image_desc": "金箔と錦裂で仕立てられた格調ある京表具の掛け軸"
+  }
+]

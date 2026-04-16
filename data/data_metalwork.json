@@ -1,0 +1,944 @@
+[
+  {
+    "id": "nanbu_tekki",
+    "name": "南部鉄器",
+    "name_en": "Nambu Ironware",
+    "name_fr": "Fonte Nambu",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 3,
+    "prefecture": "iwate",
+    "prefecture_ja": "岩手県",
+    "area": "盛岡市・奥州市水沢区",
+    "founded": 1659,
+    "founded_era": "万治2年",
+    "desc": "岩手県盛岡市・奥州市で生産される鋳鉄製品。17世紀初め、南部藩が京都から茶釜職人を招いたことに始まり、その後各地から鋳物師・茶釜職人を呼び寄せ武器や日用品を生産した。有名な鉄瓶は18世紀に茶釜を小ぶりに改良したもので、手軽さから広く普及した。砂型鋳造による独特の霰（あられ）紋様と重厚な質感が特徴で、鉄分がお湯をまろやかにすることから国内外で高い人気を誇る。",
+    "desc_en": "Nambu ironware is cast iron products made in Morioka and Oshu Cities, Iwate Prefecture. Starting in 1659 when the Nambu domain lord invited a kamashi (pot maker) from Kyoto. Featuring unique 'arare' (hailstone) patterns created by sand casting, iron kettle water becomes mellow as iron dissolves—boosting health-conscious popularity in Europe and China. Sold at the Louvre Museum shop in Paris, it's a globally recognized Japanese craft brand.",
+    "techniques": [
+      "砂型鋳造",
+      "霰文様打出し",
+      "漆焼き付け"
+    ],
+    "materials": [
+      "鉄",
+      "砂型（粘土+砂）",
+      "うるし"
+    ],
+    "features": [
+      "パリ・ルーブル美術館でも販売される世界的日本工芸ブランド",
+      "砂型鋳造の霰（あられ）紋様と重厚な質感",
+      "鉄瓶で沸かすお湯が鉄分でまろやかになる機能美"
+    ],
+    "workshops": [
+      {
+        "name": "釜定",
+        "url": "https://www.kamasada.co.jp/",
+        "experience": false,
+        "address": "岩手県盛岡市"
+      },
+      {
+        "name": "岩鋳",
+        "url": "https://www.iwachu.co.jp/",
+        "experience": true,
+        "experience_desc": "鋳物体験 2,000円〜",
+        "address": "岩手県盛岡市"
+      }
+    ],
+    "purchase_keywords": "南部鉄器 鉄瓶 購入 急須",
+    "price_range": "急須 8,000円〜 / 鉄瓶 20,000円〜 / 風鈴 3,000円〜",
+    "lat": 39.7036,
+    "lng": 141.1527,
+    "source": "https://kougeihin.jp/craft/0701/",
+    "ogp_image_desc": "霰紋様が美しい南部鉄器の鉄瓶と急須"
+  },
+  {
+    "id": "takaoka_doki",
+    "name": "高岡銅器",
+    "name_en": "Takaoka Copperware",
+    "name_fr": "Cuivre Takaoka",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 16,
+    "prefecture": "toyama",
+    "prefecture_ja": "富山県",
+    "area": "高岡市",
+    "founded": 1611,
+    "founded_era": "慶長16年",
+    "desc": "富山県高岡市で生産される鋳金工芸品。江戸時代初め、加賀前田藩が鋳物の発祥地・河内丹南の技術を持った7人の鋳物職人を招いて工場を開設したことに始まる。花器・仏具に彫金を施す「唐金鋳物（からかねいもの）」の発達で隆盛し、明治のパリ万博出品を機に世界的に知られるようになった。現在、日本の銅器・ブロンズ生産量の約90%を占める日本最大の産地として梵鐘・仏像・花瓶まで幅広く生産している。",
+    "desc_en": "Takaoka copperware is cast metal crafts from Takaoka City, Toyama Prefecture. Starting in 1611 when Maeda Toshiaga, second lord of the Kaga Domain, invited seven casters. It accounts for approximately 90% of Japan's copper and bronze production—from temple bells and Buddhist statues to vases and interior goods. Used in restoring Kamakura's Great Buddha and Nara's Todaiji Temple; the Tokyo Metropolitan Government's large clock is also Takaoka-made.",
+    "techniques": [
+      "砂型鋳造",
+      "ろう型鋳造",
+      "着色（日本の伝統色）",
+      "彫金"
+    ],
+    "materials": [
+      "銅合金",
+      "青銅",
+      "白銅"
+    ],
+    "features": [
+      "日本の銅器・ブロンズ生産量約90%を占める圧倒的な産業規模",
+      "鎌倉大仏・東大寺修復にも使われる最高水準の鋳造技術",
+      "梵鐘・仏像から現代インテリアまで幅広く展開"
+    ],
+    "workshops": [
+      {
+        "name": "高岡市鋳物資料館",
+        "url": "https://www.city.takaoka.toyama.jp/",
+        "experience": true,
+        "experience_desc": "鋳物・着色体験（各工房で受付）",
+        "address": "富山県高岡市"
+      }
+    ],
+    "purchase_keywords": "高岡銅器 購入 花瓶 仏像",
+    "price_range": "小物 3,000円〜 / 花瓶 15,000円〜 / 梵鐘（特注）数百万円〜",
+    "lat": 36.7547,
+    "lng": 137.026,
+    "source": "https://kougeihin.jp/craft/0708/",
+    "ogp_image_desc": "重厚な質感の高岡銅器の花瓶と梵鐘"
+  },
+  {
+    "id": "tsubame_tsuidoki",
+    "name": "燕鎚起銅器",
+    "name_en": "Tsubame Hammered Copperware",
+    "name_fr": "Cuivre Martelé Tsubame",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 15,
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "燕市",
+    "founded": 1780,
+    "founded_era": "天明年間",
+    "desc": "新潟県燕市で生産される鍛金工芸品。江戸時代中期、仙台からの渡り職人が技術を伝えたことに始まるとされ、地元・弥彦山から採れた銅を使ってやかん類が生産されていた。銅板を鎚で叩いて成形する「鎚起（ついき）」技法が最大の特徴で、打ち続けることで銅が締まり極薄・高耐久の器に仕上がる。明治維新後は彫金技術も加わり美術工芸品として国内外で高い評価を受けている。",
+    "desc_en": "Tsubame Hammered Copperware is forged metal crafts from Tsubame City, Niigata Prefecture. Said to have started around 1780, the 'tsuiki' (hammering) technique of shaping copper sheets by hammering is its defining feature. Continuous hammering compresses the copper, creating extremely thin yet highly durable vessels. While few craftsmen remain due to the high skill required, the beauty and functionality are highly regarded domestically and internationally.",
+    "techniques": [
+      "鎚起（ついき）",
+      "鍛金",
+      "着色"
+    ],
+    "materials": [
+      "銅板",
+      "真鍮"
+    ],
+    "features": [
+      "鎚で叩いて銅を締める「鎚起」技法による極薄・高耐久の器",
+      "打ち傷（槌目）が生む独自の表面テクスチャの美しさ",
+      "燕三条の金属加工技術の粋を集めた伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "玉川堂",
+        "url": "https://www.gyokusendo.co.jp/",
+        "experience": true,
+        "experience_desc": "鎚起体験・工房見学（要予約）",
+        "address": "新潟県燕市"
+      }
+    ],
+    "purchase_keywords": "燕鎚起銅器 購入 急須 銅器",
+    "price_range": "急須 30,000円〜 / 花瓶 50,000円〜 / 茶托 15,000円〜",
+    "lat": 37.6724,
+    "lng": 138.8776,
+    "source": "https://kougeihin.jp/craft/0704/",
+    "ogp_image_desc": "鎚目が美しい燕鎚起銅器の急須と花瓶"
+  },
+  {
+    "id": "sakai_uchihamono",
+    "name": "堺打刃物",
+    "name_en": "Sakai Forged Cutlery",
+    "name_fr": "Coutelerie Forgée Sakai",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 27,
+    "prefecture": "osaka",
+    "prefecture_ja": "大阪府",
+    "area": "堺市",
+    "founded": 1500,
+    "founded_era": "室町末期",
+    "desc": "大阪府堺市で生産される刃物。16世紀頃に南蛮貿易でポルトガルからタバコが伝わり、それを刻む「たばこ包丁」の需要が起きたことが発展の契機とされる。江戸時代には徳川幕府の公認を得た「極印（ごくいん）」が品質保証の証となり、「堺の極印（ごくいん）」は最高品質の代名詞となった。現在も日本料理人用包丁市場での高シェアを誇る。",
+    "desc_en": "Sakai forged cutlery is knives and cutting tools produced in Sakai City, Osaka. The development is attributed to the demand for tobacco knives after tobacco was introduced from Portugal through Nanban trade in the 16th century. During the Edo period, the 'gokuin' (official seal) authorized by the Tokugawa Shogunate became a quality guarantee, and 'Sakai gokuin' became synonymous with top quality. Today it still holds a high market share in Japanese chef's knives.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ",
+      "本焼き",
+      "霞仕立て"
+    ],
+    "materials": [
+      "鋼（白鋼・青鋼・ステンレス）",
+      "和鉄"
+    ],
+    "features": [
+      "江戸時代の幕府公認「極印」が証明する400年の品質保証の歴史",
+      "日本料理人が愛用する本焼き・霞仕立ての職人包丁",
+      "切れ味・耐久性で世界の料理人にも認められた日本刃物文化"
+    ],
+    "workshops": [
+      {
+        "name": "堺刃物ミュージアム",
+        "url": "https://www.city.sakai.lg.jp/",
+        "experience": true,
+        "experience_desc": "刃物研ぎ体験（産地にご確認ください）",
+        "address": "大阪府堺市"
+      }
+    ],
+    "purchase_keywords": "堺包丁 購入 刃物 出刃包丁",
+    "price_range": "包丁 5,000円〜 / 本焼き包丁 50,000円〜 / 特注品 100,000円〜",
+    "lat": 34.5735,
+    "lng": 135.483,
+    "source": "https://kougeihin.jp/craft/0710/",
+    "ogp_image_desc": "鋭い切れ味が美しい堺打刃物の出刃包丁と柳刃包丁"
+  },
+  {
+    "id": "echizen_uchihamono",
+    "name": "越前打刃物",
+    "name_en": "Echizen Forged Cutlery",
+    "name_fr": "Coutelerie Forgée Echizen",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 18,
+    "prefecture": "fukui",
+    "prefecture_ja": "福井県",
+    "area": "越前市武生",
+    "founded": 1300,
+    "founded_era": "南北朝時代頃",
+    "desc": "福井県越前市武生地区を中心に生産される刃物。700年以上の歴史を持ち、室町時代初期に京都の刀作り職人がこの地を訪れ、近くの農民のために鎌を作ったことが起源とされる。江戸時代には福井藩の保護により全国に広まり、農具から包丁・ハサミ・剪定ばさみまで多様な刃物を生産する産地へと発展。昭和54年には刃物産地として最初の伝統的工芸品指定を受けた。",
+    "desc_en": "Echizen forged cutlery is knives and cutting tools produced mainly in Takefu district, Echizen City, Fukui Prefecture. With over 700 years of history, it is said to have originated when swordsmith Chiyozuru Kuniyasu came down from Kyoto during the Nanbokucho period to make farm tools for peasants. Starting with agricultural tools like sickles and hoes, it now produces diverse cutting tools including kitchen knives, scissors, and pruning shears.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ",
+      "研ぎ"
+    ],
+    "materials": [
+      "鋼",
+      "ステンレス"
+    ],
+    "features": [
+      "700年以上の歴史を持つ日本農業用刃物の主要産地",
+      "農具から包丁・ハサミまで多様な刃物を生産",
+      "越前市のナイフ産業集積地「武生刃物」として知られる"
+    ],
+    "workshops": [
+      {
+        "name": "越前打刃物会館（産地にご確認ください）",
+        "url": "https://takefu-hamono.jp/",
+        "experience": true,
+        "experience_desc": "刃物研ぎ・鍛造体験（産地にご確認ください）",
+        "address": "福井県越前市"
+      }
+    ],
+    "purchase_keywords": "越前打刃物 包丁 購入 福井",
+    "price_range": "包丁 6,000円〜 / 剪定ばさみ 5,000円〜 / 特注品 80,000円〜",
+    "lat": 35.9026,
+    "lng": 136.168,
+    "source": "https://kougeihin.jp/craft/0709/",
+    "ogp_image_desc": "鍛造の美しい越前打刃物の包丁と鎌"
+  },
+  {
+    "id": "tosa_uchihamono",
+    "name": "土佐打刃物",
+    "name_en": "Tosa Forged Cutlery",
+    "name_fr": "Coutelerie Forgée Tosa",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 39,
+    "prefecture": "kochi",
+    "prefecture_ja": "高知県",
+    "area": "香美市土佐山田町・香南市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "高知県香美市・香南市周辺で生産される刃物。天正18年（1590年）の長宗我部地検帳に399軒もの鍛冶屋が記されており、古くから刃物作りが盛んだったことがわかる。本格的な隆盛は江戸初期・元和改革（1621年）からで、土佐藩による森林資源保護と新田開発の推進により農林業用刃物の需要が拡大した。鉈・鎌など農林業用刃物の名産地として現在も切れ味と耐久性が高く評価されている。",
+    "desc_en": "Tosa forged cutlery is knives and cutting tools produced around Kami City and Konan City, Kochi Prefecture. From the early Edo period, agricultural and forestry cutting tools such as machetes (nata), sickles (kama), and hoes developed to meet the demands of Kochi's thriving forestry and agricultural industries. It now produces diverse cutting tools, known nationwide for sharpness and durability.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ",
+      "研ぎ"
+    ],
+    "materials": [
+      "鋼（白鋼・青鋼）"
+    ],
+    "features": [
+      "山林業・農業の産業需要から生まれた実用刃物の名産地",
+      "切れ味と耐久性で農林業関係者に絶大な信頼",
+      "鉈・鎌から包丁・ナイフまで幅広い刃物を生産"
+    ],
+    "workshops": [
+      {
+        "name": "土佐刃物流通センター（産地にご確認ください）",
+        "url": "https://tosa-hamono.jp/",
+        "experience": true,
+        "experience_desc": "研ぎ体験（産地にご確認ください）",
+        "address": "高知県香美市"
+      }
+    ],
+    "purchase_keywords": "土佐打刃物 購入 鉈 包丁 高知",
+    "price_range": "鎌 3,000円〜 / 包丁 6,000円〜 / 鉈 15,000円〜",
+    "lat": 33.65,
+    "lng": 133.77,
+    "source": "https://kougeihin.jp/craft/0713/",
+    "ogp_image_desc": "鍛造の美しい土佐打刃物の鉈と包丁"
+  },
+  {
+    "id": "banshu_hamono",
+    "name": "播州刃物",
+    "name_en": "Banshu Cutlery",
+    "name_fr": "Coutelerie Banshu",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "hyogo",
+    "prefecture_ja": "兵庫県",
+    "area": "三木市・小野市",
+    "founded": 1400,
+    "founded_era": "室町時代",
+    "desc": "兵庫県三木市・小野市を中心に生産される刃物。室町時代から大工道具・農具の産地として発展し、豊臣秀吉の三木城攻め（1578〜80年）の後、復興のために全国から鍛冶職人が集まり産地が形成されたとも伝わる。現在は鋸（のこぎり）・鑿（のみ）・鉋（かんな）などの大工道具のほか、ハサミ・刈込鋏なども生産する。",
+    "desc_en": "Banshu cutlery is knives and tools produced mainly in Miki City and Ono City, Hyogo Prefecture. Developed from the Muromachi period as a production area for carpenter tools and agricultural implements. It is also said that smiths gathered from across Japan to rebuild after Toyotomi Hideyoshi's siege of Miki Castle (1578-80). Currently produces carpenter tools such as saws, chisels, and planes, as well as scissors and pruning shears.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ",
+      "研ぎ"
+    ],
+    "materials": [
+      "鋼",
+      "ステンレス"
+    ],
+    "features": [
+      "室町時代から続く大工道具・農具の名産地",
+      "鋸・鑿・鉋など大工道具の国内シェアを誇る",
+      "豊臣秀吉の三木城攻め後の復興から発展した伝統的背景"
+    ],
+    "workshops": [
+      {
+        "name": "三木金物産地（産地にご確認ください）",
+        "url": "https://www.miki-kanagu.or.jp/",
+        "experience": true,
+        "experience_desc": "刃物体験（産地にご確認ください）",
+        "address": "兵庫県三木市"
+      }
+    ],
+    "purchase_keywords": "播州刃物 購入 三木金物 大工道具",
+    "price_range": "鑿 5,000円〜 / 鉋 10,000円〜 / 鋸 5,000円〜",
+    "lat": 34.7975,
+    "lng": 134.9814,
+    "source": "https://kougeihin.jp/craft/2802/",
+    "ogp_image_desc": "播州刃物の鑿と鉋と鋸"
+  },
+  {
+    "id": "yamagata_imono",
+    "name": "山形鋳物",
+    "name_en": "Yamagata Cast Metal",
+    "name_fr": "Fonte Yamagata",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 6,
+    "prefecture": "yamagata",
+    "prefecture_ja": "山形県",
+    "area": "山形市",
+    "founded": 1000,
+    "founded_era": "平安時代",
+    "desc": "山形県山形市で生産される鋳金工芸品。平安時代中頃、源頼義がこの地を転戦した際、同行していた鋳物職人が市内を流れる川の砂と土質が鋳物に最適であることを発見し、この地に留まったのが起源とされる。仏具・茶道具・日用品から現代的なインテリアまで多様な製品を生産し、薄肉・軽量鋳造技術でも評価が高い。南部鉄器とともに日本を代表する鋳物産地として知られる。",
+    "desc_en": "Yamagata cast metal is metal craft products from Yamagata City, Yamagata Prefecture. Said to have originated in the Heian period when Minamoto no Yoriyoshi brought casters from Kyoto during his expedition to Oshu. Producing diverse items from Buddhist implements and tea ceremony tools to everyday items and modern interior goods. Known alongside Nambu ironware as one of Japan's representative casting areas.",
+    "techniques": [
+      "砂型鋳造",
+      "ろう型鋳造",
+      "薄肉鋳造"
+    ],
+    "materials": [
+      "鉄",
+      "銅",
+      "アルミ"
+    ],
+    "features": [
+      "平安時代から千年以上続く山形の鋳金工芸",
+      "薄肉・軽量鋳造技術で現代の器やインテリアにも展開",
+      "仏具・茶道具から日用品まで多様な鋳物を生産"
+    ],
+    "workshops": [
+      {
+        "name": "山形鋳物工房（産地にご確認ください）",
+        "url": "https://www.yamagata-cci.or.jp/",
+        "experience": false,
+        "address": "山形県山形市"
+      }
+    ],
+    "purchase_keywords": "山形鋳物 購入 鉄瓶 花瓶",
+    "price_range": "小物 3,000円〜 / 花瓶 10,000円〜 / 鉄瓶 30,000円〜",
+    "lat": 38.2404,
+    "lng": 140.3633,
+    "source": "https://kougeihin.jp/craft/0702/",
+    "ogp_image_desc": "精巧な山形鋳物の鉄瓶と茶道具"
+  },
+  {
+    "id": "tokyo_ginki",
+    "name": "東京銀器",
+    "name_en": "Tokyo Silverware",
+    "name_fr": "Argenterie de Tokyo",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "東京都台東区などで生産される銀製品。江戸時代中期に、彫金師の仕事を担う「銀師（しろがねし）」や、くし・かんざし・神輿金具などを作る「金工師」と呼ばれる職人が登場したことに始まる。金座・銀座の存在や各大名が集まる政治経済の中心であったことが産地形成を支えた。鍛金・彫金・鋳造など多様な技術を駆使し、日本の金属工芸の最高峰として国内外から高い評価を受ける。",
+    "desc_en": "Tokyo silverware is silver products produced mainly in Taito Ward, Tokyo. Developing in Edo from the early Edo period as craftspeople serving the Tokugawa shogunate gathered, it produces silver crafts including tea ceremony utensils, accessories, and ornamental objects. Employing diverse metalworking techniques such as forging (tankin), engraving (chokin), and casting, it receives high acclaim both domestically and internationally as the pinnacle of Japanese metalwork.",
+    "techniques": [
+      "鍛金",
+      "彫金",
+      "鋳造",
+      "象嵌",
+      "蝋型鋳造"
+    ],
+    "materials": [
+      "純銀・銀合金",
+      "金（金メッキ・金象嵌）"
+    ],
+    "features": [
+      "江戸・東京の職人技術が結集した日本銀工芸の最高峰",
+      "鍛金・彫金・鋳造を駆使した多彩な技法",
+      "茶道具から現代ジュエリーまで幅広い銀製品の産地"
+    ],
+    "workshops": [
+      {
+        "name": "東京金属工芸協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "東京銀器 銀製品 茶道具 購入",
+    "price_range": "銀製茶碗 50,000円〜 / 花瓶 80,000円〜 / アクセサリー 20,000円〜",
+    "lat": 35.7127,
+    "lng": 139.7891,
+    "source": "https://kougeihin.jp/craft/0703/",
+    "ogp_image_desc": "東京銀器の彫金が施された銀製の茶道具と置物"
+  },
+  {
+    "id": "tokyo_uchihamono",
+    "name": "東京打刃物",
+    "name_en": "Tokyo Uchihamono",
+    "name_fr": "Coutellerie Forgée de Tokyo",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "regional",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "足立区・葛飾区",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "東京都足立区・葛飾区を中心に生産される鍛造刃物。江戸時代から大工・職人の需要に応える産地として発展し、特に大工道具（鑿・鉋・鏨）と包丁・剃刀などの刃物生産で知られる。鋼と軟鉄の鍛接技術と研磨技術が高く、切れ味と耐久性で評価される職人用刃物の産地。",
+    "desc_en": "Tokyo uchihamono are forged bladed tools produced mainly in Adachi Ward and Katsushika Ward, Tokyo. Developing from the Edo period as a production center meeting the demands of carpenters and craftspeople, it is particularly known for producing carpentry tools (chisels, planes, and cold chisels) as well as kitchen knives and razors. With high-quality forge welding of steel and soft iron and sharpening techniques, it is a production center for professional tools valued for sharpness and durability.",
+    "techniques": [
+      "鍛接（鋼と軟鉄の接合）",
+      "火造り",
+      "焼き入れ・焼き戻し",
+      "研磨仕上げ"
+    ],
+    "materials": [
+      "玉鋼・特殊鋼",
+      "軟鉄"
+    ],
+    "features": [
+      "江戸・東京の職人需要が育んだ大工道具・包丁の産地",
+      "鋼と軟鉄の鍛接による切れ味と粘り強さの高バランス",
+      "大工道具・包丁・剃刀まで多様な鍛造刃物を生産"
+    ],
+    "workshops": [
+      {
+        "name": "東京刃物工業協同組合",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都足立区"
+      }
+    ],
+    "purchase_keywords": "東京打刃物 包丁 大工道具 購入",
+    "price_range": "鑿 5,000円〜 / 包丁 15,000円〜 / 鉋 20,000円〜",
+    "lat": 35.7777,
+    "lng": 139.8065,
+    "source": "",
+    "ogp_image_desc": "東京打刃物の鍛造包丁と大工道具の鑿・鉋"
+  },
+  {
+    "id": "higo_zogan",
+    "name": "肥後象嵌",
+    "name_en": "Higo Zogan",
+    "name_fr": "Damasquinure Higo",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 43,
+    "prefecture": "kumamoto",
+    "prefecture_ja": "熊本県",
+    "area": "熊本市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "熊本県熊本市で生産される金属象嵌工芸品。寛永9年（1632年）、肥後藩主・細川忠利侯に仕えた林又七が鉄砲や刀の鐔（つば）に象嵌を施したのが始まりとされる。江戸時代には林家をはじめ複数の家が肥後鐔の名品を生み出し、廃刀令以降は装身具・装飾品へと転じた。鉄地に金・銀線を打ち込む「布目象嵌」技法による、黒い鉄地に輝く金銀の対比が独特の美しさを生み出す。",
+    "desc_en": "Higo zogan is metal inlay craft produced in Kumamoto City, Kumamoto Prefecture. In the early Edo period, craftspeople serving the Higo Hosokawa Domain established inlay techniques of embedding gold and silver into iron bases, applied to armor, accessories, and tea ceremony utensils. The characteristic technique is \"nunome zogan\" (cloth-ground inlay), cutting grooves into the iron base with fine chisels and driving in gold and silver wire. The contrast between the gleaming gold and silver against the black iron creates a uniquely beautiful aesthetic.",
+    "techniques": [
+      "布目象嵌（ぬのめぞうがん）",
+      "金線・銀線打ち込み",
+      "鉄地彫刻",
+      "磨き仕上げ"
+    ],
+    "materials": [
+      "鉄",
+      "金線・銀線"
+    ],
+    "features": [
+      "細川藩の御用職人が確立した黒鉄地×金銀象嵌の独特の美",
+      "「布目象嵌」という鉄に金銀線を打ち込む精緻な技法",
+      "武具の装飾から発展した熊本を代表する金属工芸"
+    ],
+    "workshops": [
+      {
+        "name": "肥後象嵌 濱西工房",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "熊本県熊本市"
+      }
+    ],
+    "purchase_keywords": "肥後象嵌 金工品 購入",
+    "price_range": "ブローチ 15,000円〜 / 飾り皿 30,000円〜 / 置物 50,000円〜",
+    "lat": 32.8031,
+    "lng": 130.7079,
+    "source": "https://kougeihin.jp/craft/0714/",
+    "ogp_image_desc": "肥後象嵌の黒鉄地に金銀が輝く象嵌細工の飾り板"
+  },
+  {
+    "id": "kyo_kinko",
+    "name": "京金工",
+    "name_en": "Kyo Kinko",
+    "name_fr": "Métallurgie de Kyoto",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "regional",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 800,
+    "founded_era": "平安時代",
+    "desc": "京都で生産される金属工芸の総称。平安時代から仏具・装身具・茶道具など多岐にわたる金属工芸が制作されてきた。鍛金・彫金・鋳金・蝋型鋳造など多様な技法と、金・銀・銅・真鍮などを使った高度な合金技術が特徴。京都の文化的・宗教的背景から生まれた格調ある金属工芸の総合産地。",
+    "desc_en": "Kyo kinko is a collective term for metalwork produced in Kyoto. Since the Heian period, metalwork covering a wide range including Buddhist implements, accessories, and tea ceremony utensils has been created. It features diverse techniques including forging, engraving, casting, and lost-wax casting, along with sophisticated alloy techniques using gold, silver, copper, and brass. It is a comprehensive production center for dignified metalwork born from Kyoto's cultural and religious heritage.",
+    "techniques": [
+      "鍛金",
+      "彫金",
+      "鋳金",
+      "蝋型鋳造",
+      "色上げ（化学着色）"
+    ],
+    "materials": [
+      "金・銀・銅・真鍮",
+      "四分一（銅・銀合金）"
+    ],
+    "features": [
+      "平安から続く仏具・茶道具・装身具の京都金属工芸の総合産地",
+      "鍛金・彫金・鋳金・蝋型鋳造を網羅した多彩な技法",
+      "四分一など独自の日本金属素材を使った精緻な仕上げ"
+    ],
+    "workshops": [
+      {
+        "name": "京都市伝統産業ふれあい館",
+        "url": "https://kmtc.jp/",
+        "experience": true,
+        "experience_desc": "金属工芸体験（要確認）",
+        "address": "京都府京都市左京区岡崎"
+      }
+    ],
+    "purchase_keywords": "京金工 茶道具 仏具 購入",
+    "price_range": "茶入れ蓋 5,000円〜 / 花瓶 30,000円〜 / 仏具セット 50,000円〜",
+    "lat": 35.0168,
+    "lng": 135.7816,
+    "source": "",
+    "ogp_image_desc": "京金工の彫金が施された銅製の花瓶と茶道具"
+  },
+  {
+    "id": "osaka_naniwa_suzuki",
+    "name": "大阪浪華錫器",
+    "name_en": "Osaka Naniwa Suzuki",
+    "name_fr": "Étain de Naniwa Osaka",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 27,
+    "prefecture": "osaka",
+    "prefecture_ja": "大阪府",
+    "area": "大阪市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "大阪府大阪市で生産される錫（すず）製の器・酒器・茶道具。錫は約1,300年前に遣隋使によって日本に伝えられたとされ、江戸時代中期に大阪（浪華）で産地が形成された。抗菌性・熱伝導性が高く酒をまろやかにする錫の機能美が茶人や酒客に愛され、ぐい呑み・徳利・茶托などが代表的な製品。鍛金・鋳造・研磨を組み合わせた製法で、銀白色の上品な金属光沢が特徴。",
+    "desc_en": "Osaka Naniwa Suzuki are tin vessels, sake ware, and tea ceremony utensils produced in Osaka City, Osaka Prefecture. From around the mid-Edo period, craftspeople in Naniwa (Osaka) began producing tin ware, developing into a production area for quality sake vessels and tea ceremony tools favored by tea ceremony practitioners and sake connoisseurs. Known for its antibacterial properties, high thermal conductivity, and ability to mellow the taste of beer and sake, representative products include sake cups, sake bottles, and tea saucers. The manufacturing process combines forging, casting, and polishing, characterized by an elegant silver-white metallic sheen.",
+    "techniques": [
+      "鍛金（板金加工）",
+      "鋳造",
+      "研磨仕上げ",
+      "彫刻装飾"
+    ],
+    "materials": [
+      "錫（すず）",
+      "錫合金"
+    ],
+    "features": [
+      "抗菌性・熱伝導性が高く酒をまろやかにする錫の機能美",
+      "銀白色の上品な金属光沢と滑らかな手触りの茶道具・酒器",
+      "大阪浪華の職人が育てた江戸時代から続く錫器の産地"
+    ],
+    "workshops": [
+      {
+        "name": "能作（大阪直営店）",
+        "url": "https://www.nousaku.co.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "大阪府大阪市"
+      },
+      {
+        "name": "大阪浪華錫器（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "大阪府大阪市"
+      }
+    ],
+    "purchase_keywords": "浪華錫器 購入 錫器 ぐい呑み 大阪",
+    "price_range": "ぐい呑み 5,000円〜 / 徳利 15,000円〜 / 茶托セット 20,000円〜",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "source": "https://kougeihin.jp/craft/0711/",
+    "ogp_image_desc": "大阪浪華錫器の銀白色に輝くぐい呑みと徳利"
+  },
+  {
+    "id": "sanjo_uchihamono",
+    "name": "三条打刃物",
+    "name_en": "Sanjo Uchihamono",
+    "name_fr": "Coutellerie Forgée Sanjo",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "designation_number": 15,
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "三条市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "新潟県三条市で生産される鍛造刃物。江戸時代初期の1600年頃、三条の農民が農閑期の副業として和釘の製造を始めたことが金属加工産地形成の起点とされ、その後鎌・鍬などの農具刃物へと発展した。燕三条地区の金属加工集積地の一翼を担い、現在は鑿（のみ）・鉋（かんな）などの大工道具のほか、包丁・鎌・鍬などの農林業用刃物まで幅広い鍛造刃物を生産。素材選びから熱処理・研磨まで職人の技術が結集した高品質な刃物産地として知られる。",
+    "desc_en": "Sanjo Uchihamono are forged bladed tools produced in Sanjo City, Niigata Prefecture. The formation of the metal processing production area is said to have originated around 1600 in the early Edo period when Sanjo farmers began making Japanese nails as a side business during the agricultural off-season, later developing into agricultural cutting tools such as sickles and hoes. As part of the Tsubame-Sanjo metalworking cluster, it now produces a wide range of forged blades including carpenter tools such as chisels and planes, as well as agricultural and forestry cutting tools including kitchen knives, sickles, and hoes. Known as a high-quality blade production area where craftspeople's techniques are concentrated from material selection through heat treatment and polishing.",
+    "techniques": [
+      "鍛造（火造り）",
+      "焼き入れ・焼き戻し",
+      "研磨仕上げ",
+      "鋼と軟鉄の鍛接"
+    ],
+    "materials": [
+      "鋼（白鋼・青鋼）",
+      "軟鉄"
+    ],
+    "features": [
+      "燕三条の金属加工集積を支える大工道具・農林業用刃物の産地",
+      "江戸時代の和釘製造から発展した400年以上の鍛冶技術の歴史",
+      "素材選び・熱処理・研磨まで職人技術が結集した高品質刃物"
+    ],
+    "workshops": [
+      {
+        "name": "三条鍛冶道場",
+        "url": "https://www.city.sanjo.niigata.jp/",
+        "experience": true,
+        "experience_desc": "鍛冶体験（要予約）3,000円〜",
+        "address": "新潟県三条市"
+      }
+    ],
+    "purchase_keywords": "三条打刃物 購入 包丁 大工道具 新潟",
+    "price_range": "鎌 3,000円〜 / 包丁 6,000円〜 / 大工鑿 8,000円〜",
+    "lat": 37.636,
+    "lng": 138.9597,
+    "source": "https://kougeihin.jp/craft/0706/",
+    "ogp_image_desc": "三条打刃物の鍛造包丁と大工用鑿・鉋"
+  },
+  {
+    "id": "echigo_yoita_hamono",
+    "name": "越後与板打刃物",
+    "name_en": "Echigo Yoita Forged Cutlery",
+    "name_fr": "Coutelerie Forgée Echigo Yoita",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "長岡市与板地区",
+    "founded": 1600,
+    "desc": "新潟県長岡市与板地区で生産される鍛造刃物。戦国時代、上杉謙信の家臣が春日山から刀作り職人を招いたのが起源とされる。江戸時代中期には「土肥のみ（兵部のみ）」として全国に知られる大工道具の産地となり、明治以降は鉋の製造も盛んになった。鋼と軟鉄の鍛接技術と精密な焼き入れが特徴で、鑿（のみ）・鉋（かんな）など全国の大工・木工職人が愛用する高品質な大工道具の産地として知られる。",
+    "desc_en": "Echigo Yoita forged cutlery are forged bladed tools produced in the Yoita district of Nagaoka City, Niigata Prefecture. Blacksmithing was practiced as a side business during the agricultural off-season from the early Edo period, developing into a production center for carpenter tools—particularly chisels (nomi) and planes (kanna). Known as a producer of high-quality carpenter tools favored by carpenters and woodworkers nationwide, especially sets of combined chisels (kuminomi) which are popular as gifts for craftspeople. Characterized by forge welding of steel and soft iron and precise hardening.",
+    "techniques": [
+      "鍛接（鋼と軟鉄の接合）",
+      "火造り",
+      "焼き入れ・焼き戻し",
+      "研磨仕上げ"
+    ],
+    "materials": [
+      "鋼（白鋼・青鋼）",
+      "軟鉄"
+    ],
+    "features": [
+      "大工・木工職人に愛用される鑿・鉋の専門産地",
+      "鋼と軟鉄の鍛接による切れ味と耐久性の高バランス",
+      "組鑿セットは職人への贈り物としても定番の高品質刃物"
+    ],
+    "workshops": [],
+    "price_range": "¥5,000〜",
+    "lat": 37.5325,
+    "lng": 138.8057,
+    "source": "https://kougeihin.jp/craft/0705/",
+    "ogp_image_desc": "越後与板打刃物の鍛造鑿と鉋のセット"
+  },
+  {
+    "id": "shonai_hamono",
+    "name": "庄内刃物",
+    "name_en": "Shonai Cutlery",
+    "name_fr": "Coutelerie Shonai",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "regional",
+    "prefecture": "yamagata",
+    "prefecture_ja": "山形県",
+    "area": "三川町・鶴岡市",
+    "founded": 1700,
+    "desc": "山形県三川町・鶴岡市周辺で生産される鍛造刃物。江戸時代から庄内地方の農業・漁業の需要に応えるため鎌・包丁・出刃などの刃物が作られてきた。庄内平野の豊かな農業文化を背景に、農具用刃物から台所用包丁まで幅広い刃物を生産。日本海側の気候に合わせた堅牢な作りが特徴。",
+    "desc_en": "Shonai cutlery are forged bladed tools produced around Mikawa Town and Tsuruoka City, Yamagata Prefecture. Since the Edo period, knives including sickles, kitchen knives, and deba (heavy-duty fish knives) have been made to meet the demands of Shonai's agriculture and fishing industries. Against the background of the rich agricultural culture of the Shonai Plain, it produces a wide range of cutting tools from agricultural blades to kitchen knives. Characterized by robust construction suited to the climate of the Japan Sea coast.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ",
+      "研磨仕上げ"
+    ],
+    "materials": [
+      "鋼",
+      "軟鉄"
+    ],
+    "features": [
+      "庄内平野の農業・漁業文化が育んだ実用刃物の産地",
+      "農具から包丁・出刃まで幅広い鍛造刃物を生産",
+      "日本海側の気候に合わせた堅牢な刃物作り"
+    ],
+    "workshops": [],
+    "price_range": "¥3,000〜",
+    "lat": 38.8264,
+    "lng": 139.9782,
+    "source": "",
+    "ogp_image_desc": "庄内刃物の鍛造包丁と鎌"
+  },
+  {
+    "id": "shinshu_uchihamono",
+    "name": "信州打刃物",
+    "name_en": "Shinshu Forged Cutlery",
+    "name_fr": "Coutelerie Forgée Shinshu",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "prefecture": "nagano",
+    "prefecture_ja": "長野県",
+    "area": "岡谷市・諏訪市周辺",
+    "founded": 1700,
+    "desc": "長野県岡谷市・諏訪市周辺で生産される鍛造刃物。16世紀後半の川中島合戦の時代、この地を行き来して武具・刀剣を修理していた刃物職人から、地域の人々が鍛冶技術を習い覚えたのが起源とされる。その後、農林業の需要に応えた鎌・鍬など農具刃物の産地として発展し、江戸時代に独自の信州鎌が完成した。現在は農林業用刃物から包丁・ナイフまで幅広く生産している。",
+    "desc_en": "Shinshu forged cutlery are forged bladed tools produced around Okaya City and Suwa City, Nagano Prefecture. From the Edo period, production of agricultural and forestry cutting tools such as sickles, hoes, and mountain machetes developed to meet the demands of Shinshu's agriculture and forestry. Built on the technical foundation of the Suwa region's metalworking industry, it produces a wide range of cutting tools from agricultural and forestry blades to kitchen knives and knives. Characterized by practical knife-making that emphasizes sharpness and durability.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ",
+      "研磨仕上げ"
+    ],
+    "materials": [
+      "鋼",
+      "ステンレス"
+    ],
+    "features": [
+      "諏訪・岡谷の金属加工技術を背景とした農林業用刃物産地",
+      "農具から包丁・ナイフまで実用重視の刃物を生産",
+      "信州の厳しい自然環境に耐える堅牢な刃物作り"
+    ],
+    "workshops": [],
+    "price_range": "¥3,000〜",
+    "lat": 36.0615,
+    "lng": 138.0433,
+    "source": "https://kougeihin.jp/craft/0707/",
+    "ogp_image_desc": "信州打刃物の鍛造鎌と包丁"
+  },
+  {
+    "id": "gifu_hamono",
+    "name": "岐阜刃物",
+    "name_en": "Gifu Cutlery",
+    "name_fr": "Coutelerie Gifu",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "regional",
+    "prefecture": "gifu",
+    "prefecture_ja": "岐阜県",
+    "area": "関市",
+    "founded": 1200,
+    "desc": "岐阜県関市を中心に生産される刃物。鎌倉時代から続く刀鍛冶の伝統を持ち、良質な水・木炭・砂鉄が揃った環境から関の刀が全国に名を馳せた。現在は日本有数の刃物産地として包丁・ハサミ・ナイフ・剃刀など日用刃物から産業用刃物まで幅広く生産。「関の孫六」ブランドで世界的にも知られる。世界三大刃物産地（関・ゾーリンゲン・シェフィールド）のひとつにも数えられる。",
+    "desc_en": "Gifu cutlery are knives and cutting tools produced mainly in Seki City, Gifu Prefecture. With a tradition of swordsmithing dating back to the Kamakura period, quality water, charcoal, and iron sand made Seki swords famous throughout Japan. Today, as one of Japan's leading cutlery production centers, it produces a wide range from everyday cutlery such as kitchen knives, scissors, and razors to industrial blades. Globally known through the 'Sekimaru' brand. It is also counted among the world's three major cutlery production centers (Seki, Solingen, Sheffield).",
+    "techniques": [
+      "鍛造",
+      "焼き入れ・焼き戻し",
+      "研磨仕上げ",
+      "鋼とステンレスの複合材鍛造"
+    ],
+    "materials": [
+      "鋼（白鋼・青鋼・粉末冶金鋼）",
+      "ステンレス"
+    ],
+    "features": [
+      "世界三大刃物産地のひとつ・鎌倉時代から続く800年の刀鍛冶の歴史",
+      "「関の孫六」ブランドで世界的に知られる日本刃物の代表産地",
+      "日用包丁から産業用刃物まで幅広い生産を誇る日本最大の刃物産地"
+    ],
+    "workshops": [
+      {
+        "name": "関鍛冶伝承館",
+        "url": "https://www.sekikanko.jp/",
+        "experience": true,
+        "experience_desc": "鍛冶体験・刃物研ぎ体験（要確認）",
+        "address": "岐阜県関市"
+      }
+    ],
+    "price_range": "¥3,000〜",
+    "lat": 35.4961,
+    "lng": 136.9163,
+    "source": "",
+    "ogp_image_desc": "岐阜刃物・関市の鍛造包丁と日本刀"
+  },
+  {
+    "id": "bizen_osafune_hamono",
+    "name": "備前長船刃物",
+    "name_en": "Bizen Osafune Cutlery",
+    "name_fr": "Coutelerie Bizen Osafune",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "regional",
+    "prefecture": "okayama",
+    "prefecture_ja": "岡山県",
+    "area": "瀬戸内市長船町",
+    "founded": 1200,
+    "desc": "岡山県瀬戸内市長船町で生産される刃物。鎌倉時代から続く「備前刀」の産地として知られ、長船派の刀工が生み出した日本刀は「天下五剣」にも数えられる。江戸時代の廃刀後は農業用刃物・包丁へと転換し、現在は日本刀の伝統技術を受け継いだ高品質な刃物を生産している。長船の刀工「長光」「景光」など名工の系譜が伝わる歴史的な刃物産地。",
+    "desc_en": "Bizen Osafune cutlery are knives and cutting tools produced in Osafune-cho, Setouchi City, Okayama Prefecture. Known since the Kamakura period as a production center for 'Bizen swords,' Japanese swords created by Osafune school swordsmiths are counted among the 'Five Greatest Swords.' After the ban on swords in the Edo period, production shifted to agricultural blades and kitchen knives, and today it produces high-quality cutlery inheriting the traditional techniques of Japanese swordmaking. A historic cutlery production area where the lineage of master swordsmiths such as 'Nagamitsu' and 'Kagemitsu' is passed down.",
+    "techniques": [
+      "鍛造",
+      "焼き入れ（刃文）",
+      "研磨・鍛接"
+    ],
+    "materials": [
+      "玉鋼・特殊鋼",
+      "軟鉄"
+    ],
+    "features": [
+      "鎌倉時代から続く「備前刀」の伝統を受け継ぐ日本刀発祥の刃物産地",
+      "名工「長光」「景光」の系譜を受け継ぐ長船の刀鍛冶技術",
+      "日本刀の伝統製法を活かした切れ味抜群の高品質刃物"
+    ],
+    "workshops": [
+      {
+        "name": "備前長船刀剣博物館",
+        "url": "https://www.city.setouchi.lg.jp/",
+        "experience": true,
+        "experience_desc": "刀鍛冶見学・研磨体験（要確認）",
+        "address": "岡山県瀬戸内市長船町"
+      }
+    ],
+    "price_range": "¥10,000〜",
+    "lat": 34.7025,
+    "lng": 134.1557,
+    "source": "",
+    "ogp_image_desc": "備前長船刃物の鍛造包丁と日本刀の刃文"
+  },
+  {
+    "id": "owari_shippou",
+    "name": "尾張七宝",
+    "name_en": "Owari Cloisonne",
+    "name_fr": "Cloisonné Owari",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "meti",
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "あま市七宝町",
+    "founded": 1833,
+    "desc": "愛知県あま市七宝町を中心に生産される七宝焼（しっぽうやき）の工芸品。江戸時代後期、現在の名古屋地域の梶常吉（かじつねきち）が七宝焼の技術・技法を独自に確立したことに始まる。最古の作品は天保4年（1833年）作のぐい呑みとされる。銅・銀などの金属素地にガラス質釉薬を焼き付ける「有線七宝」技法が特徴で、鮮やかな発色と精緻な図柄が世界的に評価される。明治の国際博覧会で最高賞を受賞した輸出工芸品の花形。",
+    "desc_en": "Owari cloisonne is cloisonne enamelware (shippoyaki) produced mainly in Shippo-cho, Ama City, Aichi Prefecture. Said to have originated around 1833 (Tenpo 4) when Owari samurai Kaji Tsunekichi independently researched and established cloisonne manufacturing techniques. Characterized by the 'yusen shippou' (cloisonne) technique of firing glassy enamel glaze onto metal bases of copper and silver, it is internationally acclaimed for its vivid colors and intricate patterns. During the Meiji period, it won top prizes at international expositions and contributed to Japan's modernization as a leading export craft.",
+    "techniques": [
+      "有線七宝（クロワゾネ）",
+      "無線七宝",
+      "銀線・銅線の仕切り細工",
+      "釉薬焼き付け"
+    ],
+    "materials": [
+      "銅・銀（金属素地）",
+      "ガラス質釉薬（うわぐすり）",
+      "銀線・金線"
+    ],
+    "features": [
+      "明治の国際博覧会で最高賞を受賞した世界的に有名な七宝焼産地",
+      "鮮やかな発色と精緻な図柄が特徴の「有線七宝」技法",
+      "輸出工芸の花形として日本の近代化に貢献した歴史的産地"
+    ],
+    "workshops": [
+      {
+        "name": "七宝焼アートヴィレッジ",
+        "url": "https://www.shippoyaki.jp/",
+        "experience": true,
+        "experience_desc": "七宝焼制作体験（当日受付可）",
+        "address": "愛知県あま市七宝町遠島"
+      }
+    ],
+    "price_range": "¥3,000〜",
+    "lat": 35.2125,
+    "lng": 136.8129,
+    "source": "https://kougeihin.jp/craft/1410/",
+    "ogp_image_desc": "尾張七宝の鮮やかな有線七宝の花瓶と飾り皿"
+  },
+  {
+    "id": "bungo_takada_yasuri",
+    "name": "豊後高田やすり",
+    "name_en": "Bungo Takada Metal Files",
+    "name_fr": "Limes Bungo Takada",
+    "category": "metalwork",
+    "category_ja": "金工品",
+    "designation": "regional",
+    "prefecture": "oita",
+    "prefecture_ja": "大分県",
+    "area": "豊後高田市",
+    "founded": 1800,
+    "desc": "大分県豊後高田市で生産される金属製やすり（鑢）。江戸時代末期から明治期にかけて、地場産業として鍛冶技術を活かしたやすり製造が始まった。木工・金属加工・皮革加工など様々な職人仕事に不可欠な工具で、手作業による精緻な目切り（めきり）技術が特徴。職人が一本一本手で目を刻む伝統的な製法により、機械製品にはない優れた切削性能を持つ。",
+    "desc_en": "Bungo Takada metal files are metal files (yasuri) produced in Bungo Takada City, Oita Prefecture. From the late Edo period through the Meiji era, file manufacturing utilizing blacksmithing techniques developed as a local industry. An indispensable tool for various craftspeople in woodworking, metalworking, and leatherworking, it is characterized by the precise hand-cutting (mekiri) technique done manually. Made by craftspeople cutting each tooth by hand using traditional methods, these files have superior cutting performance not found in machine-made products.",
+    "techniques": [
+      "手目切り（てめきり）",
+      "鍛造",
+      "焼き入れ",
+      "研磨仕上げ"
+    ],
+    "materials": [
+      "工具鋼",
+      "炭素鋼"
+    ],
+    "features": [
+      "職人が一本一本手で目を刻む「手目切り」の精緻な技術",
+      "機械製品にはない優れた切削性能と長寿命",
+      "木工・金属加工・皮革など幅広い職人仕事を支える工具産地"
+    ],
+    "workshops": [],
+    "price_range": "¥2,000〜",
+    "lat": 33.5581,
+    "lng": 131.4989,
+    "source": "",
+    "ogp_image_desc": "豊後高田やすりの手目切りで仕上げられた金属やすりのセット"
+  }
+]

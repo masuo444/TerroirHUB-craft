@@ -1,0 +1,784 @@
+[
+  {
+    "id": "kyo_butsudan",
+    "name": "京仏壇",
+    "name_en": "Kyo Butsudan (Kyoto Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Kyoto",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 1,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 700,
+    "founded_era": "奈良時代頃",
+    "desc": "京都府京都市を産地とする金仏壇の最高峰。もともと武士階級のものだった仏壇が一般家庭に広まったのは江戸時代初期で、徳川幕府の宗門改によって家庭用仏壇の需要が高まり産地として発展した。金箔・蒔絵・漆・錺金具など多数の職人が分業して一基を仕上げる高度な総合工芸で、西本願寺・東本願寺とともに成長してきた日本仏壇の精華。",
+    "desc_en": "Kyo Butsudan are Buddhist altars produced in Kyoto City, Kyoto Prefecture. Said to have begun around the Nara period, they are known as the pinnacle of gold altars. Traditionally, multiple craftsmen specialize in different aspects—gold leaf, maki-e lacquer, lacquer finishing, and decorative metal fittings—to complete one altar. Characterized by rich gold leaf decoration and a solemn structure housing Buddhist statues and ornaments. Developed alongside demand from temples like Nishi-Honganji and Higashi-Honganji.",
+    "techniques": [
+      "金箔押し",
+      "蒔絵",
+      "漆塗り",
+      "錺金具（鋳造・彫金）",
+      "宮殿造り"
+    ],
+    "materials": [
+      "金箔",
+      "天然漆",
+      "木材（欅・檜）",
+      "金属（真鍮・銅）"
+    ],
+    "features": [
+      "金箔・蒔絵・漆・錺金具など多職人が分業する高度な総合工芸",
+      "西本願寺・東本願寺とともに発展した日本仏壇の最高峰",
+      "豊かな金箔装飾と荘厳な宮殿造りの格式"
+    ],
+    "workshops": [
+      {
+        "name": "京都仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.kyoto-butsudan.jp/",
+        "experience": false,
+        "address": "京都府京都市"
+      }
+    ],
+    "purchase_keywords": "京仏壇 購入 金仏壇 京都",
+    "price_range": "小型仏壇 100,000円〜 / 中型 500,000円〜 / 大型特注 数百万円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/0811/",
+    "ogp_image_desc": "金箔と蒔絵が荘厳な京仏壇の内部装飾"
+  },
+  {
+    "id": "nagoya_butsudan",
+    "name": "名古屋仏壇",
+    "name_en": "Nagoya Butsudan (Nagoya Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Nagoya",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "名古屋市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "愛知県名古屋市を中心に生産される仏壇。江戸時代初期に始まったとされ、総欅（そうけやき）造りの堅牢な木地に金箔・漆・蒔絵を施す。尾張名古屋の職人文化が生んだ重厚な作りと、装飾の豪華さが特徴。現在も名古屋市内に多くの仏壇メーカー・職人が集積し、東海地方を中心に広く流通している。愛知仏壇とも呼ばれる。",
+    "desc_en": "Nagoya Butsudan are Buddhist altars produced mainly in Nagoya City, Aichi Prefecture. Said to have started in the early Edo period, solid keyaki (Japanese zelkova) woodwork is decorated with gold leaf, lacquer, and maki-e. Characterized by robust construction and luxurious decoration born from Owari Nagoya's craftsman culture. Many altar makers and craftsmen are still concentrated in Nagoya City, with products widely distributed mainly in the Tokai region.",
+    "techniques": [
+      "欅木地加工",
+      "金箔押し",
+      "蒔絵",
+      "漆塗り"
+    ],
+    "materials": [
+      "欅（けやき）",
+      "金箔",
+      "天然漆"
+    ],
+    "features": [
+      "総欅造りの堅牢な木地と豪華な金箔・蒔絵装飾",
+      "尾張職人文化が生んだ重厚で格調ある仏壇様式",
+      "東海地方の寺院・家庭に広く普及した地域の仏壇文化"
+    ],
+    "workshops": [
+      {
+        "name": "名古屋仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.nagoya-butsudan.jp/",
+        "experience": false,
+        "address": "愛知県名古屋市"
+      }
+    ],
+    "purchase_keywords": "名古屋仏壇 購入 愛知 仏壇",
+    "price_range": "小型仏壇 80,000円〜 / 中型 300,000円〜 / 大型 1,000,000円〜",
+    "lat": 35.1815,
+    "lng": 136.9066,
+    "source": "https://kougeihin.jp/craft/0808/",
+    "ogp_image_desc": "総欅造りに金箔が輝く名古屋仏壇"
+  },
+  {
+    "id": "hiroshima_butsudan",
+    "name": "広島仏壇",
+    "name_en": "Hiroshima Butsudan (Hiroshima Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Hiroshima",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 34,
+    "prefecture": "hiroshima",
+    "prefecture_ja": "広島県",
+    "area": "広島市・府中市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "広島県広島市・府中市を産地とする仏壇。江戸時代初期に紀州から移り住んだ飾り金具師や塗師らの技術を礎に、後に敦高という僧が京都・大阪で習得した高度な技法を持ち帰ったことで技術体制が確立した。浄土真宗が篤く根付く土地柄から需要を広げ、金仏壇・唐木仏壇の両方を生産する西日本を代表する仏壇産地として知られる。",
+    "desc_en": "Hiroshima Butsudan are Buddhist altars produced mainly in Hiroshima City and Fuchu City, Hiroshima Prefecture. Developed from the mid-Edo period, it is known as a western Japan altar production area. Both gold altars and karaki altars (black/brown-toned altars using exotic hardwood) are produced. Characterized by high-quality woodworking in cooperation with Fuchu City's furniture industry, it developed alongside the spread of Jodo Shinshu Buddhism in the region.",
+    "techniques": [
+      "木地加工",
+      "金箔押し",
+      "漆塗り",
+      "唐木仕上げ"
+    ],
+    "materials": [
+      "欅・檜（金仏壇）",
+      "唐木材（紫檀・黒檀等）"
+    ],
+    "features": [
+      "金仏壇・唐木仏壇の両方を生産する西日本の仏壇産地",
+      "府中家具産業との連携による高品質な木地加工",
+      "浄土真宗信仰が根付く広島の仏壇文化"
+    ],
+    "workshops": [
+      {
+        "name": "広島仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.hiroshima-butsudan.jp/",
+        "experience": false,
+        "address": "広島県広島市・府中市"
+      }
+    ],
+    "purchase_keywords": "広島仏壇 購入 西日本 仏壇",
+    "price_range": "小型仏壇 70,000円〜 / 中型 300,000円〜 / 大型 800,000円〜",
+    "lat": 34.3853,
+    "lng": 132.4553,
+    "source": "https://kougeihin.jp/craft/0814/",
+    "ogp_image_desc": "金箔と唐木の荘厳な広島仏壇"
+  },
+  {
+    "id": "hikone_butsudan",
+    "name": "彦根仏壇",
+    "name_en": "Hikone Butsudan (Hikone Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Hikone",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 25,
+    "prefecture": "shiga",
+    "prefecture_ja": "滋賀県",
+    "area": "彦根市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "滋賀県彦根市で生産される仏壇。江戸中期から彦根藩の奨励で職人が集まり発展したとされる。金仏壇の産地として知られ、金箔押し・蒔絵・錺金具など多数の職人技が集約される。浄土真宗が盛んな滋賀・北陸の寺院・家庭向けに広く供給されてきた。彦根城の城下町という歴史的背景とともに、滋賀の伝統工芸の代表格として知られる。",
+    "desc_en": "Hikone Butsudan are Buddhist altars produced in Hikone City, Shiga Prefecture. Said to have developed with craftsmen gathering under encouragement from the Hikone domain from the mid-Edo period. Known as a gold altar production area, craftsman techniques including gold leaf application, maki-e, and decorative metal fittings are all concentrated here. Widely supplied to temples and homes in the Jodo Shinshu-prevalent regions of Shiga and Hokuriku. Known as a representative traditional craft of Shiga alongside the historic backdrop of Hikone Castle town.",
+    "techniques": [
+      "金箔押し",
+      "蒔絵",
+      "錺金具",
+      "宮殿造り"
+    ],
+    "materials": [
+      "金箔",
+      "天然漆",
+      "木材",
+      "真鍮金具"
+    ],
+    "features": [
+      "彦根藩の奨励で職人が集積した歴史的背景",
+      "金仏壇の産地として浄土真宗地帯を支える",
+      "金箔・蒔絵・錺金具が一体となった総合工芸"
+    ],
+    "workshops": [
+      {
+        "name": "彦根仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.hikone-butsudan.jp/",
+        "experience": false,
+        "address": "滋賀県彦根市"
+      }
+    ],
+    "purchase_keywords": "彦根仏壇 購入 滋賀 金仏壇",
+    "price_range": "小型仏壇 80,000円〜 / 中型 350,000円〜 / 大型 1,000,000円〜",
+    "lat": 35.2765,
+    "lng": 136.2566,
+    "source": "https://kougeihin.jp/craft/0810/",
+    "ogp_image_desc": "金箔と蒔絵が荘厳な彦根仏壇"
+  },
+  {
+    "id": "mikawa_butsudan",
+    "name": "三河仏壇",
+    "name_en": "Mikawa Butsudan (Mikawa Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Mikawa",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "岡崎市・安城市・西尾市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "愛知県岡崎市・安城市・西尾市を産地とする仏壇。江戸時代中期、仏壇師が矢作川の水運を利用して得られる松・杉・ヒノキの良材と三河北部・猿投山麓で採れた漆を使って仏壇を作ったのが始まりとされる。三河の浄土真宗信仰の普及とともに産地が広がり、名古屋仏壇と並ぶ愛知の仏壇二大産地として現在も職人が分業で高品質な仏壇を制作している。",
+    "desc_en": "Mikawa Butsudan are Buddhist altars produced mainly in Okazaki City, Anjo City, and Nishio City, Aichi Prefecture. Developed in the western Mikawa region from the mid-Edo period, spreading alongside the prevalence of Jodo Shinshu Buddhism in the Mikawa area. An altar production area in Aichi alongside Nagoya altars, producing high-quality altars through a division of labor in wood processing, lacquering, gold leaf, and decorative metal fittings.",
+    "techniques": [
+      "木地加工",
+      "漆塗り",
+      "金箔押し",
+      "錺金具"
+    ],
+    "materials": [
+      "木材（欅・檜）",
+      "金箔",
+      "天然漆"
+    ],
+    "features": [
+      "西三河の職人技術が集結した分業による高品質生産",
+      "名古屋仏壇と並ぶ愛知県の仏壇二大産地",
+      "浄土真宗が盛んな三河地方の仏壇文化"
+    ],
+    "workshops": [
+      {
+        "name": "三河仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.mikawa-butsudan.jp/",
+        "experience": false,
+        "address": "愛知県岡崎市"
+      }
+    ],
+    "purchase_keywords": "三河仏壇 購入 愛知 岡崎 仏壇",
+    "price_range": "小型仏壇 80,000円〜 / 中型 300,000円〜 / 大型 900,000円〜",
+    "lat": 34.9558,
+    "lng": 137.1676,
+    "source": "https://kougeihin.jp/craft/0809/",
+    "ogp_image_desc": "精緻な装飾の三河仏壇"
+  },
+  {
+    "id": "osaka_butsudan",
+    "name": "大阪仏壇",
+    "name_en": "Osaka Butsudan (Osaka Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste d'Osaka",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 27,
+    "prefecture": "osaka",
+    "prefecture_ja": "大阪府",
+    "area": "大阪市・八尾市・柏原市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "大阪府大阪市・八尾市・柏原市を産地とする仏壇。聖徳太子が四天王寺を建立した際に朝鮮半島の百済から技術者を呼び寄せたことが産地の起源とされ、仏教の広まりとともに優れた製作技術が府下一円に定着した。浄土真宗の寺内町が集中する河内地方を基盤に発展し、関西圏の寺院・家庭に広く金仏壇を供給してきた。",
+    "desc_en": "Osaka Butsudan are Buddhist altars produced mainly in Osaka City, Yao City, and Kashiwara City, Osaka Prefecture. Developed from the early Edo period, established as an industry in the Kawachi region where Jodo Shinshu temple towns (jinaimachi) are concentrated. As a gold altar production area, widely supplying temples and homes throughout the Kansai region. Characterized by a practical yet luxurious altar style fused with Osaka's merchant culture.",
+    "techniques": [
+      "金箔押し",
+      "蒔絵",
+      "漆塗り",
+      "錺金具",
+      "宮殿造り"
+    ],
+    "materials": [
+      "金箔",
+      "天然漆",
+      "木材",
+      "真鍮金具"
+    ],
+    "features": [
+      "浄土真宗寺内町が集中する河内地方で発展した産地",
+      "大阪商人文化が生んだ実用的かつ豪華な仏壇様式",
+      "関西圏の寺院・家庭に幅広く供給する関西の仏壇産地"
+    ],
+    "workshops": [
+      {
+        "name": "大阪仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.osaka-butsudan.jp/",
+        "experience": false,
+        "address": "大阪府大阪市・八尾市"
+      }
+    ],
+    "purchase_keywords": "大阪仏壇 購入 関西 金仏壇",
+    "price_range": "小型仏壇 70,000円〜 / 中型 280,000円〜 / 大型 800,000円〜",
+    "lat": 34.6937,
+    "lng": 135.5022,
+    "source": "https://kougeihin.jp/craft/0813/",
+    "ogp_image_desc": "金箔と蒔絵が荘厳な大阪仏壇"
+  },
+  {
+    "id": "kawabe_butsudan",
+    "name": "川辺仏壇",
+    "name_en": "Kawabe Butsudan (Kawabe Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste Kawabe",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 28,
+    "prefecture": "hyogo",
+    "prefecture_ja": "兵庫県",
+    "area": "伊丹市・川辺郡",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "兵庫県伊丹市・川辺郡を産地とする仏壇。鎌倉時代初め、河辺氏と壇ノ浦で敗れた平家の残党が川辺の地で供養と仏教伝道に励んだことが信仰の土台となり、1200年には菩提寺も建立された。こうした篤い仏教文化を背景に仏壇産業が育まれ、金箔・蒔絵・漆・錺金具の各職人が連携する分業体制で関西圏の浄土真宗寺院・家庭に幅広く供給してきた。",
+    "desc_en": "Kawabe Butsudan are Buddhist altars produced mainly in Itami City and Kawabe District, Hyogo Prefecture. Said to have developed from the mid-Edo period, establishing a unique style while being influenced by Osaka and Kyoto altar culture. Primarily producing gold altars, with various specialist craftsmen collaborating on gold leaf, maki-e, lacquer, and decorative metal fittings. Widely supplied to Jodo Shinshu temples and homes in the Kansai region, known as the altar production area of Hyogo and the Hanshin area.",
+    "techniques": [
+      "金箔押し",
+      "蒔絵",
+      "漆塗り",
+      "錺金具"
+    ],
+    "materials": [
+      "金箔",
+      "天然漆",
+      "木材",
+      "金属金具"
+    ],
+    "features": [
+      "大阪・京都の影響を受けながら独自様式を確立した関西産地",
+      "阪神地区の浄土真宗文化を支える仏壇産地",
+      "各専門職人が連携する分業体制による高品質生産"
+    ],
+    "workshops": [
+      {
+        "name": "川辺仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.kawabe-butsudan.jp/",
+        "experience": false,
+        "address": "兵庫県伊丹市"
+      }
+    ],
+    "purchase_keywords": "川辺仏壇 購入 兵庫 阪神 仏壇",
+    "price_range": "小型仏壇 70,000円〜 / 中型 280,000円〜 / 大型 800,000円〜",
+    "lat": 34.7844,
+    "lng": 135.424,
+    "source": "https://kougeihin.jp/craft/0816/",
+    "ogp_image_desc": "金箔と蒔絵が荘厳な川辺仏壇"
+  },
+  {
+    "id": "kyoto_butsugu",
+    "name": "京仏具",
+    "name_en": "Kyo Butsugu (Kyoto Buddhist Implements)",
+    "name_fr": "Objets Rituels Bouddhistes de Kyoto",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 1,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 700,
+    "founded_era": "奈良時代",
+    "desc": "京都府京都市で生産される仏具（りん・燭台・香炉・花立など）の総称。最澄・空海が活躍した8世紀頃に製作が始まったとされ、11世紀初頭には仏師が七条に「仏所」を開いて職人を集めたのが本格的な産地の出発点とされる。鋳造・彫金・漆・蒔絵など多数の職人が連携する高度な総合工芸で、日本仏教の中心地・京都の名刹御用達の仏具産地として国内外に知られる。",
+    "desc_en": "Kyo Butsugu is the collective term for Buddhist implements (bells, candlesticks, incense burners, flower vases, etc.) produced in Kyoto City. Said to have begun in the Nara period, they are made using diverse materials and techniques including gilt bronze, lacquerware, and ceramics. Known worldwide as a production area for high-end temple implements in Kyoto, home to many famous temples including Nishi-Honganji, Higashi-Honganji, and Nanzenji. A comprehensive craft with numerous craftsmen in casting, carving, lacquer, and maki-e working in collaboration.",
+    "techniques": [
+      "鋳造（りん・燭台）",
+      "彫金",
+      "漆塗り・蒔絵",
+      "截金（きりかね）"
+    ],
+    "materials": [
+      "真鍮・銅",
+      "天然漆",
+      "金箔",
+      "陶磁土"
+    ],
+    "features": [
+      "日本仏教の中心地・京都が誇る高級寺院仏具の産地",
+      "鋳造・彫金・漆・蒔絵など多技術が融合する総合工芸",
+      "西本願寺・東本願寺など名刹御用達の格式"
+    ],
+    "workshops": [
+      {
+        "name": "京都仏壇仏具組合（産地にご確認ください）",
+        "url": "https://www.kyoto-butsudan.jp/",
+        "experience": false,
+        "address": "京都府京都市"
+      }
+    ],
+    "purchase_keywords": "京仏具 購入 りん 香炉 燭台 京都",
+    "price_range": "りん 5,000円〜 / 香炉 10,000円〜 / 燭台 15,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/0812/",
+    "ogp_image_desc": "金色に輝く京仏具のりんと香炉と燭台"
+  },
+  {
+    "id": "nagasaki_butsudan",
+    "name": "長崎仏壇",
+    "name_en": "Nagasaki Butsudan (Nagasaki Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Nagasaki",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 42,
+    "prefecture": "nagasaki",
+    "prefecture_ja": "長崎県",
+    "area": "長崎市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "長崎県長崎市を中心に生産される仏壇。江戸時代に出島を通じたオランダ・中国との交流から独自の装飾様式が生まれ、中国の影響を受けた極彩色の彫刻・装飾が特徴的な金仏壇として発展した。長崎は江戸時代を通じて日本唯一の対外開放地であり、その異文化交流が長崎仏壇の独自性を生んだ。鮮やかな朱と金の組み合わせ、龍・鳳凰・唐草紋様の彫刻が他産地とは異なる南蛮文化の薫りを伝える。",
+    "desc_en": "Nagasaki Butsudan are Buddhist altars produced mainly in Nagasaki City, Nagasaki Prefecture. A unique decorative style was born through exchanges with the Netherlands and China via Dejima during the Edo period, developing into a gold altar characterized by highly colorful carving and decoration influenced by Chinese aesthetics. As Japan's only open port throughout the Edo period, Nagasaki's cross-cultural exchange generated the uniqueness of its altars. The vibrant combination of vermilion and gold, with carved dragons, phoenixes, and arabesque patterns, conveys a southern barbarian cultural fragrance distinct from other production areas.",
+    "techniques": [
+      "金箔押し",
+      "極彩色彫刻",
+      "漆塗り",
+      "錺金具",
+      "中国式彫刻装飾"
+    ],
+    "materials": [
+      "金箔",
+      "天然漆",
+      "木材",
+      "真鍮金具"
+    ],
+    "features": [
+      "出島を通じた中国・オランダの影響が生んだ独自の装飾様式",
+      "龍・鳳凰・極彩色彫刻が他産地と一線を画す長崎の個性",
+      "日本唯一の異文化交流地・長崎が生んだ仏壇工芸文化"
+    ],
+    "workshops": [
+      {
+        "name": "長崎仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "長崎県長崎市"
+      }
+    ],
+    "purchase_keywords": "長崎仏壇 購入 金仏壇 九州 仏壇",
+    "price_range": "小型仏壇 80,000円〜 / 中型 350,000円〜 / 大型 1,000,000円〜",
+    "lat": 32.7503,
+    "lng": 129.8777,
+    "source": "https://kougeihin.jp/craft/4201/",
+    "ogp_image_desc": "朱と金の極彩色彫刻が輝く長崎仏壇"
+  },
+  {
+    "id": "yamagata_butsudan",
+    "name": "山形仏壇",
+    "name_en": "Yamagata Butsudan (Yamagata Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Yamagata",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 6,
+    "prefecture": "yamagata",
+    "prefecture_ja": "山形県",
+    "area": "山形市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "山形県山形市を中心に生産される金仏壇。江戸中期から発展し、山形県産の欅材を用いた堅牢な木地加工と、金箔・漆・蒔絵を施した豪華な仕上げが特徴。東北地方では浄土真宗が広く信仰されており、山形仏壇はその信仰需要に応える東北を代表する金仏壇産地として知られる。山形の豊富な木材資源と職人技術が融合した東北の伝統工芸品。",
+    "desc_en": "Yamagata Butsudan are gold Buddhist altars produced mainly in Yamagata City, Yamagata Prefecture. Developed from the mid-Edo period, they are characterized by robust wood processing using Yamagata Prefecture-grown zelkova, finished with gold leaf, lacquer, and maki-e decoration. Jodo Shinshu Buddhism is widely practiced in the Tohoku region, and Yamagata altars are known as a representative gold altar production area in Tohoku meeting that religious demand. A Tohoku traditional craft fusing Yamagata's abundant timber resources with craftsman technique.",
+    "techniques": [
+      "欅木地加工",
+      "金箔押し",
+      "漆塗り",
+      "蒔絵",
+      "錺金具"
+    ],
+    "materials": [
+      "欅（けやき）",
+      "金箔",
+      "天然漆"
+    ],
+    "features": [
+      "山形産欅の堅牢な木地加工と金箔・蒔絵の豪華な仕上げ",
+      "東北を代表する金仏壇産地として浄土真宗信仰を支える",
+      "東北の木材資源と職人技術が結集した伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "山形仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "山形県山形市"
+      }
+    ],
+    "purchase_keywords": "山形仏壇 購入 東北 金仏壇 仏壇",
+    "price_range": "小型仏壇 80,000円〜 / 中型 320,000円〜 / 大型 1,000,000円〜",
+    "lat": 38.2404,
+    "lng": 140.3634,
+    "source": "https://kougeihin.jp/craft/0801/",
+    "ogp_image_desc": "金箔と蒔絵が荘厳な山形仏壇"
+  },
+  {
+    "id": "niigata_butsudan",
+    "name": "新潟仏壇",
+    "name_en": "Niigata Butsudan (Niigata Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Niigata",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 15,
+    "prefecture": "niigata",
+    "prefecture_ja": "新潟県",
+    "area": "三条市・長岡市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "新潟県三条市・長岡市を中心に生産される金仏壇。越後地方の豊富な木材資源と、新潟県が誇る金属加工技術（燕三条の錺金具）を活かした仏壇として発展した。浄土真宗が盛んな北陸・越後文化圏に広く供給され、堅牢な木地加工と精緻な錺金具が特徴。新潟の職人技術の粋が集まった北陸・信越地方を代表する仏壇産地。",
+    "desc_en": "Niigata Butsudan are gold Buddhist altars produced mainly in Sanjo City and Nagaoka City, Niigata Prefecture. Developed leveraging Echigo region's abundant timber resources and Niigata's metal processing technology (Tsubame-Sanjo's decorative metalwork). Widely supplied to the Hokuriku and Echigo cultural sphere where Jodo Shinshu Buddhism is prevalent, characterized by robust wood processing and precise decorative metal fittings. A representative altar production area for the Hokuriku and Shin'etsu region where the essence of Niigata's craftsman skills converge.",
+    "techniques": [
+      "木地加工",
+      "金箔押し",
+      "漆塗り",
+      "錺金具（燕三条）",
+      "蒔絵"
+    ],
+    "materials": [
+      "木材（欅・桧）",
+      "金箔",
+      "天然漆",
+      "真鍮金具"
+    ],
+    "features": [
+      "燕三条の金属加工技術を活かした精緻な錺金具が特徴",
+      "浄土真宗が盛んな北陸・越後文化圏の仏壇産地",
+      "越後の豊富な木材と職人技術が融合した北陸の仏壇文化"
+    ],
+    "workshops": [
+      {
+        "name": "新潟仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "新潟県三条市・長岡市"
+      }
+    ],
+    "purchase_keywords": "新潟仏壇 購入 北陸 金仏壇 三条 長岡",
+    "price_range": "小型仏壇 80,000円〜 / 中型 300,000円〜 / 大型 900,000円〜",
+    "lat": 37.6551,
+    "lng": 138.9533,
+    "source": "https://kougeihin.jp/craft/0802/",
+    "ogp_image_desc": "精緻な錺金具と金箔が輝く新潟仏壇"
+  },
+  {
+    "id": "tokyo_butsudan",
+    "name": "東京仏壇",
+    "name_en": "Tokyo Butsudan (Tokyo Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Tokyo",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "東京都台東区を中心に生産される仏壇。江戸時代中期から、江戸の都市的需要に応える仏壇産業として発展した。全国各地の注文に応える都市型仏壇産業として、金仏壇・唐木仏壇・家具調仏壇など多様なスタイルを生産するのが特徴。東京の職人・問屋が集積する台東区を核に、伝統と現代デザインを融合させた仏壇の供給拠点として機能してきた。",
+    "desc_en": "Tokyo Butsudan are Buddhist altars produced mainly in Taito Ward, Tokyo. Developed from the mid-Edo period as an altar industry responding to the urban demand of Edo. As an urban altar industry responding to orders from throughout Japan, it is characterized by producing diverse styles including gold altars, karaki altars, and furniture-style altars. Centered on Taito Ward where craftsmen and wholesalers are concentrated, it has functioned as a supply hub for altars fusing tradition and modern design.",
+    "techniques": [
+      "木地加工",
+      "金箔押し",
+      "漆塗り",
+      "唐木仕上げ"
+    ],
+    "materials": [
+      "木材（欅・檜・唐木）",
+      "金箔",
+      "天然漆"
+    ],
+    "features": [
+      "全国の注文に応える都市型仏壇産業として発展した東京産地",
+      "金仏壇・唐木仏壇・家具調仏壇と多様なスタイルを生産",
+      "台東区の職人・問屋集積が支える伝統と現代の融合"
+    ],
+    "workshops": [
+      {
+        "name": "東京仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "東京仏壇 購入 台東区 金仏壇 唐木仏壇",
+    "price_range": "小型仏壇 60,000円〜 / 中型 250,000円〜 / 大型 800,000円〜",
+    "lat": 35.7101,
+    "lng": 139.7956,
+    "source": "https://kougeihin.jp/craft/0811/",
+    "ogp_image_desc": "伝統と現代デザインが融合した東京仏壇"
+  },
+  {
+    "id": "nagano_butsudan",
+    "name": "長野仏壇",
+    "name_en": "Nagano Butsudan (Nagano Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Nagano",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 20,
+    "prefecture": "nagano",
+    "prefecture_ja": "長野県",
+    "area": "長野市・松本市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "長野県長野市・松本市を中心に生産される仏壇。善光寺詣でとともに発展した信州の仏壇産地で、長野県の豊富な木材資源を活かした堅牢な木地加工が特徴。浄土宗・浄土真宗の寺院需要に応えるとともに、善光寺への参詣者に向けた仏壇・仏具の販売が産業の発展を後押しした。信州の清潔感ある自然と職人気質が生んだ実用的で品のある仏壇文化。",
+    "desc_en": "Nagano Butsudan are Buddhist altars produced mainly in Nagano City and Matsumoto City, Nagano Prefecture. A Shinshu altar production area that developed alongside pilgrimages to Zenkoji Temple, characterized by robust wood processing utilizing Nagano Prefecture's abundant timber resources. Meeting the demand of Jodo and Jodo Shinshu Buddhist temples while the sale of altars and implements to Zenkoji pilgrims propelled industrial development. A practical and refined altar culture born from Shinshu's clean natural environment and craftsman spirit.",
+    "techniques": [
+      "木地加工",
+      "金箔押し",
+      "漆塗り",
+      "蒔絵",
+      "錺金具"
+    ],
+    "materials": [
+      "木材（欅・檜・松等）",
+      "金箔",
+      "天然漆"
+    ],
+    "features": [
+      "善光寺詣でとともに発展した信州の仏壇産地",
+      "長野の豊富な木材資源を活かした堅牢な木地加工",
+      "浄土宗・浄土真宗の寺院需要と善光寺参詣文化が育んだ産業"
+    ],
+    "workshops": [
+      {
+        "name": "長野仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "長野県長野市"
+      }
+    ],
+    "purchase_keywords": "長野仏壇 購入 信州 善光寺 仏壇",
+    "price_range": "小型仏壇 70,000円〜 / 中型 280,000円〜 / 大型 900,000円〜",
+    "lat": 36.6513,
+    "lng": 138.181,
+    "source": "https://kougeihin.jp/craft/2001/",
+    "ogp_image_desc": "信州の木材と職人技が光る長野仏壇"
+  },
+  {
+    "id": "kanazawa_butsudan",
+    "name": "金沢仏壇",
+    "name_en": "Kanazawa Butsudan (Kanazawa Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Kanazawa",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 17,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "金沢市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "石川県金沢市で生産される仏壇。17世紀から始まったとされ、室町時代に蓮如上人が北陸に浄土真宗を広めたことで信仰需要が高まり、加賀藩主が設けた細工所から優れた工芸技術者が育ったことで産地が確立した。金箔・蒔絵・螺鈿・彫刻・錺金具など加賀の伝統工芸を結集した「工芸の宝庫」として知られ、多職人の分業が生む豪華絢爛な金仏壇は全国に知られる。",
+    "desc_en": "Kanazawa Butsudan are Buddhist altars produced in Kanazawa City, Ishikawa Prefecture. Nurtured within the rich cultural soil of the Kaga domain—the one-million-koku fief—they are lavishly ornate altars known as a 'treasury of crafts,' combining gold leaf, maki-e lacquer, raden (mother-of-pearl inlay), carving, and metalwork from Kaga's traditional craft traditions. The lacquer techniques of Wajima-nuri and Yamanakas-shikki are fused with the gold leaf application of Kanazawa hakuza, producing a refined interior and intricate exterior renowned throughout Japan. Developed under the patronage of the Maeda clan of the Kaga domain, this production area is a culmination of its craft culture, with many craftspeople still maintaining the tradition of dividing production among specialized artisans.",
+    "techniques": [
+      "金箔押し（金沢箔）",
+      "蒔絵",
+      "漆塗り（輪島塗技法）",
+      "螺鈿細工",
+      "彫刻",
+      "錺金具"
+    ],
+    "materials": [
+      "金箔（金沢箔）",
+      "天然漆",
+      "木材（欅・桧）",
+      "貝殻（螺鈿）",
+      "真鍮金具"
+    ],
+    "features": [
+      "金沢箔・輪島塗・蒔絵・螺鈿など加賀の伝統工芸技術を集結した工芸の宝庫",
+      "加賀百万石・前田家の文化的庇護のもとで発展した北陸最高峰の仏壇産地",
+      "多職人による分業制作と金箔の豪華絢爛な装飾が金沢仏壇の象徴"
+    ],
+    "workshops": [
+      {
+        "name": "金沢仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "石川県金沢市"
+      }
+    ],
+    "purchase_keywords": "金沢仏壇 購入 金箔 加賀 金仏壇",
+    "price_range": "小型仏壇 100,000円〜 / 中型 400,000円〜 / 大型特注 1,500,000円〜",
+    "lat": 36.5613,
+    "lng": 136.6562,
+    "source": "https://kougeihin.jp/craft/0806/",
+    "ogp_image_desc": "金沢箔と蒔絵・螺鈿が輝く豪華絢爛な金沢仏壇"
+  },
+  {
+    "id": "yame_butsudan",
+    "name": "八女福島仏壇",
+    "name_en": "Yame Fukushima Butsudan (Yame Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste de Yame Fukushima",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 40,
+    "prefecture": "fukuoka",
+    "prefecture_ja": "福岡県",
+    "area": "八女市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "福岡県八女市で生産される仏壇。九州最大の仏壇産地で、独特の「福島仏壇」スタイルは黒漆塗りの外観と金箔・金具の華やかな内装が特徴。江戸時代中期から仏壇産業が発展し、現在も宮大工・塗師・蒔絵師・金具師・彫刻師など多くの職人が分業で制作する産地体制を維持している。筑後地方の豊富な木材と農村仏教文化が産業の基盤をなし、金仏壇の様式美と職人技が一体となった九州を代表する仏壇工芸の産地として広く知られる。",
+    "desc_en": "Yame Fukushima Butsudan are Buddhist altars produced in Yame City, Fukuoka Prefecture. The largest altar production area in Kyushu, the distinctive 'Fukushima butsudan' style features a black lacquered exterior with brilliant gold leaf and metalwork on the interior. The altar industry developed from the mid-Edo period, and today the production system maintains multiple craftspeople specializing in different roles including shrine carpenters, lacquer painters, maki-e artists, metalwork artisans, and carvers. Built upon the abundant timber of the Chikugo region and rural Buddhist culture, this area is widely recognized as a leading Kyushu altar craft production center where the aesthetic refinement of gold altars and craftsmen's skills are unified.",
+    "techniques": [
+      "木地加工（宮大工）",
+      "黒漆塗り",
+      "金箔押し",
+      "蒔絵",
+      "彫刻",
+      "錺金具"
+    ],
+    "materials": [
+      "木材（欅・桧）",
+      "天然漆（黒漆）",
+      "金箔",
+      "真鍮金具"
+    ],
+    "features": [
+      "九州最大の仏壇産地・八女に集積する多職人分業体制の産地",
+      "黒漆の外観と金箔・蒔絵の華やかな内装が福島仏壇の特徴",
+      "筑後地方の木材資源と農村仏教文化が育んだ九州を代表する仏壇工芸"
+    ],
+    "workshops": [
+      {
+        "name": "八女仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "福岡県八女市"
+      }
+    ],
+    "purchase_keywords": "八女仏壇 購入 福島仏壇 九州 福岡",
+    "price_range": "小型仏壇 80,000円〜 / 中型 300,000円〜 / 大型 1,000,000円〜",
+    "lat": 33.2115,
+    "lng": 130.5595,
+    "source": "https://kougeihin.jp/craft/0815/",
+    "ogp_image_desc": "黒漆の外装と金箔・蒔絵が輝く八女福島仏壇"
+  },
+  {
+    "id": "iiyama_butsudan",
+    "name": "飯山仏壇",
+    "name_en": "Iiyama Butsudan (Iiyama Buddhist Altar)",
+    "name_fr": "Autel Bouddhiste d'Iiyama",
+    "category": "buddhist",
+    "category_ja": "仏壇・仏具",
+    "designation": "meti",
+    "designation_number": 20,
+    "prefecture": "nagano",
+    "prefecture_ja": "長野県",
+    "area": "飯山市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "長野県飯山市で生産される仏壇。江戸時代初期からこの「寺の町飯山」に根づいた仏壇作りは、原材料の調達が容易で製作に適した気候に支えられ産地として発展した。作業が細分化され木地から組立まで地域内で一貫生産する体制を確立。黒漆と金箔、緻密な組子細工・彫刻が特徴で、北信濃の篤い仏教信仰を背景に北陸・信越地方で広く親しまれてきた。",
+    "desc_en": "Iiyama Butsudan are Buddhist altars produced in Iiyama City, Nagano Prefecture. Nurtured within the agricultural culture of northern Shinano (Shinshu) where Jodo Shinshu Buddhism is devoutly practiced, this altar production area has a history of craftspeople making altars and Buddhist implements during the snow-bound winter off-season. Characterized by black lacquered surfaces, gold leaf, intricate kumiko woodwork, and carving, these dignified altars have long been cherished in the Hokuriku and Shin'etsu regions. The abundant timber resources of Iiyama and the culture of winter handiwork form the foundation of this industry, and the sincere craftsmanship rooted in rural Buddhist faith continues to be passed down at this Shin'etsu altar production area.",
+    "techniques": [
+      "木地加工",
+      "黒漆塗り",
+      "金箔押し",
+      "組子細工",
+      "彫刻",
+      "錺金具"
+    ],
+    "materials": [
+      "木材（欅・桧）",
+      "天然漆（黒漆）",
+      "金箔",
+      "真鍮金具"
+    ],
+    "features": [
+      "北信濃の浄土真宗信仰と農閑期の冬仕事から発展した仏壇産地",
+      "黒漆・金箔・組子細工・彫刻が一体となった格調ある飯山仏壇",
+      "飯山の豊富な木材資源と雪国の職人文化が育んだ信越の伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "飯山仏壇仏具組合（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "長野県飯山市"
+      }
+    ],
+    "purchase_keywords": "飯山仏壇 購入 信州 長野 北信濃 仏壇",
+    "price_range": "小型仏壇 70,000円〜 / 中型 280,000円〜 / 大型 900,000円〜",
+    "lat": 36.8569,
+    "lng": 138.3698,
+    "source": "https://kougeihin.jp/craft/0805/",
+    "ogp_image_desc": "黒漆と金箔・組子細工が光る飯山仏壇"
+  }
+]

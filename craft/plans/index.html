@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>料金プラン — Terroir HUB CRAFT</title>
+<meta name="description" content="Terroir HUB CRAFTの料金プラン。無料から始めて、AIミズキと伝統工芸の世界を深く探求しましょう。">
+<link rel="canonical" href="https://craft.terroirhub.com/craft/plans/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FAF8F5;--bg2:#F3EDE6;--accent:#2E5E4E;--accent2:#C4A265;
+  --accent-light:#EAF2EE;--accent-gold:#E8C97A;--text:#1A1A18;
+  --text2:#5C5A56;--text3:#8A8880;--border:#E8E0D6;
+  --nav-h:56px;--radius:12px;
+  --shadow:0 2px 16px rgba(46,94,78,.10);--shadow-lg:0 8px 40px rgba(46,94,78,.16);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans JP','Inter',sans-serif;font-size:15px;line-height:1.7;-webkit-font-smoothing:antialiased}
+
+nav{position:fixed;top:0;left:0;right:0;height:var(--nav-h);background:rgba(250,248,245,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:1000;display:flex;align-items:center;padding:0 24px;gap:24px}
+.nav-logo{font-family:'Shippori Mincho',serif;font-size:17px;font-weight:700;color:var(--accent);letter-spacing:.05em;text-decoration:none;white-space:nowrap}
+.nav-logo span{color:var(--accent2);font-size:11px;letter-spacing:.12em;display:block;font-family:'Inter',sans-serif;font-weight:600;text-transform:uppercase}
+.nav-links{display:flex;align-items:center;gap:20px;margin-left:8px}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;font-weight:500;transition:color .2s;white-space:nowrap}
+.nav-links a:hover,.nav-links a.active{color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+.auth-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 16px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.auth-btn:hover{background:#245048}
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:4px}
+.hamburger span{width:22px;height:2px;background:var(--text);border-radius:2px}
+.mobile-menu{position:fixed;top:0;right:-100%;width:280px;height:100dvh;background:var(--bg);border-left:1px solid var(--border);z-index:2000;transition:right .3s ease;padding:80px 24px 32px;display:flex;flex-direction:column;gap:16px}
+.mobile-menu.open{right:0}
+.mobile-menu a{color:var(--text);text-decoration:none;font-size:16px;font-weight:500;padding:12px 0;border-bottom:1px solid var(--border)}
+.menu-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:1999}
+.menu-overlay.open{display:block}
+.mm-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:24px;cursor:pointer;color:var(--text2)}
+
+.page-header{padding-top:calc(var(--nav-h) + 60px);padding-bottom:60px;padding-left:24px;padding-right:24px;background:linear-gradient(135deg,#f0ebe3,#e8f0ec);text-align:center}
+.page-header-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.page-header h1{font-family:'Shippori Mincho',serif;font-size:clamp(32px,4vw,48px);font-weight:700;margin-bottom:16px}
+.page-header p{color:var(--text2);font-size:16px;max-width:560px;margin:0 auto}
+
+.plans-section{padding:80px 24px;max-width:1100px;margin:0 auto}
+.plans-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-bottom:48px}
+.plan-card{background:#fff;border:2px solid var(--border);border-radius:20px;padding:40px 32px;position:relative;transition:all .25s}
+.plan-card.featured{border-color:var(--accent);box-shadow:var(--shadow-lg)}
+.plan-badge{position:absolute;top:-14px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;font-size:12px;font-weight:700;padding:4px 16px;border-radius:20px;font-family:'Inter',sans-serif;letter-spacing:.08em;white-space:nowrap}
+.plan-name{font-family:'Shippori Mincho',serif;font-size:22px;font-weight:700;margin-bottom:8px;color:var(--text)}
+.plan-price{margin-bottom:24px}
+.plan-price-main{font-family:'Inter',sans-serif;font-size:44px;font-weight:700;color:var(--accent);line-height:1}
+.plan-price-unit{font-size:16px;color:var(--text2);margin-left:4px}
+.plan-price-note{font-size:12px;color:var(--text3);margin-top:4px}
+.plan-desc{font-size:14px;color:var(--text2);margin-bottom:24px;line-height:1.7;min-height:48px}
+.plan-btn{display:block;width:100%;text-align:center;padding:14px;border-radius:10px;font-size:15px;font-weight:700;cursor:pointer;font-family:'Noto Sans JP',sans-serif;text-decoration:none;transition:all .2s;border:none}
+.plan-btn.primary{background:var(--accent);color:#fff}
+.plan-btn.primary:hover{background:#245048;transform:translateY(-2px);box-shadow:0 4px 16px rgba(46,94,78,.3)}
+.plan-btn.secondary{background:var(--accent-light);color:var(--accent);border:1px solid rgba(46,94,78,.2)}
+.plan-btn.secondary:hover{background:var(--accent);color:#fff}
+.plan-divider{width:100%;height:1px;background:var(--border);margin:24px 0}
+.plan-features{display:flex;flex-direction:column;gap:12px}
+.plan-feature{display:flex;align-items:flex-start;gap:10px;font-size:14px;color:var(--text2)}
+.plan-feature-check{color:var(--accent);flex-shrink:0;font-size:16px;margin-top:1px}
+.plan-feature-x{color:var(--text3);flex-shrink:0;font-size:16px;margin-top:1px}
+.plan-feature.disabled{color:var(--text3)}
+
+.credit-section{background:var(--bg2);border-radius:20px;padding:40px;margin-bottom:48px}
+.credit-title{font-family:'Shippori Mincho',serif;font-size:24px;font-weight:700;margin-bottom:8px}
+.credit-desc{color:var(--text2);font-size:14px;margin-bottom:24px}
+.credit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.credit-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:20px;text-align:center;transition:all .2s;cursor:pointer}
+.credit-card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.credit-count{font-family:'Inter',sans-serif;font-size:32px;font-weight:700;color:var(--accent)}
+.credit-unit{font-size:12px;color:var(--text3);margin-bottom:8px}
+.credit-price{font-family:'Inter',sans-serif;font-size:22px;font-weight:700;color:var(--text);margin-bottom:4px}
+.credit-note{font-size:11px;color:var(--text3)}
+
+.faq-section{margin-bottom:80px}
+.faq-title{font-family:'Shippori Mincho',serif;font-size:28px;font-weight:700;margin-bottom:32px}
+.faq-list{display:flex;flex-direction:column;gap:0;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+.faq-item{border-bottom:1px solid var(--border);background:#fff}
+.faq-item:last-child{border-bottom:none}
+.faq-q{padding:20px 24px;display:flex;justify-content:space-between;align-items:center;cursor:pointer;font-weight:600;font-size:15px;gap:16px;transition:background .2s}
+.faq-q:hover{background:var(--accent-light)}
+.faq-q-icon{color:var(--accent);flex-shrink:0;transition:transform .3s;font-size:20px;line-height:1}
+.faq-item.open .faq-q-icon{transform:rotate(45deg)}
+.faq-a{padding:0 24px;max-height:0;overflow:hidden;transition:all .3s ease;font-size:14px;color:var(--text2);line-height:1.8}
+.faq-item.open .faq-a{padding:0 24px 20px;max-height:400px}
+
+footer{background:#1a1a18;color:rgba(255,255,255,.5);padding:40px 24px 24px;font-size:13px}
+.footer-inner{max-width:1200px;margin:0 auto}
+.footer-top{display:grid;grid-template-columns:1fr 2fr;gap:48px;margin-bottom:40px}
+.footer-brand{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:8px}
+.footer-brand-en{font-size:11px;letter-spacing:.15em;color:var(--accent-gold);font-family:'Inter',sans-serif;text-transform:uppercase}
+.footer-desc{font-size:13px;color:rgba(255,255,255,.45);margin-top:12px;line-height:1.7}
+.footer-links{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.footer-col h4{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px}
+.footer-col a{display:block;color:rgba(255,255,255,.45);text-decoration:none;font-size:12px;margin-bottom:8px;transition:color .2s}
+.footer-col a:hover{color:rgba(255,255,255,.9)}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;display:flex;justify-content:space-between;align-items:center;font-size:12px}
+
+@media(max-width:900px){
+  .nav-links{display:none}.hamburger{display:flex}
+  .plans-grid{grid-template-columns:1fr;max-width:480px;margin-left:auto;margin-right:auto}
+  .credit-grid{grid-template-columns:1fr 1fr 1fr}
+  .footer-top{grid-template-columns:1fr}.footer-links{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:600px){
+  .plans-section{padding:60px 16px}
+  .credit-grid{grid-template-columns:1fr}
+  .footer-links{grid-template-columns:1fr}
+  .footer-bottom{flex-direction:column;gap:12px;text-align:center}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">Terroir HUB<span>CRAFT</span></a>
+  <div class="nav-links">
+    <a href="/craft/search/">工芸品検索</a>
+    <a href="/craft/category/">カテゴリ</a>
+    <a href="/craft/region/">産地から探す</a>
+    <a href="/craft/map/">地図で探す</a>
+    <a href="/craft/plans/" class="active">プラン</a>
+  </div>
+  <div class="nav-right">
+    <button class="hamburger" onclick="openMM()" aria-label="メニュー"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="menu-overlay" id="mmOverlay" onclick="closeMM()"></div>
+<div class="mobile-menu" id="mobileMenu">
+  <button class="mm-close" onclick="closeMM()">✕</button>
+  <a href="/craft/search/" onclick="closeMM()">🔍 工芸品検索</a>
+  <a href="/craft/category/" onclick="closeMM()">🏺 カテゴリ一覧</a>
+  <a href="/craft/region/" onclick="closeMM()">📍 産地から探す</a>
+  <a href="/craft/map/" onclick="closeMM()">🗾 地図で探す</a>
+  <a href="/craft/plans/" onclick="closeMM()">⭐ プラン</a>
+</div>
+
+<div class="page-header">
+  <p class="page-header-label">Plans & Pricing</p>
+  <h1>伝統工芸をもっと深く<br>探求するために</h1>
+  <p>無料から始めて、あなたのペースで伝統工芸の世界を広げましょう。</p>
+</div>
+
+<div class="plans-section">
+  <div class="plans-grid">
+    <!-- Free -->
+    <div class="plan-card">
+      <div class="plan-name">Free</div>
+      <div class="plan-price">
+        <span class="plan-price-main">¥0</span>
+        <span class="plan-price-unit">/月</span>
+        <div class="plan-price-note">登録不要・完全無料</div>
+      </div>
+      <p class="plan-desc">まずは気軽に伝統工芸の世界を覗いてみましょう。</p>
+      <a href="/craft/search/" class="plan-btn secondary">今すぐ検索する</a>
+      <div class="plan-divider"></div>
+      <div class="plan-features">
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>全工芸品の基本情報閲覧</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>工芸品検索（カテゴリ・産地）</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>体験・工房情報</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>AIミズキ 月5回まで</div>
+        <div class="plan-feature disabled"><span class="plan-feature-x">✕</span>工芸の教科書（全文）</div>
+        <div class="plan-feature disabled"><span class="plan-feature-x">✕</span>英語・フランス語対応</div>
+        <div class="plan-feature disabled"><span class="plan-feature-x">✕</span>産地マップ詳細</div>
+      </div>
+    </div>
+
+    <!-- Pro -->
+    <div class="plan-card featured">
+      <div class="plan-badge">人気 No.1</div>
+      <div class="plan-name">Pro</div>
+      <div class="plan-price">
+        <span class="plan-price-main">¥500</span>
+        <span class="plan-price-unit">/月</span>
+        <div class="plan-price-note">年払い ¥4,800（¥400/月）</div>
+      </div>
+      <p class="plan-desc">工芸を深く学びたい方へ。教科書全文とAIミズキ100回。</p>
+      <span class="plan-btn primary" style="opacity:.55;cursor:default">準備中</span>
+      <div class="plan-divider"></div>
+      <div class="plan-features">
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>Freeの全機能</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span><strong>AIミズキ 月100回</strong></div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>工芸の教科書 全文閲覧</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>産地マップ詳細（工房・ショップ）</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>工芸品 お気に入り登録 無制限</div>
+        <div class="plan-feature disabled"><span class="plan-feature-x">✕</span>英語・フランス語対応</div>
+        <div class="plan-feature disabled"><span class="plan-feature-x">✕</span>蔵元・工房へのDM機能</div>
+      </div>
+    </div>
+
+    <!-- Premium -->
+    <div class="plan-card">
+      <div class="plan-name">Premium</div>
+      <div class="plan-price">
+        <span class="plan-price-main">¥1,500</span>
+        <span class="plan-price-unit">/月</span>
+        <div class="plan-price-note">年払い ¥14,400（¥1,200/月）</div>
+      </div>
+      <p class="plan-desc">インバウンド対応・海外の友人との共有・ビジネス利用に。</p>
+      <span class="plan-btn secondary" style="opacity:.55;cursor:default">準備中</span>
+      <div class="plan-divider"></div>
+      <div class="plan-features">
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>Proの全機能</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span><strong>AIミズキ 月300回</strong></div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>英語・フランス語・中国語対応</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>PDF書き出し（工芸品レポート）</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>工房・体験先 優先予約情報</div>
+        <div class="plan-feature"><span class="plan-feature-check">✓</span>Terroir HUB 全サイト統合利用</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 追加クレジット -->
+  <div class="credit-section">
+    <div class="credit-title">AIミズキ 追加クレジット</div>
+    <p class="credit-desc">月の上限を超えた分は追加クレジットで引き続きご利用いただけます。</p>
+    <div class="credit-grid">
+      <div class="credit-card">
+        <div class="credit-count">10</div>
+        <div class="credit-unit">回分</div>
+        <div class="credit-price">¥300</div>
+        <div class="credit-note">¥30/回</div>
+      </div>
+      <div class="credit-card">
+        <div class="credit-count">30</div>
+        <div class="credit-unit">回分</div>
+        <div class="credit-price">¥600</div>
+        <div class="credit-note">¥20/回 — おすすめ</div>
+      </div>
+      <div class="credit-card">
+        <div class="credit-count">50</div>
+        <div class="credit-unit">回分</div>
+        <div class="credit-price">¥800</div>
+        <div class="credit-note">¥16/回 — お得</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FAQ -->
+  <div class="faq-section">
+    <div class="faq-title">よくある質問</div>
+    <div class="faq-list">
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">無料プランでどこまで使えますか？<span class="faq-q-icon">+</span></div>
+        <div class="faq-a">全工芸品の基本情報（産地・歴史・技法・体験情報）の閲覧、工芸品検索、AIミズキとの対話（月5回）が無料でご利用いただけます。登録不要でそのままお使いいただけます。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">いつでも解約できますか？<span class="faq-q-icon">+</span></div>
+        <div class="faq-a">はい、いつでもマイページから解約できます。解約後も当月末まではProまたはPremiumの機能をご利用いただけます。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">Terroir HUBの他のサービス（日本酒・焼酎）と共通のアカウントですか？<span class="faq-q-icon">+</span></div>
+        <div class="faq-a">はい。Terroir HUB全サービス（sake.terroirhub.com / shochu.terroirhub.com / craft.terroirhub.com）は共通アカウントでご利用いただけます。Premiumプランではすべてのサービスを統合してご利用いただけます。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">法人・団体での利用は可能ですか？<span class="faq-q-icon">+</span></div>
+        <div class="faq-a">観光施設・学校・企業向けの法人プランをご用意しています。詳しくはお問い合わせページからご連絡ください。</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">AIミズキの回数はいつリセットされますか？<span class="faq-q-icon">+</span></div>
+        <div class="faq-a">毎月1日にリセットされます。追加クレジットは購入後1年間有効です。</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-bottom">
+      <span>© 2026 合同会社FOMUS / Terroir HUB CRAFT</span>
+      <div class="footer-bottom-links" style="display:flex;gap:16px">
+        <a href="/privacy/" style="color:rgba(255,255,255,.35);text-decoration:none;transition:color .2s">プライバシーポリシー</a>
+        <a href="/terms/" style="color:rgba(255,255,255,.35);text-decoration:none;transition:color .2s">利用規約</a>
+        <a href="/craft/plans/" style="color:rgba(255,255,255,.35);text-decoration:none;transition:color .2s">料金プラン</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+function toggleFaq(el) {
+  el.parentElement.classList.toggle('open');
+}
+function openMM(){document.getElementById('mobileMenu').classList.add('open');document.getElementById('mmOverlay').classList.add('open')}
+function closeMM(){document.getElementById('mobileMenu').classList.remove('open');document.getElementById('mmOverlay').classList.remove('open')}
+</script>
+</body>
+</html>

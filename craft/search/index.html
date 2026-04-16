@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>伝統工芸品検索 — Terroir HUB CRAFT</title>
+<meta name="description" content="九谷焼・輪島塗・西陣織など経産省指定伝統的工芸品240品目以上を検索。カテゴリ・産地・技法・体験で絞り込み。">
+<link rel="canonical" href="https://craft.terroirhub.com/craft/search/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FAF8F5;--bg2:#F3EDE6;--accent:#2E5E4E;--accent2:#C4A265;
+  --accent-light:#EAF2EE;--accent-gold:#E8C97A;--text:#1A1A18;
+  --text2:#5C5A56;--text3:#8A8880;--border:#E8E0D6;
+  --nav-h:56px;--radius:12px;
+  --shadow:0 2px 16px rgba(46,94,78,.10);--shadow-lg:0 8px 40px rgba(46,94,78,.16);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans JP','Inter',sans-serif;font-size:15px;line-height:1.7;-webkit-font-smoothing:antialiased}
+
+nav{position:fixed;top:0;left:0;right:0;height:var(--nav-h);background:rgba(250,248,245,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:1000;display:flex;align-items:center;padding:0 24px;gap:24px}
+.nav-logo{font-family:'Shippori Mincho',serif;font-size:17px;font-weight:700;color:var(--accent);letter-spacing:.05em;text-decoration:none;white-space:nowrap}
+.nav-logo span{color:var(--accent2);font-size:11px;letter-spacing:.12em;display:block;font-family:'Inter',sans-serif;font-weight:600;text-transform:uppercase}
+.nav-links{display:flex;align-items:center;gap:20px;margin-left:8px}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;font-weight:500;transition:color .2s;white-space:nowrap}
+.nav-links a:hover,.nav-links a.active{color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+.auth-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 16px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.auth-btn:hover{background:#245048}
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:4px}
+.hamburger span{width:22px;height:2px;background:var(--text);border-radius:2px;transition:all .3s}
+.mobile-menu{position:fixed;top:0;right:-100%;width:280px;height:100dvh;background:var(--bg);border-left:1px solid var(--border);z-index:2000;transition:right .3s ease;padding:80px 24px 32px;display:flex;flex-direction:column;gap:16px}
+.mobile-menu.open{right:0}
+.mobile-menu a{color:var(--text);text-decoration:none;font-size:16px;font-weight:500;padding:12px 0;border-bottom:1px solid var(--border)}
+.menu-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:1999}
+.menu-overlay.open{display:block}
+.mm-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:24px;cursor:pointer;color:var(--text2)}
+
+.page-header{padding-top:calc(var(--nav-h) + 40px);padding-bottom:40px;padding-left:24px;padding-right:24px;background:linear-gradient(135deg,#f0ebe3,#e8f0ec)}
+.page-header-inner{max-width:1200px;margin:0 auto}
+.page-header-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.page-header h1{font-family:'Shippori Mincho',serif;font-size:clamp(28px,4vw,40px);font-weight:700;margin-bottom:8px}
+.page-header p{color:var(--text2);font-size:15px}
+
+.search-wrap{padding:32px 24px;max-width:1200px;margin:0 auto}
+.search-bar{background:#fff;border:2px solid var(--border);border-radius:var(--radius);display:flex;align-items:center;gap:12px;padding:14px 16px;transition:border-color .2s;box-shadow:var(--shadow);margin-bottom:16px}
+.search-bar:focus-within{border-color:var(--accent)}
+.search-bar svg{color:var(--accent);flex-shrink:0}
+.search-bar input{flex:1;border:none;outline:none;font-size:16px;font-family:'Noto Sans JP',sans-serif;background:transparent;color:var(--text)}
+.search-bar input::placeholder{color:var(--text3)}
+.search-bar-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:10px 24px;font-size:14px;font-weight:600;cursor:pointer;font-family:'Noto Sans JP',sans-serif;white-space:nowrap;transition:all .2s}
+.search-bar-btn:hover{background:#245048}
+
+.filter-row{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:24px;align-items:center}
+.filter-label{font-size:13px;font-weight:600;color:var(--text2)}
+.filter-select{background:#fff;border:1px solid var(--border);border-radius:8px;padding:8px 12px;font-size:13px;font-family:'Noto Sans JP',sans-serif;color:var(--text);cursor:pointer;outline:none;transition:border-color .2s}
+.filter-select:focus{border-color:var(--accent)}
+.filter-toggle{background:var(--bg2);border:1px solid var(--border);border-radius:20px;padding:6px 14px;font-size:12px;font-family:'Noto Sans JP',sans-serif;color:var(--text2);cursor:pointer;transition:all .2s}
+.filter-toggle.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.filter-clear{font-size:12px;color:var(--text3);background:none;border:none;cursor:pointer;text-decoration:underline;font-family:'Noto Sans JP',sans-serif;margin-left:auto}
+.filter-clear:hover{color:var(--accent)}
+
+.results-meta{font-size:14px;color:var(--text2);margin-bottom:20px;padding:0 0 12px;border-bottom:1px solid var(--border)}
+.results-meta strong{color:var(--accent);font-weight:700}
+
+.craft-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.craft-card{background:#fff;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);transition:all .25s;text-decoration:none;display:block;cursor:pointer}
+.craft-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+.craft-card-img{aspect-ratio:4/3;background:linear-gradient(135deg,var(--accent-light),#f0e8d8);display:flex;align-items:center;justify-content:center;font-size:48px;position:relative}
+.craft-card-badge{position:absolute;top:12px;left:12px;background:var(--accent);color:#fff;font-size:10px;font-weight:700;letter-spacing:.08em;padding:3px 8px;border-radius:4px;font-family:'Inter',sans-serif;text-transform:uppercase}
+.craft-card-badge.unesco{background:#7B4F9E}
+.craft-card-badge.regional{background:#5C7A8A}
+.craft-card-body{padding:20px}
+.craft-card-cat{font-size:11px;color:var(--accent2);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-family:'Inter',sans-serif;margin-bottom:6px}
+.craft-card-name{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;margin-bottom:4px;color:var(--text)}
+.craft-card-name-en{font-size:12px;color:var(--text3);font-family:'Inter',sans-serif;margin-bottom:10px}
+.craft-card-pref{font-size:12px;color:var(--text2)}
+.craft-card-pref::before{content:'📍';font-size:11px;margin-right:4px}
+.craft-card-desc{font-size:13px;color:var(--text2);line-height:1.7;margin-top:10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.craft-card-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.craft-card-tag{font-size:11px;background:var(--bg2);color:var(--text3);border-radius:20px;padding:2px 10px}
+
+.no-results{text-align:center;padding:80px 24px;color:var(--text2)}
+.no-results-icon{font-size:48px;margin-bottom:16px}
+.no-results h3{font-family:'Shippori Mincho',serif;font-size:22px;margin-bottom:8px;color:var(--text)}
+
+.load-more{display:block;margin:40px auto 0;background:var(--accent-light);border:1px solid rgba(46,94,78,.2);color:var(--accent);font-size:14px;font-weight:600;padding:12px 32px;border-radius:8px;cursor:pointer;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.load-more:hover{background:var(--accent);color:#fff}
+.load-more:disabled{opacity:.4;cursor:not-allowed}
+
+footer{background:#1a1a18;color:rgba(255,255,255,.5);padding:40px 24px 24px;font-size:13px;margin-top:80px}
+.footer-inner{max-width:1200px;margin:0 auto}
+.footer-top{display:grid;grid-template-columns:1fr 2fr;gap:48px;margin-bottom:40px}
+.footer-brand{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:8px}
+.footer-brand-en{font-size:11px;letter-spacing:.15em;color:var(--accent-gold);font-family:'Inter',sans-serif;text-transform:uppercase}
+.footer-desc{font-size:13px;color:rgba(255,255,255,.45);margin-top:12px;line-height:1.7}
+.footer-links{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.footer-col h4{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px}
+.footer-col a{display:block;color:rgba(255,255,255,.45);text-decoration:none;font-size:12px;margin-bottom:8px;transition:color .2s}
+.footer-col a:hover{color:rgba(255,255,255,.9)}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;display:flex;justify-content:space-between;align-items:center;font-size:12px}
+
+@media(max-width:900px){
+  .nav-links{display:none}.hamburger{display:flex}
+  .craft-grid{grid-template-columns:repeat(2,1fr)}
+  .footer-top{grid-template-columns:1fr}.footer-links{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:600px){
+  .craft-grid{grid-template-columns:1fr}
+  .search-wrap{padding:24px 16px}
+  .filter-row{gap:8px}
+  .footer-links{grid-template-columns:1fr}
+  .footer-bottom{flex-direction:column;gap:12px;text-align:center}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">Terroir HUB<span>CRAFT</span></a>
+  <div class="nav-links">
+    <a href="/craft/search/" class="active">工芸品検索</a>
+    <a href="/craft/category/">カテゴリ</a>
+    <a href="/craft/region/">産地から探す</a>
+    <a href="/craft/map/">地図で探す</a>
+    <a href="/craft/plans/">プラン</a>
+  </div>
+  <div class="nav-right">
+    <button class="auth-btn">ログイン</button>
+    <button class="hamburger" onclick="openMM()" aria-label="メニュー"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="menu-overlay" id="mmOverlay" onclick="closeMM()"></div>
+<div class="mobile-menu" id="mobileMenu">
+  <button class="mm-close" onclick="closeMM()">✕</button>
+  <a href="/craft/search/" onclick="closeMM()">🔍 工芸品検索</a>
+  <a href="/craft/category/" onclick="closeMM()">🏺 カテゴリ一覧</a>
+  <a href="/craft/experience/" onclick="closeMM()">🎨 体験・工房</a>
+  <a href="/craft/guide/" onclick="closeMM()">📖 工芸の教科書</a>
+  <a href="/craft/plans/" onclick="closeMM()">⭐ プラン</a>
+  <a href="https://terroirhub.com">Terroir HUB TOP</a>
+</div>
+
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-label">Search</p>
+    <h1>伝統工芸品を検索する</h1>
+    <p>経産省指定240品目以上 — キーワード・カテゴリ・産地から探せます</p>
+  </div>
+</div>
+
+<div class="search-wrap">
+  <div class="search-bar" role="search">
+    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input type="text" id="searchInput" placeholder="例：九谷焼、漆器、石川県、体験、ユネスコ..." aria-label="伝統工芸品を検索" oninput="onSearchInput()">
+    <button class="search-bar-btn" onclick="doSearch()">検索</button>
+  </div>
+
+  <div class="filter-row">
+    <span class="filter-label">絞り込み：</span>
+    <select class="filter-select" id="catFilter" onchange="doSearch()">
+      <option value="">すべてのカテゴリ</option>
+      <option value="ceramics">陶磁器</option>
+      <option value="lacquerware">漆器</option>
+      <option value="textiles">織物</option>
+      <option value="dyeing">染色品</option>
+      <option value="metalwork">金工品</option>
+      <option value="paper">和紙</option>
+      <option value="woodwork">木竹工芸品</option>
+      <option value="dolls">人形・こけし</option>
+      <option value="buddhist">仏壇・仏具</option>
+      <option value="other">その他工芸品</option>
+    </select>
+    <select class="filter-select" id="regionFilter" onchange="doSearch()">
+      <option value="">すべての地域</option>
+      <option value="hokkaido">北海道</option>
+      <option value="tohoku">東北</option>
+      <option value="kanto">関東</option>
+      <option value="chubu">中部・北陸</option>
+      <option value="kinki">近畿</option>
+      <option value="chugoku">中国・四国</option>
+      <option value="kyushu">九州・沖縄</option>
+    </select>
+    <button class="filter-toggle" id="expToggle" onclick="toggleExp()">体験あり</button>
+    <button class="filter-toggle" id="unescoToggle" onclick="toggleUnesco()">ユネスコ登録</button>
+    <button class="filter-clear" onclick="clearFilters()">フィルターをリセット</button>
+  </div>
+
+  <div class="results-meta" id="resultsMeta">読み込み中...</div>
+
+  <div class="craft-grid" id="craftGrid"></div>
+  <div id="noResults" class="no-results" style="display:none">
+    <div class="no-results-icon">🔍</div>
+    <h3>該当する工芸品が見つかりませんでした</h3>
+    <p>キーワードを変えるか、フィルターをリセットしてみてください。</p>
+  </div>
+  <button class="load-more" id="loadMoreBtn" onclick="loadMore()" style="display:none">さらに表示</button>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-brand">Terroir HUB<br>CRAFT</div>
+        <div class="footer-brand-en">Traditional Crafts of Japan</div>
+        <p class="footer-desc">経産省指定240品目以上の伝統的工芸品を網羅したデータベースメディア。</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>探す</h4>
+          <a href="/craft/search/">工芸品検索</a>
+          <a href="/craft/category/">カテゴリ一覧</a>
+          <a href="/craft/region/">産地から探す</a>
+          <a href="/craft/experience/">体験・工房</a>
+        </div>
+        <div class="footer-col">
+          <h4>学ぶ</h4>
+          <a href="/craft/guide/">工芸の教科書</a>
+          <a href="/craft/guide/history/">歴史と文化</a>
+          <a href="/craft/guide/techniques/">技法図鑑</a>
+        </div>
+        <div class="footer-col">
+          <h4>Terroir HUB</h4>
+          <a href="https://terroirhub.com">トップページ</a>
+          <a href="https://sake.terroirhub.com">日本酒</a>
+          <a href="https://shochu.terroirhub.com">焼酎・泡盛</a>
+          <a href="/craft/plans/">プラン</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 合同会社FOMUS / Terroir HUB CRAFT</span>
+      <div style="display:flex;gap:16px">
+        <a href="/privacy/" style="color:rgba(255,255,255,.35);text-decoration:none;transition:color .2s">プライバシーポリシー</a>
+        <a href="/terms/" style="color:rgba(255,255,255,.35);text-decoration:none;transition:color .2s">利用規約</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+// 地域マッピング
+const REGION_MAP = {
+  hokkaido: ['hokkaido'],
+  tohoku: ['aomori','iwate','miyagi','akita','yamagata','fukushima'],
+  kanto: ['ibaraki','tochigi','gunma','saitama','chiba','tokyo','kanagawa'],
+  chubu: ['niigata','toyama','ishikawa','fukui','yamanashi','nagano','gifu','shizuoka','aichi'],
+  kinki: ['mie','shiga','kyoto','osaka','hyogo','nara','wakayama'],
+  chugoku: ['tottori','shimane','okayama','hiroshima','yamaguchi','tokushima','kagawa','ehime','kochi'],
+  kyushu: ['fukuoka','saga','nagasaki','kumamoto','oita','miyazaki','kagoshima','okinawa']
+};
+
+const CAT_ICON = {
+  ceramics:'🏺', lacquerware:'🪔', textiles:'🧵', dyeing:'🪭',
+  metalwork:'⚒️', paper:'📜', woodwork:'🌿', dolls:'🎎', buddhist:'🕯️', other:'✨'
+};
+const CAT_JA = {
+  ceramics:'陶磁器', lacquerware:'漆器', textiles:'織物', dyeing:'染色品',
+  metalwork:'金工品', paper:'和紙', woodwork:'木竹工芸品', dolls:'人形・こけし', buddhist:'仏壇・仏具', other:'その他工芸品'
+};
+const UNESCO_IDS = ['yuki_tsumugi','echizen_washi','mino_washi','sekishu_banshi','kutani_yaki_pre','shikishima_tsumugi'];
+
+// state
+let allCrafts = [];
+let filteredCrafts = [];
+let displayCount = 12;
+let expFilter = false;
+let unescoFilter = false;
+
+async function loadData() {
+  const files = ['ceramics','lacquerware','metalwork','paper_woodwork','textiles','dyeing','dolls','buddhist','other'];
+  const results = await Promise.all(
+    files.map(f => fetch(`/data/data_${f}.json`).then(r=>r.json()).catch(()=>[]))
+  );
+  allCrafts = results.flat();
+  // URLパラメータ
+  const params = new URLSearchParams(location.search);
+  const q = params.get('q');
+  if (q) {
+    document.getElementById('searchInput').value = q;
+  }
+  doSearch();
+}
+
+function onSearchInput() {
+  clearTimeout(window._searchTimer);
+  window._searchTimer = setTimeout(doSearch, 300);
+}
+
+function toggleExp() {
+  expFilter = !expFilter;
+  document.getElementById('expToggle').classList.toggle('active', expFilter);
+  doSearch();
+}
+function toggleUnesco() {
+  unescoFilter = !unescoFilter;
+  document.getElementById('unescoToggle').classList.toggle('active', unescoFilter);
+  doSearch();
+}
+function clearFilters() {
+  document.getElementById('searchInput').value = '';
+  document.getElementById('catFilter').value = '';
+  document.getElementById('regionFilter').value = '';
+  expFilter = false; unescoFilter = false;
+  document.getElementById('expToggle').classList.remove('active');
+  document.getElementById('unescoToggle').classList.remove('active');
+  doSearch();
+}
+
+function doSearch() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  const cat = document.getElementById('catFilter').value;
+  const region = document.getElementById('regionFilter').value;
+  const regionPrefs = region ? REGION_MAP[region] || [] : [];
+
+  filteredCrafts = allCrafts.filter(item => {
+    if (cat && item.category !== cat) return false;
+    if (regionPrefs.length && !regionPrefs.includes(item.prefecture)) return false;
+    if (expFilter) {
+      const hasExp = item.workshops?.some(w => w.experience);
+      if (!hasExp) return false;
+    }
+    if (unescoFilter && !UNESCO_IDS.includes(item.id)) return false;
+    if (!q) return true;
+    const text = [
+      item.name, item.name_en, item.category_ja,
+      item.prefecture_ja, item.area,
+      item.desc, ...(item.techniques||[]), ...(item.features||[])
+    ].join(' ').toLowerCase();
+    return q.split(/\s+/).every(w => text.includes(w));
+  });
+
+  displayCount = 12;
+  renderResults();
+}
+
+function renderResults() {
+  const grid = document.getElementById('craftGrid');
+  const meta = document.getElementById('resultsMeta');
+  const noRes = document.getElementById('noResults');
+  const loadBtn = document.getElementById('loadMoreBtn');
+
+  if (filteredCrafts.length === 0) {
+    grid.innerHTML = '';
+    noRes.style.display = 'block';
+    loadBtn.style.display = 'none';
+    meta.innerHTML = '<strong>0件</strong> の工芸品が見つかりました';
+    return;
+  }
+  noRes.style.display = 'none';
+  meta.innerHTML = `<strong>${filteredCrafts.length}件</strong> の工芸品が見つかりました`;
+
+  const toShow = filteredCrafts.slice(0, displayCount);
+  grid.innerHTML = toShow.map(item => {
+    const icon = CAT_ICON[item.category] || '🏺';
+    const catJa = CAT_JA[item.category] || item.category_ja || '';
+    const isUnesco = UNESCO_IDS.includes(item.id) || (item.name && ['結城紬','越前和紙','美濃和紙','石州半紙'].includes(item.name));
+    const isMeti = item.designation === 'meti';
+    const badge = isUnesco
+      ? `<span class="craft-card-badge unesco">UNESCO</span>`
+      : isMeti ? `<span class="craft-card-badge">経産省指定</span>`
+      : `<span class="craft-card-badge regional">地域の伝統工芸</span>`;
+    const hasExp = item.workshops?.some(w => w.experience);
+    const tags = [];
+    if (hasExp) tags.push('体験あり');
+    if (item.founded) tags.push(`${item.founded}年〜`);
+    const url = `/craft/${item.prefecture}/${item.id}.html`;
+    return `<a class="craft-card" href="${url}">
+      <div class="craft-card-img">${icon}${badge}</div>
+      <div class="craft-card-body">
+        <div class="craft-card-cat">${catJa}</div>
+        <div class="craft-card-name">${item.name}</div>
+        <div class="craft-card-name-en">${item.name_en||''}</div>
+        <div class="craft-card-pref">${item.prefecture_ja||''} ${item.area||''}</div>
+        <p class="craft-card-desc">${item.desc||''}</p>
+        ${tags.length ? `<div class="craft-card-tags">${tags.map(t=>`<span class="craft-card-tag">${t}</span>`).join('')}</div>` : ''}
+      </div>
+    </a>`;
+  }).join('');
+
+  loadBtn.style.display = filteredCrafts.length > displayCount ? 'block' : 'none';
+}
+
+function loadMore() {
+  displayCount += 12;
+  renderResults();
+  document.getElementById('loadMoreBtn').disabled = false;
+}
+
+function openMM(){document.getElementById('mobileMenu').classList.add('open');document.getElementById('mmOverlay').classList.add('open')}
+function closeMM(){document.getElementById('mobileMenu').classList.remove('open');document.getElementById('mmOverlay').classList.remove('open')}
+
+loadData();
+</script>
+</body>
+</html>

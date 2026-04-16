@@ -1,0 +1,811 @@
+[
+  {
+    "id": "kyo_yuzen",
+    "name": "京友禅",
+    "name_en": "Kyo-Yuzen Dyeing",
+    "name_fr": "Teinture Kyo-Yuzen",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 2,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 1688,
+    "founded_era": "元禄元年",
+    "desc": "京都で生産される染物。元禄年間（1688〜1704年）に扇絵師・宮崎友禅斎が考案した染色技法が起源。防染糊（糸目糊）を使い、筆で絵を描くように染め付けることで、繊細な絵画的文様を表現できる。公家・武家の需要から始まり、現在も「手描き友禅」と型友禅があり、花鳥風月を写実的に描いた上品な絵羽模様が特徴。",
+    "desc_en": "Kyo-Yuzen is a dyeing art from Kyoto, originating from techniques devised by fan painter Miyazaki Yuzen-sai during the Genroku era (1688-1704). Using resist paste (itome-nori) and painting with brushes, it creates delicate pictorial patterns. Beginning with nobility and samurai demand, today both hand-drawn and stencil yuzen feature elegant, realistic depictions of flowers, birds, and landscapes.",
+    "techniques": [
+      "手描き友禅",
+      "型友禅",
+      "糸目糊置き",
+      "引き染め",
+      "金加工"
+    ],
+    "materials": [
+      "生糸",
+      "防染糊",
+      "染料（植物・合成）",
+      "金箔・金粉"
+    ],
+    "features": [
+      "江戸中期の扇絵師・宮崎友禅斎が創案した絵画的な染色技法",
+      "防染糊（糸目）で輪郭を描き筆で染める唯一無二の表現",
+      "花鳥風月を写実的に描いた上品な絵羽模様は世界が認める日本美"
+    ],
+    "workshops": [
+      {
+        "name": "京都 京友禅工房各社",
+        "url": "",
+        "experience": true,
+        "experience_desc": "友禅染め体験 3,000円〜（各工房で受付）",
+        "address": "京都府京都市"
+      }
+    ],
+    "purchase_keywords": "京友禅 着物 購入 振袖",
+    "price_range": "ハンカチ 2,000円〜 / 訪問着 300,000円〜 / 振袖 500,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/0208/",
+    "ogp_image_desc": "繊細な花鳥模様が美しい京友禅の着物"
+  },
+  {
+    "id": "kaga_yuzen",
+    "name": "加賀友禅",
+    "name_en": "Kaga-Yuzen Dyeing",
+    "name_fr": "Teinture Kaga-Yuzen",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 36,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "金沢市",
+    "founded": 1720,
+    "founded_era": "享保年間",
+    "desc": "石川県金沢市に伝わる友禅染め。加賀には15世紀頃から「梅染」などの独自の染め技法があり、江戸時代中期に宮崎友禅斉が絵画調の模様染めを指導したことで現在の加賀友禅が確立された。「外ぼかし」「虫食い葉」「写実的な草花文様」が三大特徴で、加賀五彩（藍・臙脂・黄土・草・古代紫）を基調に金彩を抑えた落ち着いた品格が京友禅と一線を画す。",
+    "desc_en": "Kaga-Yuzen is dyeing art produced in Kanazawa City, Ishikawa Prefecture. Unlike Kyo-Yuzen, it has unique characteristics: 'soto-bokashi' (gradation from outside to inside), 'mushikui-ha' (realistic depiction of insect-eaten leaves), and realistic floral and plant motifs. Based on 'Kaga Gosai' (five colors: indigo, crimson, ochre, grass green, and ancient purple) with little gold leaf decoration, giving it a quiet dignity. Kaga-Yuzen artists still create by hand in individual studios.",
+    "techniques": [
+      "手描き友禅",
+      "外ぼかし",
+      "糸目糊置き",
+      "引き染め"
+    ],
+    "materials": [
+      "生糸",
+      "防染糊",
+      "植物・合成染料"
+    ],
+    "features": [
+      "外ぼかし・虫食い葉・写実草花の三大特徴で京友禅と一線を画す",
+      "加賀五彩という独自の5色体系による落ち着いた品格",
+      "金彩を抑えた清楚な美しさが茶人・文人に愛された"
+    ],
+    "workshops": [
+      {
+        "name": "加賀友禅伝統産業会館",
+        "url": "https://www.kagayuzen.or.jp/",
+        "experience": true,
+        "experience_desc": "友禅染め体験 3,000円〜（要予約）",
+        "address": "石川県金沢市"
+      }
+    ],
+    "purchase_keywords": "加賀友禅 購入 着物 金沢",
+    "price_range": "ハンカチ 3,000円〜 / 訪問着 400,000円〜 / 振袖 600,000円〜",
+    "lat": 36.5614,
+    "lng": 136.6562,
+    "source": "https://kougeihin.jp/craft/0203/",
+    "ogp_image_desc": "写実的な草花文様と加賀五彩が美しい加賀友禅の着物"
+  },
+  {
+    "id": "tokyo_yuzen",
+    "name": "東京友禅",
+    "name_en": "Tokyo Yuzen Dyeing",
+    "name_fr": "Teinture Tokyo Yuzen",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "東京都（新宿区・中野区など）",
+    "founded": 1860,
+    "founded_era": "幕末",
+    "desc": "東京都で生産される友禅染め。幕末から明治期に京・加賀の技術が江戸に伝わり発展した。「粋（いき）」と「鯔背（いなせ）」に象徴される江戸の美意識を反映した清楚で洒脱なデザインが特徴。京友禅に比べ全体的にすっきりとした印象で、白場を生かした表現が多い。現在も東京の染め工房が手描き友禅を制作し続けている。",
+    "desc_en": "Tokyo Yuzen is yuzen dyeing produced in Tokyo. Developed from the late Edo period to Meiji era as Kyo and Kaga techniques spread to Edo. Reflecting the Edo aesthetic of 'iki' (refined elegance) and 'inase' (dashing style), it is characterized by clean and sophisticated designs. Compared to Kyo-Yuzen, it tends to be more streamlined with many designs making effective use of white space.",
+    "techniques": [
+      "手描き友禅",
+      "糸目糊置き",
+      "引き染め"
+    ],
+    "materials": [
+      "生糸",
+      "防染糊",
+      "染料"
+    ],
+    "features": [
+      "「粋」と「鯔背」の江戸美意識が生む洗練された染色美",
+      "白場を生かした清楚で洒脱なデザイン",
+      "京・加賀と並ぶ日本三大友禅の一つ"
+    ],
+    "workshops": [
+      {
+        "name": "東京染友禅工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "友禅染め体験（産地にご確認ください）",
+        "address": "東京都"
+      }
+    ],
+    "purchase_keywords": "東京友禅 購入 着物 江戸",
+    "price_range": "小物 3,000円〜 / 訪問着 250,000円〜",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "source": "https://kougeihin.jp/craft/0208/",
+    "ogp_image_desc": "江戸の粋を表現した東京友禅の着物"
+  },
+  {
+    "id": "edo_komon",
+    "name": "江戸小紋",
+    "name_en": "Edo Komon",
+    "name_fr": "Edo Komon",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "新宿区・中野区",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "東京都（旧江戸）で生産される型染め着物。江戸時代に武家の裃（かみしも）の模様として発展し、特定の藩が専用とした「定め小紋」が各大名家の識別に使われた。伊勢型紙（鈴鹿市製）を使った型染めで、遠目には無地に見えるほど細かな極小紋が特徴。現在は「鮫（さめ）」「行儀（ぎょうぎ）」「角通し（かくとおし）」が江戸小紋三役として最も格調高いとされる。",
+    "desc_en": "Edo Komon is stencil-dyed kimono produced in Tokyo (former Edo). Developed during the Edo period as patterns on the ceremonial dress (kamishimo) of samurai, specific patterns called 'sadame-komon' were used to identify different daimyo domains. Using Ise katagami stencils, it features extremely fine micro-patterns that appear solid color from a distance. Today, 'same' (shark skin), 'gyogi' (propriety), and 'kakutoshi' (diagonal lines) are considered the three most formal Edo Komon patterns.",
+    "techniques": [
+      "伊勢型紙使用",
+      "型染め",
+      "防染糊置き"
+    ],
+    "materials": [
+      "生糸",
+      "防染糊",
+      "染料"
+    ],
+    "features": [
+      "遠目には無地に見えるほど細かな極小紋の技術的精緻さ",
+      "武家文化から生まれた「鮫・行儀・角通し」三役の格調",
+      "伊勢型紙との連携で生まれる江戸の染め文化"
+    ],
+    "workshops": [
+      {
+        "name": "江戸小紋工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "型染め体験（産地にご確認ください）",
+        "address": "東京都新宿区"
+      }
+    ],
+    "purchase_keywords": "江戸小紋 購入 着物 型染め",
+    "price_range": "手ぬぐい 2,000円〜 / 反物 80,000円〜 / 着物仕立て 200,000円〜",
+    "lat": 35.693,
+    "lng": 139.7032,
+    "source": "https://kougeihin.jp/craft/0201/",
+    "ogp_image_desc": "極細の鮫小紋が美しい江戸小紋の着物"
+  },
+  {
+    "id": "arimatsu_shibori",
+    "name": "有松・鳴海絞",
+    "name_en": "Arimatsu-Narumi Shibori Tie-Dye",
+    "name_fr": "Teinture Shibori Arimatsu-Narumi",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "名古屋市有松・鳴海",
+    "founded": 1608,
+    "founded_era": "慶長13年",
+    "desc": "愛知県名古屋市緑区の有松・鳴海地区で生産される絞り染め。江戸時代初期、豊後の大名が名古屋城築城の手伝いに連れてきた人々が絞りの技法を伝えたことが起源とされる。尾張藩の保護のもとで発展し、東海道の旅人みやげとして全国に広まった。三浦絞・鹿の子絞・嵐絞など100種類以上の絞り技法を持つ世界最大の絞り染め産地。",
+    "desc_en": "Arimatsu-Narumi Shibori is tie-dye produced in the Arimatsu and Narumi districts of Midori Ward, Nagoya City, Aichi Prefecture. Said to have started in 1608 by residents of Narumi-juku on the Tokaido highway, developing as a souvenir for travelers. Featuring over 100 shibori (tie-dye) techniques including Miura-shibori, Kanoko-shibori, and Arashi-shibori, it is the world's largest shibori production area. Products range from yukata and tenugui to modern fashion goods.",
+    "techniques": [
+      "鹿の子絞り",
+      "三浦絞り",
+      "嵐絞り",
+      "蜘蛛絞り"
+    ],
+    "materials": [
+      "生糸・綿・麻",
+      "染料"
+    ],
+    "features": [
+      "100種類以上の絞り技法を持つ世界最大の絞り染め産地",
+      "東海道鳴海宿の旅人土産から発展した400年の歴史",
+      "浴衣から現代ファッション雑貨まで幅広く展開"
+    ],
+    "workshops": [
+      {
+        "name": "有松絞り会館",
+        "url": "https://www.arimatsu-shibori.com/",
+        "experience": true,
+        "experience_desc": "絞り染め体験 2,000円〜（要予約）",
+        "address": "愛知県名古屋市緑区有松"
+      }
+    ],
+    "purchase_keywords": "有松絞り 購入 浴衣 手ぬぐい 絞り染め",
+    "price_range": "手ぬぐい 2,000円〜 / 浴衣 30,000円〜 / スカーフ 10,000円〜",
+    "lat": 35.061,
+    "lng": 136.99,
+    "source": "https://kougeihin.jp/craft/0204/",
+    "ogp_image_desc": "美しい絞り模様が映える有松・鳴海絞の浴衣"
+  },
+  {
+    "id": "nagaita_chuugata",
+    "name": "長板中形",
+    "name_en": "Nagaita Chukata Dyeing",
+    "name_fr": "Teinture Nagaita Chukata",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "regional",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "東京都",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "東京都で生産される型染め浴衣地。江戸中期から発展した染色技法で、長い板（長板）に生地を張り、型紙と防染糊を使って両面を藍染めする。生地の表裏両面に全く同じ柄が染まる（両面染め）ことが大きな特徴で、透けても模様が美しい夏の浴衣地として珍重される。人間国宝の松原定吉が技術を継承し、現在も少数の職人が制作を続けている。",
+    "desc_en": "Nagaita Chukata is stencil-dyed yukata fabric produced in Tokyo. A dyeing technique developed in the mid-Edo period, fabric is stretched on long boards (nagaita) and both sides are indigo-dyed using stencils and resist paste. The defining feature is that the exact same pattern dyes on both sides of the fabric (ryomen-zome), making it treasured as summer yukata fabric with beautiful patterns even when translucent. Living National Treasure Matsubara Sadakichi preserved the technique, with a small number of craftspeople continuing production.",
+    "techniques": [
+      "型染め（両面染め）",
+      "藍染め",
+      "糊置き"
+    ],
+    "materials": [
+      "綿・麻",
+      "天然藍",
+      "防染糊"
+    ],
+    "features": [
+      "生地の表裏両面に同じ柄が染まる「両面染め」の技術",
+      "透けても美しい浴衣地として夏の和装の最高峰",
+      "人間国宝が継承した高度な型染め技術"
+    ],
+    "workshops": [
+      {
+        "name": "長板中形工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "address": "東京都"
+      }
+    ],
+    "purchase_keywords": "長板中形 購入 浴衣 藍染め",
+    "price_range": "浴衣反物 80,000円〜 / 浴衣仕立て 150,000円〜",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "source": "",
+    "ogp_image_desc": "両面染めの繊細な藍の文様が美しい長板中形の浴衣地"
+  },
+  {
+    "id": "ryukyu_bingata",
+    "name": "琉球びんがた",
+    "name_en": "Ryukyu Bingata",
+    "name_fr": "Bingata de Ryukyu",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 47,
+    "prefecture": "okinawa",
+    "prefecture_ja": "沖縄県",
+    "area": "那覇市・首里",
+    "founded": 1300,
+    "founded_era": "室町時代頃",
+    "desc": "沖縄県那覇市首里地区を中心に生産される型染め布。15世紀中頃に起源を持ち、琉球王国の手厚い保護のもとで発展した宮廷衣装用の染め物。鮮やかな色（紅・青・黄・緑・黒）と南国の植物・動物・吉祥文様を型紙で染める独自の様式は、日本・中国・東南アジアの染色技法が融合して生まれた。現在も沖縄の伝統衣装として広く親しまれている。",
+    "desc_en": "Ryukyu Bingata is stencil-dyed fabric produced mainly in the Shuri district of Naha City, Okinawa. 'Bingata' comes from 'beni-gata' (crimson pattern), featuring vivid colors (crimson, blue, yellow, green, black) and patterns of tropical plants, animals, and auspicious motifs applied with stencils. Developed as ceremonial court attire for the Ryukyu Kingdom, it established a unique style fusing Japanese, Chinese, and Southeast Asian dyeing techniques. Still widely cherished as traditional Okinawan dress and tourist fashion.",
+    "techniques": [
+      "型紙染め",
+      "顔料と染料の組み合わせ",
+      "手描き補正"
+    ],
+    "materials": [
+      "生糸・綿・芭蕉布",
+      "顔料",
+      "染料"
+    ],
+    "features": [
+      "琉球王国の宮廷衣装として発展した南国の華やかな型染め",
+      "鮮やかな5色と南国植物・動物文様が生む独自の様式美",
+      "日本・中国・東南アジア染色技法の融合体"
+    ],
+    "workshops": [
+      {
+        "name": "琉球びんがた事業協同組合",
+        "url": "https://www.bingata.or.jp/",
+        "experience": true,
+        "experience_desc": "びんがた染め体験 3,000円〜",
+        "address": "沖縄県那覇市首里"
+      }
+    ],
+    "purchase_keywords": "琉球びんがた 購入 着物 スカーフ 沖縄",
+    "price_range": "手ぬぐい 3,000円〜 / スカーフ 10,000円〜 / 反物 100,000円〜",
+    "lat": 26.2168,
+    "lng": 127.7195,
+    "source": "https://kougeihin.jp/craft/0211/",
+    "ogp_image_desc": "鮮やかな南国の色彩と文様が美しい琉球びんがたの着物地"
+  },
+  {
+    "id": "ise_katagami",
+    "name": "伊勢型紙",
+    "name_en": "Ise Katagami Stencil",
+    "name_fr": "Pochoir Ise Katagami",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 24,
+    "prefecture": "mie",
+    "prefecture_ja": "三重県",
+    "area": "鈴鹿市白子",
+    "founded": 1000,
+    "founded_era": "平安時代頃",
+    "desc": "三重県鈴鹿市白子地区で生産される染め型紙。平安時代頃から始まったとされ、和紙を柿渋で固めた型紙に細かな文様を彫刻したもの。江戸小紋・加賀友禅・京小紋などの型染めに欠かせない道具として、全国の染め職人に供給されてきた。「突き彫り」「錐彫り」「道具彫り」「縞彫り」の4種類の彫り技法がある。現在、鈴鹿市が型紙産地として国内ほぼ唯一の産地。",
+    "desc_en": "Ise Katagami are dye stencils produced in the Shiroko district of Suzuka City, Mie Prefecture. Said to have started in the Heian period, they are made from Japanese paper stiffened with persimmon tannin, with intricate patterns carved into them. Supplied to dye craftsmen nationwide as essential tools for stencil dyeing including Edo Komon, Kaga Yuzen, and Kyo Komon. Four carving techniques exist: tsukinori, kirinori, dogununori, and shimanori. Suzuka City is now almost the only domestic production area.",
+    "techniques": [
+      "突き彫り",
+      "錐彫り",
+      "道具彫り",
+      "縞彫り"
+    ],
+    "materials": [
+      "和紙（楮）",
+      "柿渋"
+    ],
+    "features": [
+      "江戸小紋・加賀友禅など多くの染め工芸を支える縁の下の力持ち",
+      "柿渋和紙に細かな文様を彫る高度な彫刻技術",
+      "鈴鹿市が国内唯一の産地として技を守り続ける"
+    ],
+    "workshops": [
+      {
+        "name": "鈴鹿市伝統産業会館",
+        "url": "https://www.katagami.or.jp/",
+        "experience": true,
+        "experience_desc": "型紙彫り体験 2,000円〜（要予約）",
+        "address": "三重県鈴鹿市白子"
+      }
+    ],
+    "purchase_keywords": "伊勢型紙 購入 型紙 インテリア 三重",
+    "price_range": "型紙（小）3,000円〜 / 型紙（大）15,000円〜 / 額装品 20,000円〜",
+    "lat": 34.892,
+    "lng": 136.593,
+    "source": "https://kougeihin.jp/craft/2401/",
+    "ogp_image_desc": "精緻な文様が彫られた伊勢型紙の鮫小紋型と花文様型"
+  },
+  {
+    "id": "tokyo_some_komon",
+    "name": "東京染小紋",
+    "name_en": "Tokyo Dyed Komon",
+    "name_fr": "Komon Teint Tokyo",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "新宿区・千代田区",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "東京都で生産される型染め着物の一種。江戸小紋と同様に型紙を使った型染め技法で、細かな小紋から大きな柄まで多様な模様を染める。伊勢型紙を使い、東京の職人が染め上げる染め物で、着物・羽織・帯揚げなど幅広い和装品に使われる。東京の染色産地として、江戸小紋・東京友禅と並ぶ伝統的工芸品の一つ。",
+    "desc_en": "Tokyo Dyed Komon is a type of stencil-dyed kimono produced in Tokyo. Using stencil techniques with katagami paper, similar to Edo Komon, it dyes a variety of patterns from fine micro-patterns to larger designs. Using Ise katagami stencils, it is dyed by Tokyo craftsmen and used for a wide range of Japanese clothing including kimono, haori, and obi-age. It is one of the traditional crafts of Tokyo's dyeing production area, alongside Edo Komon and Tokyo Yuzen.",
+    "techniques": [
+      "型染め",
+      "引き染め",
+      "防染糊置き"
+    ],
+    "materials": [
+      "生糸・絹",
+      "防染糊",
+      "染料"
+    ],
+    "features": [
+      "東京の染色文化を代表する型染め着物",
+      "細かな小紋から大柄まで多様な表現が可能",
+      "江戸小紋・東京友禅と並ぶ東京三大染色伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "東京染小紋工房（産地にご確認ください）",
+        "url": "",
+        "experience": true,
+        "experience_desc": "型染め体験（産地にご確認ください）",
+        "address": "東京都新宿区"
+      }
+    ],
+    "purchase_keywords": "東京染小紋 購入 着物 型染め",
+    "price_range": "小物 3,000円〜 / 反物 60,000円〜 / 着物仕立て 180,000円〜",
+    "lat": 35.6895,
+    "lng": 139.7032,
+    "source": "https://kougeihin.jp/craft/0201/",
+    "ogp_image_desc": "江戸の伝統型染め技法による東京染小紋の着物"
+  },
+  {
+    "id": "kyo_kanoko_shibori",
+    "name": "京鹿の子絞",
+    "name_en": "Kyo Kanoko Shibori",
+    "name_fr": "Shibori Kanoko de Kyoto",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "京都府京都市で生産される絞り染めの最高峰。絞り染めは千数百年前から宮廷衣装に使われており、室町〜江戸初期には辻が花染として盛んになり、江戸時代中期に鹿の子絞りの全盛期を迎えた。絹糸で細かく括った防染跡が子鹿の斑点に似ることから「鹿の子」と呼ばれ、一反の振袖に数十万個もの括り目を施す極めて高度な手技が特徴。",
+    "desc_en": "Kyo kanoko shibori is the pinnacle of tie-dyeing produced in Kyoto City, Kyoto Prefecture. Fabric is finely pinched with needles and tightly tied with silk thread to resist dye; when the threads are removed after dyeing, the white dots from the ties resemble the spots on a deer, hence 'kanoko' (fawn). A single furisode may have hundreds of thousands of tied spots, requiring extremely advanced hand skills. Used in high-end Japanese clothing such as furisode, obi-age, and haori, it represents Kyoto's tie-dyeing culture.",
+    "techniques": [
+      "絹糸括り（かのこ絞り）",
+      "手摘み絞り",
+      "引き染め"
+    ],
+    "materials": [
+      "生糸・絹地",
+      "染料（植物・合成）",
+      "絹糸（括り糸）"
+    ],
+    "features": [
+      "一反に数十万個の括り目を施す極限の手技が生む白点模様",
+      "鹿の斑点に似た「鹿の子」模様が名前の由来",
+      "振袖・帯揚げに欠かせない京の絞り染めの最高峰"
+    ],
+    "workshops": [
+      {
+        "name": "京都絞り工芸館",
+        "url": "https://www.shibori.jp/",
+        "experience": true,
+        "experience_desc": "絞り染め体験 2,500円〜（要予約）",
+        "address": "京都府京都市中京区"
+      }
+    ],
+    "purchase_keywords": "京鹿の子絞 振袖 帯揚げ 購入 京都 絞り",
+    "price_range": "帯揚げ 30,000円〜 / 振袖 500,000円〜 / 羽織 200,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/0207/",
+    "ogp_image_desc": "細かな鹿の子模様が美しい京鹿の子絞の振袖と帯揚げ"
+  },
+  {
+    "id": "nagoya_yuzen",
+    "name": "名古屋友禅",
+    "name_en": "Nagoya Yuzen Dyeing",
+    "name_fr": "Teinture Nagoya Yuzen",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "名古屋市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "愛知県名古屋市で生産される友禅染め。京・加賀・東京と並ぶ友禅の主要産地で、名古屋帯・着物の友禅染めを特産とする。名古屋独自の意匠と技法を持ち、特に名古屋帯への友禅染めは産地の特色。手描き友禅から型友禅まで幅広い技法を用い、名古屋の染色文化を代表する伝統的工芸品。",
+    "desc_en": "Nagoya yuzen is yuzen dyeing produced in Nagoya City, Aichi Prefecture. A major yuzen production area alongside Kyo, Kaga, and Tokyo, it specializes in yuzen dyeing for Nagoya obi and kimono. It has its own Nagoya-specific designs and techniques, with yuzen dyeing on Nagoya obi being a particular regional characteristic. Using techniques ranging from hand-painted yuzen to stencil yuzen, it is a traditional craft representing Nagoya's dyeing culture.",
+    "techniques": [
+      "手描き友禅",
+      "型友禅",
+      "糸目糊置き",
+      "引き染め"
+    ],
+    "materials": [
+      "生糸・絹",
+      "防染糊",
+      "染料"
+    ],
+    "features": [
+      "京・加賀・東京と並ぶ日本四大友禅産地の一つ",
+      "名古屋帯への友禅染めが産地の特色として知られる",
+      "独自の意匠と技法による名古屋の染色文化の代表工芸"
+    ],
+    "workshops": [
+      {
+        "name": "名古屋友禅工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "愛知県名古屋市"
+      }
+    ],
+    "purchase_keywords": "名古屋友禅 着物 帯 購入 名古屋",
+    "price_range": "名古屋帯 100,000円〜 / 訪問着 250,000円〜",
+    "lat": 35.1815,
+    "lng": 136.9066,
+    "source": "https://kougeihin.jp/craft/0205/",
+    "ogp_image_desc": "名古屋友禅の繊細な模様が映える名古屋帯と着物"
+  },
+  {
+    "id": "tokyo_tegaki_yuzen",
+    "name": "東京手描友禅",
+    "name_en": "Tokyo Tegaki Yuzen",
+    "name_fr": "Yuzen Peint à la Main Tokyo",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "東京都",
+    "founded": 1868,
+    "founded_era": "明治初期",
+    "desc": "東京都で生産される手描き友禅染め。江戸時代中期、大名のお抱え染師らが関西から江戸に移り住んだことで技法が伝わり、町人文化の発展とともに粋やさびの感覚を取り込みながら東京独自のスタイルが確立した。一人の職人が糸目糊置きから蒸し・水洗いまで全工程を担う「一貫制作」が特徴で、清楚で洗練された表現が京・加賀友禅と一線を画す。",
+    "desc_en": "Tokyo tegaki yuzen is hand-painted yuzen dyeing produced in Tokyo. Kyo and Kaga techniques spread to Tokyo during the Meiji era, where Tokyo craftspeople developed them into their own style. A defining feature especially emphasized in Tokyo yuzen is 'integrated production,' where a single craftsperson handles all dyeing processes from resist paste application, color filling, steaming, and washing. It is characterized by a clean and refined design inheriting the Edo sense of 'iki' (refined elegance).",
+    "techniques": [
+      "手描き友禅（一貫制作）",
+      "糸目糊置き",
+      "色挿し",
+      "蒸し・水洗い"
+    ],
+    "materials": [
+      "生糸・絹",
+      "防染糊",
+      "染料"
+    ],
+    "features": [
+      "一人の職人が全工程を担う「一貫制作」が東京独自の誇り",
+      "江戸の粋を受け継いだ清楚で洗練された手描き友禅",
+      "京・加賀と異なる東京独自の手描き友禅スタイルの確立"
+    ],
+    "workshops": [
+      {
+        "name": "東京手描友禅工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都"
+      }
+    ],
+    "purchase_keywords": "東京手描友禅 着物 訪問着 購入",
+    "price_range": "訪問着 300,000円〜 / 振袖 500,000円〜",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "source": "https://kougeihin.jp/craft/0202/",
+    "ogp_image_desc": "一職人が全工程を担う東京手描友禅の着物"
+  },
+  {
+    "id": "kaga_nui",
+    "name": "加賀繡",
+    "name_en": "Kaga Nui Embroidery",
+    "name_fr": "Broderie Kaga Nui",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 17,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "金沢市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "石川県金沢市に伝わる伝統刺繍工芸。室町時代初期に加賀への仏教布教とともに、打敷・袈裟などの仏具の装飾として京都から伝えられたことが起源。江戸時代には加賀藩の庇護のもとで将軍・藩主の陣羽織や着物衿・帯にも用いられるようになった。金箔・銀箔・絹糸を駆使した立体的な刺繡は、加賀百万石文化が育てた格調高い装飾工芸として知られる。",
+    "desc_en": "Kaga nui is a traditional embroidery craft passed down in Kanazawa City, Ishikawa Prefecture. One of Kanazawa's crafts alongside Kaga yuzen and Kaga maki-e, it is characterized by a technique of embroidering dimensional patterns on fabric using gold foil, silver foil, and silk thread. Fine embroidery with motifs of flowers, birds, and plants lavishly decorates kimono collars, obi, and Japanese accessories. Known as a dignified decorative craft nurtured by the culture of the Kaga domain's million-koku wealth.",
+    "techniques": [
+      "金箔・銀箔使い",
+      "絹糸刺繡",
+      "立体刺繡",
+      "平刺繡"
+    ],
+    "materials": [
+      "絹糸",
+      "金箔・銀箔",
+      "絹地"
+    ],
+    "features": [
+      "金箔・銀箔と絹糸を組み合わせた立体的な加賀の刺繡技法",
+      "加賀百万石文化が育てた格調高い着物の衿・帯の装飾工芸",
+      "加賀友禅・加賀蒔絵と並ぶ金沢三大工芸の一つ"
+    ],
+    "workshops": [
+      {
+        "name": "加賀繡工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "石川県金沢市"
+      }
+    ],
+    "purchase_keywords": "加賀繡 着物 帯 衿 購入 金沢 石川",
+    "price_range": "小物 10,000円〜 / 帯 200,000円〜 / 訪問着衿 50,000円〜",
+    "lat": 36.5614,
+    "lng": 136.6562,
+    "source": "https://kougeihin.jp/craft/1702/",
+    "ogp_image_desc": "金箔と絹糸が輝く加賀繡の着物衿と帯の装飾"
+  },
+  {
+    "id": "nagoya_kuromonfuki",
+    "name": "名古屋黒紋付染",
+    "name_en": "Nagoya Kuro Monfuki",
+    "name_fr": "Teinture Kuro Monfuki de Nagoya",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "名古屋市",
+    "founded": 1850,
+    "founded_era": "江戸末期・明治初期",
+    "desc": "愛知県名古屋市を中心に染められる黒紋付（正礼装着物）の染色工芸。江戸時代初期、尾張藩の藩士が旗印や幟の染色を担ったことに始まり、江戸末期には藩士・庶民の黒紋付染が広まった。深みある漆黒の黒染め技術は「名古屋黒」として知られ、家紋を白く染め抜く「紋入れ」技法とあわせて冠婚葬祭の正礼装として全国に出荷されている。",
+    "desc_en": "Nagoya kuro monfuki is the dyeing of black monfuki (formal black kimono for ceremonial occasions) performed in Nagoya City, Aichi Prefecture, developed from the late Edo period through the Meiji era. The deep jet-black dyeing technique using chemical dyes is known as 'Nagoya black,' and its uniform, deep jet-black color is shipped nationwide as formal attire for weddings and funerals. The 'mon-ire' technique of dyeing family crests white requires advanced craftsmanship, making it an indispensable representative craft of Nagoya's dyeing industry for both celebratory and mourning formal wear. Specialized dyeing workshops in Nagoya City continue to preserve traditional techniques today.",
+    "techniques": [
+      "黒染め（化学染料）",
+      "紋入れ（白抜き）",
+      "引き染め"
+    ],
+    "materials": [
+      "生糸・絹",
+      "黒化学染料",
+      "防染糊（紋用）"
+    ],
+    "features": [
+      "「名古屋黒」と呼ばれる均一で深みある漆黒の黒染め技術",
+      "家紋を白く染め抜く「紋入れ」が正礼装を完成させる職人技",
+      "慶弔の正礼装として全国に出荷される名古屋染色産業の誇り"
+    ],
+    "workshops": [
+      {
+        "name": "名古屋黒紋付染工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "愛知県名古屋市"
+      }
+    ],
+    "purchase_keywords": "名古屋黒紋付染 黒紋付 礼装 購入 名古屋 愛知",
+    "price_range": "黒紋付（白生地込み）150,000円〜 / 仕立て込み 250,000円〜",
+    "lat": 35.1815,
+    "lng": 136.9066,
+    "source": "https://kougeihin.jp/craft/0206/",
+    "ogp_image_desc": "深い漆黒と白紋が際立つ名古屋黒紋付染の正礼装着物"
+  },
+  {
+    "id": "edo_shishuu",
+    "name": "江戸刺繍",
+    "name_en": "Edo Shishuu",
+    "name_fr": "Broderie Edo",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "regional",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区・荒川区",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "東京都台東区・荒川区を中心に伝わる絹糸による手刺繍で、江戸時代から歌舞伎・能の衣装や着物・帯の装飾として発展してきた。金糸・銀糸・色糸を駆使した絢爛豪華な刺繍が特徴で、着物・帯・のれんなど幅広い和装品に施される装飾手工芸。染色品カテゴリに属し、刺繍という手法で布地に豊かな表情を与える東京の伝統工芸として、現在も台東区・荒川区の職人が高度な手技を継承している。",
+    "desc_en": "Edo shishuu is hand embroidery using silk thread passed down in the Taito and Arakawa districts of Tokyo, developed from the Edo period as decoration for kabuki and noh costumes, kimono, and obi. Characterized by lavishly gorgeous embroidery making full use of gold, silver, and colored threads, it is a decorative handcraft applied to a wide range of Japanese clothing items including kimono, obi, and noren curtains. Belonging to the dyeing category, it is a Tokyo traditional craft that gives rich expression to fabric through the technique of embroidery, with craftspeople in Taito and Arakawa continuing to pass down advanced hand skills today.",
+    "techniques": [
+      "手刺繍（絹糸）",
+      "金糸・銀糸刺繍",
+      "平刺繍",
+      "肉入れ刺繍"
+    ],
+    "materials": [
+      "絹糸",
+      "金糸・銀箔糸",
+      "絹地"
+    ],
+    "features": [
+      "歌舞伎・能の衣装装飾から発展した江戸の絢爛豪華な手刺繍",
+      "金糸・銀糸・色糸を駆使した精緻な刺繍が着物・帯を飾る",
+      "台東区・荒川区の職人が守る東京伝統工芸の装飾刺繍文化"
+    ],
+    "workshops": [
+      {
+        "name": "江戸刺繍工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "江戸刺繍 着物 帯 のれん 購入 東京 台東区",
+    "price_range": "小物・のれん 15,000円〜 / 帯 200,000円〜 / 着物衿 50,000円〜",
+    "lat": 35.7118,
+    "lng": 139.7798,
+    "source": "",
+    "ogp_image_desc": "金糸・銀糸・色糸が輝く江戸刺繍の着物と帯の豪華な刺繍"
+  },
+  {
+    "id": "kyo_shishuu",
+    "name": "京繡",
+    "name_en": "Kyo Shishuu",
+    "name_fr": "Broderie Kyo",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "meti",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 700,
+    "founded_era": "奈良時代以前",
+    "desc": "京都で制作される絹糸・金糸・銀糸による高度な手刺繍で、平安時代から宮廷・神社仏閣の装束・幕・打掛などに施されてきた格調ある刺繍工芸。「相良刺繍」「割り繍」「菅縫い」など多様な刺繍技法を駆使し、着物・帯・インテリア装飾まで幅広く制作される。千年以上にわたる京都の宮廷文化と仏教文化が育んだ刺繍の最高峰として、現在も京都市内の職人が高度な技法を受け継ぎ、最高品質の刺繍作品を世に送り出している。",
+    "desc_en": "Kyo shishuu is high-level hand embroidery using silk, gold, and silver threads produced in Kyoto, a dignified embroidery craft that has been applied to court costumes, shrine and temple hangings, and uchikake since the Heian period. Making full use of diverse embroidery techniques including sagara embroidery, wari-nui, and suge-nui, it is used for a wide range of items from kimono and obi to interior decoration. As the pinnacle of embroidery nurtured by over a thousand years of Kyoto's imperial court culture and Buddhist culture, craftspeople in Kyoto City continue to pass down advanced techniques today, producing the highest quality embroidery works.",
+    "techniques": [
+      "相良刺繍",
+      "割り繍",
+      "菅縫い",
+      "金糸・銀糸刺繍",
+      "平刺繍"
+    ],
+    "materials": [
+      "絹糸",
+      "金糸・金箔糸",
+      "銀糸",
+      "絹地"
+    ],
+    "features": [
+      "平安時代から宮廷・神社仏閣を飾ってきた京都刺繍の最高峰",
+      "相良・割り繍・菅縫いなど多彩な技法を駆使した格調ある刺繍",
+      "千年以上の宮廷・仏教文化が育んだ日本刺繍芸術の集大成"
+    ],
+    "workshops": [
+      {
+        "name": "京繡工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市"
+      }
+    ],
+    "purchase_keywords": "京繡 着物 帯 刺繍 購入 京都",
+    "price_range": "小物 20,000円〜 / 帯 300,000円〜 / 打掛 1,000,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/2605/",
+    "ogp_image_desc": "平安の宮廷文化を受け継ぐ京繡の豪華絢爛な刺繍着物と帯"
+  },
+  {
+    "id": "nanbu_shikone",
+    "name": "南部紫根染",
+    "name_en": "Nanbu Shikone",
+    "name_fr": "Teinture Shikone du Nanbu",
+    "category": "dyeing",
+    "category_ja": "染色品",
+    "designation": "regional",
+    "designation_number": 3,
+    "prefecture": "iwate",
+    "prefecture_ja": "岩手県",
+    "area": "盛岡市・雫石町",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "岩手県南部地方に伝わる紫根（シコン：ムラサキ草の根）を使った天然染色で、南部藩が保護した伝統的な草木染め技術。ムラサキ草の根から抽出した紫色で絹・木綿を染め、渋みのある深い紫色と植物由来の柔らかな発色が特徴の高度な草木染め技法。媒染剤の調合や染め回数によって紫の濃淡を繊細にコントロールするには長年の経験が必要で、化学染料では再現できない天然の奥深い色調が愛好家に珍重される。現在も盛岡市・雫石町周辺の職人が伝統の染色技術を守り続けている。",
+    "desc_en": "Nanbu shikone is natural dyeing using shikon (the root of the murasaki plant, Lithospermum erythrorhizon) passed down in the Nanbu region of Iwate Prefecture, a traditional plant dyeing technique protected by the Nanbu domain. Silk and cotton are dyed in the purple color extracted from murasaki plant roots, characterized by a subdued deep purple and soft natural coloring derived from plant matter. Years of experience are required to delicately control the intensity of purple through mordant blending and number of dyeing cycles, and the deep natural hue that cannot be reproduced with chemical dyes is prized by enthusiasts. Craftspeople around Morioka City and Shizukuishi-cho continue to preserve the traditional dyeing technique today.",
+    "techniques": [
+      "紫根染め（草木染め）",
+      "媒染（アルミ・鉄）",
+      "手染め"
+    ],
+    "materials": [
+      "ムラサキ草根（紫根）",
+      "絹・木綿",
+      "媒染剤"
+    ],
+    "features": [
+      "ムラサキ草の根から抽出した天然紫色による深みある草木染め",
+      "南部藩が保護した岩手の伝統的草木染め技術の高度な継承",
+      "化学染料では再現できない渋みある天然紫色が愛好家に珍重"
+    ],
+    "workshops": [
+      {
+        "name": "南部紫根染工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "岩手県盛岡市"
+      }
+    ],
+    "purchase_keywords": "南部紫根染 草木染め 紫根 購入 岩手 盛岡",
+    "price_range": "スカーフ 15,000円〜 / 帯揚げ 30,000円〜 / 着物地 100,000円〜",
+    "lat": 39.7036,
+    "lng": 141.1527,
+    "source": "",
+    "ogp_image_desc": "ムラサキ草の根から生まれる深みある天然紫色・南部紫根染の絹布"
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "id": "edo_kimekomi_ningyo",
+    "name": "江戸木目込人形",
+    "name_en": "Edo Kimekomi Dolls",
+    "name_fr": "Poupées Kimekomi d'Edo",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区・墨田区",
+    "founded": 1740,
+    "founded_era": "元文5年",
+    "desc": "東京都台東区・墨田区を中心に生産される伝統人形。江戸時代中期、京都・上賀茂神社の神官が柳の木の端材で小さな人形を彫り、溝に神官衣装の布を挟んだことに始まり、当初は「賀茂人形」と呼ばれた。江戸に伝わり「木目込人形」として発展し、胴体に彫った溝に布地を嵌め込んで衣装を表現する独自の技法が特徴。現在は雛人形・五月人形の最高級品として知られる。",
+    "desc_en": "Edo Kimekomi Dolls are wooden dolls produced primarily in Taito and Sumida wards, Tokyo. Originating in 1740 when a shrine official at Kyoto's Kamigamo Shrine carved a doll from willow wood and tucked fabric into grooves. The technique of inserting fabric into carved grooves (kimekomi) to represent clothing is its hallmark. Today they are the premium tier of hina dolls and samurai dolls, with craftsmen spending months to a year per piece.",
+    "techniques": [
+      "木目込み",
+      "胡粉塗り",
+      "御髪（かもじ）取り付け"
+    ],
+    "materials": [
+      "桐塑（とうそ）胴体",
+      "生地（正絹・金襴）",
+      "胡粉"
+    ],
+    "features": [
+      "江戸時代から続く「木目込み」独自技法による布の表現",
+      "職人が1体に数ヶ月〜1年をかける最高級雛人形・五月人形",
+      "素朴な愛らしさと細部の精巧さを兼ね備えた東京伝統工芸"
+    ],
+    "workshops": [
+      {
+        "name": "吉徳（日本橋）",
+        "url": "https://www.yoshitoku.co.jp/",
+        "experience": false,
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "江戸木目込人形 購入 雛人形 五月人形",
+    "price_range": "小物人形 5,000円〜 / 雛人形一式 100,000円〜 / 特注品 500,000円〜",
+    "lat": 35.7101,
+    "lng": 139.7956,
+    "source": "https://kougeihin.jp/craft/1302/",
+    "ogp_image_desc": "繊細な絹の衣装を纏った江戸木目込人形の雛人形"
+  },
+  {
+    "id": "miyagi_kokeshi",
+    "name": "宮城伝統こけし",
+    "name_en": "Miyagi Traditional Kokeshi",
+    "name_fr": "Kokeshi Traditionnel de Miyagi",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 4,
+    "prefecture": "miyagi",
+    "prefecture_ja": "宮城県",
+    "area": "鳴子温泉・遠刈田温泉・弥治郎・作並・肘折",
+    "founded": 1800,
+    "founded_era": "江戸末期",
+    "desc": "宮城県の温泉地で生産される木製人形。江戸時代中期以後、東北の温泉地の湯治客へのお土産として生まれたとされ、鳴子・遠刈田・弥治郎・作並・肘折の5系統それぞれに固有の形・模様・色彩がある。ろくろを使って水木を削り出し、胴に描く紋様は職人の筆使いで系統ごとの個性を表現。シンプルな形が現代のミニマルデザインとして世界的に再評価されている。",
+    "desc_en": "Miyagi Traditional Kokeshi are wooden dolls from hot spring towns in Miyagi Prefecture. Made as souvenirs for spa visitors since the late Edo period, five distinct lineages (Naruko, Togatta, Yajiro, Sakunami, Hijiori) each have unique shapes, patterns, and colors. Turned on a lathe from Japanese dogwood, the body's painted patterns express each lineage's character. Their simple forms are globally re-evaluated as minimalist design.",
+    "techniques": [
+      "ろくろ挽き",
+      "絵付け（各系統の伝統紋様）"
+    ],
+    "materials": [
+      "水木（みずき）",
+      "梅（うめ）",
+      "こぶし"
+    ],
+    "features": [
+      "5系統それぞれに異なる形・紋様・色彩を持つ個性豊かな世界",
+      "シンプルな形がミニマルデザインとして世界のコレクターに人気",
+      "東北の温泉地の文化と職人の手業が宿る郷土工芸"
+    ],
+    "workshops": [
+      {
+        "name": "鳴子こけし工房",
+        "url": "https://www.naruko.gr.jp/",
+        "experience": true,
+        "experience_desc": "絵付け体験 1,500円〜",
+        "address": "宮城県大崎市鳴子温泉"
+      }
+    ],
+    "purchase_keywords": "こけし 購入 宮城 伝統 鳴子",
+    "price_range": "小型こけし 1,500円〜 / 中型 3,000円〜 / 大型 10,000円〜",
+    "lat": 38.7366,
+    "lng": 140.7244,
+    "source": "https://kougeihin.jp/craft/1301/",
+    "ogp_image_desc": "個性豊かな5系統の宮城伝統こけしの並び"
+  },
+  {
+    "id": "kyo_ningyo",
+    "name": "京人形",
+    "name_en": "Kyo Ningyo (Kyoto Dolls)",
+    "name_fr": "Poupées de Kyoto (Kyo Ningyo)",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 1,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市",
+    "founded": 800,
+    "founded_era": "平安時代",
+    "desc": "京都市で生産される伝統人形の総称。平安時代の宮中文化から発展し、御所人形・賀茂人形・衣装人形・雛人形など多様な種類がある。上品な顔立ちと精巧な絹の衣装が特徴で、「人形の都」京都の技と美意識が結晶したもの。西陣織の衣装・金彩・刺繍など京都の工芸技術が人形制作に集約される。現在も多くの人形師が伝統を守りながら現代的な表現も追求している。",
+    "desc_en": "Kyo Ningyo is the collective term for traditional dolls produced in Kyoto City. Developed from Heian court culture, it encompasses diverse types including Gosho dolls, Kamo dolls, costume dolls, and hina dolls. Characterized by refined facial features and exquisite silk costumes, it crystallizes the technique and aesthetic sensibility of 'the doll capital' Kyoto. Kyoto's craft techniques—Nishijin silk weaving, gold decoration, embroidery—are all concentrated in doll production.",
+    "techniques": [
+      "桐塑成形",
+      "胡粉塗り",
+      "衣装縫製",
+      "金彩"
+    ],
+    "materials": [
+      "桐塑（とうそ）",
+      "胡粉",
+      "西陣織・正絹生地",
+      "金箔"
+    ],
+    "features": [
+      "平安宮廷文化から発展した千年の歴史を持つ京の人形文化",
+      "西陣織・金彩・刺繍など京都の工芸技術が集約される",
+      "御所人形・賀茂人形など多様な様式の豊かさ"
+    ],
+    "workshops": [
+      {
+        "name": "京人形 丸平大木人形店",
+        "url": "https://maruheidaiki.co.jp/",
+        "experience": false,
+        "address": "京都府京都市中京区"
+      }
+    ],
+    "purchase_keywords": "京人形 購入 雛人形 御所人形 京都",
+    "price_range": "小物人形 5,000円〜 / 雛人形一式 200,000円〜 / 特注品 1,000,000円〜",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "source": "https://kougeihin.jp/craft/1307/",
+    "ogp_image_desc": "上品な顔立ちと精巧な絹衣装が美しい京人形の雛人形"
+  },
+  {
+    "id": "hakata_ningyo",
+    "name": "博多人形",
+    "name_en": "Hakata Ningyo (Hakata Doll)",
+    "name_fr": "Poupée Hakata",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 40,
+    "prefecture": "fukuoka",
+    "prefecture_ja": "福岡県",
+    "area": "福岡市博多区",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "福岡県福岡市博多区で生産される素焼きの土人形。江戸時代初期に始まったとされ、素焼きした白土の人形に日本画の絵の具で彩色する技法が特徴。美人・子ども・動物・能楽など多様な題材を扱い、鮮やかな色彩と生き生きとした表情が特徴。輸出工芸品として明治期から海外でも人気を博し、「博多人形師」の称号は伝統工芸師認定制度の代表的存在。",
+    "desc_en": "Hakata Ningyo are unglazed clay dolls produced in Hakata Ward, Fukuoka City, Fukuoka Prefecture. Said to have started in the early Edo period, they feature the technique of painting unglazed white clay dolls with Japanese painting pigments. Covering diverse subjects including beautiful women, children, animals, and Noh performances, they are characterized by vivid colors and lively expressions. Popular overseas as export crafts since the Meiji period, the title 'Hakata doll artist' is a representative traditional craftsperson designation.",
+    "techniques": [
+      "素焼き成形",
+      "日本画絵の具による彩色",
+      "金彩"
+    ],
+    "materials": [
+      "白土（陶土）",
+      "日本画絵の具",
+      "金箔"
+    ],
+    "features": [
+      "素焼きに日本画絵の具で彩色する独自の表現技法",
+      "美人・子ども・動物と多様な題材の豊かさ",
+      "明治から輸出品として世界で愛される九州の代表的工芸品"
+    ],
+    "workshops": [
+      {
+        "name": "博多人形師工房（産地にご確認ください）",
+        "url": "https://hakata-doll.com/",
+        "experience": true,
+        "experience_desc": "絵付け体験 2,000円〜",
+        "address": "福岡県福岡市博多区"
+      }
+    ],
+    "purchase_keywords": "博多人形 購入 土人形 飾り物 福岡",
+    "price_range": "小物 3,000円〜 / 美人人形 20,000円〜 / 特注品 100,000円〜",
+    "lat": 33.5899,
+    "lng": 130.4213,
+    "source": "https://kougeihin.jp/craft/1308/",
+    "ogp_image_desc": "鮮やかな彩色が美しい博多人形の美人像"
+  },
+  {
+    "id": "iwatsuki_ningyo",
+    "name": "岩槻人形",
+    "name_en": "Iwatsuki Ningyo (Iwatsuki Doll)",
+    "name_fr": "Poupée Iwatsuki",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 11,
+    "prefecture": "saitama",
+    "prefecture_ja": "埼玉県",
+    "area": "さいたま市岩槻区",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "埼玉県さいたま市岩槻区で生産される伝統人形。江戸時代後期から始まり、明治初期には農閑期に作られた節句人形と士族の内職人形の技術が合流して本格的な産地が形成された。江戸（東京）に近い立地を生かし需要を取り込んで発展し、国内雛人形生産量で全国トップクラスを誇る。毎年「岩槻人形祭り」が開催され観光客が訪れる。",
+    "desc_en": "Iwatsuki Ningyo are traditional dolls produced in Iwatsuki Ward, Saitama City, Saitama Prefecture. Starting from the early Edo period, it ranks among Japan's leading production areas for hina dolls, samurai (Children's Day) dolls, and warrior dolls. Leveraging its proximity to Edo (Tokyo), it developed by incorporating Edo culture and demand. Many doll makers and craftsmen are still concentrated here, with the area ranking at the top domestically in hina doll production. The annual 'Iwatsuki Doll Festival' attracts tourists.",
+    "techniques": [
+      "桐塑成形",
+      "胡粉塗り",
+      "衣装縫製",
+      "金彩"
+    ],
+    "materials": [
+      "桐塑（とうそ）",
+      "胡粉",
+      "絹生地",
+      "金具"
+    ],
+    "features": [
+      "国内雛人形生産量トップクラスの「人形のまち岩槻」",
+      "江戸文化を取り込んで発展した400年の歴史",
+      "多くの人形メーカー・職人が集積する雛人形の産地"
+    ],
+    "workshops": [
+      {
+        "name": "岩槻人形博物館",
+        "url": "https://www.city.saitama.jp/iwatsuki/",
+        "experience": true,
+        "experience_desc": "人形展示見学・制作体験（産地にご確認ください）",
+        "address": "埼玉県さいたま市岩槻区"
+      }
+    ],
+    "purchase_keywords": "岩槻人形 購入 雛人形 五月人形 さいたま",
+    "price_range": "小物人形 5,000円〜 / 雛人形（コンパクト）30,000円〜 / 段飾り 200,000円〜",
+    "lat": 35.9561,
+    "lng": 139.6907,
+    "source": "https://kougeihin.jp/craft/1303/",
+    "ogp_image_desc": "精巧な衣装を纏った岩槻人形の雛人形七段飾り"
+  },
+  {
+    "id": "miharu_ningyo",
+    "name": "三春人形",
+    "name_en": "Miharu Ningyo (Miharu Doll)",
+    "name_fr": "Poupée Miharu",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 7,
+    "prefecture": "fukushima",
+    "prefecture_ja": "福島県",
+    "area": "田村郡三春町",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "福島県田村郡三春町で生産される土人形。江戸時代に起源を持つ郷土玩具で、三春駒・三春達磨など多様な種類がある。素焼きの土に色鮮やかな絵の具で彩色し、金彩を施す素朴ながら华やかな作風が特徴。特に馬の形をした「三春駒（みはるごま）」は農家が農耕馬の健康・豊作祈願に飾った縁起物として知られる。現在も職人が少数精鋭で制作を続けている。",
+    "desc_en": "Miharu Ningyo are clay dolls produced in Miharu Town, Tamura-gun, Fukushima Prefecture. Originating in the Edo period as folk toys, they include diverse types such as Miharu-koma (horses) and Miharu-daruma. Characterized by rustic yet vibrant painting on unglazed clay with gold decoration, the 'Miharu-koma' (horse figurine) is particularly known as a good luck charm that farming families displayed to pray for horse health and good harvests. A small number of craftspeople continue production today.",
+    "techniques": [
+      "土型成形",
+      "素焼き",
+      "色彩絵付け",
+      "金彩"
+    ],
+    "materials": [
+      "地元粘土",
+      "顔料",
+      "金粉"
+    ],
+    "features": [
+      "三春駒・達磨など農村の暮らしに寄り添った郷土玩具",
+      "素朴な土肌と鮮やかな彩色が生む民藝的な美",
+      "農耕馬の守護として農村文化が生んだ縁起物"
+    ],
+    "workshops": [
+      {
+        "name": "三春人形工房（産地にご確認ください）",
+        "url": "https://www.miharu.gr.jp/",
+        "experience": false,
+        "address": "福島県田村郡三春町"
+      }
+    ],
+    "purchase_keywords": "三春人形 購入 三春駒 郷土玩具 福島",
+    "price_range": "三春駒（小）2,000円〜 / 三春達磨 3,000円〜",
+    "lat": 37.44,
+    "lng": 140.49,
+    "source": "",
+    "ogp_image_desc": "鮮やかな彩色が可愛らしい三春人形の三春駒"
+  },
+  {
+    "id": "konosu_hina",
+    "name": "鴻巣雛人形",
+    "name_en": "Konosu Hina Ningyo (Konosu Hina Dolls)",
+    "name_fr": "Poupées Hina de Konosu",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 11,
+    "prefecture": "saitama",
+    "prefecture_ja": "埼玉県",
+    "area": "鴻巣市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "埼玉県鴻巣市で生産される雛人形。江戸中期から始まったとされ、岩槻と並ぶ埼玉県の人形産地として知られる。雛人形・吊るし飾り・ガラスケース飾りなど多様なスタイルを生産。鴻巣市では毎年春に「鴻巣びっくりひな祭り」が開催され、日本一の高さ（31段）を誇るピラミッドひな壇が名物。観光と工芸が融合した雛人形の産地。",
+    "desc_en": "Konosu Hina Ningyo are hina dolls produced in Konosu City, Saitama Prefecture. Said to have started in the mid-Edo period, it is known as a doll production area alongside Iwatsuki in Saitama. Producing diverse styles including hina dolls, hanging decorations, and glass case displays. Konosu City hosts the annual 'Konosu Bikkuri Hinamatsuri' (Surprising Doll Festival) in spring, famous for Japan's tallest (31-tier) pyramid doll display—a tourist attraction where crafts and tourism converge.",
+    "techniques": [
+      "桐塑成形",
+      "胡粉塗り",
+      "衣装縫製"
+    ],
+    "materials": [
+      "桐塑（とうそ）",
+      "胡粉",
+      "絹生地"
+    ],
+    "features": [
+      "日本一の31段ひな壇で有名な「鴻巣びっくりひな祭り」の産地",
+      "岩槻と並ぶ埼玉県の雛人形二大産地",
+      "観光と工芸が融合した春の行事と雛人形文化"
+    ],
+    "workshops": [
+      {
+        "name": "鴻巣市観光・人形店（産地にご確認ください）",
+        "url": "https://www.konosu.or.jp/",
+        "experience": false,
+        "address": "埼玉県鴻巣市"
+      }
+    ],
+    "purchase_keywords": "鴻巣 雛人形 購入 ひな祭り さいたま",
+    "price_range": "コンパクト雛人形 20,000円〜 / 三段飾り 80,000円〜 / 七段飾り 300,000円〜",
+    "lat": 36.066,
+    "lng": 139.52,
+    "source": "",
+    "ogp_image_desc": "豪華な衣装を纏った鴻巣雛人形の三段飾り"
+  },
+  {
+    "id": "nara_ittoubori",
+    "name": "奈良一刀彫",
+    "name_en": "Nara Itto-bori (Nara Single-Knife Carving)",
+    "name_fr": "Sculpture Itto-bori de Nara",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 29,
+    "prefecture": "nara",
+    "prefecture_ja": "奈良県",
+    "area": "奈良市",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "奈良県奈良市で生産される木彫り人形。一本の彫刻刀で木を削り出す技法が名前の由来で、鹿・天狗・獅子・干支など奈良の文化や信仰を題材にした素朴で力強い造形が特徴。奈良の春日大社・東大寺の神仏信仰と結びついた郷土工芸として発展し、荒削りの刀跡を残した豪快な彫り表現が独特の生命力を感じさせる。鮮やかな彩色とともに観光みやげ・縁起物として広く親しまれている。",
+    "desc_en": "Nara Itto-bori are wood-carved figures produced in Nara City, Nara Prefecture. The name derives from the technique of carving wood with a single chisel, producing bold rustic forms depicting deer, tengu demons, lions, zodiac animals, and other subjects from Nara's culture and beliefs. Developed as a folk craft connected to the religious traditions of Kasuga Taisha and Todaiji, the rough chisel marks left on the surface convey a unique vitality. Widely appreciated as souvenirs and good-luck charms with vivid painted decoration.",
+    "techniques": [
+      "一刀彫り（鑿による粗削り）",
+      "彩色絵付け"
+    ],
+    "materials": [
+      "桧（ひのき）",
+      "楠（くすのき）",
+      "天然顔料"
+    ],
+    "features": [
+      "一本の鑿で豪快に削り出す独自の彫刻技法",
+      "鹿・天狗・干支など奈良の信仰・文化を体現した題材",
+      "荒削りの刀跡が生む素朴で力強い民藝的美しさ"
+    ],
+    "workshops": [
+      {
+        "name": "奈良一刀彫工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "奈良県奈良市"
+      }
+    ],
+    "purchase_keywords": "奈良一刀彫 購入 鹿 木彫り 奈良",
+    "price_range": "小物（鹿・干支）3,000円〜 / 中型 15,000円〜 / 大型特注品 100,000円〜",
+    "lat": 34.6851,
+    "lng": 135.805,
+    "source": "https://kougeihin.jp/craft/2901/",
+    "ogp_image_desc": "鮮やかな彩色が施された奈良一刀彫の鹿と天狗の木彫り人形"
+  },
+  {
+    "id": "fushimi_ningyo",
+    "name": "伏見人形",
+    "name_en": "Fushimi Ningyo (Fushimi Clay Doll)",
+    "name_fr": "Poupée d'Argile Fushimi",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市伏見区",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "京都府京都市伏見区の伏見稲荷大社門前で生まれた素焼き土人形。江戸時代初期から稲荷参詣者へのみやげ物として作られ、稲荷・宝船・狛犬・七福神など縁起物を題材とした素朴な表情と鮮やかな彩色が特徴。日本の郷土玩具の源流のひとつとされ、各地の土人形（博多人形・三春人形など）に影響を与えたとも言われる。現在も少数の職人が伝統の型を守りながら制作を続けている。",
+    "desc_en": "Fushimi Ningyo are unglazed clay dolls born at the entrance to Fushimi Inari Taisha shrine in Fushimi Ward, Kyoto City. Made from the early Edo period as souvenirs for Inari shrine visitors, they feature rustic expressions and vivid colors depicting auspicious subjects such as foxes, treasure ships, guardian dogs, and the Seven Lucky Gods. Regarded as one of the origins of Japan's folk clay dolls, said to have influenced regional clay doll traditions including Hakata and Miharu dolls.",
+    "techniques": [
+      "型押し成形",
+      "素焼き",
+      "彩色絵付け"
+    ],
+    "materials": [
+      "伏見の粘土",
+      "顔料"
+    ],
+    "features": [
+      "伏見稲荷大社の門前文化が生んだ日本土人形の源流",
+      "稲荷・宝船・狛犬など縁起物を題材とした素朴な表情",
+      "日本各地の郷土土人形文化に影響を与えた歴史的意義"
+    ],
+    "workshops": [
+      {
+        "name": "伏見人形工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市伏見区"
+      }
+    ],
+    "purchase_keywords": "伏見人形 購入 土人形 京都 稲荷 縁起物",
+    "price_range": "小物 1,500円〜 / 中型 5,000円〜",
+    "lat": 34.9671,
+    "lng": 135.773,
+    "source": "",
+    "ogp_image_desc": "鮮やかな彩色が施された伏見人形の稲荷と宝船"
+  },
+  {
+    "id": "kamo_ningyo",
+    "name": "加茂人形",
+    "name_en": "Kamo Ningyo (Kamo Doll)",
+    "name_fr": "Poupée Kamo",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 26,
+    "prefecture": "kyoto",
+    "prefecture_ja": "京都府",
+    "area": "京都市北区（上賀茂）",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "京都府京都市北区の上賀茂神社の氏子たちが作り始めた木製の人形。木の節や自然の形を活かして動物や人物を彫り出す「木彫り」の技法が特徴で、木の素材感を大切にした素木（しらき）仕上げのものが多い。上賀茂神社の神事・葵祭とも縁があり、素朴でありながら品のある造形が京都の工芸文化を体現している。現在は少数の工芸家が伝統を守りながら制作を続けている。",
+    "desc_en": "Kamo Ningyo are wooden dolls begun by parishioners of Kamigamo Shrine in Kita Ward, Kyoto City. Characterized by the technique of carving animals and human figures from wood, taking advantage of natural grain and knots, many are finished as natural wood (shiraki) to emphasize the material's texture. Linked to the religious rituals and Aoi Matsuri festival of Kamigamo Shrine, these dolls embody Kyoto's craft culture with rustic yet refined forms.",
+    "techniques": [
+      "木彫り",
+      "素木仕上げ",
+      "彩色（一部）"
+    ],
+    "materials": [
+      "楠（くすのき）",
+      "桧（ひのき）",
+      "各種木材"
+    ],
+    "features": [
+      "上賀茂神社氏子が始めた神社門前の木人形文化",
+      "木の節・自然形を活かした素木彫りの素材感",
+      "葵祭・上賀茂神社の神事と結びついた京都の郷土工芸"
+    ],
+    "workshops": [
+      {
+        "name": "加茂人形工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "京都府京都市北区"
+      }
+    ],
+    "purchase_keywords": "加茂人形 購入 上賀茂 木彫り 京都",
+    "price_range": "小物 3,000円〜 / 中型 10,000円〜",
+    "lat": 35.0594,
+    "lng": 135.7523,
+    "source": "",
+    "ogp_image_desc": "木の素材感を活かした加茂人形の木彫り人物像"
+  },
+  {
+    "id": "kanazawa_ningyo",
+    "name": "金沢人形",
+    "name_en": "Kanazawa Ningyo (Kanazawa Doll)",
+    "name_fr": "Poupée de Kanazawa",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 17,
+    "prefecture": "ishikawa",
+    "prefecture_ja": "石川県",
+    "area": "金沢市",
+    "founded": 1600,
+    "founded_era": "江戸時代初期",
+    "desc": "石川県金沢市で生産される伝統人形。加賀藩百万石の御用人形師たちが担ってきた工芸で、繊細で品のある顔立ちと金沢の工芸技術—加賀友禅・金箔・蒔絵—を結集した豪華な衣装が特徴。雛人形・武者人形・能人形など多様な種類があり、加賀藩の文化的庇護のもとで高い水準の人形制作技術が培われた。金沢の伝統工芸群の一翼を担う優雅な工芸品として知られる。",
+    "desc_en": "Kanazawa Ningyo are traditional dolls produced in Kanazawa City, Ishikawa Prefecture. A craft carried by doll makers under the patronage of the Kaga Domain, they feature refined facial features and luxurious costumes concentrating Kanazawa's craft traditions—Kaga Yuzen dyeing, gold leaf, maki-e. Encompassing diverse types including hina dolls, samurai dolls, and Noh dolls, high technical standards were cultivated under the cultural patronage of the Kaga Domain.",
+    "techniques": [
+      "桐塑成形",
+      "胡粉塗り",
+      "衣装縫製",
+      "金箔・金彩"
+    ],
+    "materials": [
+      "桐塑（とうそ）",
+      "胡粉",
+      "加賀友禅生地",
+      "金箔"
+    ],
+    "features": [
+      "加賀百万石の文化的庇護が生んだ格調高い人形工芸",
+      "加賀友禅・金箔・蒔絵など金沢の工芸技術が結集した衣装",
+      "雛人形・能人形など多様な様式を持つ金沢の人形文化"
+    ],
+    "workshops": [
+      {
+        "name": "金沢人形工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "石川県金沢市"
+      }
+    ],
+    "purchase_keywords": "金沢人形 購入 加賀 石川 雛人形",
+    "price_range": "小物人形 5,000円〜 / 雛人形一式 150,000円〜",
+    "lat": 36.5613,
+    "lng": 136.6562,
+    "source": "https://kougeihin.jp/craft/1701/",
+    "ogp_image_desc": "加賀友禅の衣装と金箔が輝く金沢人形の雛人形"
+  },
+  {
+    "id": "sendai_hariko",
+    "name": "仙台張子",
+    "name_en": "Sendai Hariko (Sendai Papier-Mâché)",
+    "name_fr": "Papier Mâché de Sendai",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 4,
+    "prefecture": "miyagi",
+    "prefecture_ja": "宮城県",
+    "area": "仙台市",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "宮城県仙台市で作られる張り子の郷土玩具。竹や木の芯型に和紙を何層も貼り重ねて成形し、乾燥後に型を抜いて彩色する技法で作られる。達磨・虎・馬・招き猫など縁起物を題材にしたものが多く、鮮やかな色彩と素朴な表情が仙台の民藝的魅力を伝える。東北地方の正月・祭礼のみやげ物として古くから親しまれ、現在も少数の職人が伝統の型と彩色を守り制作を続けている。",
+    "desc_en": "Sendai Hariko are papier-mâché folk toys made in Sendai City, Miyagi Prefecture. Created by layering washi paper over bamboo or wood core molds, then removing the mold after drying and painting. Many depict auspicious subjects such as daruma, tigers, horses, and beckoning cats, conveying the folk craft charm of Sendai with vivid colors and rustic expressions. Long cherished as New Year and festival souvenirs in the Tohoku region, a small number of craftspeople continue production today.",
+    "techniques": [
+      "竹・木芯型成形",
+      "和紙張り重ね",
+      "彩色絵付け"
+    ],
+    "materials": [
+      "竹・木（芯型）",
+      "和紙",
+      "顔料"
+    ],
+    "features": [
+      "和紙を何層も貼り重ねる伝統の張り子成形技法",
+      "達磨・虎・馬など縁起物を題材にした東北の郷土玩具",
+      "正月・祭礼のみやげとして仙台の民藝文化を伝える"
+    ],
+    "workshops": [
+      {
+        "name": "仙台張子工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "宮城県仙台市"
+      }
+    ],
+    "purchase_keywords": "仙台張子 購入 達磨 張り子 宮城",
+    "price_range": "小物（達磨・干支）1,500円〜 / 中型 5,000円〜",
+    "lat": 38.2682,
+    "lng": 140.8694,
+    "source": "",
+    "ogp_image_desc": "鮮やかな彩色の仙台張子の達磨と虎の置き物"
+  },
+  {
+    "id": "edo_sekku_ningyo",
+    "name": "江戸節句人形",
+    "name_en": "Edo Sekku Ningyo (Edo Seasonal Festival Dolls)",
+    "name_fr": "Poupées de Fête Saisonnière d'Edo",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区・墨田区",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "東京都台東区・墨田区を中心に生産される雛人形・五月人形の総称。京都の影響を受けて江戸時代初期に始まり、江戸時代中期（宝暦頃）に写実的で洗練された江戸独自のスタイルが確立した。文化文政期に江戸の人形文化は最盛期を迎え、桐塑・木目込み・衣装着など多様な技法が集積。江戸の審美眼が育んだ粋と華やかさが特徴の節句人形として全国に供給されている。",
+    "desc_en": "Edo Sekku Ningyo is the collective term for hina dolls and samurai dolls produced mainly in Taito and Sumida Wards, Tokyo. From the mid-Edo period, Tokyo—where craftsmen including doll makers, costume specialists, and prop makers were concentrated—developed as a major production area for seasonal festival dolls. Encompassing diverse techniques including paulownia clay, kimekomi, and costumed dolls, they are characterized by the style and splendor cultivated by Edo's aesthetic sensibility.",
+    "techniques": [
+      "桐塑成形",
+      "木目込み",
+      "衣装縫製・着付け",
+      "胡粉塗り"
+    ],
+    "materials": [
+      "桐塑（とうそ）",
+      "胡粉",
+      "絹生地",
+      "金具"
+    ],
+    "features": [
+      "江戸の審美眼が培った粋と華やかさを持つ節句人形の一大産地",
+      "桐塑・木目込み・衣装着と多様な技法が集約される",
+      "台東区・墨田区の職人・問屋が集積する伝統産業地区"
+    ],
+    "workshops": [
+      {
+        "name": "吉徳（東京・日本橋）",
+        "url": "https://www.yoshitoku.co.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "江戸節句人形 購入 雛人形 五月人形 東京 台東区",
+    "price_range": "コンパクト雛人形 30,000円〜 / 段飾り 150,000円〜 / 特注品 500,000円〜",
+    "lat": 35.7101,
+    "lng": 139.7956,
+    "source": "https://kougeihin.jp/craft/1304/",
+    "ogp_image_desc": "豪華な絹衣装を纏った江戸節句人形の雛人形段飾り"
+  },
+  {
+    "id": "shimokawara_tsuchi_ningyo",
+    "name": "下川原土人形",
+    "name_en": "Shimokawara Tsuchi Ningyo (Shimokawara Clay Doll)",
+    "name_fr": "Poupée d'Argile Shimokawara",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 2,
+    "prefecture": "aomori",
+    "prefecture_ja": "青森県",
+    "area": "弘前市",
+    "founded": 1700,
+    "founded_era": "江戸中期",
+    "desc": "青森県弘前市下川原地区に伝わる民俗土人形。津軽地方の粘土を使い、型押しで成形した素焼きの土台に素朴な彩色を施す。達磨・馬・人物など縁起物や農耕に関わる題材が多く、津軽の農民生活から生まれた郷土玩具として受け継がれてきた。素朴さの中に津軽の風土と人々の願いが込められており、東北の民藝を代表する土人形のひとつとして知られる。",
+    "desc_en": "Shimokawara Tsuchi Ningyo are folk clay dolls from the Shimokawara district of Hirosaki City, Aomori Prefecture. Made using Tsugaru region clay, unglazed figures are pressed in molds and decorated with simple colors. Featuring many auspicious and farming-related subjects such as daruma, horses, and human figures, they have been passed down as folk toys born from Tsugaru farming life. Known as one of the representative clay dolls of Tohoku folk craft, carrying the spirit of Tsugaru's landscape and people's wishes.",
+    "techniques": [
+      "型押し成形",
+      "素焼き",
+      "彩色絵付け"
+    ],
+    "materials": [
+      "津軽粘土",
+      "顔料"
+    ],
+    "features": [
+      "津軽の農民生活から生まれた東北民藝を代表する土人形",
+      "素焼きの土肌に素朴な彩色が映える郷土玩具の美",
+      "達磨・馬・人物など農村の暮らしと信仰に根ざした題材"
+    ],
+    "workshops": [
+      {
+        "name": "下川原土人形工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "青森県弘前市"
+      }
+    ],
+    "purchase_keywords": "下川原土人形 購入 津軽 郷土玩具 弘前",
+    "price_range": "小物 1,500円〜 / 中型 5,000円〜",
+    "lat": 40.6026,
+    "lng": 140.464,
+    "source": "",
+    "ogp_image_desc": "津軽の土で作られた下川原土人形の素朴な達磨と馬"
+  },
+  {
+    "id": "sagara_ningyo",
+    "name": "相良人形",
+    "name_en": "Sagara Ningyo (Sagara Doll)",
+    "name_fr": "Poupée Sagara",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 43,
+    "prefecture": "kumamoto",
+    "prefecture_ja": "熊本県",
+    "area": "球磨郡相良村",
+    "founded": 1600,
+    "founded_era": "江戸時代",
+    "desc": "熊本県球磨郡相良村に伝わる木製の郷土人形。球磨地方の豊かな森林資源を活かし、地域の職人が木を彫って神事・祭礼用の人形を作ったことが始まりとされる。素朴ながら温かみのある表情と、地域の神祭り・民俗行事と結びついた意味合いが特徴。山里の生活文化から生まれた民藝的な工芸品で、相良藩の文化的風土が育んだ熊本の郷土工芸のひとつ。",
+    "desc_en": "Sagara Ningyo are wooden folk dolls from Sagara Village, Kuma District, Kumamoto Prefecture. Said to originate from local craftsmen carving wood into figures for religious ceremonies and festivals, utilizing the rich forest resources of the Kuma region. Characterized by rustic yet warm expressions and association with regional religious festivals and folk events. A folk craft born from mountain village life, one of Kumamoto's local crafts nurtured by the cultural soil of the Sagara domain.",
+    "techniques": [
+      "木彫り",
+      "彩色（一部）"
+    ],
+    "materials": [
+      "地元木材（杉・檜等）",
+      "顔料"
+    ],
+    "features": [
+      "球磨地方の森林資源と神祭りから生まれた山里の郷土人形",
+      "素朴で温かみある造形が伝える相良の民俗文化",
+      "神事・祭礼と結びついた民藝的工芸品"
+    ],
+    "workshops": [
+      {
+        "name": "相良人形工房（産地にご確認ください）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "熊本県球磨郡相良村"
+      }
+    ],
+    "purchase_keywords": "相良人形 購入 熊本 球磨 郷土工芸",
+    "price_range": "小物 2,000円〜 / 中型 8,000円〜",
+    "lat": 32.3697,
+    "lng": 130.8344,
+    "source": "https://kougeihin.jp/craft/4301/",
+    "ogp_image_desc": "球磨の木から生まれた相良人形の素朴な木彫り人形"
+  },
+  {
+    "id": "edo_isho_ningyo",
+    "name": "江戸衣裳着人形",
+    "name_en": "Edo Isho Ningyo (Edo Costume Dolls)",
+    "name_fr": "Poupées en Costume d'Edo",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "regional",
+    "designation_number": 13,
+    "prefecture": "tokyo",
+    "prefecture_ja": "東京都",
+    "area": "台東区・荒川区",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "東京都台東区・荒川区を中心に制作される衣裳着スタイルの雛人形・武者人形。頭部・手足を別途制作し、本物の縮緬・錦・唐織などの正絹織物で仕立てた衣裳を人形に着せる「衣裳着（いしょうちゃくにんぎょう）」スタイルが特徴で、江戸木目込人形と並ぶ東京の二大人形産地を形成する。精緻な桐塑頭（とうそがしら）の顔づくりと豪華絢爛な衣裳が組み合わさった高級雛人形は、現代でも最高峰の節句人形として職人が一体ずつ丁寧に仕上げている。",
+    "desc_en": "Edo Isho Ningyo are costume-dressed hina and samurai dolls crafted mainly in Taito and Arakawa wards, Tokyo. The defining 'isho-ki' style features separately crafted heads and limbs, dressed in genuine silk costumes made from crepe, brocade, and Chinese weave fabrics. Together with Edo Kimekomi dolls they form Tokyo's two great doll-making traditions. Premium hina dolls combining exquisitely crafted paulownia-paste heads with lavish costumes continue to be painstakingly finished one by one by craftsmen as the finest tier of seasonal festival dolls.",
+    "techniques": [
+      "桐塑頭（とうそがしら）制作",
+      "衣裳仕立て（正絹・縮緬）",
+      "胴体木組み・ワラ芯",
+      "御髪（かもじ）取り付け"
+    ],
+    "materials": [
+      "桐塑（桐粉・糊）",
+      "正絹（縮緬・錦・唐織）",
+      "胡粉",
+      "桐材胴体"
+    ],
+    "features": [
+      "本物の正絹衣裳を着せる「衣裳着スタイル」が最大の特徴",
+      "精緻な桐塑頭の顔づくりと豪華な衣裳が融合した最高級雛人形",
+      "江戸木目込人形と並ぶ東京二大人形産地の伝統を守る"
+    ],
+    "workshops": [
+      {
+        "name": "吉徳（日本橋高島屋）",
+        "url": "https://www.yoshitoku.co.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      },
+      {
+        "name": "久月（東京）",
+        "url": "https://www.kyugetsu.com/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "東京都台東区"
+      }
+    ],
+    "purchase_keywords": "江戸衣裳着人形 購入 東京 雛人形 節句人形",
+    "price_range": "小型雛人形 30,000円〜 / 七段飾り 200,000円〜 / 特注品 1,000,000円〜",
+    "lat": 35.7101,
+    "lng": 139.7956,
+    "source": "",
+    "ogp_image_desc": "正絹の豪華な衣裳を纏った江戸衣裳着人形の雛飾り"
+  },
+  {
+    "id": "nagoya_sekku",
+    "name": "名古屋節句飾",
+    "name_en": "Nagoya Sekku Kazari (Nagoya Festival Dolls)",
+    "name_fr": "Poupées de Fête Nagoya",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 23,
+    "prefecture": "aichi",
+    "prefecture_ja": "愛知県",
+    "area": "名古屋市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "愛知県名古屋市を中心に生産される雛人形・五月人形の総称。江戸時代から続く名古屋の人形産地として京人形の流れを受け継ぎながら、独自の豪華さと格調を追求した「名古屋スタイル」を確立した。桐塑・木彫りによる精緻な頭部と、正絹の金糸刺繍を施した豪華な衣裳が特徴で、尾張徳川家の城下町として育んだ格調ある美意識を体現する節句人形。現代でも国内最大級の人形産地の一つとして高いシェアを誇る。",
+    "desc_en": "Nagoya Sekku Kazari is the collective name for hina (girl's day) and samurai festival dolls produced mainly in Nagoya City, Aichi Prefecture. As a doll-making area with roots in the Edo period, it inherited influences from Kyoto dolls while establishing a distinct 'Nagoya style' known for opulence and refinement. Characterized by intricately crafted paulownia-paste or wood-carved heads and lavish costumes with gold-thread silk embroidery, these dolls embody the aesthetic sensibility cultivated in the castle town of the Owari Tokugawa domain. Today it remains one of Japan's largest doll-producing areas with a high market share.",
+    "techniques": [
+      "桐塑頭・木彫り頭制作",
+      "正絹金糸刺繍衣裳仕立て",
+      "衣裳着スタイル",
+      "鎧・兜の金具加工（五月人形）"
+    ],
+    "materials": [
+      "桐塑（桐粉・糊）",
+      "正絹（金糸・銀糸・錦）",
+      "鉄・銅（鎧兜）",
+      "桐材・木"
+    ],
+    "features": [
+      "尾張徳川家の城下町文化が育てた豪華絢爛な名古屋スタイルの節句人形",
+      "正絹金糸刺繍の豪華衣裳と精緻な桐塑頭が特徴の格調ある雛人形",
+      "国内最大級の節句人形産地として全国に出荷される高品質人形"
+    ],
+    "workshops": [
+      {
+        "name": "名古屋人形問屋街（大津町）",
+        "url": "",
+        "experience": false,
+        "experience_desc": "",
+        "address": "愛知県名古屋市中区大津町"
+      }
+    ],
+    "purchase_keywords": "名古屋節句飾 購入 愛知 名古屋 雛人形 五月人形",
+    "price_range": "雛人形一式 80,000円〜 / 五月人形セット 100,000円〜 / 特注品 500,000円〜",
+    "lat": 35.1815,
+    "lng": 136.9066,
+    "source": "https://kougeihin.jp/craft/20210115/",
+    "ogp_image_desc": "金糸刺繍の豪華な衣裳を纏った名古屋節句飾の雛人形"
+  },
+  {
+    "id": "otsu_hariko",
+    "name": "大津張子",
+    "name_en": "Otsu Hariko (Otsu Papier-mâché)",
+    "name_fr": "Papier Mâché d'Otsu",
+    "category": "dolls",
+    "category_ja": "人形・こけし",
+    "designation": "meti",
+    "designation_number": 25,
+    "prefecture": "shiga",
+    "prefecture_ja": "滋賀県",
+    "area": "大津市",
+    "founded": 1700,
+    "founded_era": "江戸時代中期",
+    "desc": "滋賀県大津市に伝わる張子細工の郷土工芸品。江戸時代に東海道・中山道の分岐点として栄えた大津宿の名産品として生まれ、旅人のみやげ物として広まった。和紙を何層にも重ねて成形し、乾燥後に彩色する張子技法による人形・玩具・置物が特徴で、虎・達磨・ひょっとこなどの縁起物が代表的。素朴でユーモラスな表情と鮮やかな彩色が愛され、滋賀・近江の民衆文化を伝える郷土色豊かな張子工芸品として現代も職人に受け継がれている。",
+    "desc_en": "Otsu Hariko is a papier-mâché folk craft passed down in Otsu City, Shiga Prefecture. Born as a specialty product of Otsu-juku, which flourished as the junction of the Tokaido and Nakasendo highways in the Edo period, it spread as souvenirs for travelers. Characterized by dolls, toys, and ornaments made by layering washi paper and painting after drying, with tigers, daruma, and hyottoko (funny faces) as representative lucky charm subjects. Beloved for their rustic, humorous expressions and vivid coloring, these papier-mâché crafts continue to be passed down by craftspeople as folk art rich in Shiga and Omi regional culture.",
+    "techniques": [
+      "張子成形（和紙多層貼り）",
+      "胡粉下地",
+      "彩色（顔料・岩絵具）",
+      "型抜き"
+    ],
+    "materials": [
+      "和紙（越前・近江）",
+      "胡粉",
+      "顔料・岩絵具",
+      "膠（にかわ）"
+    ],
+    "features": [
+      "東海道・中山道の宿場町大津発祥の旅人みやげとして全国に広まった",
+      "和紙を多層に重ねる張子技法による虎・達磨など縁起物が代表品",
+      "素朴でユーモラスな表情と鮮やかな彩色が伝える近江の民衆文化"
+    ],
+    "workshops": [
+      {
+        "name": "大津市歴史博物館",
+        "url": "https://www.rekihaku.otsu.shiga.jp/",
+        "experience": false,
+        "experience_desc": "",
+        "address": "滋賀県大津市御陵町"
+      }
+    ],
+    "purchase_keywords": "大津張子 購入 滋賀 大津 張子 郷土玩具",
+    "price_range": "小物 1,500円〜 / 中型 5,000円〜 / 大型 20,000円〜",
+    "lat": 35.0045,
+    "lng": 135.8689,
+    "source": "https://kougeihin.jp/craft/2501/",
+    "ogp_image_desc": "鮮やかな彩色の大津張子の虎と達磨"
+  }
+]

@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>工芸の教科書 — 伝統工芸品を学ぶ — Terroir HUB CRAFT</title>
+<meta name="description" content="日本の伝統的工芸品の歴史・技法・素材・文化背景を体系的に学べる工芸の教科書。伝産法の仕組みから各ジャンルの技法まで初心者にもわかりやすく解説。">
+<link rel="canonical" href="https://craft.terroirhub.com/craft/guide/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&family=Inter:wght@300;400;500;600&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FAF8F5;--bg2:#F3EDE6;--accent:#2E5E4E;--accent2:#C4A265;
+  --accent-light:#EAF2EE;--accent-gold:#E8C97A;--text:#1A1A18;
+  --text2:#5C5A56;--text3:#8A8880;--border:#E8E0D6;
+  --nav-h:56px;--radius:12px;
+  --shadow:0 2px 16px rgba(46,94,78,.10);--shadow-lg:0 8px 40px rgba(46,94,78,.16);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans JP','Inter',sans-serif;font-size:15px;line-height:1.7;-webkit-font-smoothing:antialiased}
+
+nav{position:fixed;top:0;left:0;right:0;height:var(--nav-h);background:rgba(250,248,245,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:1000;display:flex;align-items:center;padding:0 24px;gap:24px}
+.nav-logo{font-family:'Shippori Mincho',serif;font-size:17px;font-weight:700;color:var(--accent);letter-spacing:.05em;text-decoration:none;white-space:nowrap}
+.nav-logo span{color:var(--accent2);font-size:11px;letter-spacing:.12em;display:block;font-family:'Inter',sans-serif;font-weight:600;text-transform:uppercase}
+.nav-links{display:flex;align-items:center;gap:20px;margin-left:8px}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;font-weight:500;transition:color .2s;white-space:nowrap}
+.nav-links a:hover,.nav-links a.active{color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+.auth-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 16px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.auth-btn:hover{background:#245048}
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:4px}
+.hamburger span{width:22px;height:2px;background:var(--text);border-radius:2px}
+.mobile-menu{position:fixed;top:0;right:-100%;width:280px;height:100dvh;background:var(--bg);border-left:1px solid var(--border);z-index:2000;transition:right .3s ease;padding:80px 24px 32px;display:flex;flex-direction:column;gap:16px}
+.mobile-menu.open{right:0}
+.mobile-menu a{color:var(--text);text-decoration:none;font-size:16px;font-weight:500;padding:12px 0;border-bottom:1px solid var(--border)}
+.menu-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:1999}
+.menu-overlay.open{display:block}
+.mm-close{position:absolute;top:16px;right:16px;background:none;border:none;font-size:24px;cursor:pointer;color:var(--text2)}
+
+.page-header{padding-top:calc(var(--nav-h) + 60px);padding-bottom:60px;padding-left:24px;padding-right:24px;background:linear-gradient(135deg,#1a3d30,#2E5E4E);color:#fff}
+.page-header-inner{max-width:1200px;margin:0 auto}
+.page-header-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent-gold);margin-bottom:8px}
+.page-header h1{font-family:'Shippori Mincho',serif;font-size:clamp(32px,4vw,52px);font-weight:700;margin-bottom:16px;line-height:1.25}
+.page-header p{color:rgba(255,255,255,.8);font-size:16px;max-width:560px;line-height:1.8}
+
+.layout{display:grid;grid-template-columns:240px 1fr;gap:48px;max-width:1200px;margin:0 auto;padding:64px 24px 80px}
+.sidebar{position:sticky;top:calc(var(--nav-h) + 24px);height:fit-content}
+.sidebar-title{font-size:12px;font-weight:700;letter-spacing:.1em;color:var(--text3);text-transform:uppercase;margin-bottom:12px}
+.sidebar-nav{display:flex;flex-direction:column;gap:2px}
+.sidebar-link{display:block;padding:10px 14px;border-radius:8px;text-decoration:none;font-size:14px;color:var(--text2);transition:all .2s;border-left:3px solid transparent}
+.sidebar-link:hover{background:var(--accent-light);color:var(--accent)}
+.sidebar-link.active{background:var(--accent-light);color:var(--accent);border-left-color:var(--accent);font-weight:600}
+.sidebar-divider{height:1px;background:var(--border);margin:12px 0}
+.sidebar-pro{background:var(--accent);color:#fff;border-radius:10px;padding:16px;margin-top:20px;text-align:center}
+.sidebar-pro-title{font-size:13px;font-weight:700;margin-bottom:6px}
+.sidebar-pro-desc{font-size:12px;color:rgba(255,255,255,.8);margin-bottom:12px}
+.sidebar-pro-btn{display:block;background:var(--accent-gold);color:#1a3d30;border-radius:6px;padding:8px;font-size:12px;font-weight:700;text-decoration:none;transition:all .2s}
+
+.content-area{min-width:0}
+.chapter{margin-bottom:64px;scroll-margin-top:80px}
+.chapter-label{font-family:'Inter',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.chapter-title{font-family:'Shippori Mincho',serif;font-size:clamp(24px,3vw,36px);font-weight:700;margin-bottom:16px;line-height:1.3;padding-bottom:16px;border-bottom:2px solid var(--accent)}
+.chapter p{color:var(--text2);font-size:15px;line-height:1.9;margin-bottom:20px}
+.chapter h3{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;margin:32px 0 12px;color:var(--text)}
+.chapter h4{font-size:16px;font-weight:700;margin:24px 0 10px;color:var(--text)}
+.chapter ul,.chapter ol{padding-left:24px;color:var(--text2);font-size:15px;line-height:1.9;margin-bottom:20px}
+.chapter ul li,.chapter ol li{margin-bottom:6px}
+
+.callout{background:var(--accent-light);border-left:4px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;padding:20px 24px;margin:24px 0}
+.callout-title{font-weight:700;color:var(--accent);margin-bottom:6px;font-size:14px}
+.callout p{margin-bottom:0;color:var(--text2);font-size:14px}
+
+.criteria-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:24px 0}
+.criteria-item{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:20px}
+.criteria-num{font-family:'Inter',sans-serif;font-size:28px;font-weight:700;color:var(--accent-gold);margin-bottom:8px}
+.criteria-title{font-size:15px;font-weight:700;margin-bottom:6px;color:var(--text)}
+.criteria-desc{font-size:13px;color:var(--text2);line-height:1.7}
+
+.cat-intro-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:24px 0}
+.cat-intro{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:20px;text-decoration:none;transition:all .2s}
+.cat-intro:hover{border-color:var(--accent);transform:translateY(-2px)}
+.cat-intro-icon{font-size:32px;margin-bottom:10px}
+.cat-intro-name{font-family:'Shippori Mincho',serif;font-size:16px;font-weight:700;margin-bottom:4px;color:var(--text)}
+.cat-intro-count{font-size:12px;color:var(--accent);font-family:'Inter',sans-serif;margin-bottom:6px}
+.cat-intro-examples{font-size:12px;color:var(--text3);line-height:1.6}
+
+.pro-gate{background:var(--bg2);border:2px dashed var(--border);border-radius:var(--radius);padding:40px;text-align:center;margin:32px 0}
+.pro-gate-icon{font-size:40px;margin-bottom:12px}
+.pro-gate-title{font-family:'Shippori Mincho',serif;font-size:22px;font-weight:700;margin-bottom:8px}
+.pro-gate-desc{color:var(--text2);font-size:14px;margin-bottom:20px}
+.pro-gate-btn{display:inline-block;background:var(--accent);color:#fff;border-radius:10px;padding:12px 28px;font-size:14px;font-weight:700;text-decoration:none;font-family:'Noto Sans JP',sans-serif;transition:all .2s}
+.pro-gate-btn:hover{background:#245048;transform:translateY(-2px)}
+
+footer{background:#1a1a18;color:rgba(255,255,255,.5);padding:40px 24px 24px;font-size:13px}
+.footer-inner{max-width:1200px;margin:0 auto}
+.footer-top{display:grid;grid-template-columns:1fr 2fr;gap:48px;margin-bottom:40px}
+.footer-brand{font-family:'Shippori Mincho',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:8px}
+.footer-brand-en{font-size:11px;letter-spacing:.15em;color:var(--accent-gold);font-family:'Inter',sans-serif;text-transform:uppercase}
+.footer-desc{font-size:13px;color:rgba(255,255,255,.45);margin-top:12px;line-height:1.7}
+.footer-links{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.footer-col h4{color:#fff;font-size:13px;font-weight:600;margin-bottom:12px}
+.footer-col a{display:block;color:rgba(255,255,255,.45);text-decoration:none;font-size:12px;margin-bottom:8px;transition:color .2s}
+.footer-col a:hover{color:rgba(255,255,255,.9)}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;display:flex;justify-content:space-between;align-items:center;font-size:12px}
+
+@media(max-width:960px){.layout{grid-template-columns:1fr}.sidebar{position:static;display:none}}
+@media(max-width:900px){.nav-links{display:none}.hamburger{display:flex}.criteria-grid{grid-template-columns:1fr}.cat-intro-grid{grid-template-columns:repeat(2,1fr)}.footer-top{grid-template-columns:1fr}.footer-links{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.cat-intro-grid{grid-template-columns:1fr}.footer-links{grid-template-columns:1fr}.footer-bottom{flex-direction:column;gap:12px;text-align:center}}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">Terroir HUB<span>CRAFT</span></a>
+  <div class="nav-links">
+    <a href="/craft/search/">工芸品検索</a>
+    <a href="/craft/category/">カテゴリ</a>
+    <a href="/craft/experience/">体験・工房</a>
+    <a href="/craft/guide/" class="active">工芸の教科書</a>
+    <a href="/craft/plans/">プラン</a>
+  </div>
+  <div class="nav-right">
+    <button class="auth-btn">ログイン</button>
+    <button class="hamburger" onclick="openMM()" aria-label="メニュー"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="menu-overlay" id="mmOverlay" onclick="closeMM()"></div>
+<div class="mobile-menu" id="mobileMenu">
+  <button class="mm-close" onclick="closeMM()">✕</button>
+  <a href="/craft/search/" onclick="closeMM()">🔍 工芸品検索</a>
+  <a href="/craft/category/" onclick="closeMM()">🏺 カテゴリ一覧</a>
+  <a href="/craft/experience/" onclick="closeMM()">🎨 体験・工房</a>
+  <a href="/craft/guide/" onclick="closeMM()">📖 工芸の教科書</a>
+  <a href="/craft/plans/" onclick="closeMM()">⭐ プラン</a>
+  <a href="https://terroirhub.com">Terroir HUB TOP</a>
+</div>
+
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-label">The Craft Textbook</p>
+    <h1>工芸の教科書</h1>
+    <p>日本の伝統的工芸品の歴史・制度・技法・文化を、基礎から体系的に学べる専門ガイド。初心者からコレクターまで。</p>
+  </div>
+</div>
+
+<div class="layout">
+  <!-- サイドバー -->
+  <aside class="sidebar">
+    <div class="sidebar-title">目次</div>
+    <nav class="sidebar-nav">
+      <a href="#chapter1" class="sidebar-link active">01. 伝統的工芸品とは</a>
+      <a href="#chapter2" class="sidebar-link">02. 指定の5条件</a>
+      <a href="#chapter3" class="sidebar-link">03. 9つのカテゴリ</a>
+      <a href="#chapter4" class="sidebar-link">04. 技法の基礎知識</a>
+      <a href="#chapter5" class="sidebar-link">05. ユネスコ登録品目</a>
+      <a href="#chapter6" class="sidebar-link">06. 産地と職人の今</a>
+      <div class="sidebar-divider"></div>
+      <a href="#chapter7" class="sidebar-link" style="color:var(--text3)">07. 素材図鑑 [Pro]</a>
+      <a href="#chapter8" class="sidebar-link" style="color:var(--text3)">08. 技法詳解 [Pro]</a>
+      <a href="#chapter9" class="sidebar-link" style="color:var(--text3)">09. 購入・選び方 [Pro]</a>
+    </nav>
+    <div class="sidebar-pro">
+      <div class="sidebar-pro-title">Proプランで全文読む</div>
+      <p class="sidebar-pro-desc">素材・技法・購入ガイドなど上級編も読み放題。月500円〜</p>
+      <a href="/craft/plans/" class="sidebar-pro-btn">プランを見る →</a>
+    </div>
+  </aside>
+
+  <!-- コンテンツ -->
+  <div class="content-area">
+
+    <div class="chapter" id="chapter1">
+      <p class="chapter-label">Chapter 01</p>
+      <h2 class="chapter-title">伝統的工芸品とは何か</h2>
+      <p>「伝統的工芸品」とは、1974年（昭和49年）に施行された<strong>「伝統的工芸品産業の振興に関する法律」（通称：伝産法）</strong>に基づき、経済産業大臣が指定した工芸品のことを指します。</p>
+      <p>2026年現在、全国43都道府県から<strong>240品目以上</strong>が指定を受けています。九谷焼・輪島塗・西陣織といった有名ブランドから、地域に根ざした比較的知名度の低い工芸品まで多岐にわたります。</p>
+
+      <div class="callout">
+        <div class="callout-title">「伝統工芸品」と「伝統的工芸品」の違い</div>
+        <p>一般的に「伝統工芸品」という言葉は広義で使われますが、「伝統<strong>的</strong>工芸品」は経産省が法律に基づいて指定した品目のみを指す厳密な用語です。このサイトでは主に経産省指定品目を扱いますが、都道府県独自指定品目も一部収録しています。</p>
+      </div>
+
+      <h3>なぜ「指定」が必要なのか</h3>
+      <p>産業化・機械化・グローバル化が進む中で、手工業による伝統技術は後継者不足・原材料の枯渇・需要の低下などの課題に直面してきました。伝産法は、こうした技術・文化の担い手を保護・振興するための法的根拠を提供しています。</p>
+      <p>指定を受けた産地・事業者は、経産省の認定を受けた商品に「伝統的工芸品」のシンボルマーク（経産大臣認定証紙）を貼付することができ、消費者に本物の保証を示すことができます。</p>
+    </div>
+
+    <div class="chapter" id="chapter2">
+      <p class="chapter-label">Chapter 02</p>
+      <h2 class="chapter-title">指定される5つの条件</h2>
+      <p>伝産法による指定を受けるためには、以下の5つの要件を全て満たす必要があります。</p>
+
+      <div class="criteria-grid">
+        <div class="criteria-item">
+          <div class="criteria-num">01</div>
+          <div class="criteria-title">日常生活で使用される</div>
+          <p class="criteria-desc">純粋な美術品・観賞品ではなく、茶碗・着物・漆椀など日常生活に使われるものであること。</p>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-num">02</div>
+          <div class="criteria-title">製造の主要部分が手工業的</div>
+          <p class="criteria-desc">機械を補助的に使うことは認められますが、製造の核となる工程は職人の手技が必要。</p>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-num">03</div>
+          <div class="criteria-title">伝統的な技術・技法による</div>
+          <p class="criteria-desc">100年以上の歴史を持つ技術・技法が今日まで継承されていること。</p>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-num">04</div>
+          <div class="criteria-title">伝統的な原材料による</div>
+          <p class="criteria-desc">100年以上使われてきた原材料を主として使用していること。現代素材への全面切替は不可。</p>
+        </div>
+        <div class="criteria-item" style="grid-column:1/-1">
+          <div class="criteria-num">05</div>
+          <div class="criteria-title">一定地域で相当数の業者が製造</div>
+          <p class="criteria-desc">特定の産地において10社以上（または30人以上）の職人・事業者が製造していること。一人の職人だけによる特殊技術は対象外。</p>
+        </div>
+      </div>
+
+      <div class="callout">
+        <div class="callout-title">「100年以上の歴史」が基準</div>
+        <p>3番・4番の「伝統的」の定義には「おおむね100年以上の歴史・継承」が必要とされています。ただし技術は時代とともに少しずつ変化・発展することも認められており、完全に固定された技法だけが対象というわけではありません。</p>
+      </div>
+    </div>
+
+    <div class="chapter" id="chapter3">
+      <p class="chapter-label">Chapter 03</p>
+      <h2 class="chapter-title">9つのカテゴリ</h2>
+      <p>経産省指定の伝統的工芸品は、大きく9つのカテゴリに分類されています。最多は<strong>織物（約70品目）</strong>で、陶磁器（約30品目）・染色品（約30品目）が続きます。</p>
+
+      <div class="cat-intro-grid">
+        <a class="cat-intro" href="/craft/category/ceramics/">
+          <div class="cat-intro-icon">🏺</div>
+          <div class="cat-intro-name">陶磁器</div>
+          <div class="cat-intro-count">約30品目</div>
+          <p class="cat-intro-examples">九谷焼・有田焼・美濃焼・備前焼・信楽焼・萩焼</p>
+        </a>
+        <a class="cat-intro" href="/craft/category/lacquerware/">
+          <div class="cat-intro-icon">🪔</div>
+          <div class="cat-intro-name">漆器</div>
+          <div class="cat-intro-count">約25品目</div>
+          <p class="cat-intro-examples">輪島塗・会津塗・越前漆器・琉球漆器・木曽漆器</p>
+        </a>
+        <a class="cat-intro" href="/craft/category/textiles/">
+          <div class="cat-intro-icon">🧵</div>
+          <div class="cat-intro-name">織物</div>
+          <div class="cat-intro-count">約70品目</div>
+          <p class="cat-intro-examples">西陣織・博多織・結城紬・琉球絣・大島紬</p>
+        </a>
+        <a class="cat-intro" href="/craft/category/dyeing/">
+          <div class="cat-intro-icon">🪭</div>
+          <div class="cat-intro-name">染色品</div>
+          <div class="cat-intro-count">約30品目</div>
+          <p class="cat-intro-examples">京友禅・加賀友禅・江戸小紋・有松鳴海絞り</p>
+        </a>
+        <a class="cat-intro" href="/craft/category/metalwork/">
+          <div class="cat-intro-icon">⚒️</div>
+          <div class="cat-intro-name">金工品</div>
+          <div class="cat-intro-count">約15品目</div>
+          <p class="cat-intro-examples">南部鉄器・高岡銅器・燕鎚起銅器・堺打刃物</p>
+        </a>
+        <a class="cat-intro" href="/craft/category/paper/">
+          <div class="cat-intro-icon">📜</div>
+          <div class="cat-intro-name">和紙</div>
+          <div class="cat-intro-count">約10品目</div>
+          <p class="cat-intro-examples">越前和紙・美濃和紙・石州半紙・土佐和紙</p>
+        </a>
+      </div>
+      <p><a href="/craft/category/" style="color:var(--accent);font-weight:600">全カテゴリを見る →</a></p>
+    </div>
+
+    <div class="chapter" id="chapter4">
+      <p class="chapter-label">Chapter 04</p>
+      <h2 class="chapter-title">技法の基礎知識</h2>
+      <p>伝統的工芸品には、長い歴史の中で磨かれてきた独自の技法があります。代表的な技法を理解すると、工芸品の価値と魅力がさらに深く見えてきます。</p>
+
+      <h3>漆工芸の主要技法</h3>
+      <ul>
+        <li><strong>蒔絵（まきえ）</strong>：漆で文様を描き、金・銀などの粉を蒔き付けて装飾する。平蒔絵・研出蒔絵・高蒔絵などの技法がある。</li>
+        <li><strong>沈金（ちんきん）</strong>：乾いた漆の表面に刃物で文様を彫り込み、金粉・金箔を埋める輪島塗の代表技法。</li>
+        <li><strong>螺鈿（らでん）</strong>：夜光貝・アワビなどの貝殻を薄く削り、漆器の表面に象嵌する。虹色の光沢が特徴。</li>
+      </ul>
+
+      <h3>陶磁器の主要技法</h3>
+      <ul>
+        <li><strong>ろくろ成形</strong>：回転するろくろの上で粘土を手で成形する。電動・足踏み・手ろくろがある。</li>
+        <li><strong>絵付け</strong>：素焼きや本焼きした器の表面に顔料で絵を描く。下絵付け（釉薬下）と上絵付け（釉薬上）がある。</li>
+        <li><strong>鎬（しのぎ）</strong>：器の表面を削って稜線を作る技法。侘びの美意識と結びつく。</li>
+      </ul>
+
+      <h3>織物の主要技法</h3>
+      <ul>
+        <li><strong>手機（てばた）織り</strong>：手動で糸を打ち込む伝統的な織り方。緯糸を一本ずつ丁寧に通す。</li>
+        <li><strong>絣（かすり）</strong>：あらかじめ染め分けた糸を使い、柄を出す技法。結城紬・琉球絣などで使われる。</li>
+        <li><strong>ジャカード織り</strong>：孔版カードで複雑な柄を制御する機械式技法。西陣織で発展した。</li>
+      </ul>
+    </div>
+
+    <div class="chapter" id="chapter5">
+      <p class="chapter-label">Chapter 05</p>
+      <h2 class="chapter-title">ユネスコ登録品目</h2>
+      <p>日本の伝統工芸・技術の中で、ユネスコ（国連教育科学文化機関）の<strong>無形文化遺産</strong>に登録されたものがあります。</p>
+
+      <h3>登録された工芸関連技術</h3>
+      <ul>
+        <li><strong>「和紙：日本の手漉和紙技術」</strong>（2014年）：越前和紙・美濃和紙・石州半紙の3産地の技術が共同で登録。</li>
+        <li><strong>「結城紬」</strong>（2010年）：茨城・栃木の結城紬の手技。真綿手紡ぎ・絣括り・地機織りの3工程。</li>
+        <li><strong>「石州半紙、本美濃紙、越前和紙」</strong>（2009年・拡張2014年）：石州半紙が先に登録され後に拡張。</li>
+      </ul>
+
+      <div class="callout">
+        <div class="callout-title">「伝統的酒造り」も2024年に登録</div>
+        <p>工芸品ではありませんが、「伝統的酒造り」（日本酒・焼酎・泡盛・清酒など）が2024年12月にユネスコ無形文化遺産に登録されました。日本の発酵文化全体への世界的評価が高まっています。</p>
+      </div>
+    </div>
+
+    <div class="chapter" id="chapter6">
+      <p class="chapter-label">Chapter 06</p>
+      <h2 class="chapter-title">産地と職人の今</h2>
+      <p>伝統的工芸品の産地は、近年大きな変化の只中にあります。後継者問題・原材料の確保・需要の変化――。しかし一方で、若い職人の参入や海外需要の拡大など、新しい動きも生まれています。</p>
+
+      <h3>後継者問題と産地の変化</h3>
+      <p>多くの産地で職人の高齢化が進み、「事業承継」が最大の課題の一つとなっています。経産省や産地組合は後継者育成のための補助金・研修制度を整備していますが、依然として厳しい状況が続いています。</p>
+
+      <h3>海外需要と輸出の拡大</h3>
+      <p>一方で、欧米・アジアを中心に日本の伝統工芸品への関心が急速に高まっています。南部鉄器の鉄瓶はパリ・ルーブル美術館でも販売され、輪島塗・有田焼などは高級インテリアブランドとのコラボレーションも生まれています。</p>
+
+      <h3>現代クリエイターとの融合</h3>
+      <p>伝統技術を継承しながら、現代的なデザインや素材と融合させる「クラフト×デザイン」の動きも活発です。産地の若手職人がブランドを立ち上げ、SNSや海外展示会で直接発信するケースも増えています。</p>
+    </div>
+
+    <!-- Proゲート -->
+    <div class="pro-gate">
+      <div class="pro-gate-icon">🔓</div>
+      <div class="pro-gate-title">続きはProプランで読める</div>
+      <p class="pro-gate-desc">Chapter 07「素材図鑑」・Chapter 08「技法詳解」・Chapter 09「購入・選び方ガイド」は、Proプラン（¥500/月）以上で全文閲覧いただけます。</p>
+      <a href="/craft/plans/" class="pro-gate-btn">Proプランを見る</a>
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-brand">Terroir HUB<br>CRAFT</div>
+        <div class="footer-brand-en">Traditional Crafts of Japan</div>
+        <p class="footer-desc">経産省指定240品目以上の伝統的工芸品を網羅したデータベースメディア。</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>探す</h4>
+          <a href="/craft/search/">工芸品検索</a>
+          <a href="/craft/category/">カテゴリ一覧</a>
+          <a href="/craft/region/">産地から探す</a>
+          <a href="/craft/experience/">体験・工房</a>
+        </div>
+        <div class="footer-col">
+          <h4>学ぶ</h4>
+          <a href="/craft/guide/">工芸の教科書</a>
+          <a href="/craft/guide/history/">歴史と文化</a>
+          <a href="/craft/guide/techniques/">技法図鑑</a>
+        </div>
+        <div class="footer-col">
+          <h4>Terroir HUB</h4>
+          <a href="https://terroirhub.com">トップページ</a>
+          <a href="https://sake.terroirhub.com">日本酒</a>
+          <a href="https://shochu.terroirhub.com">焼酎・泡盛</a>
+          <a href="/craft/plans/">プラン</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 合同会社FOMUS / Terroir HUB CRAFT</span>
+      <div style="display:flex;gap:16px">
+        <a href="/privacy/" style="color:rgba(255,255,255,.35);text-decoration:none">プライバシーポリシー</a>
+        <a href="/terms/" style="color:rgba(255,255,255,.35);text-decoration:none">利用規約</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+// サイドバーのアクティブ更新
+const chapters = document.querySelectorAll('.chapter');
+const sidebarLinks = document.querySelectorAll('.sidebar-link');
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      sidebarLinks.forEach(l => l.classList.remove('active'));
+      const link = document.querySelector(`.sidebar-link[href="#${e.target.id}"]`);
+      if (link) link.classList.add('active');
+    }
+  });
+}, {rootMargin:'-20% 0px -70% 0px'});
+chapters.forEach(c => obs.observe(c));
+
+function openMM(){document.getElementById('mobileMenu').classList.add('open');document.getElementById('mmOverlay').classList.add('open')}
+function closeMM(){document.getElementById('mobileMenu').classList.remove('open');document.getElementById('mmOverlay').classList.remove('open')}
+</script>
+</body>
+</html>
