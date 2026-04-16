@@ -9,6 +9,7 @@ const ALLOWED_ORIGINS = [
   'https://craft.terroirhub.com',
   'https://www.craft.terroirhub.com',
   'https://terroirhub.com',
+  'https://sake.terroirhub.com',
   'http://localhost:3000',
   'http://localhost:5500',
 ];
@@ -281,7 +282,7 @@ module.exports = async (req, res) => {
     }
 
     return res.status(200).json({
-      response: answer,
+      answer: answer,
       searched_crafts: searchResults.map(i => ({ id: i.id, name: i.name, prefecture: i.prefecture }))
     });
 

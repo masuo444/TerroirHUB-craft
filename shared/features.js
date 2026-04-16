@@ -1585,7 +1585,8 @@
         return;
       }
 
-      var response = await fetch('/api/sakura', {
+      var AI_ENDPOINT = CFG.aiEndpoint || '/api/sakura';
+      var response = await fetch(AI_ENDPOINT, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
