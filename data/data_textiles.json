@@ -371,7 +371,7 @@
     "price_range": "小物 3,000円〜 / 帯 30,000円〜 / 着物反物 80,000円〜",
     "lat": 37.923,
     "lng": 140.1167,
-    "source": "",
+    "source": "https://www.yoneori.com/",
     "ogp_image_desc": "上品な紋様が美しい米沢織の帯と着物地"
   },
   {
@@ -461,7 +461,7 @@
     "price_range": "スカーフ 5,000円〜 / 反物 30,000円〜 / 振袖反物 100,000円〜",
     "lat": 35.65,
     "lng": 135.15,
-    "source": "",
+    "source": "https://tanko.or.jp/",
     "ogp_image_desc": "独特のシボが美しい丹後ちりめんの絹反物"
   },
   {
@@ -885,7 +885,7 @@
     "price_range": "手ぬぐい 1,500円〜 / 反物 15,000円〜 / 浴衣 20,000円〜",
     "lat": 34.8556,
     "lng": 136.5967,
-    "source": "",
+    "source": "https://isemomen.com/",
     "ogp_image_desc": "伊勢木綿の縞・格子模様の反物と手ぬぐい"
   },
   {
@@ -1167,7 +1167,7 @@
     "price_range": "手ぬぐい 1,000円〜 / 反物 8,000円〜 / 浴衣 15,000円〜",
     "lat": 36.4394,
     "lng": 140.0153,
-    "source": "",
+    "source": "http://www.mokamomen.com/",
     "ogp_image_desc": "素朴な縞模様が美しい真岡木綿の綿反物と手ぬぐい"
   },
   {
@@ -1903,7 +1903,7 @@
     "price_range": "反物（1m）1,500円〜 / バッグ 5,000円〜 / 着物仕立て 50,000円〜",
     "lat": 37.4948,
     "lng": 139.9295,
-    "source": "",
+    "source": "https://yamadamomen.com/",
     "ogp_image_desc": "会津の縞模様が美しい会津木綿の反物とバッグ"
   },
   {
@@ -2045,7 +2045,7 @@
     "price_range": "小物 3,000円〜 / 帯 30,000円〜 / 着物地 50,000円〜",
     "lat": 36.3404,
     "lng": 139.45,
-    "source": "",
+    "source": "https://orimono-densyokan.com/",
     "ogp_image_desc": "関東最古の産地・足利織物の絹反物と帯地"
   },
   {
@@ -2137,7 +2137,7 @@
     "price_range": "小物 2,000円〜 / 反物（1m）1,500円〜 / 着物仕立て 50,000円〜",
     "lat": 40.6031,
     "lng": 140.4639,
-    "source": "",
+    "source": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarusakiori.html",
     "ogp_image_desc": "津軽の農家女性が織り続けてきた縞模様の津軽織木綿"
   },
   {
@@ -2183,7 +2183,7 @@
     "price_range": "小物 3,000円〜 / 反物 40,000円〜 / 帯 30,000円〜",
     "lat": 35.7882,
     "lng": 139.249,
-    "source": "",
+    "source": "https://hachioji-orimono.or.jp/",
     "ogp_image_desc": "多摩の絹として知られる武蔵野織物の縞絹反物"
   },
   {
@@ -2276,7 +2276,7 @@
     "price_range": "反物 30,000円〜 / 帯 40,000円〜 / 着物仕立て 100,000円〜",
     "lat": 35.925,
     "lng": 139.4856,
-    "source": "",
+    "source": "https://koedo.or.jp/products/item_079/",
     "ogp_image_desc": "絹と木綿の交織による川越唐桟の縞模様の反物と帯"
   },
   {
@@ -2322,7 +2322,7 @@
     "price_range": "小物・コースター 2,000円〜 / バッグ 10,000円〜 / 反物 30,000円〜",
     "lat": 39.7036,
     "lng": 141.1527,
-    "source": "",
+    "source": "https://sakiori.jp/",
     "ogp_image_desc": "古布を裂いて織り上げた素朴で力強い南部裂織のテキスタイル"
   },
   {

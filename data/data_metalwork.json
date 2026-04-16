@@ -468,7 +468,7 @@
     "price_range": "鑿 5,000円〜 / 包丁 15,000円〜 / 鉋 20,000円〜",
     "lat": 35.7777,
     "lng": 139.8065,
-    "source": "",
+    "source": "https://www.dento-tokyo.metro.tokyo.lg.jp/items/29.html",
     "ogp_image_desc": "東京打刃物の鍛造包丁と大工道具の鑿・鉋"
   },
   {
@@ -563,7 +563,7 @@
     "price_range": "茶入れ蓋 5,000円〜 / 花瓶 30,000円〜 / 仏具セット 50,000円〜",
     "lat": 35.0168,
     "lng": 135.7816,
-    "source": "",
+    "source": "http://www.metalcraft-kk.com/",
     "ogp_image_desc": "京金工の彫金が施された銅製の花瓶と茶道具"
   },
   {
@@ -735,7 +735,7 @@
     "price_range": "¥3,000〜",
     "lat": 38.8264,
     "lng": 139.9782,
-    "source": "",
+    "source": "https://yamagata-furusato-kougei.jp/list/list_local.html",
     "ogp_image_desc": "庄内刃物の鍛造包丁と鎌"
   },
   {
@@ -814,7 +814,7 @@
     "price_range": "¥3,000〜",
     "lat": 35.4961,
     "lng": 136.9163,
-    "source": "",
+    "source": "https://seki-japan.com/",
     "ogp_image_desc": "岐阜刃物・関市の鍛造包丁と日本刀"
   },
   {
@@ -857,7 +857,7 @@
     "price_range": "¥10,000〜",
     "lat": 34.7025,
     "lng": 134.1557,
-    "source": "",
+    "source": "https://www.city.setouchi.lg.jp/site/token/",
     "ogp_image_desc": "備前長船刃物の鍛造包丁と日本刀の刃文"
   },
   {
@@ -938,7 +938,7 @@
     "price_range": "¥2,000〜",
     "lat": 33.5581,
     "lng": 131.4989,
-    "source": "",
+    "source": "https://www.city.bungotakada.oita.jp/",
     "ogp_image_desc": "豊後高田やすりの手目切りで仕上げられた金属やすりのセット"
   }
 ]

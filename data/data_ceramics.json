@@ -1239,7 +1239,7 @@
     "price_range": "茶碗 20,000円〜 / 花入 30,000円〜 / 水指 50,000円〜",
     "lat": 33.6461,
     "lng": 130.6913,
-    "source": "",
+    "source": "https://takatoriyaki.jp/",
     "ogp_image_desc": "高取焼の薄手で流し掛け釉が美しい茶碗"
   },
   {
@@ -1764,7 +1764,7 @@
     "price_range": "招き猫 3,000円〜 / 土人形 5,000円〜 / 花瓶 10,000円〜",
     "lat": 35.7178,
     "lng": 139.7986,
-    "source": "",
+    "source": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shakaikyoiku/bunkazai/seikatubunkazai/imadoyaki.html",
     "ogp_image_desc": "今戸焼の白い招き猫と素朴な土人形"
   }
 ]
