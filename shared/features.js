@@ -1394,7 +1394,9 @@
     <div class="atlas-resize" id="atlas-resize"></div>\
     <div class="atlas-hdr">\
       <div class="atlas-hdr-l">\
-        <span style="font-size:20px;line-height:1;">' + AI_EMOJI + '</span>\
+        <div style="width:40px;height:40px;border-radius:50%;overflow:hidden;flex-shrink:0;border:2px solid ' + BRAND_COLOR + '33;">\
+          <img src="' + AI_AVATAR + '" alt="' + AI_NAME + '" style="width:100%;height:100%;object-fit:cover;object-position:center top;" onerror="this.parentNode.innerHTML=\'<span style=&quot;font-size:20px;line-height:40px;display:block;text-align:center;&quot;>' + AI_EMOJI + '</span>\'">\
+        </div>\
         <div>\
           <div class="atlas-name">' + AI_NAME + '</div>\
           <div class="atlas-status">オンライン</div>\
