@@ -1,0 +1,78 @@
+# Terroir HUB CRAFT — 日本の伝統工芸品データベース
+
+> 経済産業省指定の伝統的工芸品240品目以上を網羅した専門データベース。産地・技法・歴史・体験情報を公式情報に基づき構造化。AIコンシェルジュ「ミズキ」が案内します。
+
+## サービス概要
+
+Terroir HUB CRAFTは、日本全国の伝統的工芸品を「探す・知る・体験する」ためのデータベースです。
+経済産業大臣指定伝統的工芸品を中心に、各品目の産地・技法・歴史・体験工房情報を掲載しています。
+公式に公開されている情報のみを使用し、推測で情報を埋めることはありません。
+
+## 収録データ（245品目・9カテゴリ）
+
+| カテゴリ | 品目数 | 例 |
+|----------|--------|-----|
+| 織物 | 56 | 西陣織、結城紬、大島紬 |
+| 陶磁器 | 37 | 九谷焼、有田焼、信楽焼 |
+| 紙・木工品 | 29 | 美濃和紙、箱根寄木細工 |
+| 漆器 | 24 | 輪島塗、津軽塗、会津塗 |
+| 金工品 | 21 | 南部鉄器、燕鎚起銅器 |
+| 人形 | 18 | 博多人形、江戸木目込人形 |
+| 染色品 | 17 | 京友禅、加賀友禅 |
+| 仏壇・仏具 | 16 | 京仏壇、彦根仏壇 |
+| その他 | 27 | 江戸切子、甲州印伝ほか |
+
+## ページ構成
+
+- トップページ: https://craft.terroirhub.com/
+- カテゴリ別: https://craft.terroirhub.com/craft/category/
+- 都道府県別: https://craft.terroirhub.com/craft/{都道府県スラッグ}/
+- 地域別: https://craft.terroirhub.com/craft/region/
+- 体験情報: https://craft.terroirhub.com/craft/experience/
+- 地図から探す: https://craft.terroirhub.com/craft/map/
+- ガイド: https://craft.terroirhub.com/craft/guide/
+- 検索: https://craft.terroirhub.com/craft/search/
+
+## AIコンシェルジュ「ミズキ」
+
+伝統工芸品の産地・技法・体験・購入情報を会話形式で案内します。多言語対応。
+
+## 運営
+
+- 運営: 合同会社FOMUS（日本・山梨県）
+- 関連サービス: Terroir HUB（日本酒・焼酎・ウイスキー・リキュール・日本ワイン） https://www.terroirhub.com/
+- 問い合わせ: info@terroirhub.com
+
+---
+
+## English Section — Terroir HUB CRAFT
+
+### About This Database
+
+Terroir HUB CRAFT is a structured database of 240+ traditional crafts officially designated by
+Japan's Ministry of Economy, Trade and Industry (METI) — covering regions, techniques, history,
+and hands-on workshop experiences. Data is based exclusively on officially published information.
+
+### Categories (245 items)
+
+- Textiles (56): Nishijin-ori, Yuki-tsumugi, Oshima-tsumugi
+- Ceramics (37): Kutani ware, Arita ware, Shigaraki ware
+- Paper & Woodwork (29): Mino washi paper, Hakone marquetry
+- Lacquerware (24): Wajima-nuri, Tsugaru-nuri, Aizu-nuri
+- Metalwork (21): Nambu ironware, Tsubame hammered copperware
+- Dolls (18): Hakata dolls, Edo kimekomi dolls
+- Dyeing (17): Kyo-yuzen, Kaga-yuzen
+- Buddhist altars & fittings (16)
+- Others (27): Edo kiriko cut glass, Koshu inden leather
+
+### URL Structure
+
+- Category: https://craft.terroirhub.com/craft/category/
+- By prefecture: https://craft.terroirhub.com/craft/{prefecture}/
+- Experiences: https://craft.terroirhub.com/craft/experience/
+- Sitemap: https://craft.terroirhub.com/sitemap.xml
+
+### Operator
+
+- FOMUS LLC (Yamanashi, Japan) — info@terroirhub.com
+- Sister services: Japanese sake, shochu, whisky, liqueur, and wine databases at https://www.terroirhub.com/
