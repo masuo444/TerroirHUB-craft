@@ -1,2607 +1,2607 @@
 [
-  {
-    "id": "nishijin_ori",
-    "name": "西陣織",
-    "name_en": "Nishijin Weaving",
-    "name_fr": "Tissage Nishijin",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 1,
-    "prefecture": "kyoto",
-    "prefecture_ja": "京都府",
-    "area": "京都市北区・上京区",
-    "founded": 794,
-    "founded_era": "平安時代",
-    "desc": "平安時代以前に秦氏が伝えた機織り技術を源流とし、応仁の乱（1467年）で西軍が本陣を置いた地に職人が集まり「西陣」の名が生まれた。京都市北区を中心に生産される絹織物で、先染め糸をジャカード機で織り上げる多彩な技法と、金糸・銀糸・箔糸を組み合わせた錦織が最大の特徴。宮廷文化を担い手として1,300年以上続く帯地・着物地の最高峰ブランド。",
-    "desc_en": "Nishijin weaving is silk fabric produced in the Nishijin district of Kyoto. Beginning with the Heian capital's establishment in 794, weavers returned to Nishijin after the Onin War (1467) to revive the industry. Using Jacquard looms and pre-dyed threads for complex patterns combined with gold, silver, and foil threads, it remains the premium brand for obi sashes and kimono fabrics.",
-    "techniques": [
-      "つづれ織",
-      "錦織",
-      "綴織",
-      "ジャカード織",
-      "金糸銀糸使い"
-    ],
-    "materials": [
-      "生糸",
-      "金糸",
-      "銀糸",
-      "箔糸"
-    ],
-    "features": [
-      "1,200年の歴史を持つ京都が誇る最高級絹織物ブランド",
-      "先染め糸による複雑な紋様とジャカード機による多色織",
-      "帯地から洋装ファッション・インテリアまで現代にも進化"
-    ],
-    "workshops": [
-      {
-        "name": "西陣織会館",
-        "url": "https://www.nishijin.or.jp/",
-        "experience": true,
-        "experience_desc": "帯留め・コースター織り体験 1,100円〜",
-        "address": "京都府京都市上京区"
-      }
-    ],
-    "purchase_keywords": "西陣織 帯 購入 着物",
-    "price_range": "コースター 1,000円〜 / 袋帯 50,000円〜 / 丸帯 200,000円〜",
-    "lat": 35.0213,
-    "lng": 135.7442,
-    "source": "https://kougeihin.jp/craft/0120/",
-    "ogp_image_desc": "金糸銀糸が輝く西陣織の錦の帯と着物地"
-  },
-  {
-    "id": "hakata_ori",
-    "name": "博多織",
-    "name_en": "Hakata Weaving",
-    "name_fr": "Tissage Hakata",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 40,
-    "prefecture": "fukuoka",
-    "prefecture_ja": "福岡県",
-    "area": "福岡市博多区",
-    "founded": 1241,
-    "founded_era": "仁治2年",
-    "desc": "鎌倉時代、博多の商人が僧侶とともに宋（中国）へ渡り、織物技術を持ち帰ったことに始まる福岡市博多区の絹織物。江戸時代に筑前藩主・黒田長政が毎年幕府へ献上したことで「献上博多」として名が高まり、独鈷・華皿を組み合わせた「献上柄」が代表紋様となった。経糸を多く使い緯糸で打ち込む独特の製法により、締め心地が良くほどけにくい帯地に仕上がる。",
-    "desc_en": "Hakata weaving is silk fabric from Hakata-ku, Fukuoka City. Starting in 1241 when merchant Manda Yazaemon brought techniques from Song Dynasty China, the '献上博多' (tribute Hakata) presented to the Shogunate during the Edo period became famous. The distinctive 'Kenjo pattern' of four motifs creates a firm, well-tensioned obi fabric due to its unique weaving method.",
-    "techniques": [
-      "献上柄織り",
-      "紋織り",
-      "先染め"
-    ],
-    "materials": [
-      "生糸",
-      "金糸",
-      "銀糸"
-    ],
-    "features": [
-      "独鈷・華皿など「献上柄」は江戸時代から続く格調ある紋様",
-      "締め心地の良さと崩れにくさで帯の最高峰ブランド",
-      "現代ではネクタイ・バッグなど洋装ファッションにも展開"
-    ],
-    "workshops": [
-      {
-        "name": "博多織工業組合",
-        "url": "https://hakata-ori.or.jp/",
-        "experience": true,
-        "experience_desc": "コースター・ブローチ織り体験 2,200円〜",
-        "address": "福岡県福岡市博多区"
-      }
-    ],
-    "purchase_keywords": "博多織 帯 購入 小物",
-    "price_range": "小物 3,000円〜 / 半幅帯 20,000円〜 / 袋帯 80,000円〜",
-    "lat": 33.5899,
-    "lng": 130.4213,
-    "source": "https://kougeihin.jp/craft/0123/",
-    "ogp_image_desc": "献上柄の伝統紋様が美しい博多織の帯"
-  },
-  {
-    "id": "yuki_tsumugi",
-    "name": "結城紬",
-    "name_en": "Yuki Tsumugi Silk",
-    "name_fr": "Soie Yuki Tsumugi",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 10,
-    "prefecture": "ibaraki",
-    "prefecture_ja": "茨城県",
-    "area": "結城市・栃木市",
-    "founded": 700,
-    "founded_era": "奈良時代",
-    "desc": "古くから養蚕が盛んな茨城県結城地方で農閑期に作られ、奈良時代にはすでに朝廷に納めていた絹織物。鎌倉時代に領主・結城氏が産業保護に努め「結城紬」の名が定着し、江戸初期に信州や京都の技術も導入して名声を高めた。真綿手紡ぎ・絣括り・地機（いざり機）の三工程を全て経たものだけが「本結城」を名乗れ、2010年にユネスコ無形文化遺産に登録された。",
-    "desc_en": "Yuki Tsumugi is silk fabric produced in Yuki City, Ibaraki, and Tochigi City, Tochigi. With 1,300 years of history from the Nara period, it was inscribed on UNESCO's Intangible Cultural Heritage list in 2010. Only fabric that undergoes all three traditional processes—hand-spinning silk wadding, kasuri binding for patterns, and weaving on an izaribata (floor loom)—can be called 'Hon-Yuki.' It becomes softer and more comfortable with wear.",
-    "techniques": [
-      "真綿手紡ぎ",
-      "絣括り",
-      "地機（いざり機）織り"
-    ],
-    "materials": [
-      "真綿（繭から引いた絹綿）"
-    ],
-    "features": [
-      "2010年ユネスコ無形文化遺産登録・1,300年の正真正銘の歴史",
-      "真綿の手紡ぎ→絣括り→地機3工程全てを満たす「本結城」の希少性",
-      "着込むほど身体に馴染む柔らかな肌触りと軽さ"
-    ],
-    "workshops": [
-      {
-        "name": "結城紬の里 つむぎの館",
-        "url": "https://www.tsumuginokan.jp/",
-        "experience": true,
-        "experience_desc": "手紡ぎ・手織り体験 2,200円〜",
-        "address": "茨城県結城市"
-      }
-    ],
-    "purchase_keywords": "結城紬 購入 着物 反物",
-    "price_range": "反物（本結城）800,000円〜 / 小物 10,000円〜",
-    "lat": 36.2929,
-    "lng": 139.8741,
-    "source": "https://kougeihin.jp/craft/0104/",
-    "ogp_image_desc": "繊細な絣模様が美しい結城紬の着物"
-  },
-  {
-    "id": "ryukyu_kasuri",
-    "name": "琉球絣",
-    "name_en": "Ryukyu Kasuri",
-    "name_fr": "Tissu Kasuri Ryukyu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "南風原町・那覇市",
-    "founded": 1400,
-    "founded_era": "琉球王国時代",
-    "desc": "14〜15世紀の中国・東南アジアとの交易を通じて沖縄に伝わった絣技術を源流とし、大正時代に本格的な産地として確立した沖縄県南風原町の絹・綿絣織物。南方系の絣から生まれた幾何学文様が主体で、約600種の絣図案（テイサージ）が伝承されてきた。鮮やかな色彩と独自の文様が沖縄の自然と文化を体現し、着物地として世界でも高く評価される。",
-    "desc_en": "Ryukyu Kasuri is silk and cotton kasuri fabric produced mainly in Haebaru Town, Okinawa. With approximately 600 years of history from the Ryukyu Kingdom era, its distinctive geometric patterns reflect influences from Java, India, and China. About 600 kasuri patterns (Teisaji) are preserved, with each bolt taking weeks to months to complete. The vibrant colors and unique patterns embody Okinawa's rich culture.",
-    "techniques": [
-      "手括り絣",
-      "型引き絣",
-      "手機織り"
-    ],
-    "materials": [
-      "生糸",
-      "綿糸",
-      "植物染料"
-    ],
-    "features": [
-      "琉球王国から続く600年の歴史と約600種の絣図案",
-      "ジャワ・インド・中国の影響を受けた独自の幾何学文様",
-      "鮮やかな色彩が沖縄の自然と文化を映し出す"
-    ],
-    "workshops": [
-      {
-        "name": "南風原花織事業協同組合",
-        "url": "https://haebaru-ori.jp/",
-        "experience": true,
-        "experience_desc": "手織り体験 2,500円〜",
-        "address": "沖縄県南風原町"
-      }
-    ],
-    "purchase_keywords": "琉球絣 購入 着物 反物",
-    "price_range": "小物 3,000円〜 / 反物 80,000円〜 / 着物仕立て 200,000円〜",
-    "lat": 26.1665,
-    "lng": 127.7263,
-    "source": "https://kougeihin.jp/craft/0130/",
-    "ogp_image_desc": "鮮やかな幾何学文様の琉球絣の反物"
-  },
-  {
-    "id": "oshima_tsumugi",
-    "name": "大島紬",
-    "name_en": "Oshima Tsumugi",
-    "name_fr": "Tsumugi Oshima",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 46,
-    "prefecture": "kagoshima",
-    "prefecture_ja": "鹿児島県",
-    "area": "奄美市・鹿児島市",
-    "founded": 700,
-    "founded_era": "奈良時代頃",
-    "desc": "7世紀頃に奄美大島で始まったとされる絹織物で、18世紀初期に産地が形成され鹿児島本土にも技法が伝わった。テーチ木（車輪梅）で煮染めした後に奄美の泥田で染める「泥染め」と、締め機（しめはた）で絣模様を作る独特の技法が特徴。柔らかく軽い着心地と独特の光沢を持ち、1反に数ヶ月から1年以上を要する贅沢な絹織物として知られる。",
-    "desc_en": "Oshima Tsumugi is silk fabric originating from the Amami Islands, Kagoshima Prefecture. Said to have begun around the Nara period, it is characterized by 'mud dyeing' using techi tree (syagrus romanzoffiana) dye solution and mud fields, combined with warp and weft kasuri technique. Each bolt takes months to over a year to produce. Soft, light, and with a distinctive luster, 'Honba Oshima Tsumugi' comes in three varieties from different areas with certificates of origin.",
-    "techniques": [
-      "泥染め",
-      "テーチ木染め",
-      "縦横絣合わせ",
-      "手機織り"
-    ],
-    "materials": [
-      "生糸",
-      "テーチ木（車輪梅）",
-      "奄美の泥田"
-    ],
-    "features": [
-      "テーチ木と泥田による独自の「泥染め」で生まれる深い黒色",
-      "縦横の絣を0.1mm単位で合わせる超高精度の技術",
-      "柔らかく軽い着心地と独特の光沢・1反に数ヶ月〜1年以上"
-    ],
-    "workshops": [
-      {
-        "name": "奄美大島紬村",
-        "url": "https://www.tsumugi-mura.co.jp/",
-        "experience": true,
-        "experience_desc": "手織り・泥染め体験 2,000円〜",
-        "address": "鹿児島県奄美市"
-      }
-    ],
-    "purchase_keywords": "大島紬 購入 着物 奄美",
-    "price_range": "小物 5,000円〜 / 反物 300,000円〜 / 着物仕立て 500,000円〜",
-    "lat": 28.378,
-    "lng": 129.494,
-    "source": "https://kougeihin.jp/craft/0108/",
-    "ogp_image_desc": "泥染めの深い黒と精緻な絣模様が美しい大島紬の反物"
-  },
-  {
-    "id": "ojiya_chijimi",
-    "name": "小千谷縮",
-    "name_en": "Ojiya Chijimi",
-    "name_fr": "Tissage Ojiya Chijimi",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 15,
-    "prefecture": "niigata",
-    "prefecture_ja": "新潟県",
-    "area": "小千谷市",
-    "founded": 1670,
-    "founded_era": "寛文10年頃",
-    "desc": "縄文時代後期と思われる土器に布目の跡が残る、新潟県小千谷市の麻織物産地。江戸時代前期に夏衣料向けの改良が進み、緯糸に強い撚りをかけることで独特のシボ（縮み）を生み出す「縮」が確立した。雪国の厳冬の中で行う雪晒しが独特のシャリ感と白さをもたらし、昭和30年に国の重要無形文化財に指定。2009年には越後上布とともにユネスコ無形文化遺産に登録された夏の麻の名品。",
-    "desc_en": "Ojiya Chijimi is linen fabric produced in Ojiya City, Niigata Prefecture. Said to have been created around 1670 by Hori Jiro Masatoshi of the Akashi domain, who created 'chijimi' (crepe) by shrinking hemp cloth on the Echigo Plain. 'Yuki-zarashi' (snow bleaching) in severe winter conditions creates the distinctive crisp texture and whiteness. Inscribed on UNESCO's Intangible Cultural Heritage list in 2009 along with Echigo Jofu.",
-    "techniques": [
-      "麻手績み",
-      "手機織り",
-      "雪晒し（ゆきさらし）"
-    ],
-    "materials": [
-      "苧麻（からむし）"
-    ],
-    "features": [
-      "2009年ユネスコ無形文化遺産登録（越後上布と共同登録）",
-      "雪晒しが生む独特のシャリ感・清涼感・白さ",
-      "夏の着物・浴衣として格別の涼感を提供する麻の名品"
-    ],
-    "workshops": [
-      {
-        "name": "小千谷産業開発センター（産地にご確認ください）",
-        "url": "https://ojiya-chijimi.or.jp/",
-        "experience": true,
-        "experience_desc": "手織り体験（産地にご確認ください）",
-        "address": "新潟県小千谷市"
-      }
-    ],
-    "purchase_keywords": "小千谷縮 購入 夏着物 浴衣",
-    "price_range": "浴衣反物 30,000円〜 / 夏着物反物 100,000円〜",
-    "lat": 37.3,
-    "lng": 138.79,
-    "source": "https://kougeihin.jp/craft/0112/",
-    "ogp_image_desc": "雪晒しの白さと清涼感が美しい小千谷縮の反物"
-  },
-  {
-    "id": "shiozawa_tsumugi",
-    "name": "塩沢紬",
-    "name_en": "Shiozawa Tsumugi",
-    "name_fr": "Tsumugi Shiozawa",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 15,
-    "prefecture": "niigata",
-    "prefecture_ja": "新潟県",
-    "area": "南魚沼市塩沢",
-    "founded": 700,
-    "founded_era": "奈良時代頃",
-    "desc": "奈良時代に織られた麻布が奈良の正倉院に保存されているほど歴史の深い新潟県南魚沼市塩沢の織物産地。その麻織物の技術・技法を絹織物に取り入れた塩沢紬は、江戸時代に織り始められた。本塩沢・塩沢紬・越後上布の三種が「塩沢産地」として国の伝統的工芸品に指定されており、雪晒しが生む独特のシャリ感と精緻な絣模様が特徴の夏向け高級絹織物。",
-    "desc_en": "Shiozawa Tsumugi is silk fabric produced in the Shiozawa district of Minamiuonuma City, Niigata Prefecture. Inheriting the techniques of Echigo Jofu, it developed as a kasuri weaving using silk. Three types—Honshiozawa, Shiozawa Tsumugi, and Echigo Jofu—are designated as national traditional crafts under the 'Shiozawa production area.' Featuring snow bleaching and intricate kasuri patterns, its unique crisp texture and translucency make it ideal for summer kimono.",
-    "techniques": [
-      "手括り絣",
-      "手機織り",
-      "雪晒し"
-    ],
-    "materials": [
-      "生糸",
-      "紬糸"
-    ],
-    "features": [
-      "雪国の気候を生かした雪晒しと精緻な絣模様",
-      "本塩沢・塩沢紬・越後上布と3種の国指定工芸品を有する産地",
-      "独特のシャリ感と透け感で夏の着物として最高の素材"
-    ],
-    "workshops": [
-      {
-        "name": "雪国観光圏 産地工房（産地にご確認ください）",
-        "url": "https://shiozawa-tsumugi.com/",
-        "experience": true,
-        "experience_desc": "手織り体験（産地にご確認ください）",
-        "address": "新潟県南魚沼市塩沢"
-      }
-    ],
-    "purchase_keywords": "塩沢紬 購入 夏着物 反物",
-    "price_range": "反物 100,000円〜 / 着物仕立て 300,000円〜",
-    "lat": 36.94,
-    "lng": 138.92,
-    "source": "https://kougeihin.jp/craft/0111/",
-    "ogp_image_desc": "精緻な絣模様と独特の光沢が美しい塩沢紬の反物"
-  },
-  {
-    "id": "yonezawa_ori",
-    "name": "米沢織",
-    "name_en": "Yonezawa Weaving",
-    "name_fr": "Tissage Yonezawa",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 6,
-    "prefecture": "yamagata",
-    "prefecture_ja": "山形県",
-    "area": "米沢市",
-    "founded": 1700,
-    "founded_era": "江戸中期",
-    "desc": "山形県米沢市で生産される絹織物。江戸中期に米沢藩の上杉鷹山（ようざん）が藩の財政立て直しのために養蚕・織物業を奨励したことが発展の契機。西陣から技術を導入し、米沢の絹織物産業を確立した。絹・化繊など多様な素材を使った紋織物・先染め織物が特徴で、帯・着物生地・洋装生地まで幅広く生産。明治・大正期に輸出産業として発展した歴史も持つ。",
-    "desc_en": "Yonezawa weaving is silk fabric from Yonezawa City, Yamagata Prefecture. The development was triggered in the mid-Edo period when Uesugi Yozan, lord of the Yonezawa domain, encouraged sericulture and weaving to revive the domain's finances. Importing techniques from Nishijin, it established the silk weaving industry of Yonezawa. Featuring patterned weave and pre-dyed fabric using silk and synthetic fibers, it also has a history of export industry development in the Meiji and Taisho periods.",
-    "techniques": [
-      "紋織り",
-      "先染め",
-      "ジャカード織"
-    ],
-    "materials": [
-      "生糸",
-      "絹糸",
-      "化繊"
-    ],
-    "features": [
-      "上杉鷹山の藩政改革が生んだ山形の絹織物産業",
-      "西陣から導入した技術が独自に発展した紋織物の美",
-      "帯・着物生地から洋装生地まで幅広く展開"
-    ],
-    "workshops": [
-      {
-        "name": "米沢織物歴史資料館（産地にご確認ください）",
-        "url": "https://www.yonezawa-ori.jp/",
-        "experience": true,
-        "experience_desc": "手織り体験（産地にご確認ください）",
-        "address": "山形県米沢市"
-      }
-    ],
-    "purchase_keywords": "米沢織 購入 帯 着物 山形",
-    "price_range": "小物 3,000円〜 / 帯 30,000円〜 / 着物反物 80,000円〜",
-    "lat": 37.923,
-    "lng": 140.1167,
-    "source": "https://www.yoneori.com/",
-    "ogp_image_desc": "上品な紋様が美しい米沢織の帯と着物地"
-  },
-  {
-    "id": "ushikubi_tsumugi",
-    "name": "牛首紬",
-    "name_en": "Ushikubi Tsumugi",
-    "name_fr": "Tsumugi Ushikubi",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 17,
-    "prefecture": "ishikawa",
-    "prefecture_ja": "石川県",
-    "area": "白山市白峰（旧牛首村）",
-    "founded": 1100,
-    "founded_era": "平安末期頃",
-    "desc": "白山麓の牛首村（現在の石川県白山市白峰地区）の地名を冠する絹織物で、平安末期の平治の乱で落ち延びた源氏の落人・大畠氏の妻たちが機織りの技を村の女性たちに伝えたのが始まりとされる。2個の繭から一本の糸を取る「玉繭」使いにより「釘が抜ける」と称されるほど強靱な生地に仕上がる。結城紬・大島紬と並ぶ日本三大紬の一つで、艶やかな光沢と比類なき丈夫さが特徴。",
-    "desc_en": "Ushikubi Tsumugi is silk fabric from the Shiramine district (formerly Shiramine and Ushikubi villages), Hakusan City, Ishikawa Prefecture. Also called 'kuginuki-tsumugi' (nail-pulling tsumugi) for its exceptional strength—the unique method uses 'tama-mayu' (double cocoons from two silkworms). Considered one of Japan's three great tsumugi (alongside Yuki and Oshima), it features a lustrous sheen and durability. Craftsmen continue the tradition in the harsh environment of the Hakusan foothills.",
-    "techniques": [
-      "玉繭（ふたこ繭）糸取り",
-      "手機織り"
-    ],
-    "materials": [
-      "玉繭（2匹の繭から取った絹糸）"
-    ],
-    "features": [
-      "2個の繭から取る玉繭糸が生む「釘抜き」と称される強靱さ",
-      "結城紬・大島紬と並ぶ日本三大紬の一つ",
-      "白山麓の自然の中で守り継がれる希少な絹織物"
-    ],
-    "workshops": [
-      {
-        "name": "牛首紬工房 白山工房（産地にご確認ください）",
-        "url": "https://ushikubitsumugi.com/",
-        "experience": true,
-        "experience_desc": "手織り体験（産地にご確認ください）",
-        "address": "石川県白山市白峰"
-      }
-    ],
-    "purchase_keywords": "牛首紬 購入 着物 石川",
-    "price_range": "反物 200,000円〜 / 着物仕立て 400,000円〜",
-    "lat": 36.21,
-    "lng": 136.62,
-    "source": "https://kougeihin.jp/craft/0118/",
-    "ogp_image_desc": "光沢ある玉繭糸の牛首紬の反物と着物"
-  },
-  {
-    "id": "tango_chirimen",
-    "name": "丹後ちりめん",
-    "name_en": "Tango Chirimen Crepe",
-    "name_fr": "Crêpe Tango Chirimen",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 26,
-    "prefecture": "kyoto",
-    "prefecture_ja": "京都府",
-    "area": "京丹後市・宮津市・与謝野町",
-    "founded": 1720,
-    "founded_era": "享保5年",
-    "desc": "京都府北部の丹後地方（京丹後市・宮津市など）で生産される絹の縮緬（ちりめん）織物。1720年（享保5年）に峰山藩の絹商人・絹屋佐平治が京都から技術を持ち帰り始めたとされる。国内の絹ちりめん生産量約60%を占める日本最大の絹ちりめん産地で、友禅・小紋・振袖など京都の染物・着物の素材として広く使われている。",
-    "desc_en": "Tango Chirimen is silk crepe fabric produced in the northern Kyoto Tango region (Kyotango City, Miyazu City, etc.). Said to have started in 1720 when silk merchant Kinutani Saheiji of Mineyama domain brought back techniques from Kyoto. Accounting for approximately 60% of domestic silk chirimen production, it is Japan's largest silk chirimen area, widely used as material for Kyoto's dyeing and kimono including yuzen, komon, and furisode.",
-    "techniques": [
-      "縮緬織り",
-      "撚り糸使い",
-      "先練り"
-    ],
-    "materials": [
-      "生糸",
-      "強撚糸"
-    ],
-    "features": [
-      "国内絹ちりめん生産量約60%・日本最大の絹ちりめん産地",
-      "京友禅・小紋・振袖の素材として欠かせない存在",
-      "独特のシボ（縮み・凹凸）が生む柔らかな光沢と肌触り"
-    ],
-    "workshops": [
-      {
-        "name": "丹後ちりめん歴史館",
-        "url": "https://www.tangosilk.jp/",
-        "experience": true,
-        "experience_desc": "ちりめん染め体験（産地にご確認ください）",
-        "address": "京都府与謝野町"
-      }
-    ],
-    "purchase_keywords": "丹後ちりめん 購入 絹 反物 スカーフ",
-    "price_range": "スカーフ 5,000円〜 / 反物 30,000円〜 / 振袖反物 100,000円〜",
-    "lat": 35.65,
-    "lng": 135.15,
-    "source": "https://tanko.or.jp/",
-    "ogp_image_desc": "独特のシボが美しい丹後ちりめんの絹反物"
-  },
-  {
-    "id": "kurume_kasuri",
-    "name": "久留米絣",
-    "name_en": "Kurume Kasuri",
-    "name_fr": "Tissu Kasuri Kurume",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 40,
-    "prefecture": "fukuoka",
-    "prefecture_ja": "福岡県",
-    "area": "久留米市・八女市・筑後市",
-    "founded": 1800,
-    "founded_era": "寛政年間",
-    "desc": "19世紀初め、古い木綿布のかすれた糸をヒントに12歳の少女が絣の技法を生み出したのが起こりとされる福岡県久留米市の綿絣織物。その後、久留米藩が産業として奨励し、絵絣や小絣など改良が重ねられて他に類のない独自の技術へと発展した。手括り染めの深い藍色と白の幾何学文様が特徴で、日本三大絣の一つとして世界のファッション界でも高く評価される。",
-    "desc_en": "Kurume Kasuri is cotton kasuri fabric produced mainly in Kurume City, Fukuoka Prefecture. Around 1800, a young girl named Inoue Den (age 12) of the Kurume domain is said to have invented the kasuri technique from patterns on worn clothing. 'Hon-gasuri' (true kasuri), where threads are tie-dyed by hand (tekukuri), preserves over 400 kasuri patterns. The deep indigo and white geometric patterns are characteristic. Recognized as one of Japan's Three Great Kasuri, it is also evaluated in the global fashion world.",
-    "techniques": [
-      "手括り絣（てくくりがすり）",
-      "藍染め",
-      "手機織り"
-    ],
-    "materials": [
-      "綿糸",
-      "天然藍"
-    ],
-    "features": [
-      "12歳の少女・井上伝が発案したとされる絣技法の歴史",
-      "深い藍色と白の幾何学文様・日本三大絣の一つ",
-      "400種以上の絣図案が現代ファッションにも影響を与える"
-    ],
-    "workshops": [
-      {
-        "name": "久留米絣技術保存会（産地にご確認ください）",
-        "url": "https://kurume-kasuri.com/",
-        "experience": true,
-        "experience_desc": "手織り体験 2,000円〜",
-        "address": "福岡県久留米市"
-      }
-    ],
-    "purchase_keywords": "久留米絣 購入 藍 反物 着物",
-    "price_range": "小物 3,000円〜 / 浴衣反物 20,000円〜 / 着物反物 80,000円〜",
-    "lat": 33.3209,
-    "lng": 130.5081,
-    "source": "https://kougeihin.jp/craft/0124/",
-    "ogp_image_desc": "深い藍色と白の幾何学文様が美しい久留米絣の反物"
-  },
-  {
-    "id": "kihachijo",
-    "name": "黄八丈",
-    "name_en": "Kihachijo",
-    "name_fr": "Kihachijo",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 13,
-    "prefecture": "tokyo",
-    "prefecture_ja": "東京都",
-    "area": "八丈島",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "室町時代から絹の貢納記録が残る東京都八丈島の絹織物。江戸時代中期以降、現代にも通じる粋な縦縞・格子縞が織られるようになった。島固有の植物（コブナグサ・マダミ・椎）で糸を草木染めし、黄・樺色（かばいろ）・黒の三色を使い分ける。それぞれ「黄八丈」「鳶八丈」「黒八丈」と呼ばれ、将軍家への年貢品として奉納されてきた格調ある絹織物。",
-    "desc_en": "Kihachijo is silk fabric produced on Hachijojima Island, Tokyo. Silk threads are dyed using plants unique to the island (kobunagrass, madami, and oak) and woven by hand. The traditional three-color stripe and plaid patterns in yellow, reddish-brown, and black are called 'Ki-hachijo,' 'Tobi-hachijo,' and 'Kuro-hachijo' respectively. With a history as tribute to the Shogunate during the Edo period, a small number of island craftsmen continue production today.",
-    "techniques": [
-      "草木染め",
-      "手機織り",
-      "縞・格子模様"
-    ],
-    "materials": [
-      "生糸",
-      "コブナグサ（黄色）",
-      "マダミ（樺色）",
-      "椎の木（黒色）"
-    ],
-    "features": [
-      "八丈島固有の植物で染める草木染めの豊かな自然色",
-      "将軍家への年貢品として奉納された江戸時代からの格式",
-      "黄・樺・黒の三色縞格子が生む独自の島の美"
-    ],
-    "workshops": [
-      {
-        "name": "黄八丈織元 めゆ工房",
-        "url": "https://www.kihachijo.com/",
-        "experience": true,
-        "experience_desc": "草木染め・機織り体験（要予約）",
-        "address": "東京都八丈島"
-      }
-    ],
-    "purchase_keywords": "黄八丈 購入 着物 反物 八丈島",
-    "price_range": "小物 5,000円〜 / 反物 200,000円〜 / 着物仕立て 400,000円〜",
-    "lat": 33.1109,
-    "lng": 139.7883,
-    "source": "https://kougeihin.jp/craft/0109/",
-    "ogp_image_desc": "黄・樺・黒の三色縞が美しい黄八丈の反物"
-  },
-  {
-    "id": "miyako_jofu",
-    "name": "宮古上布",
-    "name_en": "Miyako Jofu",
-    "name_fr": "Toile Miyako",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "宮古島市",
-    "founded": 1583,
-    "founded_era": "天正11年頃",
-    "desc": "今から約400年前、宮古島の男が嵐で沈没しかけた琉球王府の船を救い、その功績を称えた妻が心を込めて布を織り王に献上したのが始まりとされる沖縄県宮古島の麻布。手績みした苧麻を手機で織り、砧打ちで柔らかくした後に海水・砂浜で晒す独自の工程を経る。糸の細さと密度の高さから「蝉の羽」とも称される薄くて軽い最高級の麻布。",
-    "desc_en": "Miyako jofu is a linen fabric woven on Miyako Island, Okinawa. Said to have begun in the late 16th century as tribute cloth paid to the Satsuma Domain during the Ryukyu Kingdom era. After hand-spinning ramie fiber and weaving on a hand loom, the cloth is softened with a wooden mallet and bleached with seawater and sand. So thin and light it is called \"cicada wings,\" it is the finest of all Japanese linen textiles.",
-    "techniques": [
-      "手績み苧麻",
-      "手機織り",
-      "砧打ち",
-      "海晒し"
-    ],
-    "materials": [
-      "苧麻（ちょま）"
-    ],
-    "features": [
-      "「蝉の羽」と称される極薄・高密度の最高級麻布",
-      "海水と砂浜で晒す宮古島ならではの独自の工程",
-      "国指定重要無形文化財に指定された沖縄の至宝"
-    ],
-    "workshops": [
-      {
-        "name": "宮古上布技術保存組合",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県宮古島市平良"
-      }
-    ],
-    "purchase_keywords": "宮古上布 着物 反物 購入",
-    "price_range": "反物 500,000円〜 / 完成着物 1,000,000円〜",
-    "lat": 24.8053,
-    "lng": 125.2811,
-    "source": "https://kougeihin.jp/craft/0127/",
-    "ogp_image_desc": "宮古上布の薄い麻布の反物と着物"
-  },
-  {
-    "id": "yaeyama_jofu",
-    "name": "八重山上布",
-    "name_en": "Yaeyama Jofu",
-    "name_fr": "Toile Yaeyama",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "石垣市・竹富町",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "17世紀初めに薩摩が琉球を侵攻し課せられた人頭税のために織ることを強制されたことが技術向上につながった、沖縄県石垣市・竹富町の麻織物。明治末に組合が結成されて産業として盛んになったが、戦争で一時途絶え、戦後に数名でほそぼそと再建された。手績み苧麻を手機で織る絣文様の布で、宮古上布と並ぶ沖縄の高級麻織物として現在も継承が続く。",
-    "desc_en": "Yaeyama jofu is a linen fabric woven on Ishigaki Island and Taketomi Island in Okinawa Prefecture. Alongside Miyako jofu, it is one of Okinawa's premium linen textiles, woven from hand-spun ramie on a hand loom. It features kasuri (ikat) patterns, many depicting the natural beauty of the Yaeyama Islands such as star sand and sea urchins. Despite a serious shortage of successors, preservation and transmission continue for this precious traditional textile.",
-    "techniques": [
-      "手績み苧麻",
-      "手機織り",
-      "絣文様（星砂・ウニなど）"
-    ],
-    "materials": [
-      "苧麻（ちょま）"
-    ],
-    "features": [
-      "宮古上布と並ぶ沖縄を代表する高級麻織物",
-      "石垣・竹富の自然（星砂・ウニ）を象った絣文様",
-      "手績み・手機による完全手工芸の希少な織物"
-    ],
-    "workshops": [
-      {
-        "name": "竹富民芸館",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県八重山郡竹富町竹富"
-      }
-    ],
-    "purchase_keywords": "八重山上布 反物 購入",
-    "price_range": "反物 300,000円〜 / 完成着物 600,000円〜",
-    "lat": 24.3407,
-    "lng": 124.1569,
-    "source": "https://kougeihin.jp/craft/0135/",
-    "ogp_image_desc": "八重山上布の絣文様が美しい麻の反物"
-  },
-  {
-    "id": "kumejima_tsumugi",
-    "name": "久米島紬",
-    "name_en": "Kumejima Tsumugi",
-    "name_fr": "Soie Kumejima",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "島尻郡久米島町",
-    "founded": 1500,
-    "founded_era": "室町時代末期",
-    "desc": "14世紀頃に南方貿易を通じてインドを源流とする製織法が伝わり、中国から養蚕技術も学んで織物が始まったとされる沖縄県久米島の絹紬。日本の紬の発祥の地とも言われ、江戸初期から明治後期まで人頭税の代納品として反物が納められてきた。島の草木と水田の泥を使った独自の泥染めが深みある茶・黒色を生み出し、手機で丁寧に仕上げる。",
-    "desc_en": "Kumejima tsumugi is a silk textile produced on Kumejima Island, Okinawa Prefecture. With a history stretching from the late Muromachi period, silk yarn dyed with natural dyes from island plants and mud is woven on a hand loom. The distinctive mud dyeing process called \"guuteen\" creates uniquely deep brown and black colors. It is a traditional craft where plant and mud dyeing and hand weaving are unified.",
-    "techniques": [
-      "手紡ぎ絹糸",
-      "草木染め",
-      "泥染め（グーデーン）",
-      "手機織り"
-    ],
-    "materials": [
-      "絹糸",
-      "久米島の植物染料",
-      "泥（水田の泥）"
-    ],
-    "features": [
-      "島の植物と水田の泥による独自の天然染色技術",
-      "深みある茶・黒色を生み出す「泥染め（グーデーン）」",
-      "久米島の自然と文化が凝縮された沖縄随一の紬"
-    ],
-    "workshops": [
-      {
-        "name": "久米島紬事業協同組合",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県島尻郡久米島町"
-      }
-    ],
-    "purchase_keywords": "久米島紬 着物 購入",
-    "price_range": "反物 200,000円〜 / 完成着物 400,000円〜",
-    "lat": 26.3394,
-    "lng": 126.7875,
-    "source": "https://kougeihin.jp/craft/0126/",
-    "ogp_image_desc": "久米島紬の泥染め深茶色の反物と着物"
-  },
-  {
-    "id": "shuri_ori",
-    "name": "首里織",
-    "name_en": "Shuri Ori",
-    "name_fr": "Tissage Shuri",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "那覇市首里",
-    "founded": 1300,
-    "founded_era": "琉球王国時代",
-    "desc": "14〜15世紀の琉球王国が東南アジアや中国と盛んに交易を行い、その交流で得た織の技術が積み重なって生まれた沖縄県那覇市首里地区の絹織物の総称。首里王府の城下町として栄えた首里では、王府の貴族・士族のために色と柄を究極まで追求した格調高い織物が織り継がれてきた。花織・道屯織・ロートン織など5種以上の多彩な技法を包含する。",
-    "desc_en": "Shuri ori is a collective term for silk textiles woven in the Shuri district of Naha City, Okinawa Prefecture. Developed around Shuri Castle, seat of the Ryukyu Kingdom, it incorporated diverse patterns and techniques from trade with China and Southeast Asia. It encompasses multiple techniques including hanagasuri, donton weaving, teshima, nitsuke, and rotton weaving, characterized by vibrant and intricate patterns.",
-    "techniques": [
-      "花織",
-      "道屯織（どんとんおり）",
-      "手縞",
-      "煮付（にしき）",
-      "ロートン織"
-    ],
-    "materials": [
-      "絹糸",
-      "天然染料（藍・フクギなど）"
-    ],
-    "features": [
-      "琉球王国の王府文化が生み出した格調高い絹織物",
-      "中国・東南アジアとの交易を反映した多彩な文様と技法",
-      "5種類以上の異なる織法を包含する首里の織物文化"
-    ],
-    "workshops": [
-      {
-        "name": "首里織工房石田",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県那覇市首里"
-      }
-    ],
-    "purchase_keywords": "首里織 着物 反物 購入",
-    "price_range": "反物 150,000円〜 / 帯 80,000円〜 / 完成着物 300,000円〜",
-    "lat": 26.2172,
-    "lng": 127.7194,
-    "source": "https://kougeihin.jp/craft/0131/",
-    "ogp_image_desc": "首里織の花織文様が美しい絹の反物と帯"
-  },
-  {
-    "id": "kiryu_ori",
-    "name": "桐生織",
-    "name_en": "Kiryu Ori",
-    "name_fr": "Tissage Kiryu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 10,
-    "prefecture": "gunma",
-    "prefecture_ja": "群馬県",
-    "area": "桐生市",
-    "founded": 700,
-    "founded_era": "奈良時代",
-    "desc": "約1,300年前、宮中に仕える白滝姫が機織りの技を桐生の村人に伝えたのが始まりとされる群馬県桐生市の絹織物。関ヶ原の戦いで徳川家康が桐生の白絹の旗を用いたことでその名が全国に広まり、幕府の保護のもとで金襴緞子などの高級織物産地へと発展した。「西の西陣、東の桐生」と称される東日本最大の絹産地で、帯・着物地から洋装素材まで多彩に生産する。",
-    "desc_en": "Kiryu ori is a silk textile produced in Kiryu City, Gunma Prefecture. Records of silk being presented to the Imperial court date to the Nara period, earning it the description \"Nishijin of the West, Kiryu of the East\" as the largest silk textile production area in eastern Japan. It produces diverse products including obi, kimono fabric, and shawls, and in recent years has incorporated advanced materials such as polyester while preserving traditional patterns and techniques.",
-    "techniques": [
-      "綴織",
-      "ジャカード織",
-      "本綴",
-      "錦織",
-      "紬織"
-    ],
-    "materials": [
-      "絹糸",
-      "ポリエステル糸",
-      "金糸・銀糸"
-    ],
-    "features": [
-      "「西の西陣、東の桐生」と称される東日本最大の絹産地",
-      "奈良時代から続く1,300年以上の絹織物の歴史",
-      "帯・着物から現代ファッション素材まで幅広い製品展開"
-    ],
-    "workshops": [
-      {
-        "name": "桐生織物記念館",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "群馬県桐生市"
-      }
-    ],
-    "purchase_keywords": "桐生織 帯 着物 購入",
-    "price_range": "帯 30,000円〜 / 反物 50,000円〜 / ショール 10,000円〜",
-    "lat": 36.4034,
-    "lng": 139.3309,
-    "source": "https://kougeihin.jp/craft/0106/",
-    "ogp_image_desc": "桐生織の錦織の帯と着物地"
-  },
-  {
-    "id": "tama_ori",
-    "name": "多摩織",
-    "name_en": "Tama Ori",
-    "name_fr": "Tissage Tama",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 13,
-    "prefecture": "tokyo",
-    "prefecture_ja": "東京都",
-    "area": "八王子市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "平安時代末頃から現在の八王子で絹が織られてきた歴史を持ち、室町時代後期に多摩川のほとりに来た北条氏が産業として奨励したことで産地の形が整った絹織物。明治以降は文明開化による技術の急速な発展と独自の技術開発で今日の多摩織の基盤が築かれた。お召縮緬・風通織・紬など多彩な技法を持ち、東京の地場産業として着物地・帯地を生産し続けている。",
-    "desc_en": "Tama ori is a silk textile produced mainly in Hachioji City, Tokyo. Developed against the backdrop of Hachioji's silk industry dating to the early Edo period, it is also called \"Hachioji textiles.\" It encompasses diverse techniques including omeshi crepe, fuutsuu weaving, and tsumugi, and is known as a prestigious kimono fabric and obi. Though mechanization advanced after the Meiji era, high-quality hand-woven products continue to be produced.",
-    "techniques": [
-      "お召縮緬",
-      "風通織",
-      "紬織",
-      "緞子"
-    ],
-    "materials": [
-      "絹糸",
-      "草木染め糸"
-    ],
-    "features": [
-      "東京・八王子が誇る江戸時代からの絹織物の伝統",
-      "お召縮緬・風通織など多彩な技法を持つ着物地産地",
-      "東京の地場産業として現代まで続く絹織物の技術"
-    ],
-    "workshops": [
-      {
-        "name": "八王子市郷土資料館（織物展示）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "東京都八王子市"
-      }
-    ],
-    "purchase_keywords": "多摩織 八王子織物 帯 購入",
-    "price_range": "帯 40,000円〜 / 反物 60,000円〜",
-    "lat": 35.6661,
-    "lng": 139.3165,
-    "source": "https://kougeihin.jp/craft/0110/",
-    "ogp_image_desc": "多摩織のお召縮緬の着物地と帯"
-  },
-  {
-    "id": "ise_momen",
-    "name": "伊勢木綿",
-    "name_en": "Ise Momen",
-    "name_fr": "Coton Ise",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 24,
-    "prefecture": "mie",
-    "prefecture_ja": "三重県",
-    "area": "津市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "三重県津市（旧白子地区）で生産される木綿織物。江戸時代初期から続く歴史を持ち、「お伊勢参り」の参拝客に伊勢路土産として売られたことで全国に知られた。やや厚手でしっかりとした風合いの縞・格子文様が特徴で、洗うほど柔らかくなる使い心地の良い日用布として今も愛される。",
-    "desc_en": "Ise momen is a cotton textile produced in Tsu City (former Shiroko area), Mie Prefecture. With a history from the early Edo period, it became known nationwide as a souvenir sold to pilgrims visiting the Ise Shrines along the Ise road. Characterized by somewhat thick, sturdy striped and plaid patterns, it remains beloved as a comfortable everyday fabric that softens with washing.",
-    "techniques": [
-      "縞織り",
-      "格子織り",
-      "先染め",
-      "手機（一部）"
-    ],
-    "materials": [
-      "綿糸",
-      "天然染料（藍など）"
-    ],
-    "features": [
-      "お伊勢参りの参拝客に愛された「伊勢路の土産布」",
-      "洗うほど柔らかくなる日常使いに適した丈夫な綿織物",
-      "藍・縞・格子の素朴なデザインが現代でも人気"
-    ],
-    "workshops": [
-      {
-        "name": "臼井織布",
-        "url": "https://isemomen.jp/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "三重県津市白子"
-      }
-    ],
-    "purchase_keywords": "伊勢木綿 手ぬぐい 反物 購入",
-    "price_range": "手ぬぐい 1,500円〜 / 反物 15,000円〜 / 浴衣 20,000円〜",
-    "lat": 34.8556,
-    "lng": 136.5967,
-    "source": "https://isemomen.com/",
-    "ogp_image_desc": "伊勢木綿の縞・格子模様の反物と手ぬぐい"
-  },
-  {
-    "id": "tokamachi_kasuri",
-    "name": "十日町絣",
-    "name_en": "Tokamachi Kasuri",
-    "name_fr": "Kasuri Tokamachi",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 15,
-    "prefecture": "niigata",
-    "prefecture_ja": "新潟県",
-    "area": "十日町市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "越後縮の絣技術が18世紀前半に定着した新潟県十日町市の絹絣織物産地。19世紀後半に経絣織（たてかすりおり）が成功して絹織物への応用が始まり、明治初期には緯絣も加わって精巧な技術が急速に発展した。「突絣（つきかすり）」など独自技法を生み出し、越後の雪国文化が育む精緻な絣文様と染色技術が特徴。現在も着物地・帯から多彩な製品を生産している。",
-    "desc_en": "Tokamachi kasuri is a silk kasuri (ikat) textile produced in Tokamachi City, Niigata Prefecture. With traditions of silk production in the snow country dating to the mid-Edo period, it features intricate kasuri patterns and distinctive dyeing techniques. Located in the center of Echigo textile culture alongside the neighboring production areas of Ojiya chijimi and Echigo jofu, it currently produces diverse products including kimono fabric, obi, and interior textiles.",
-    "techniques": [
-      "絣括り",
-      "先染め",
-      "手機織り",
-      "型染め絣"
-    ],
-    "materials": [
-      "絹糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "越後の雪国文化が生んだ精緻な絹絣の伝統",
-      "独特の絣文様と染色技術による美しい着物地",
-      "小千谷縮・越後上布と並ぶ新潟の織物文化の中心地"
-    ],
-    "workshops": [
-      {
-        "name": "十日町市博物館",
-        "url": "https://www.tokamachi-museum.jp/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "新潟県十日町市"
-      }
-    ],
-    "purchase_keywords": "十日町絣 着物 反物 購入",
-    "price_range": "反物 50,000円〜 / 帯 30,000円〜 / 完成着物 100,000円〜",
-    "lat": 37.1322,
-    "lng": 138.7567,
-    "source": "https://kougeihin.jp/craft/0115/",
-    "ogp_image_desc": "十日町絣の精緻な絣文様の絹反物"
-  },
-  {
-    "id": "murayama_oshima",
-    "name": "村山大島紬",
-    "name_en": "Murayama Oshima Tsumugi",
-    "name_fr": "Tsumugi Murayama Oshima",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 13,
-    "prefecture": "tokyo",
-    "prefecture_ja": "東京都",
-    "area": "武蔵村山市・東大和市",
-    "founded": 1800,
-    "founded_era": "江戸時代後期",
-    "desc": "江戸時代後期に東京都武蔵村山市・東大和市周辺で始まった絹織物。正藍染めによる錦織物「村山紺絣」と玉繭による絹織物「砂川太織」の二つが1920年頃に融合して現在の村山大島紬が成立した。品質と丈夫さが高く評価され、東京都指定無形文化財にも認められている。綿絣の技法と絹糸の組み合わせが生む独自の風合いが特徴。",
-    "desc_en": "Murayama oshima tsumugi is a silk textile produced around Musashimurayama City and Higashiyamato City in Tokyo. Beginning in the late Edo period, it developed independently by incorporating techniques from Amami Oshima tsumugi. Characterized by \"mengasuri\" (cotton warp kasuri), combining cotton and silk threads, it is known as a durable and practical kimono fabric. It is a Tokyo-produced tsumugi designated as a nationally recognized traditional craft.",
-    "techniques": [
-      "綿絣（めんがすり）",
-      "絣括り",
-      "手機織り",
-      "先染め"
-    ],
-    "materials": [
-      "絹糸",
-      "綿糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "東京産の伝統的工芸品として指定を受けた希少な紬",
-      "綿糸と絹糸を組み合わせた「綿絣」という独自技法",
-      "大島紬の技術を関東で独自発展させた多摩地域の織物"
-    ],
-    "workshops": [
-      {
-        "name": "村山大島紬組合",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "東京都武蔵村山市"
-      }
-    ],
-    "purchase_keywords": "村山大島紬 着物 購入",
-    "price_range": "反物 100,000円〜 / 完成着物 200,000円〜",
-    "lat": 35.7547,
-    "lng": 139.3869,
-    "source": "https://kougeihin.jp/craft/0108/",
-    "ogp_image_desc": "村山大島紬の綿絣文様の絹着物地"
-  },
-  {
-    "id": "shinshu_tsumugi",
-    "name": "信州紬",
-    "name_en": "Shinshu Tsumugi",
-    "name_fr": "Tsumugi Shinshu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 20,
-    "prefecture": "nagano",
-    "prefecture_ja": "長野県",
-    "area": "松本市・上田市・飯田市ほか",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "奈良時代に織られていた「あしぎぬ」まで遡る歴史を持つ長野県各地の絹紬織物の総称。江戸時代初期に信州各藩が競って養蚕・紬を奨励し、信州全域が産地として栄えて毎年京都へ大量の紬が送られた。その後一時衰退したが、戦後は県や市町村の振興で復活。上田・飯田・松本など産地別ブランドが草木染め・手織りの名産地として全国から評価される。",
-    "desc_en": "Shinshu tsumugi is a collective term for silk tsumugi textiles produced across Nagano Prefecture (including Matsumoto, Ueda, and Iida). Developed in Shinshu, where sericulture has flourished since the Edo period, it features natural color tones from plant dyeing and a simple, rustic texture. It includes area-specific brands such as Ueda tsumugi, Iida tsumugi, and Matsumoto tsumugi, and has a national reputation as a center of plant dyeing and hand weaving.",
-    "techniques": [
-      "草木染め",
-      "手紡ぎ",
-      "手機織り",
-      "先染め絣"
-    ],
-    "materials": [
-      "絹糸（生糸・玉糸・真綿糸）",
-      "草木染料"
-    ],
-    "features": [
-      "松本・上田・飯田など信州各地の産地が育む絹紬文化",
-      "草木染めによる自然で豊かな色調が現代人にも人気",
-      "蚕業の伝統が根付く長野県ならではの絹産業の歴史"
-    ],
-    "workshops": [
-      {
-        "name": "上田紬 小岩井紬工房",
-        "url": "https://www.tsumugi.co.jp/",
-        "experience": true,
-        "experience_desc": "手織り体験（要予約）",
-        "address": "長野県上田市"
-      }
-    ],
-    "purchase_keywords": "信州紬 上田紬 着物 反物 購入",
-    "price_range": "反物 80,000円〜 / 帯 30,000円〜 / 完成着物 150,000円〜",
-    "lat": 36.4018,
-    "lng": 138.2489,
-    "source": "https://kougeihin.jp/craft/0117/",
-    "ogp_image_desc": "信州紬の草木染め絹反物と上田紬の着物"
-  },
-  {
-    "id": "chichibu_meisen",
-    "name": "秩父銘仙",
-    "name_en": "Chichibu Meisen Silk",
-    "name_fr": "Soie Chichibu Meisen",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 11,
-    "prefecture": "saitama",
-    "prefecture_ja": "埼玉県",
-    "area": "秩父市",
-    "founded": 1900,
-    "founded_era": "明治後期",
-    "desc": "江戸時代から埼玉県秩父市で生産されてきた絹の平織物で、明治41年に独自の「解し捺染（ほぐしなっせん）」技法で特許を取得し全盛を迎えた。経糸に型紙で捺染してからほぐして緯糸を織り込むことで輪郭がにじんだ絵画的な模様が生まれる。補色の緯糸が生む玉虫光沢と植物柄の多さが特徴で、大正ロマン・昭和モダンを象徴する大衆向け絹織物として全国で愛された。",
-    "desc_en": "Chichibu Meisen is a flat-woven silk fabric produced in Chichibu City, Saitama Prefecture. A popular silk textile that flourished from the late Meiji to early Showa eras, it is characterized by a unique technique called 'hogushi-nassen' (dissolve printing). By printing the warp threads with stencils before weaving in the weft, soft painterly patterns with blurred outlines are created. Known for pop designs symbolizing Taisho Romanticism and Showa modernism, it is undergoing revival and reappraisal today.",
-    "techniques": [
-      "ほぐし捺染",
-      "先染め",
-      "平織り"
-    ],
-    "materials": [
-      "絹糸（生糸）",
-      "染料"
-    ],
-    "features": [
-      "「ほぐし捺染」による輪郭がにじんだ独特の絵画的模様",
-      "大正ロマン・昭和モダンを象徴するポップなデザイン",
-      "大衆向け絹織物として全国で愛された秩父の誇り"
-    ],
-    "workshops": [
-      {
-        "name": "秩父銘仙館",
-        "url": "https://www.chichibumeisenkan.com/",
-        "experience": true,
-        "experience_desc": "ほぐし捺染体験 2,000円〜",
-        "address": "埼玉県秩父市"
-      }
-    ],
-    "purchase_keywords": "秩父銘仙 着物 購入 大正ロマン",
-    "price_range": "小物 2,000円〜 / 反物 30,000円〜 / 着物仕立て 80,000円〜",
-    "lat": 35.9919,
-    "lng": 139.0851,
-    "source": "https://kougeihin.jp/craft/0107/",
-    "ogp_image_desc": "大正ロマンを感じるポップな柄の秩父銘仙の着物"
-  },
-  {
-    "id": "isesaki_kasuri",
-    "name": "伊勢崎絣",
-    "name_en": "Isesaki Kasuri",
-    "name_fr": "Kasuri Isesaki",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 10,
-    "prefecture": "gunma",
-    "prefecture_ja": "群馬県",
-    "area": "伊勢崎市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "歴史は古代まで遡ることができるが、産地としての形が整ったのは17世紀後半の群馬県伊勢崎市の絹絣織物。明治・大正・昭和にかけては「伊勢崎銘仙（いせさきめいせん）」として全国的に知られた。括絣・板締絣・捺染加工の三種の技法が特色で、単純な絣柄から精密な文様まで絹の風合いを生かした多彩な作品を生み出す。久留米絣・備後絣・弓浜絣と並ぶ日本四大絣の一つ。",
-    "desc_en": "Isesaki kasuri is a silk kasuri (ikat) textile produced in Isesaki City, Gunma Prefecture. Considered one of Japan's Four Great Kasuri alongside Kurume kasuri, Bingo kasuri, and Yumihama kasuri. It uses pre-dyed threads combined to create patterns, encompassing diverse techniques including board-clamp kasuri, print kasuri, and precision kasuri. Developed as a major industry in Gunma from the Edo through Meiji and Taisho eras, it continues to be produced today as kimono and obi fabric.",
-    "techniques": [
-      "板締め絣",
-      "捺染絣",
-      "精巧絣",
-      "先染め"
-    ],
-    "materials": [
-      "絹糸",
-      "綿糸",
-      "染料"
-    ],
-    "features": [
-      "久留米・備後・弓浜と並ぶ「日本四大絣」の一つ",
-      "板締め・捺染・精巧絣など多彩な絣技法を持つ",
-      "群馬県伊勢崎の地場産業として発展した絹絣の伝統"
-    ],
-    "workshops": [
-      {
-        "name": "伊勢崎市産業振興課（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "群馬県伊勢崎市"
-      }
-    ],
-    "purchase_keywords": "伊勢崎絣 着物 購入 絣",
-    "price_range": "反物 40,000円〜 / 帯 20,000円〜 / 完成着物 100,000円〜",
-    "lat": 36.3108,
-    "lng": 139.1967,
-    "source": "https://kougeihin.jp/craft/0105/",
-    "ogp_image_desc": "精緻な絣文様が美しい伊勢崎絣の絹着物地"
-  },
-  {
-    "id": "moka_momen",
-    "name": "真岡木綿",
-    "name_en": "Moka Momen Cotton",
-    "name_fr": "Coton Moka",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 9,
-    "prefecture": "tochigi",
-    "prefecture_ja": "栃木県",
-    "area": "真岡市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "栃木県真岡市で生産される木綿織物。江戸時代初期から続く歴史を持ち、縦縞・格子縞を中心とした素朴な風合いの綿布として知られる。浴衣地・手ぬぐい・作業着地として広く使われてきた実用的な織物で、洗うほど柔らかくなる使い心地が特徴。現在も真岡市の地場産業として生産が続いている。",
-    "desc_en": "Moka momen is a cotton textile produced in Moka City, Tochigi Prefecture. With a history from the early Edo period, it is known as a plain cotton fabric primarily featuring vertical stripes and plaid patterns. A practical textile widely used for yukata, tenugui hand towels, and workwear, it is characterized by becoming softer with washing. Production continues today as a local industry of Moka City.",
-    "techniques": [
-      "縞織り",
-      "格子織り",
-      "先染め"
-    ],
-    "materials": [
-      "綿糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "江戸時代から続く素朴な縞・格子の実用的な綿織物",
-      "洗うほど柔らかくなる日常使いに適した丈夫な木綿",
-      "浴衣・手ぬぐい・作業着に愛用されてきた真岡の誇り"
-    ],
-    "workshops": [
-      {
-        "name": "真岡市糸車（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "栃木県真岡市"
-      }
-    ],
-    "purchase_keywords": "真岡木綿 手ぬぐい 浴衣 購入 栃木",
-    "price_range": "手ぬぐい 1,000円〜 / 反物 8,000円〜 / 浴衣 15,000円〜",
-    "lat": 36.4394,
-    "lng": 140.0153,
-    "source": "http://www.mokamomen.com/",
-    "ogp_image_desc": "素朴な縞模様が美しい真岡木綿の綿反物と手ぬぐい"
-  },
-  {
-    "id": "ueda_tsumugi",
-    "name": "上田紬",
-    "name_en": "Ueda Tsumugi",
-    "name_fr": "Tsumugi Ueda",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 20,
-    "prefecture": "nagano",
-    "prefecture_ja": "長野県",
-    "area": "上田市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "長野県上田市で生産される絹紬織物。江戸時代初期から続く信州を代表する紬で、「三度洗うと上田紬」と言われるほど丈夫な絹織物として知られる。真綿から手で引き出した糸（紬糸）を草木染めして手織りするのが本来の製法で、素朴な風合いとともに優れた耐久性を誇る。現在も上田市の職人が伝統技法を守り、着物地として生産される。",
-    "desc_en": "Ueda tsumugi is a silk tsumugi textile produced in Ueda City, Nagano Prefecture. A representative tsumugi of Shinshu with a history from the early Edo period, it is known as such a durable silk textile that the saying goes 'Ueda tsumugi gets better after three washings.' The original production method involves hand-drawing threads from mawata (silk wadding), dyeing with plants, and hand weaving, boasting superior durability along with a rustic texture. Craftspeople in Ueda City continue to preserve traditional techniques today, producing kimono fabric.",
-    "techniques": [
-      "手紡ぎ（真綿糸）",
-      "草木染め",
-      "手機織り"
-    ],
-    "materials": [
-      "絹糸（真綿糸）",
-      "草木染料"
-    ],
-    "features": [
-      "「三度洗うと上田紬」と言われる信州随一の丈夫な絹紬",
-      "真綿から手で引き出した糸を草木染めする本来の製法",
-      "素朴な風合いと優れた耐久性を兼ね備えた着物地"
-    ],
-    "workshops": [
-      {
-        "name": "小岩井紬工房",
-        "url": "https://www.tsumugi.co.jp/",
-        "experience": true,
-        "experience_desc": "手織り体験（要予約）",
-        "address": "長野県上田市"
-      }
-    ],
-    "purchase_keywords": "上田紬 着物 購入 信州 長野",
-    "price_range": "反物 80,000円〜 / 完成着物 150,000円〜 / 帯 30,000円〜",
-    "lat": 36.4018,
-    "lng": 138.2489,
-    "source": "https://kougeihin.jp/craft/2001/",
-    "ogp_image_desc": "草木染めの落ち着いた色調が美しい上田紬の着物"
-  },
-  {
-    "id": "omi_jofu",
-    "name": "近江上布",
-    "name_en": "Omi Jofu Hemp Cloth",
-    "name_fr": "Toile de Chanvre Omi Jofu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 25,
-    "prefecture": "shiga",
-    "prefecture_ja": "滋賀県",
-    "area": "高島市・東近江市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "愛知川の豊かな水と高い湿度に恵まれた環境と近江商人の活躍により、鎌倉時代から麻織物が発展した滋賀県の産地。江戸時代には彦根藩の振興によりさらに発展し安定した地場産業となり、独特の上品な絣模様が生まれた。高島市・東近江市周辺で生産される高品質な夏の麻布で、清涼感ある肌触りと精緻な絣文様が特徴の夏着物・浴衣地として珍重される。",
-    "desc_en": "Omi jofu is a hemp textile produced in the areas around Takashima City and Higashiomi City, Shiga Prefecture. Developed utilizing the climate around Lake Biwa in the Koto and Kohoku regions and their abundant water resources, it is known as a high-quality jofu woven from finely twisted hemp thread. Prized as a high-end summer kimono and yukata fabric, it is characterized by a unique cool feeling and texture. Products processed with a crinkle finish, also called 'Omi chijimi,' are also produced.",
-    "techniques": [
-      "麻糸の精紡",
-      "手織り",
-      "縮み加工（ちぢみ）",
-      "絣"
-    ],
-    "materials": [
-      "麻糸（苧麻）"
-    ],
-    "features": [
-      "琵琶湖の豊かな水と気候が育む清涼感ある夏の高級麻布",
-      "細く撚った麻糸による滑らかで上品な肌触り",
-      "近江ちぢみとしての縮み加工製品も幅広く展開"
-    ],
-    "workshops": [
-      {
-        "name": "近江上布伝統産業会館（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "滋賀県高島市"
-      }
-    ],
-    "purchase_keywords": "近江上布 麻 着物 夏 購入 滋賀",
-    "price_range": "反物 50,000円〜 / 着物仕立て 120,000円〜",
-    "lat": 35.3502,
-    "lng": 136.038,
-    "source": "https://kougeihin.jp/craft/0119/",
-    "ogp_image_desc": "清涼感あふれる近江上布の麻の着物地"
-  },
-  {
-    "id": "noto_jofu",
-    "name": "能登上布",
-    "name_en": "Noto Jofu Hemp Cloth",
-    "name_fr": "Toile de Chanvre Noto Jofu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 17,
-    "prefecture": "ishikawa",
-    "prefecture_ja": "石川県",
-    "area": "七尾市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "石川県七尾市を中心とする能登半島で生産される麻織物。江戸時代中期から続く能登の伝統産業で、麻を素材にした夏向けの上布として知られる。縦縞・格子縞のシンプルなデザインが多く、清涼感のある肌触りと素朴な風合いが特徴。夏の着物・浴衣地として愛されてきた能登独自の麻織物。",
-    "desc_en": "Noto jofu is a hemp textile produced in the Noto Peninsula centered around Nanao City, Ishikawa Prefecture. A traditional industry of Noto continuing from the mid-Edo period, it is known as a summer jofu made from hemp. Featuring simple vertical stripe and plaid designs, it is characterized by a cool feel and rustic texture. It is a hemp textile unique to Noto that has been cherished as summer kimono and yukata fabric.",
-    "techniques": [
-      "麻糸の手織り",
-      "先染め縞",
-      "絣"
-    ],
-    "materials": [
-      "麻糸（苧麻）",
-      "天然染料"
-    ],
-    "features": [
-      "能登半島の伝統が生む縦縞・格子のシンプルな夏の麻布",
-      "清涼感のある肌触りと素朴な風合いの高級夏着物地",
-      "石川県七尾市を中心に受け継がれる能登独自の麻織物"
-    ],
-    "workshops": [
-      {
-        "name": "能登上布（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "石川県七尾市"
-      }
-    ],
-    "purchase_keywords": "能登上布 麻 夏着物 購入 石川",
-    "price_range": "反物 40,000円〜 / 着物仕立て 100,000円〜",
-    "lat": 37.0413,
-    "lng": 136.9668,
-    "source": "https://kougeihin.jp/craft/1701/",
-    "ogp_image_desc": "シンプルな縦縞が美しい能登上布の麻の反物"
-  },
-  {
-    "id": "banshu_ori",
-    "name": "播州織",
-    "name_en": "Banshu Ori",
-    "name_fr": "Tissage Banshu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 28,
-    "prefecture": "hyogo",
-    "prefecture_ja": "兵庫県",
-    "area": "西脇市・多可町・加西市",
-    "founded": 1792,
-    "founded_era": "寛政4年",
-    "desc": "兵庫県西脇市を中心とする北播磨地域で生産される先染め綿織物。1792年（寛政4年）頃に始まったとされる国内最大の先染め綿織物産地で、年間生産量は国内シェアの約60%を占める。シャツ地・ブラウス地・テキスタイルとして国内外に輸出され、海外のアパレルブランドにも採用されている。多彩な縞・格子・ジャカード柄の先染め織物が特徴。",
-    "desc_en": "Banshu ori is a pre-dyed cotton textile produced in the Kitaharima region centered around Nishiwaki City, Hyogo Prefecture. Said to have begun around 1792 (Kansei 4), it is Japan's largest pre-dyed cotton textile production area, accounting for approximately 60% of domestic market share. Exported domestically and internationally as shirt fabric, blouse fabric, and textiles, it has been adopted by overseas apparel brands. It is characterized by diverse pre-dyed textiles with stripes, plaids, and jacquard patterns.",
-    "techniques": [
-      "先染め",
-      "ジャカード織",
-      "縞・格子織り"
-    ],
-    "materials": [
-      "綿糸",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "国内シェア約60%を誇る日本最大の先染め綿織物産地",
-      "シャツ地として海外ブランドにも採用される高品質テキスタイル",
-      "多彩な縞・格子・ジャカード柄が播州織の豊かな表現力"
-    ],
-    "workshops": [
-      {
-        "name": "播州織工房館",
-        "url": "https://banshuori.jp/",
-        "experience": true,
-        "experience_desc": "手織り体験（要予約）",
-        "address": "兵庫県西脇市"
-      }
-    ],
-    "purchase_keywords": "播州織 シャツ生地 購入 兵庫 西脇",
-    "price_range": "生地（1m）2,000円〜 / シャツ仕立て 20,000円〜",
-    "lat": 34.9901,
-    "lng": 134.9693,
-    "source": "https://kougeihin.jp/craft/2801/",
-    "ogp_image_desc": "多彩な先染め縞・格子柄が美しい播州織の綿生地"
-  },
-  {
-    "id": "awa_shijira",
-    "name": "阿波しじら織",
-    "name_en": "Awa Shijira Weaving",
-    "name_fr": "Tissage Awa Shijira",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 36,
-    "prefecture": "tokushima",
-    "prefecture_ja": "徳島県",
-    "area": "徳島市",
-    "founded": 1880,
-    "founded_era": "明治13年頃",
-    "desc": "徳島県徳島市で生産される木綿織物。明治期に徳島で生まれた織物で、強撚糸を使って織ることにより表面に凸凹（シボ）を出す独特の技法が特徴。このシボが肌に触れる面積を減らし、涼感をもたらすため夏の着物地・浴衣地として珍重される。縞模様が多く、藍色を基調とした清涼感ある配色が特徴で、徳島の代表的な伝統織物として知られる。",
-    "desc_en": "Awa shijira ori is a cotton textile produced in Tokushima City, Tokushima Prefecture. A textile born in Tokushima during the Meiji period, it is characterized by a unique technique of weaving with tightly twisted threads to create surface texture (shibori). This texture reduces contact area with the skin, making it prized as summer kimono and yukata fabric for its cool sensation. Predominantly striped with a refreshing color scheme based on indigo blue, it is known as a representative traditional textile of Tokushima.",
-    "techniques": [
-      "強撚糸使い",
-      "シボ出し織り",
-      "先染め縞"
-    ],
-    "materials": [
-      "綿糸（強撚糸）",
-      "化学染料・天然染料（藍）"
-    ],
-    "features": [
-      "強撚糸による凸凹（シボ）が生む独特の涼感が最大の特徴",
-      "藍色を基調とした縞模様の清涼感ある配色",
-      "明治期に徳島で誕生した夏の着物地としての実用美"
-    ],
-    "workshops": [
-      {
-        "name": "阿波しじら織（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "徳島県徳島市"
-      }
-    ],
-    "purchase_keywords": "阿波しじら織 浴衣 着物 購入 徳島",
-    "price_range": "反物 10,000円〜 / 浴衣仕立て 25,000円〜",
-    "lat": 34.066,
-    "lng": 134.5594,
-    "source": "https://kougeihin.jp/craft/3601/",
-    "ogp_image_desc": "独特のシボが涼感を生む阿波しじら織の縞模様の浴衣地"
-  },
-  {
-    "id": "yomitan_hanaoui",
-    "name": "読谷山花織",
-    "name_en": "Yomitan-son Hanaoui",
-    "name_fr": "Tissage Floral Yomitan-son",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "読谷村",
-    "founded": 1500,
-    "founded_era": "琉球王国時代",
-    "desc": "15世紀には既に生産されていたと考えられる沖縄県読谷村の浮き織り絹・綿織物。当時は琉球王朝のための御用布とされ、一般の人々が着用できないほど格調の高い織物であった。経糸を浮かせて立体的な花模様を表す「花織（はなおり）」技法が特徴で、朝鮮やジャワとの交流も文様に影響している。沖縄戦で途絶えた技術を昭和期に復元し、現在も読谷村で継承されている。",
-    "desc_en": "Yomitan-son hanaoui is a float-woven silk and cotton textile produced in Yomitan Village, Okinawa Prefecture. A traditional textile dating to the Ryukyu Kingdom era, it is characterized by the 'hanaoui' (flower weaving) technique of floating warp threads to create geometric flower patterns. Using brightly colored threads of red, yellow, and green, it weaves diamond and star-shaped geometric patterns inspired by Okinawan nature. The technique, lost during the Battle of Okinawa, was restored during the Showa era and continues to be passed down in Yomitan Village today.",
-    "techniques": [
-      "花織（はなおり）",
-      "浮き織り",
-      "先染め"
-    ],
-    "materials": [
-      "絹糸",
-      "綿糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "経糸を浮かせる「花織」技法による幾何学的な花模様の美",
-      "沖縄戦で途絶えた技術を昭和期に見事に復元した歴史",
-      "赤・黄・緑の鮮やかな色彩が生む南国の幾何学美"
-    ],
-    "workshops": [
-      {
-        "name": "読谷山花織事業協同組合",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県読谷村"
-      }
-    ],
-    "purchase_keywords": "読谷山花織 着物 帯 購入 沖縄",
-    "price_range": "反物 100,000円〜 / 帯 80,000円〜 / 完成着物 250,000円〜",
-    "lat": 26.3958,
-    "lng": 127.7447,
-    "source": "https://kougeihin.jp/craft/0128/",
-    "ogp_image_desc": "鮮やかな幾何学的花模様が美しい読谷山花織の布"
-  },
-  {
-    "id": "yonaguni_ori",
-    "name": "与那国織",
-    "name_en": "Yonaguni Ori",
-    "name_fr": "Tissage Yonaguni",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "与那国町",
-    "founded": 1300,
-    "founded_era": "琉球王国時代",
-    "desc": "古い文献から約500年の歴史が確認される、日本最西端の島・与那国島（沖縄県八重山郡与那国町）の織物。16世紀前半には既に貢ぎ物として納められていたと考えられており、戦後は漁業の網を解いて布を織った時代もあった。経糸に絹、緯糸に木綿を使う交織による縞・絣模様が特徴の「どんどん織」と呼ばれる技法で仕上げる、国境の島が守り続ける希少な織物。",
-    "desc_en": "Yonaguni ori is a silk textile from Yonaguni Island, the westernmost island of Japan, in Yonaguni Town, Yaeyama District, Okinawa Prefecture. With a history dating to the Ryukyu Kingdom era, it is characterized by a unique technique also called 'dondон-ori' (don-don weaving). Mixed weaving using silk warp and cotton weft is common, and in addition to simple vertical stripe and plaid designs, there are also kasuri patterned textiles. It is a rare textile culture preserved by Japan's westernmost island.",
-    "techniques": [
-      "どんどん織",
-      "交織（絹経・綿緯）",
-      "絣"
-    ],
-    "materials": [
-      "絹糸",
-      "綿糸",
-      "天然染料"
-    ],
-    "features": [
-      "日本最西端・与那国島が守る希少な絹織物の文化",
-      "「どんどん織」と呼ばれる与那国独自の織り技法",
-      "琉球王国時代から続く縞・絣模様の伝統織物"
-    ],
-    "workshops": [
-      {
-        "name": "与那国町観光協会（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県与那国町"
-      }
-    ],
-    "purchase_keywords": "与那国織 着物 帯 購入 沖縄 与那国島",
-    "price_range": "反物 100,000円〜 / 帯 60,000円〜 / 完成着物 200,000円〜",
-    "lat": 24.467,
-    "lng": 123.0093,
-    "source": "https://kougeihin.jp/craft/0132/",
-    "ogp_image_desc": "与那国島に伝わる縞・絣模様の与那国織の絹布"
-  },
-  {
-    "id": "kijoka_bashofu",
-    "name": "喜如嘉の芭蕉布",
-    "name_en": "Kijoka Bashofu",
-    "name_fr": "Tissu Bashofu de Kijoka",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 47,
-    "prefecture": "okinawa",
-    "prefecture_ja": "沖縄県",
-    "area": "大宜味村喜如嘉",
-    "founded": 1300,
-    "founded_era": "琉球王国時代",
-    "desc": "13世紀頃にはすでに作られていたとされ、近世には庭や畑で育てた芭蕉の木を主婦や娘たちが自家用布に仕立てる文化が沖縄全土に広まった。その伝統を受け継ぐ沖縄県大宜味村喜如嘉の糸芭蕉布は、昭和49年に国の重要無形文化財に指定。葉鞘から繊維を取り出して細く裂き糸にする全工程が手作業の世界唯一の布で、現在も喜如嘉の女性たちが技を守り続けている。",
-    "desc_en": "Kijoka bashofu is a textile produced in Kijoka, Ogimi Village, Okinawa Prefecture, woven from the fibers of the itabashō (fiber banana plant) — a type of textile found nowhere else in the world. Fibers are extracted from the leaf sheaths of the fiber banana, split into fine threads, and woven by hand, making it an entirely handcrafted rare cloth. Used by royalty and samurai as traditional Okinawan attire, Living National Treasure Taira Toshiko (1921-2022) dedicated her life to preserving the technique, and it continues to be passed down today by the women of Kijoka.",
-    "techniques": [
-      "芭蕉繊維の抽出",
-      "手績み（てうみ）",
-      "手機織り",
-      "泥染め・植物染め"
-    ],
-    "materials": [
-      "糸芭蕉（イトバショウ）の葉鞘繊維"
-    ],
-    "features": [
-      "糸芭蕉の繊維から作る世界唯一の布・全工程が手作業",
-      "人間国宝・平良敏子氏が技術保存に尽力した希少な伝統",
-      "沖縄の夏の伝統衣料として王族にも愛された最高の涼感布"
-    ],
-    "workshops": [
-      {
-        "name": "喜如嘉の芭蕉布保存会",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "沖縄県大宜味村喜如嘉"
-      }
-    ],
-    "purchase_keywords": "芭蕉布 喜如嘉 沖縄 着物 購入",
-    "price_range": "反物 500,000円〜 / 完成着物 1,000,000円〜",
-    "lat": 26.6638,
-    "lng": 128.1352,
-    "source": "https://kougeihin.jp/craft/0133/",
-    "ogp_image_desc": "糸芭蕉から作られる世界唯一の喜如嘉の芭蕉布"
-  },
-  {
-    "id": "echizen_habutae",
-    "name": "越前羽二重",
-    "name_en": "Echizen Habutae Silk",
-    "name_fr": "Soie Habutae Echizen",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 18,
-    "prefecture": "fukui",
-    "prefecture_ja": "福井県",
-    "area": "越前市・鯖江市・坂井市",
-    "founded": 1300,
-    "founded_era": "室町時代",
-    "desc": "福井県越前市を中心に生産される絹の平織物。室町時代から続く歴史を持ち、現在も国内羽二重生産量の大半を占める日本一の羽二重産地。細い生糸を緻密に平織りした光沢のある白生地で、礼装用着物・着物の裏地・帯地の素材として全国の染め職人に供給される。その白さと光沢は「きぬずれの音がする」と表現されるほど上品。",
-    "desc_en": "Echizen habutae is a flat-woven silk fabric produced mainly in Echizen City, Fukui Prefecture. With a history dating to the Muromachi period, it remains Japan's leading habutae production area, accounting for the majority of domestic habutae output. A lustrous white plain-weave fabric made from fine raw silk woven densely, it is supplied to dye craftsmen nationwide as the base material for formal kimono, kimono linings, and obi fabric. Its whiteness and luster are so refined it is described as making 'the sound of rustling silk.'",
-    "techniques": [
-      "平織り",
-      "精練",
-      "白生地仕上げ"
-    ],
-    "materials": [
-      "生糸（極細）"
-    ],
-    "features": [
-      "国内羽二重生産の大半を占める日本一の羽二重産地・福井",
-      "礼装用白生地として全国の染め職人に供給される素材の王様",
-      "「きぬずれの音がする」と表現される上品な光沢と白さ"
-    ],
-    "workshops": [
-      {
-        "name": "越前羽二重（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "福井県越前市"
-      }
-    ],
-    "purchase_keywords": "越前羽二重 白生地 絹 購入 福井",
-    "price_range": "白生地反物 30,000円〜 / 礼装着物仕立て 200,000円〜",
-    "lat": 35.901,
-    "lng": 136.1685,
-    "source": "https://kougeihin.jp/craft/1801/",
-    "ogp_image_desc": "光沢ある白が美しい越前羽二重の絹反物"
-  },
-  {
-    "id": "tokamachi_akashi",
-    "name": "十日町明石ちぢみ",
-    "name_en": "Tokamachi Akashi Chijimi",
-    "name_fr": "Crêpe Akashi Tokamachi",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 15,
-    "prefecture": "niigata",
-    "prefecture_ja": "新潟県",
-    "area": "十日町市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "19世紀末頃、京都西陣の夏用反物の見本を持ち帰り、十日町にあった透綾（すきや）の技術に応用して研究が進められたのが起こり。緯糸の強撚と整理法の技術研究が重ねられ、明治中頃から「明石ちぢみ」として広まった新潟県十日町市の絹縮み織物。強撚糸を使って生み出す独特のシボが肌への接触面積を減らし、夏の高級着物地として珍重される涼感素材。",
-    "desc_en": "Tokamachi akashi chijimi is a silk crinkle textile produced in Tokamachi City, Niigata Prefecture. It is characterized by a technique of weaving with tightly twisted threads (kyonenshu) and then scouring and kneading in hot water to create texture (shiboり) across the entire fabric. This texture creates a unique feel, making it prized as a high-end summer kimono fabric. Among Tokamachi's silk industries, it is particularly known as a high-end summer product, combining a cool sensation with elegance.",
-    "techniques": [
-      "強撚糸使い",
-      "精練",
-      "湯もみシボ出し"
-    ],
-    "materials": [
-      "絹糸（強撚糸）"
-    ],
-    "features": [
-      "強撚糸と湯もみによるシボが生む独特の肌触りと涼感",
-      "十日町の絹産業が誇る夏向け最高級着物地",
-      "上品なシボの凹凸が肌着面積を減らす機能美"
-    ],
-    "workshops": [
-      {
-        "name": "十日町市博物館",
-        "url": "https://www.tokamachi-museum.jp/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "新潟県十日町市"
-      }
-    ],
-    "purchase_keywords": "十日町明石ちぢみ 夏着物 購入 新潟",
-    "price_range": "反物 80,000円〜 / 着物仕立て 180,000円〜",
-    "lat": 37.1322,
-    "lng": 138.7567,
-    "source": "https://kougeihin.jp/craft/0116/",
-    "ogp_image_desc": "独特のシボが美しい十日町明石ちぢみの絹着物地"
-  },
-  {
-    "id": "saga_nishiki",
-    "name": "佐賀錦",
-    "name_en": "Saga Nishiki",
-    "name_fr": "Brocart Saga Nishiki",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 41,
-    "prefecture": "saga",
-    "prefecture_ja": "佐賀県",
-    "area": "佐賀市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "佐賀県佐賀市で生産される独特の錦織物。金箔や銀箔を細く切ったものを経糸に用い、絹糸を緯糸に使って織り上げる特殊な技法が特徴。鍋島藩の工芸として江戸時代中期に発展し、幕府や諸大名への献上品となった。輝くような金銀の光沢と精緻な紋様が特徴で、帯・袋物・アクセサリーに使われる。現在も佐賀市の工房が伝統技法を守り続けている。",
-    "desc_en": "Saga nishiki is a distinctive brocade textile produced in Saga City, Saga Prefecture. It is characterized by a special technique of weaving with finely cut gold and silver foil as the warp threads and silk as the weft. Developed as a craft of the Nabeshima domain during the mid-Edo period, it became an offering to the Shogunate and various daimyo. Characterized by gleaming gold and silver luster and intricate patterns, it is used for obi, pouches, and accessories. Studios in Saga City continue to preserve the traditional technique today.",
-    "techniques": [
-      "金銀箔経糸使い",
-      "錦織",
-      "紋織り"
-    ],
-    "materials": [
-      "金箔・銀箔",
-      "絹糸"
-    ],
-    "features": [
-      "金銀箔を経糸に使う世界でも類を見ない独特の錦織技法",
-      "鍋島藩の御用品として発展した格調高い佐賀の伝統工芸",
-      "輝くような金銀の光沢と精緻な紋様が生む豪華絢爛な美"
-    ],
-    "workshops": [
-      {
-        "name": "佐賀錦保存会・勝山興文堂",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "佐賀県佐賀市"
-      }
-    ],
-    "purchase_keywords": "佐賀錦 帯 袋物 購入 佐賀",
-    "price_range": "小物 10,000円〜 / 帯 150,000円〜 / 袋物 30,000円〜",
-    "lat": 33.2635,
-    "lng": 130.3009,
-    "source": "https://kougeihin.jp/craft/4101/",
-    "ogp_image_desc": "金銀箔が輝く豪華絢爛な佐賀錦の帯と袋物"
-  },
-  {
-    "id": "koshu_ori",
-    "name": "甲州織",
-    "name_en": "Koshu Ori",
-    "name_fr": "Tissage Koshu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 19,
-    "prefecture": "yamanashi",
-    "prefecture_ja": "山梨県",
-    "area": "富士吉田市",
-    "founded": 1500,
-    "founded_era": "室町時代",
-    "desc": "山梨県富士吉田市を中心に生産される絹織物。室町時代から続く甲斐絹（かいき）の流れを汲み、富士山麓の山梨県富士吉田市が主産地。帯地・和装小物・インテリア織物に使われる高品質なシルク製品を生産し、細やかな紋様と光沢のある風合いが特徴。かつては「甲斐絹」として羽織裏地に使われた経緯を持つ。現在も伝統的な技術と現代デザインを融合させた製品が生産されている。",
-    "desc_en": "Koshu ori is a silk textile produced mainly in Fujiyoshida City, Yamanashi Prefecture. Tracing its lineage from Kai-ki (Kai silk) dating to the Muromachi period, Fujiyoshida City at the foot of Mt. Fuji is the main production area. It produces high-quality silk products used for obi, Japanese-style accessories, and interior textiles, characterized by fine patterns and lustrous texture. It has a history of being used as haori lining under the name 'Kai-ki.' Products fusing traditional techniques with modern design continue to be produced today.",
-    "techniques": [
-      "紋織り",
-      "ジャカード織",
-      "先染め"
-    ],
-    "materials": [
-      "絹糸（生糸）",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "甲斐絹の伝統を受け継ぐ富士山麓の絹産地・富士吉田",
-      "帯地・和装小物・インテリアに使われる高品質シルク",
-      "伝統技術と現代デザインを融合させた新しい甲州絹の展開"
-    ],
-    "workshops": [
-      {
-        "name": "富士吉田市役所産業観光課（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "山梨県富士吉田市"
-      }
-    ],
-    "purchase_keywords": "甲州織 絹 帯 購入 山梨 富士吉田",
-    "price_range": "小物 3,000円〜 / 帯 50,000円〜 / インテリア布 5,000円〜",
-    "lat": 35.4895,
-    "lng": 138.8076,
-    "source": "https://kougeihin.jp/craft/1901/",
-    "ogp_image_desc": "富士山麓の甲州織の光沢あるシルクの帯と小物"
-  },
-  {
-    "id": "ojiya_tsumugi",
-    "name": "小千谷紬",
-    "name_en": "Ojiya Tsumugi",
-    "name_fr": "Tsumugi Ojiya",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 15,
-    "prefecture": "niigata",
-    "prefecture_ja": "新潟県",
-    "area": "小千谷市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "江戸時代中期に新潟県小千谷市で養蚕とともに始まった絹紬で、江戸後期には上州や京都から生糸商人が商談に訪れるほどの産地に発展した。小千谷縮・越後上布と同じ産地で受け継がれてきたが、昭和初期になって本格的な紬生産が軌道に乗り、紬糸の改良が重ねられて現在の形が整った。真綿から引き出した紬糸の素朴な風合いと上質な肌触りが特徴の絹着物地。",
-    "desc_en": "Ojiya tsumugi is a silk tsumugi textile produced in Ojiya City, Niigata Prefecture. Woven from the mid-Edo period in the same production area as Ojiya chijimi and Echigo jofu, it features a rustic texture using tsumugi thread drawn from silk wadding. Hand-weaving techniques refined through the harsh winters of snowy Echigo continue to be passed down today. Characterized by a high-quality texture and distinctive luster, it has earned national recognition as a kimono fabric.",
-    "techniques": [
-      "手紡ぎ（真綿糸）",
-      "手機織り",
-      "草木染め・先染め"
-    ],
-    "materials": [
-      "絹糸（真綿糸・紬糸）",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "小千谷縮・越後上布と同じ雪国産地が生む絹紬の伝統",
-      "真綿から引き出した紬糸による素朴で温かみのある風合い",
-      "越後の厳しい冬に磨かれた手織り技術が生む上質な絹布"
-    ],
-    "workshops": [
-      {
-        "name": "小千谷市観光協会（産地にご確認ください）",
-        "url": "https://www.ojiya.or.jp/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "新潟県小千谷市"
-      }
-    ],
-    "purchase_keywords": "小千谷紬 着物 反物 購入 新潟",
-    "price_range": "反物 80,000円〜 / 完成着物 150,000円〜",
-    "lat": 37.3011,
-    "lng": 138.7955,
-    "source": "https://kougeihin.jp/craft/0113/",
-    "ogp_image_desc": "越後の雪国が育んだ小千谷紬の素朴な絹反物"
-  },
-  {
-    "id": "honshiozawa",
-    "name": "本塩沢",
-    "name_en": "Hon-Shiozawa",
-    "name_fr": "Hon-Shiozawa",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 15,
-    "prefecture": "niigata",
-    "prefecture_ja": "新潟県",
-    "area": "南魚沼市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "江戸時代中期に新潟県南魚沼市塩沢で始まった絹縮み織物で、越後縮のシボある麻織物の技術を絹に生かしたのが起源。長く「塩沢お召」の名で親しまれ、塩沢紬とは別に独立した国の伝統的工芸品に指定された。強撚糸で織り上げた後に精練・湯もみすることできめ細かいシボを生み出し、通年使える上品な高級絹着物地として珍重される。",
-    "desc_en": "Hon-Shiozawa is a silk crinkle textile produced in Minamiuonuma City, Niigata Prefecture. Also called 'Omeshi chijimi,' it creates a distinctive textured surface (shiboり) by using tightly twisted threads. Designated by the national government as a traditional craft separate from Shiozawa tsumugi, this high-end silk textile is completed by weaving fine raw silk with strong twists, then scouring and hot-water kneading to produce a finely textured, elegant crinkled cloth. It is prized as a high-end kimono fabric suitable year-round, not only in summer.",
-    "techniques": [
-      "強撚糸使い",
-      "精練",
-      "湯もみシボ出し",
-      "手機織り"
-    ],
-    "materials": [
-      "絹糸（強撚糸・生糸）"
-    ],
-    "features": [
-      "強撚糸と湯もみによるきめ細かいシボが生む上品な縮み地",
-      "塩沢紬とは別に独立した国指定の伝統的工芸品",
-      "越後南魚沼の雪国気候が育む高級絹縮み織物の伝統"
-    ],
-    "workshops": [
-      {
-        "name": "塩沢産地織物協同組合（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "新潟県南魚沼市"
-      }
-    ],
-    "purchase_keywords": "本塩沢 御召縮 着物 購入 新潟 南魚沼",
-    "price_range": "反物 80,000円〜 / 着物仕立て 180,000円〜",
-    "lat": 37.0674,
-    "lng": 138.8746,
-    "source": "https://kougeihin.jp/craft/0114/",
-    "ogp_image_desc": "きめ細かいシボが美しい本塩沢の絹縮み反物"
-  },
-  {
-    "id": "nagahama_chirimen",
-    "name": "長浜ちりめん",
-    "name_en": "Nagahama Chirimen",
-    "name_fr": "Crêpe de Nagahama",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 25,
-    "prefecture": "shiga",
-    "prefecture_ja": "滋賀県",
-    "area": "長浜市",
-    "founded": 1670,
-    "founded_era": "江戸時代初期",
-    "desc": "滋賀県長浜市で生産される絹のちりめん織物。丹後ちりめんと並ぶ国内二大ちりめん産地の一つで、江戸時代初期から琵琶湖東岸の長浜に根付いた白生地産業。豊かな水資源と北国街道が育む交易文化の中で発展し、京友禅・加賀友禅などの染め素材として全国に供給される。独特のシボ（縮み）と上品な光沢が特徴で、現在も着物・帯の白生地産地として重要な役割を担う。",
-    "desc_en": "Nagahama chirimen is a silk crêpe textile produced in Nagahama City, Shiga Prefecture. One of Japan's two major chirimen production areas alongside Tango chirimen, this white fabric industry has been rooted in Nagahama on the eastern shore of Lake Biwa since the early Edo period. Developed within the trade culture nurtured by abundant water resources and the Hokkoku Kaido highway, it is supplied nationwide as the dyeing base for Kyo-yuzen, Kaga-yuzen, and other fabrics. Characterized by its distinctive texture and elegant luster, it continues to play an important role as a white fabric production area for kimono and obi.",
-    "techniques": [
-      "強撚糸使い",
-      "平織り（ちりめん）",
-      "白生地精練",
-      "シボ出し"
-    ],
-    "materials": [
-      "生糸（強撚糸）"
-    ],
-    "features": [
-      "丹後ちりめんと並ぶ国内二大産地の絹ちりめん白生地",
-      "琵琶湖の豊かな水と北国街道の文化が育んだ長浜の誇り",
-      "京友禅・加賀友禅の染め素材として全国に供給される基盤布"
-    ],
-    "workshops": [
-      {
-        "name": "長浜きもの大学（産地にご確認ください）",
-        "url": "https://www.nagahama-kimono.com/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "滋賀県長浜市"
-      }
-    ],
-    "purchase_keywords": "長浜ちりめん 白生地 絹 購入 滋賀 長浜",
-    "price_range": "白生地反物 20,000円〜 / 染め着物仕立て 150,000円〜",
-    "lat": 35.3823,
-    "lng": 136.2694,
-    "source": "https://kougeihin.jp/craft/2502/",
-    "ogp_image_desc": "滑らかなシボと光沢が美しい長浜ちりめんの白生地"
-  },
-  {
-    "id": "aizu_momen",
-    "name": "会津木綿",
-    "name_en": "Aizu Momen",
-    "name_fr": "Coton Aizu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 7,
-    "prefecture": "fukushima",
-    "prefecture_ja": "福島県",
-    "area": "会津若松市",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "福島県会津若松市で生産される木綿織物。江戸時代初期から続く歴史を持ち、会津藩の産業振興策によって広まった丈夫な平織り木綿。縦縞・格子縞を中心としたシンプルなデザインで、会津の厳しい冬の暮らしを支えてきた実用的な布地。洗えば洗うほど柔らかくなる使い心地の良さが特徴で、現代ではバッグ・日用品など幅広い製品にも使われている。",
-    "desc_en": "Aizu momen is a cotton textile produced in Aizuwakamatsu City, Fukushima Prefecture. With a history dating to the early Edo period, it spread through the industrial promotion policies of the Aizu domain as a durable plain-woven cotton. With simple designs centered on vertical and plaid stripes, it has been a practical fabric supporting life through Aizu's harsh winters. Characterized by becoming softer with each washing, it is also used today in a wide range of products including bags and everyday items.",
-    "techniques": [
-      "先染め縞織り",
-      "格子織り",
-      "平織り"
-    ],
-    "materials": [
-      "綿糸",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "江戸時代から会津藩が育てた丈夫で実用的な縞木綿",
-      "洗うほど柔らかくなる使い心地が生活に寄り添う布地",
-      "縦縞・格子縞のシンプルなデザインが会津の美意識を体現"
-    ],
-    "workshops": [
-      {
-        "name": "会津木綿染織工房 山田木綿織元",
-        "url": "https://www.aizu-momen.com/",
-        "experience": true,
-        "experience_desc": "機織り体験（要予約） 2,000円〜",
-        "address": "福島県会津若松市"
-      }
-    ],
-    "purchase_keywords": "会津木綿 縞 格子 購入 福島 会津",
-    "price_range": "反物（1m）1,500円〜 / バッグ 5,000円〜 / 着物仕立て 50,000円〜",
-    "lat": 37.4948,
-    "lng": 139.9295,
-    "source": "https://yamadamomen.com/",
-    "ogp_image_desc": "会津の縞模様が美しい会津木綿の反物とバッグ"
-  },
-  {
-    "id": "enshu_menputsui",
-    "name": "遠州綿紬",
-    "name_en": "Enshu Menputsui",
-    "name_fr": "Coton Enshu Menputsui",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 22,
-    "prefecture": "shizuoka",
-    "prefecture_ja": "静岡県",
-    "area": "浜松市・掛川市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "静岡県西部の遠州地方（浜松・掛川周辺）で生産される木綿の縞織物。江戸時代から続く遠州の綿作文化が生んだ縦縞・格子縞の実用的な平織り木綿。三河木綿と並ぶ東海地方の木綿産地として発展し、農村の自家織りから産地織物へと成長した。素朴で丈夫な風合いが特徴で、現在も地域の伝統織物として浜松周辺の工房が生産を続けている。",
-    "desc_en": "Enshu menputsui is a cotton striped textile produced in the Enshu region (around Hamamatsu and Kakegawa) in western Shizuoka Prefecture. A practical plain-woven cotton with vertical and plaid stripes, born from the cotton cultivation culture of Enshu that dates to the Edo period. Developed as a cotton production area of the Tokai region alongside Mikawa cotton, it grew from village home weaving to regional textile production. Characterized by a rustic and durable texture, workshops around Hamamatsu continue producing it as a regional traditional textile today.",
-    "techniques": [
-      "先染め縞織り",
-      "格子織り",
-      "平織り"
-    ],
-    "materials": [
-      "綿糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "江戸時代から続く遠州の綿作文化が生んだ縦縞木綿",
-      "素朴で丈夫な風合いが浜松・掛川地方の生活を支えてきた",
-      "三河木綿と並ぶ東海地方の代表的な木綿織物産地"
-    ],
-    "workshops": [
-      {
-        "name": "遠州綿紬（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "静岡県浜松市"
-      }
-    ],
-    "purchase_keywords": "遠州綿紬 縞 木綿 購入 静岡 浜松",
-    "price_range": "反物（1m）1,200円〜 / 着物仕立て 40,000円〜",
-    "lat": 34.7108,
-    "lng": 137.7261,
-    "source": "https://kougeihin.jp/craft/2201/",
-    "ogp_image_desc": "遠州の縞模様が美しい遠州綿紬の木綿反物"
-  },
-  {
-    "id": "omi_chijimi",
-    "name": "高島ちぢみ",
-    "name_en": "Takashima Chijimi",
-    "name_fr": "Crêpe Takashima",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 25,
-    "prefecture": "shiga",
-    "prefecture_ja": "滋賀県",
-    "area": "高島市",
-    "founded": 1800,
-    "founded_era": "江戸時代後期",
-    "desc": "滋賀県高島市で生産される麻・綿の縮み織物。「近江縮」とも呼ばれ、強撚糸を使って織り上げた後に精練・湯もみすることで布面に独特のシボ（凹凸）を出す。このシボが肌への接触面積を減らし、優れた涼感をもたらすことから夏の定番素材として全国で愛される。国内最大の麻・綿縮み織物産地として、浴衣地・シャツ地・カジュアルウェア地を大量に供給している。",
-    "desc_en": "Takashima chijimi is a linen and cotton crinkle textile produced in Takashima City, Shiga Prefecture. Also called 'Omi chijimi,' it creates a distinctive textured surface (shibori) by weaving with tightly twisted threads and then scouring and hot-water kneading. This texture reduces contact area with the skin, providing excellent cooling, making it a beloved summer staple nationwide. As Japan's largest linen and cotton crinkle textile production area, it supplies large quantities of yukata fabric, shirt fabric, and casual wear fabric.",
-    "techniques": [
-      "強撚糸使い",
-      "精練",
-      "湯もみシボ出し",
-      "先染め・後染め"
-    ],
-    "materials": [
-      "麻糸（苧麻・亜麻）",
-      "綿糸",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "独特のシボが生む優れた涼感で夏の定番素材として全国区",
-      "国内最大の麻・綿縮み織物産地として浴衣地を大量供給",
-      "琵琶湖西岸の高島で江戸後期から続く縮み織りの伝統"
-    ],
-    "workshops": [
-      {
-        "name": "高島ちぢみ（産地にご確認ください）",
-        "url": "https://www.takashima-chijimi.jp/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "滋賀県高島市"
-      }
-    ],
-    "purchase_keywords": "高島ちぢみ 近江縮 浴衣 シャツ 夏 購入 滋賀",
-    "price_range": "生地（1m）800円〜 / 浴衣 8,000円〜 / シャツ仕立て 15,000円〜",
-    "lat": 35.3502,
-    "lng": 136.038,
-    "source": "https://kougeihin.jp/craft/2503/",
-    "ogp_image_desc": "涼感あふれる独特のシボが特徴の高島ちぢみの生地"
-  },
-  {
-    "id": "ashikaga_ori",
-    "name": "足利織物",
-    "name_en": "Ashikaga Ori",
-    "name_fr": "Tissage Ashikaga",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 9,
-    "prefecture": "tochigi",
-    "prefecture_ja": "栃木県",
-    "area": "足利市",
-    "founded": 900,
-    "founded_era": "平安時代",
-    "desc": "栃木県足利市で生産される絹・化繊織物。関東最古の織物産地として平安時代から続く歴史を持ち、鎌倉時代には「足利絹」として全国に知られた。江戸時代には銘仙・帯地・洋装地など幅広い織物を生産し、明治以降は近代化によって大量生産体制を整えた。結城紬とともに関東を代表する絹織物産地として国の伝統的工芸品に指定され、現在も帯地・洋装素材・インテリア織物を生産している。",
-    "desc_en": "Ashikaga ori is a silk and synthetic fiber textile produced in Ashikaga City, Tochigi Prefecture. As the oldest textile production area in the Kanto region, it has a history dating to the Heian period, and during the Kamakura period it became nationally known as 'Ashikaga silk.' During the Edo period it produced a wide range of textiles including meisen, obi fabric, and Western-style fabric, and after the Meiji era it established mass production through modernization. Designated as a nationally recognized traditional craft alongside Yuki tsumugi as a representative Kanto silk textile production area, it continues to produce obi fabric, Western-style materials, and interior textiles today.",
-    "techniques": [
-      "紋織り",
-      "ジャカード織",
-      "先染め",
-      "後染め"
-    ],
-    "materials": [
-      "絹糸",
-      "化学繊維",
-      "化学染料"
-    ],
-    "features": [
-      "関東最古・平安時代から続く足利市の絹織物の歴史と伝統",
-      "銘仙・帯地・洋装地まで多彩な織物を生産する産地の多様性",
-      "結城紬と並ぶ関東を代表する国指定伝統的工芸品の絹産地"
-    ],
-    "workshops": [
-      {
-        "name": "足利市立美術館（産地にご確認ください）",
-        "url": "https://www.watv.ne.jp/~ashikaga-museum/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "栃木県足利市"
-      }
-    ],
-    "purchase_keywords": "足利織物 絹 帯 購入 栃木 足利",
-    "price_range": "小物 3,000円〜 / 帯 30,000円〜 / 着物地 50,000円〜",
-    "lat": 36.3404,
-    "lng": 139.45,
-    "source": "https://orimono-densyokan.com/",
-    "ogp_image_desc": "関東最古の産地・足利織物の絹反物と帯地"
-  },
-  {
-    "id": "chita_momen",
-    "name": "知多木綿",
-    "name_en": "Chita Momen",
-    "name_fr": "Coton Chita",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 23,
-    "prefecture": "aichi",
-    "prefecture_ja": "愛知県",
-    "area": "知多半島（半田市・東海市・常滑市周辺）",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "愛知県知多半島で生産される木綿織物。江戸時代から三河木綿と並ぶ全国的な木綿産地として発展し、白木綿の晒し（さらし）加工が特に有名。清潔な白い晒し布として手ぬぐい・浴衣地・肌着地に広く使われ、「知多晒し」として全国に流通した。知多半島の温暖な気候と三河湾の潮風が晒し作業に適し、品質の高さで知られる綿織物産地。",
-    "desc_en": "Chita momen is a cotton textile produced in the Chita Peninsula of Aichi Prefecture. Developed from the Edo period as a nationally renowned cotton production area alongside Mikawa cotton, it is particularly famous for its bleaching (sarashi) process for white cotton. Widely used as clean white bleached cloth for tenugui hand towels, yukata fabric, and undergarment fabric, it circulated nationwide as 'Chita sarashi.' The warm climate of the Chita Peninsula and sea breezes from Mikawa Bay are suited to bleaching work, making it a cotton textile production area known for high quality.",
-    "techniques": [
-      "晒し加工（さらし）",
-      "平織り",
-      "先染め縞"
-    ],
-    "materials": [
-      "綿糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "「知多晒し」として全国に流通した白木綿の晒し加工が名物",
-      "三河木綿と並ぶ江戸時代からの全国的な木綿産地の歴史",
-      "手ぬぐい・浴衣・肌着地として生活に根付いた実用の木綿"
-    ],
-    "workshops": [
-      {
-        "name": "知多木綿（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "愛知県半田市・東海市"
-      }
-    ],
-    "purchase_keywords": "知多木綿 知多晒し 手ぬぐい 浴衣 購入 愛知",
-    "price_range": "手ぬぐい 1,000円〜 / 反物（1m）800円〜 / 浴衣 10,000円〜",
-    "lat": 34.9967,
-    "lng": 136.9094,
-    "source": "https://kougeihin.jp/craft/2301/",
-    "ogp_image_desc": "知多半島の白い晒し木綿・知多木綿の反物と手ぬぐい"
-  },
-  {
-    "id": "tsugaru_ori",
-    "name": "津軽織",
-    "name_en": "Tsugaru Ori",
-    "name_fr": "Tissage Tsugaru",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 2,
-    "prefecture": "aomori",
-    "prefecture_ja": "青森県",
-    "area": "弘前市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "青森県弘前市を中心とする津軽地方に伝わる木綿の手織り縞織物。江戸時代中期から農家の女性が冬の副業として織り続けてきた縞木綿で、津軽の厳しい冬の暮らしを支えた生活の布。シンプルな縦縞と丈夫さが特徴で、着物・作業着・布団地として長く使われてきた。現在も弘前市周辺の工房が手機織りによる伝統の縞木綿を継承し、地域の伝統的工芸品として守られている。",
-    "desc_en": "Tsugaru ori is a hand-woven cotton striped textile from the Tsugaru region centered on Hirosaki City, Aomori Prefecture. A striped cotton woven by farming women as a winter side business from the mid-Edo period, it has been a fabric of daily life supporting life through Tsugaru's harsh winters. Characterized by simple vertical stripes and durability, it has long been used for kimono, work clothes, and futon fabric. Workshops around Hirosaki City continue to pass down the traditional striped cotton by hand loom, preserved as a regional traditional craft.",
-    "techniques": [
-      "手機織り",
-      "先染め縞織り",
-      "平織り"
-    ],
-    "materials": [
-      "綿糸",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "津軽の農家女性が冬の副業で織り続けてきた縞木綿の歴史",
-      "シンプルな縦縞と丈夫さが東北の厳しい暮らしを支えた布",
-      "弘前市周辺の工房が手機で守り続ける青森の伝統縞織物"
-    ],
-    "workshops": [
-      {
-        "name": "津軽工房社",
-        "url": "https://www.tsugaru-kobo.com/",
-        "experience": true,
-        "experience_desc": "手織り体験（要予約）",
-        "address": "青森県弘前市"
-      }
-    ],
-    "purchase_keywords": "津軽織 縞木綿 購入 青森 弘前",
-    "price_range": "小物 2,000円〜 / 反物（1m）1,500円〜 / 着物仕立て 50,000円〜",
-    "lat": 40.6031,
-    "lng": 140.4639,
-    "source": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarusakiori.html",
-    "ogp_image_desc": "津軽の農家女性が織り続けてきた縞模様の津軽織木綿"
-  },
-  {
-    "id": "musashino_ori",
-    "name": "武蔵野織物",
-    "name_en": "Musashino Ori",
-    "name_fr": "Tissage Musashino",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 13,
-    "prefecture": "tokyo",
-    "prefecture_ja": "東京都",
-    "area": "青梅市・あきる野市・福生市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "東京都青梅市・あきる野市・福生市など多摩地域で生産される絹織物。「多摩の絹」として江戸時代から発展した絹産業で、青梅縞（おうめじま）と呼ばれる縞絹が特に有名。明治以降は力織機による近代化が進み、帯地・着物地・洋装素材として幅広く生産された。村山大島紬と並ぶ東京産の伝統的工芸品として、多摩地域の絹織物文化を代表する。",
-    "desc_en": "Musashino ori is a silk textile produced in the Tama region of Tokyo including Ome City, Akiruno City, and Fussa City. A silk industry developed from the Edo period as 'Tama silk,' it is particularly famous for striped silk called 'Ome shima.' After the Meiji era, modernization with power looms progressed, and it was widely produced as obi fabric, kimono fabric, and Western-style material. Alongside Murayama oshima tsumugi, it represents the silk textile culture of the Tama region as a Tokyo-produced nationally recognized traditional craft.",
-    "techniques": [
-      "先染め縞織り",
-      "手機織り・力織機",
-      "紋織り"
-    ],
-    "materials": [
-      "絹糸",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "「多摩の絹」として江戸時代から続く東京産の絹織物産地",
-      "青梅縞として知られる縞絹が代表する多摩地域の絹文化",
-      "村山大島紬と並ぶ東京の伝統的工芸品として多摩を代表"
-    ],
-    "workshops": [
-      {
-        "name": "青梅市郷土博物館（産地にご確認ください）",
-        "url": "https://www.city.ome.tokyo.jp/site/museum/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "東京都青梅市"
-      }
-    ],
-    "purchase_keywords": "武蔵野織物 青梅縞 絹 購入 東京 多摩",
-    "price_range": "小物 3,000円〜 / 反物 40,000円〜 / 帯 30,000円〜",
-    "lat": 35.7882,
-    "lng": 139.249,
-    "source": "https://hachioji-orimono.or.jp/",
-    "ogp_image_desc": "多摩の絹として知られる武蔵野織物の縞絹反物"
-  },
-  {
-    "id": "tajima_chirimen",
-    "name": "但馬ちりめん",
-    "name_en": "Tajima Chirimen",
-    "name_fr": "Crêpe Tajima",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 28,
-    "prefecture": "hyogo",
-    "prefecture_ja": "兵庫県",
-    "area": "豊岡市・朝来市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "兵庫県但馬地方（豊岡市・朝来市周辺）で生産される絹のちりめん織物。江戸時代中期に丹後ちりめんの技術が伝わり独自に発展した絹の白生地産地。きめ細かいシボと上品な光沢が特徴の高品質なちりめんで、京友禅・加賀友禅など全国の染め工房に素材として供給される。山陰地方の山深い自然の中で育まれた絹織物の伝統が今日まで受け継がれている。",
-    "desc_en": "Tajima chirimen is a silk crêpe textile produced in the Tajima region of Hyogo Prefecture (around Toyooka City and Asago City). A silk white fabric production area that developed independently after Tango chirimen techniques were introduced in the mid-Edo period. A high-quality crêpe characterized by fine texture and elegant luster, it is supplied as base material to dye workshops nationwide including Kyo-yuzen and Kaga-yuzen. The tradition of silk textiles nurtured in the deep mountain nature of the San'in region continues to be passed down to this day.",
-    "techniques": [
-      "強撚糸使い",
-      "ちりめん織り",
-      "白生地精練",
-      "シボ出し"
-    ],
-    "materials": [
-      "生糸（強撚糸）"
-    ],
-    "features": [
-      "丹後ちりめんの技術を受け継ぎ独自に発展した但馬の絹白生地",
-      "きめ細かいシボと上品な光沢が全国の染め工房に求められる",
-      "山陰の山深い自然の中で育まれた兵庫県但馬の絹織物文化"
-    ],
-    "workshops": [
-      {
-        "name": "豊岡市観光振興課（産地にご確認ください）",
-        "url": "https://www.toyooka-tourism.com/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "兵庫県豊岡市"
-      }
-    ],
-    "purchase_keywords": "但馬ちりめん 白生地 絹 購入 兵庫 豊岡",
-    "price_range": "白生地反物 20,000円〜 / 染め着物仕立て 150,000円〜",
-    "lat": 35.545,
-    "lng": 134.8155,
-    "source": "https://kougeihin.jp/craft/2802/",
-    "ogp_image_desc": "但馬地方で生産される上品なシボが美しい但馬ちりめんの白生地"
-  },
-  {
-    "id": "kawagoe_tozan",
-    "name": "川越唐桟",
-    "name_en": "Kawagoe Tozan",
-    "name_fr": "Tozan de Kawagoe",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 11,
-    "prefecture": "saitama",
-    "prefecture_ja": "埼玉県",
-    "area": "川越市",
-    "founded": 1800,
-    "founded_era": "江戸時代後期",
-    "desc": "埼玉県川越市で生産される絹と木綿の交織縞織物で、江戸時代後期に川越藩が奨励したことに始まる。縦糸に絹、横糸に木綿を使う交織（こうおり）により、絹の光沢と木綿の丈夫さを巧みに兼ね備えた実用的な縞織物に仕上がる。「唐桟留（とうざんとめ）」とも呼ばれ、江戸の粋な商人・職人に広く愛された独特の縞模様が特徴。現在も川越の工房が伝統技法を守り、帯地・着物地として生産を続けている。",
-    "desc_en": "Kawagoe tozan is a striped textile using an interwoven combination of silk and cotton, produced in Kawagoe City, Saitama Prefecture, originating from promotion by the Kawagoe domain in the late Edo period. Silk is used for the warp and cotton for the weft, skillfully combining the luster of silk with the durability of cotton into a practical striped textile. Also called 'Tozan-dome,' it is characterized by distinctive stripe patterns beloved by fashionable Edo merchants and artisans. Workshops in Kawagoe continue to preserve traditional techniques today, producing obi and kimono fabric.",
-    "techniques": [
-      "交織（絹経・綿緯）",
-      "縞織り",
-      "先染め"
-    ],
-    "materials": [
-      "絹糸（経糸）",
-      "綿糸（緯糸）",
-      "化学染料・天然染料"
-    ],
-    "features": [
-      "絹の光沢と木綿の丈夫さを兼備した交織縞織物の粋な実用美",
-      "川越藩奨励で発展した江戸の商人・職人に愛された縞模様",
-      "縦絹・横綿の交織技法が生む独特の風合いと適度な光沢"
-    ],
-    "workshops": [
-      {
-        "name": "川越唐桟工房（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "埼玉県川越市"
-      }
-    ],
-    "purchase_keywords": "川越唐桟 縞 帯 着物 購入 埼玉 川越",
-    "price_range": "反物 30,000円〜 / 帯 40,000円〜 / 着物仕立て 100,000円〜",
-    "lat": 35.925,
-    "lng": 139.4856,
-    "source": "https://koedo.or.jp/products/item_079/",
-    "ogp_image_desc": "絹と木綿の交織による川越唐桟の縞模様の反物と帯"
-  },
-  {
-    "id": "nanbu_sakiori",
-    "name": "南部裂織",
-    "name_en": "Nanbu Sakiori",
-    "name_fr": "Sakiori du Nanbu",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "regional",
-    "designation_number": 3,
-    "prefecture": "iwate",
-    "prefecture_ja": "岩手県",
-    "area": "盛岡市",
-    "founded": 1800,
-    "founded_era": "江戸時代後期",
-    "desc": "岩手県南部地方に伝わる裂き織り（さきおり）で、着古した布を細く裂いて緯糸に使い、地糸と組み合わせて織る「もの再生」の織物文化。江戸後期から東北の農村女性の手仕事として発展し、廃布を活かす慈しみの精神と素朴で力強いテキスタイルが特徴。南部藩の質実剛健な気風が育んだ再生利用の美学は、現代のサステナビリティの観点からも高く評価される。現在も盛岡市を中心に工房や保存会が技術を継承している。",
-    "desc_en": "Nanbu sakiori is a rag weaving tradition passed down in the Nanbu region of Iwate Prefecture, a 'material rebirth' textile culture where old cloth is torn into thin strips and used as weft threads combined with base yarn. Developed as handwork by rural women of Tohoku from the late Edo period, it is characterized by a spirit of cherishing worn-out cloth and a rustic, powerful textile quality. The aesthetic of recycling nurtured by the Nanbu domain's spirit of simplicity and fortitude is highly regarded today from a sustainability perspective. Workshops and preservation societies centered in Morioka City continue to pass down the technique.",
-    "techniques": [
-      "裂き織り（さきおり）",
-      "手機織り",
-      "再生布利用"
-    ],
-    "materials": [
-      "古布（裂き布・緯糸）",
-      "綿糸・麻糸（地糸）"
-    ],
-    "features": [
-      "古布を細く裂いて緯糸に使う東北農村発のサステナブル織物",
-      "廃布を活かす南部の質実剛健な精神が生んだ再生の美学",
-      "素朴で力強いテキスタイルが現代のエコデザインとも共鳴"
-    ],
-    "workshops": [
-      {
-        "name": "南部裂織保存会（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "岩手県盛岡市"
-      }
-    ],
-    "purchase_keywords": "南部裂織 裂き織り 購入 岩手 盛岡",
-    "price_range": "小物・コースター 2,000円〜 / バッグ 10,000円〜 / 反物 30,000円〜",
-    "lat": 39.7036,
-    "lng": 141.1527,
-    "source": "https://sakiori.jp/",
-    "ogp_image_desc": "古布を裂いて織り上げた素朴で力強い南部裂織のテキスタイル"
-  },
-  {
-    "id": "mikawa_momen",
-    "name": "三河木綿",
-    "name_en": "Mikawa Momen",
-    "name_fr": "Coton Mikawa",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 23,
-    "prefecture": "aichi",
-    "prefecture_ja": "愛知県",
-    "area": "岡崎市・豊田市周辺",
-    "founded": 1600,
-    "founded_era": "江戸時代初期",
-    "desc": "愛知県三河地方（岡崎市・豊田市周辺）で生産される木綿織物で、江戸時代から「三州木綿」として全国に流通した厚手・丈夫な平織り木綿。刺し子や農作業着の素材として広く使われてきた実用的な綿布で、シンプルな縞・格子の意匠が三河の美意識を体現している。知多木綿と並ぶ愛知県の代表的な木綿産地として発展し、現在も岡崎・豊田周辺の染色・織物産地として工房が伝統技法を継承している。",
-    "desc_en": "Mikawa momen is a cotton textile produced in the Mikawa region of Aichi Prefecture (around Okazaki and Toyota), a thick and durable plain-woven cotton that circulated nationwide as 'Sanzu momen' from the Edo period. A practical cotton widely used for sashiko embroidery and farming work clothes, its simple stripe and plaid designs embody the aesthetic sensibility of Mikawa. Developed as a representative cotton production area of Aichi Prefecture alongside Chita momen, workshops around Okazaki and Toyota continue to pass down traditional techniques today.",
-    "techniques": [
-      "平織り",
-      "先染め縞織り",
-      "格子織り"
-    ],
-    "materials": [
-      "綿糸",
-      "天然染料・化学染料"
-    ],
-    "features": [
-      "「三州木綿」として全国に流通した江戸時代からの厚手丈夫な木綿",
-      "刺し子・農作業着の素材として愛知三河の生活を支えてきた",
-      "知多木綿と並ぶ愛知県を代表する二大木綿産地の一つ"
-    ],
-    "workshops": [
-      {
-        "name": "三河木綿工房（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "愛知県岡崎市"
-      }
-    ],
-    "purchase_keywords": "三河木綿 三州木綿 刺し子 購入 愛知 岡崎",
-    "price_range": "反物（1m）1,000円〜 / 刺し子布 3,000円〜 / 着物仕立て 40,000円〜",
-    "lat": 34.9565,
-    "lng": 137.1674,
-    "source": "https://kougeihin.jp/craft/2302/",
-    "ogp_image_desc": "厚手で丈夫な三河木綿の縞模様の綿反物"
-  },
-  {
-    "id": "hitoyoshi_kuma_tsumugi",
-    "name": "人吉球磨紬",
-    "name_en": "Hitoyoshi Kuma Tsumugi",
-    "name_fr": "Tsumugi Hitoyoshi Kuma",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 43,
-    "prefecture": "kumamoto",
-    "prefecture_ja": "熊本県",
-    "area": "人吉市・球磨郡",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "熊本県人吉・球磨地方で生産される絹の手織り紬で、球磨川流域の盆地で育まれた養蚕文化から生まれた。独特の泥染め・草木染めによる渋い色調と手紡ぎ糸の素朴な風合いが特徴で、大島紬・本場結城紬と並ぶ高級紬として全国に知られる。球磨盆地の豊かな自然環境がもたらす清らかな水と気候が、上質な絹糸の生産と精緻な手織り技術を支えてきた。現在も人吉・球磨地方の工房が一反一反丁寧に手織りを続けている。",
-    "desc_en": "Hitoyoshi Kuma tsumugi is a hand-woven silk tsumugi produced in the Hitoyoshi and Kuma regions of Kumamoto Prefecture, born from the sericulture culture nurtured in the basin along the Kuma River. Characterized by a subdued coloring from distinctive mud dyeing and plant dyeing, and a rustic texture from hand-spun thread, it is nationally known as a premium tsumugi alongside Oshima tsumugi and Honba Yuki tsumugi. The pure water and climate provided by the rich natural environment of the Kuma Basin have supported high-quality silk thread production and intricate hand-weaving techniques. Workshops in the Hitoyoshi and Kuma region continue to hand-weave each bolt with care today.",
-    "techniques": [
-      "手紡ぎ（真綿糸）",
-      "泥染め",
-      "草木染め",
-      "手機織り"
-    ],
-    "materials": [
-      "絹糸（手紡ぎ紬糸）",
-      "泥・草木染料"
-    ],
-    "features": [
-      "大島紬・本場結城紬と並ぶ高級三大紬の一つとして知られる",
-      "球磨川流域の盆地気候が育む養蚕文化と手紡ぎ糸の風合い",
-      "泥染め・草木染めによる渋い色調が人吉球磨紬の個性"
-    ],
-    "workshops": [
-      {
-        "name": "人吉球磨紬工房（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "熊本県人吉市"
-      }
-    ],
-    "purchase_keywords": "人吉球磨紬 紬 着物 購入 熊本 人吉",
-    "price_range": "反物 150,000円〜 / 完成着物 300,000円〜 / 帯 60,000円〜",
-    "lat": 32.2108,
-    "lng": 130.7601,
-    "source": "https://kougeihin.jp/craft/4301/",
-    "ogp_image_desc": "泥染め・草木染めの渋い色調が美しい人吉球磨紬の絹着物"
-  },
-  {
-    "id": "gujo_tsumugi",
-    "name": "郡上紬",
-    "name_en": "Gujo Tsumugi",
-    "name_fr": "Tsumugi Gujo",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 21,
-    "prefecture": "gifu",
-    "prefecture_ja": "岐阜県",
-    "area": "郡上市",
-    "founded": 1700,
-    "founded_era": "江戸時代中期",
-    "desc": "岐阜県郡上市（旧郡上八幡）で生産される絹の手織り紬で、清流長良川の源流域・郡上の豊かな自然が育んだ織物。手紡ぎ糸を使った素朴な風合いと草木染めによる柔らかな色調が特徴で、郡上踊りの里として有名な郡上の伝統工芸として地域文化と深く結びついている。山間の盆地に根付いた小規模な手工業ながら、繊細な手仕事の美しさが全国の着物愛好家に高く評価される。現在も郡上市内の工房が一本一本の糸から丁寧に手作りを続けている。",
-    "desc_en": "Gujo tsumugi is a hand-woven silk tsumugi produced in Gujo City, Gifu Prefecture (formerly Gujo-Hachiman), a textile nurtured by the rich nature of Gujo at the headwaters of the clear-flowing Nagara River. Characterized by a rustic texture using hand-spun thread and soft coloring from plant dyeing, it is deeply connected to the regional culture as a traditional craft of Gujo, famous as the home of Gujo Odori dance. Despite being a small-scale handcraft rooted in a mountain basin, the beauty of its delicate handiwork is highly regarded by kimono enthusiasts nationwide. Workshops in Gujo City continue to handcraft each item carefully, from thread to fabric.",
-    "techniques": [
-      "手紡ぎ（真綿糸）",
-      "草木染め",
-      "手機織り"
-    ],
-    "materials": [
-      "絹糸（手紡ぎ紬糸）",
-      "草木染料"
-    ],
-    "features": [
-      "長良川源流域・郡上八幡の清流と自然が育んだ絹の手織り紬",
-      "手紡ぎ糸の素朴な風合いと草木染めの柔らかな色調が個性",
-      "郡上踊りの里の伝統工芸として地域文化と深く結びついた紬"
-    ],
-    "workshops": [
-      {
-        "name": "郡上紬工房（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "岐阜県郡上市"
-      }
-    ],
-    "purchase_keywords": "郡上紬 紬 着物 購入 岐阜 郡上",
-    "price_range": "反物 100,000円〜 / 完成着物 200,000円〜 / 帯 40,000円〜",
-    "lat": 35.7496,
-    "lng": 136.9665,
-    "source": "https://kougeihin.jp/craft/2103/",
-    "ogp_image_desc": "長良川源流域・郡上の自然が育んだ郡上紬の絹着物地"
-  },
-  {
-    "id": "tanba_nuno",
-    "name": "丹波布",
-    "name_en": "Tanba Nuno",
-    "name_fr": "Tissu Tanba",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 28,
-    "prefecture": "hyogo",
-    "prefecture_ja": "兵庫県",
-    "area": "丹波市青垣町",
-    "founded": 1800,
-    "founded_era": "江戸時代後期",
-    "desc": "兵庫県丹波市青垣町で生産される木綿・麻・絹の縞織物で、江戸時代後期から農家の女性が手機で織り続けてきた生活の布。藍染めを中心とした素朴な縞模様と、手紡ぎ・草木染めによる自然な風合いが丹波布の魅力で、民藝運動の父・柳宗悦が「日本一の民芸織物」と賞賛した逸品として知られる。現代でも丹波布の産地として青垣町の工房が手機による伝統織りを守り、民藝の精神を受け継いだ素朴で美しい布を作り続けている。",
-    "desc_en": "Tanba nuno is a striped textile of cotton, hemp, and silk produced in Aogaki-cho, Tamba City, Hyogo Prefecture, a cloth of daily life woven by farming women on hand looms from the late Edo period. The appeal of Tanba nuno lies in its simple stripe patterns centered on indigo dyeing and a natural texture from hand spinning and plant dyeing; it is known as a masterpiece praised by Soetsu Yanagi, father of the mingei (folk craft) movement, as 'Japan's finest folk craft textile.' Even today, workshops in Aogaki-cho continue to maintain traditional hand loom weaving, creating plain and beautiful cloth inheriting the spirit of mingei.",
-    "techniques": [
-      "手機織り",
-      "藍染め",
-      "草木染め",
-      "手紡ぎ"
-    ],
-    "materials": [
-      "綿糸",
-      "麻糸",
-      "絹糸",
-      "藍・草木染料"
-    ],
-    "features": [
-      "柳宗悦が「日本一の民芸織物」と賞賛した丹波の縞織物",
-      "農家女性が手機で織り続けた藍染め中心の素朴な縞模様",
-      "手紡ぎ・草木染めによる自然な風合いが民藝の美を体現"
-    ],
-    "workshops": [
-      {
-        "name": "丹波布伝承館",
-        "url": "",
-        "experience": true,
-        "experience_desc": "機織り体験（要問い合わせ）",
-        "address": "兵庫県丹波市青垣町"
-      }
-    ],
-    "purchase_keywords": "丹波布 縞 藍染め 購入 兵庫 丹波 民藝",
-    "price_range": "小物 3,000円〜 / 反物 40,000円〜 / 着物仕立て 100,000円〜",
-    "lat": 35.182,
-    "lng": 135.087,
-    "source": "https://kougeihin.jp/craft/2806/",
-    "ogp_image_desc": "柳宗悦が賞賛した丹波布の藍染め縞模様の手織り布"
-  },
-  {
-    "id": "nibutani_attus",
-    "name": "二風谷アットゥシ",
-    "name_en": "Nibutani Attus",
-    "name_fr": "Attus de Nibutani",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 1,
-    "prefecture": "hokkaido",
-    "prefecture_ja": "北海道",
-    "area": "沙流郡平取町二風谷",
-    "founded": 1000,
-    "founded_era": "平安時代以前",
-    "desc": "沙流川流域に古くから伝わり、江戸時代には沙流川流域の物産として他地域との交易が行われてきた北海道・平取町二風谷のアイヌ民族の織物。オヒョウニレの内樹皮を手績みして糸を作り幾何学的なアイヌ文様を織り込む製法は、100年以上前とほぼ同様の道具を使い今日まで受け継がれている。日本最北の伝統的工芸品として指定された、アイヌ文化を体現する希少な布。",
-    "desc_en": "Nibutani attus is a bark fiber textile passed down by the Ainu people of Nibutani, Biratori-cho, Hidaka region, Hokkaido, where threads are hand-worked from the inner bark of the elm tree (ohyo nire) and geometric Ainu patterns are woven in. Designated as Japan's northernmost nationally recognized traditional craft embodying the Ainu culture listed as UNESCO Intangible Cultural Heritage, its advanced handcraft techniques using natural materials and unique Ainu patterns are internationally acclaimed. Ainu craft inheritors in Nibutani, Biratori-cho continue to pass down the technique of attus weaving to future generations.",
-    "techniques": [
-      "樹皮繊維の手績み",
-      "手機織り",
-      "アイヌ文様織り込み"
-    ],
-    "materials": [
-      "オヒョウニレ（ニレ科）の内樹皮繊維"
-    ],
-    "features": [
-      "アイヌ民族の文化を体現する日本最北の伝統的工芸品",
-      "オヒョウニレの樹皮繊維を手績みして糸にする希少な技法",
-      "幾何学的アイヌ文様が織り込まれたユネスコ無形文化遺産の工芸"
-    ],
-    "workshops": [
-      {
-        "name": "二風谷アイヌ文化博物館",
-        "url": "https://www.town.biratori.hokkaido.jp/biratori/nibutani/",
-        "experience": false,
-        "experience_desc": "",
-        "address": "北海道沙流郡平取町二風谷"
-      }
-    ],
-    "purchase_keywords": "二風谷アットゥシ アイヌ 織物 購入 北海道 平取",
-    "price_range": "小物 10,000円〜 / 反物 200,000円〜 / 着物仕立て 500,000円〜",
-    "lat": 42.599,
-    "lng": 142.178,
-    "source": "https://kougeihin.jp/craft/0101/",
-    "ogp_image_desc": "アイヌ文様が織り込まれた二風谷アットゥシの樹皮繊維織物"
-  },
-  {
-    "id": "yumihama_gasuri",
-    "name": "弓浜絣",
-    "name_en": "Yumihama Gasuri",
-    "name_fr": "Gasuri de Yumihama",
-    "category": "textiles",
-    "category_ja": "織物",
-    "designation": "meti",
-    "designation_number": 31,
-    "prefecture": "tottori",
-    "prefecture_ja": "鳥取県",
-    "area": "境港市・米子市",
-    "founded": 1750,
-    "founded_era": "江戸時代中期",
-    "desc": "17世紀後半に鳥取県西部の弓ヶ浜地方で自家用綿の栽培が始まり、18世紀中頃には藍玉問屋が設けられて木綿の生産が増加した産地。19世紀初めに米子・弓ヶ浜で農家の女性たちが「浜の目絣」と呼ばれる絵絣を手機で織り始めたのが弓浜絣の起こりとされる。藍染めと素朴な手績み糸が生む力強い絣文様が特徴で、山陰地方を代表する伝統的木綿絣産地として知られる。",
-    "desc_en": "Yumihama gasuri is a cotton kasuri (ikat) textile produced in the Yumihama Peninsula (Sakaiminato City and Yonago City) in western Tottori Prefecture, woven on hand looms by farming women from the mid-Edo period. Characterized by rustic kasuri patterns from coarsely hand-spun thread and indigo dyeing, it is known as the representative traditional cotton kasuri production area of the San'in region. A cloth born from the rural culture of the Yumihama Peninsula nurtured in the harsh climate of the Sea of Japan, its rustic yet powerful kasuri patterns have an appeal that draws viewers. Workshops in Sakaiminato City and Yonago City continue to preserve traditional techniques and produce kimono and obi fabric today.",
-    "techniques": [
-      "手機織り",
-      "藍染め",
-      "絣括り（かすりくくり）"
-    ],
-    "materials": [
-      "綿糸（手績み）",
-      "藍染料"
-    ],
-    "features": [
-      "山陰を代表する木綿絣産地・弓浜半島の農村女性が守った伝統",
-      "藍染めと手績み糸による素朴で力強い絣模様が個性",
-      "日本海の気候風土が育んだ鳥取西部の伝統的木綿絣"
-    ],
-    "workshops": [
-      {
-        "name": "弓浜絣工房（産地にご確認ください）",
-        "url": "",
-        "experience": false,
-        "experience_desc": "",
-        "address": "鳥取県境港市"
-      }
-    ],
-    "purchase_keywords": "弓浜絣 絣 木綿 購入 鳥取 境港 米子",
-    "price_range": "反物 40,000円〜 / 着物仕立て 100,000円〜 / 帯 30,000円〜",
-    "lat": 35.5399,
-    "lng": 133.2315,
-    "source": "https://kougeihin.jp/craft/0121/",
-    "ogp_image_desc": "藍染めの素朴な絣模様が美しい弓浜絣の木綿着物地"
-  }
+ {
+  "id": "nishijin_ori",
+  "name": "西陣織",
+  "name_en": "Nishijin Weaving",
+  "name_fr": "Tissage Nishijin",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 1,
+  "prefecture": "kyoto",
+  "prefecture_ja": "京都府",
+  "area": "京都市北区・上京区",
+  "founded": 794,
+  "founded_era": "平安時代",
+  "desc": "平安時代以前に秦氏が伝えた機織り技術を源流とし、応仁の乱（1467年）で西軍が本陣を置いた地に職人が集まり「西陣」の名が生まれた。京都市北区を中心に生産される絹織物で、先染め糸をジャカード機で織り上げる多彩な技法と、金糸・銀糸・箔糸を組み合わせた錦織が最大の特徴。宮廷文化を担い手として1,300年以上続く帯地・着物地の最高峰ブランド。",
+  "desc_en": "Nishijin weaving is silk fabric produced in the Nishijin district of Kyoto. Beginning with the Heian capital's establishment in 794, weavers returned to Nishijin after the Onin War (1467) to revive the industry. Using Jacquard looms and pre-dyed threads for complex patterns combined with gold, silver, and foil threads, it remains the premium brand for obi sashes and kimono fabrics.",
+  "techniques": [
+   "つづれ織",
+   "錦織",
+   "綴織",
+   "ジャカード織",
+   "金糸銀糸使い"
+  ],
+  "materials": [
+   "生糸",
+   "金糸",
+   "銀糸",
+   "箔糸"
+  ],
+  "features": [
+   "1,200年の歴史を持つ京都が誇る最高級絹織物ブランド",
+   "先染め糸による複雑な紋様とジャカード機による多色織",
+   "帯地から洋装ファッション・インテリアまで現代にも進化"
+  ],
+  "workshops": [
+   {
+    "name": "西陣織会館",
+    "url": "https://www.nishijin.or.jp/",
+    "experience": true,
+    "experience_desc": "帯留め・コースター織り体験 1,100円〜",
+    "address": "京都府京都市上京区"
+   }
+  ],
+  "purchase_keywords": "西陣織 帯 購入 着物",
+  "price_range": "コースター 1,000円〜 / 袋帯 50,000円〜 / 丸帯 200,000円〜",
+  "lat": 35.0213,
+  "lng": 135.7442,
+  "source": "https://kougeihin.jp/craft/0120/",
+  "ogp_image_desc": "金糸銀糸が輝く西陣織の錦の帯と着物地"
+ },
+ {
+  "id": "hakata_ori",
+  "name": "博多織",
+  "name_en": "Hakata Weaving",
+  "name_fr": "Tissage Hakata",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 40,
+  "prefecture": "fukuoka",
+  "prefecture_ja": "福岡県",
+  "area": "福岡市博多区",
+  "founded": 1241,
+  "founded_era": "仁治2年",
+  "desc": "鎌倉時代、博多の商人が僧侶とともに宋（中国）へ渡り、織物技術を持ち帰ったことに始まる福岡市博多区の絹織物。江戸時代に筑前藩主・黒田長政が毎年幕府へ献上したことで「献上博多」として名が高まり、独鈷・華皿を組み合わせた「献上柄」が代表紋様となった。経糸を多く使い緯糸で打ち込む独特の製法により、締め心地が良くほどけにくい帯地に仕上がる。",
+  "desc_en": "Hakata weaving is silk fabric from Hakata-ku, Fukuoka City. Starting in 1241 when merchant Manda Yazaemon brought techniques from Song Dynasty China, the '献上博多' (tribute Hakata) presented to the Shogunate during the Edo period became famous. The distinctive 'Kenjo pattern' of four motifs creates a firm, well-tensioned obi fabric due to its unique weaving method.",
+  "techniques": [
+   "献上柄織り",
+   "紋織り",
+   "先染め"
+  ],
+  "materials": [
+   "生糸",
+   "金糸",
+   "銀糸"
+  ],
+  "features": [
+   "独鈷・華皿など「献上柄」は江戸時代から続く格調ある紋様",
+   "締め心地の良さと崩れにくさで帯の最高峰ブランド",
+   "現代ではネクタイ・バッグなど洋装ファッションにも展開"
+  ],
+  "workshops": [
+   {
+    "name": "博多織工業組合",
+    "url": "https://hakata-ori.or.jp/",
+    "experience": true,
+    "experience_desc": "コースター・ブローチ織り体験 2,200円〜",
+    "address": "福岡県福岡市博多区"
+   }
+  ],
+  "purchase_keywords": "博多織 帯 購入 小物",
+  "price_range": "小物 3,000円〜 / 半幅帯 20,000円〜 / 袋帯 80,000円〜",
+  "lat": 33.5899,
+  "lng": 130.4213,
+  "source": "https://kougeihin.jp/craft/0123/",
+  "ogp_image_desc": "献上柄の伝統紋様が美しい博多織の帯"
+ },
+ {
+  "id": "yuki_tsumugi",
+  "name": "結城紬",
+  "name_en": "Yuki Tsumugi Silk",
+  "name_fr": "Soie Yuki Tsumugi",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 10,
+  "prefecture": "ibaraki",
+  "prefecture_ja": "茨城県",
+  "area": "結城市・栃木市",
+  "founded": 700,
+  "founded_era": "奈良時代",
+  "desc": "古くから養蚕が盛んな茨城県結城地方で農閑期に作られ、奈良時代にはすでに朝廷に納めていた絹織物。鎌倉時代に領主・結城氏が産業保護に努め「結城紬」の名が定着し、江戸初期に信州や京都の技術も導入して名声を高めた。真綿手紡ぎ・絣括り・地機（いざり機）の三工程を全て経たものだけが「本結城」を名乗れ、2010年にユネスコ無形文化遺産に登録された。",
+  "desc_en": "Yuki Tsumugi is silk fabric produced in Yuki City, Ibaraki, and Tochigi City, Tochigi. With 1,300 years of history from the Nara period, it was inscribed on UNESCO's Intangible Cultural Heritage list in 2010. Only fabric that undergoes all three traditional processes—hand-spinning silk wadding, kasuri binding for patterns, and weaving on an izaribata (floor loom)—can be called 'Hon-Yuki.' It becomes softer and more comfortable with wear.",
+  "techniques": [
+   "真綿手紡ぎ",
+   "絣括り",
+   "地機（いざり機）織り"
+  ],
+  "materials": [
+   "真綿（繭から引いた絹綿）"
+  ],
+  "features": [
+   "2010年ユネスコ無形文化遺産登録・1,300年の正真正銘の歴史",
+   "真綿の手紡ぎ→絣括り→地機3工程全てを満たす「本結城」の希少性",
+   "着込むほど身体に馴染む柔らかな肌触りと軽さ"
+  ],
+  "workshops": [
+   {
+    "name": "結城紬の里 つむぎの館",
+    "url": "https://www.tsumuginokan.jp/",
+    "experience": true,
+    "experience_desc": "手紡ぎ・手織り体験 2,200円〜",
+    "address": "茨城県結城市"
+   }
+  ],
+  "purchase_keywords": "結城紬 購入 着物 反物",
+  "price_range": "反物（本結城）800,000円〜 / 小物 10,000円〜",
+  "lat": 36.2929,
+  "lng": 139.8741,
+  "source": "https://kougeihin.jp/craft/0104/",
+  "ogp_image_desc": "繊細な絣模様が美しい結城紬の着物"
+ },
+ {
+  "id": "ryukyu_kasuri",
+  "name": "琉球絣",
+  "name_en": "Ryukyu Kasuri",
+  "name_fr": "Tissu Kasuri Ryukyu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "南風原町・那覇市",
+  "founded": 1400,
+  "founded_era": "琉球王国時代",
+  "desc": "14〜15世紀の中国・東南アジアとの交易を通じて沖縄に伝わった絣技術を源流とし、大正時代に本格的な産地として確立した沖縄県南風原町の絹・綿絣織物。南方系の絣から生まれた幾何学文様が主体で、約600種の絣図案（テイサージ）が伝承されてきた。鮮やかな色彩と独自の文様が沖縄の自然と文化を体現し、着物地として世界でも高く評価される。",
+  "desc_en": "Ryukyu Kasuri is silk and cotton kasuri fabric produced mainly in Haebaru Town, Okinawa. With approximately 600 years of history from the Ryukyu Kingdom era, its distinctive geometric patterns reflect influences from Java, India, and China. About 600 kasuri patterns (Teisaji) are preserved, with each bolt taking weeks to months to complete. The vibrant colors and unique patterns embody Okinawa's rich culture.",
+  "techniques": [
+   "手括り絣",
+   "型引き絣",
+   "手機織り"
+  ],
+  "materials": [
+   "生糸",
+   "綿糸",
+   "植物染料"
+  ],
+  "features": [
+   "琉球王国から続く600年の歴史と約600種の絣図案",
+   "ジャワ・インド・中国の影響を受けた独自の幾何学文様",
+   "鮮やかな色彩が沖縄の自然と文化を映し出す"
+  ],
+  "workshops": [
+   {
+    "name": "南風原花織事業協同組合",
+    "url": "https://haebaru-ori.jp/",
+    "experience": true,
+    "experience_desc": "手織り体験 2,500円〜",
+    "address": "沖縄県南風原町"
+   }
+  ],
+  "purchase_keywords": "琉球絣 購入 着物 反物",
+  "price_range": "小物 3,000円〜 / 反物 80,000円〜 / 着物仕立て 200,000円〜",
+  "lat": 26.1665,
+  "lng": 127.7263,
+  "source": "https://kougeihin.jp/craft/0130/",
+  "ogp_image_desc": "鮮やかな幾何学文様の琉球絣の反物"
+ },
+ {
+  "id": "oshima_tsumugi",
+  "name": "大島紬",
+  "name_en": "Oshima Tsumugi",
+  "name_fr": "Tsumugi Oshima",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 46,
+  "prefecture": "kagoshima",
+  "prefecture_ja": "鹿児島県",
+  "area": "奄美市・鹿児島市",
+  "founded": 700,
+  "founded_era": "奈良時代頃",
+  "desc": "7世紀頃に奄美大島で始まったとされる絹織物で、18世紀初期に産地が形成され鹿児島本土にも技法が伝わった。テーチ木（車輪梅）で煮染めした後に奄美の泥田で染める「泥染め」と、締め機（しめはた）で絣模様を作る独特の技法が特徴。柔らかく軽い着心地と独特の光沢を持ち、1反に数ヶ月から1年以上を要する贅沢な絹織物として知られる。",
+  "desc_en": "Oshima Tsumugi is silk fabric originating from the Amami Islands, Kagoshima Prefecture. Said to have begun around the Nara period, it is characterized by 'mud dyeing' using techi tree (syagrus romanzoffiana) dye solution and mud fields, combined with warp and weft kasuri technique. Each bolt takes months to over a year to produce. Soft, light, and with a distinctive luster, 'Honba Oshima Tsumugi' comes in three varieties from different areas with certificates of origin.",
+  "techniques": [
+   "泥染め",
+   "テーチ木染め",
+   "縦横絣合わせ",
+   "手機織り"
+  ],
+  "materials": [
+   "生糸",
+   "テーチ木（車輪梅）",
+   "奄美の泥田"
+  ],
+  "features": [
+   "テーチ木と泥田による独自の「泥染め」で生まれる深い黒色",
+   "縦横の絣を0.1mm単位で合わせる超高精度の技術",
+   "柔らかく軽い着心地と独特の光沢・1反に数ヶ月〜1年以上"
+  ],
+  "workshops": [
+   {
+    "name": "奄美大島紬村",
+    "url": "https://www.tsumugi-mura.co.jp/",
+    "experience": true,
+    "experience_desc": "手織り・泥染め体験 2,000円〜",
+    "address": "鹿児島県奄美市"
+   }
+  ],
+  "purchase_keywords": "大島紬 購入 着物 奄美",
+  "price_range": "小物 5,000円〜 / 反物 300,000円〜 / 着物仕立て 500,000円〜",
+  "lat": 28.378,
+  "lng": 129.494,
+  "source": "https://kougeihin.jp/craft/0108/",
+  "ogp_image_desc": "泥染めの深い黒と精緻な絣模様が美しい大島紬の反物"
+ },
+ {
+  "id": "ojiya_chijimi",
+  "name": "小千谷縮",
+  "name_en": "Ojiya Chijimi",
+  "name_fr": "Tissage Ojiya Chijimi",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 15,
+  "prefecture": "niigata",
+  "prefecture_ja": "新潟県",
+  "area": "小千谷市",
+  "founded": 1670,
+  "founded_era": "寛文10年頃",
+  "desc": "縄文時代後期と思われる土器に布目の跡が残る、新潟県小千谷市の麻織物産地。江戸時代前期に夏衣料向けの改良が進み、緯糸に強い撚りをかけることで独特のシボ（縮み）を生み出す「縮」が確立した。雪国の厳冬の中で行う雪晒しが独特のシャリ感と白さをもたらし、昭和30年に国の重要無形文化財に指定。2009年には越後上布とともにユネスコ無形文化遺産に登録された夏の麻の名品。",
+  "desc_en": "Ojiya Chijimi is linen fabric produced in Ojiya City, Niigata Prefecture. Said to have been created around 1670 by Hori Jiro Masatoshi of the Akashi domain, who created 'chijimi' (crepe) by shrinking hemp cloth on the Echigo Plain. 'Yuki-zarashi' (snow bleaching) in severe winter conditions creates the distinctive crisp texture and whiteness. Inscribed on UNESCO's Intangible Cultural Heritage list in 2009 along with Echigo Jofu.",
+  "techniques": [
+   "麻手績み",
+   "手機織り",
+   "雪晒し（ゆきさらし）"
+  ],
+  "materials": [
+   "苧麻（からむし）"
+  ],
+  "features": [
+   "2009年ユネスコ無形文化遺産登録（越後上布と共同登録）",
+   "雪晒しが生む独特のシャリ感・清涼感・白さ",
+   "夏の着物・浴衣として格別の涼感を提供する麻の名品"
+  ],
+  "workshops": [
+   {
+    "name": "小千谷産業開発センター（産地にご確認ください）",
+    "url": "https://ojiya-chijimi.or.jp/",
+    "experience": true,
+    "experience_desc": "手織り体験（産地にご確認ください）",
+    "address": "新潟県小千谷市"
+   }
+  ],
+  "purchase_keywords": "小千谷縮 購入 夏着物 浴衣",
+  "price_range": "浴衣反物 30,000円〜 / 夏着物反物 100,000円〜",
+  "lat": 37.3,
+  "lng": 138.79,
+  "source": "https://kougeihin.jp/craft/0112/",
+  "ogp_image_desc": "雪晒しの白さと清涼感が美しい小千谷縮の反物"
+ },
+ {
+  "id": "shiozawa_tsumugi",
+  "name": "塩沢紬",
+  "name_en": "Shiozawa Tsumugi",
+  "name_fr": "Tsumugi Shiozawa",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 15,
+  "prefecture": "niigata",
+  "prefecture_ja": "新潟県",
+  "area": "南魚沼市塩沢",
+  "founded": 700,
+  "founded_era": "奈良時代頃",
+  "desc": "奈良時代に織られた麻布が奈良の正倉院に保存されているほど歴史の深い新潟県南魚沼市塩沢の織物産地。その麻織物の技術・技法を絹織物に取り入れた塩沢紬は、江戸時代に織り始められた。本塩沢・塩沢紬・越後上布の三種が「塩沢産地」として国の伝統的工芸品に指定されており、雪晒しが生む独特のシャリ感と精緻な絣模様が特徴の夏向け高級絹織物。",
+  "desc_en": "Shiozawa Tsumugi is silk fabric produced in the Shiozawa district of Minamiuonuma City, Niigata Prefecture. Inheriting the techniques of Echigo Jofu, it developed as a kasuri weaving using silk. Three types—Honshiozawa, Shiozawa Tsumugi, and Echigo Jofu—are designated as national traditional crafts under the 'Shiozawa production area.' Featuring snow bleaching and intricate kasuri patterns, its unique crisp texture and translucency make it ideal for summer kimono.",
+  "techniques": [
+   "手括り絣",
+   "手機織り",
+   "雪晒し"
+  ],
+  "materials": [
+   "生糸",
+   "紬糸"
+  ],
+  "features": [
+   "雪国の気候を生かした雪晒しと精緻な絣模様",
+   "本塩沢・塩沢紬・越後上布と3種の国指定工芸品を有する産地",
+   "独特のシャリ感と透け感で夏の着物として最高の素材"
+  ],
+  "workshops": [
+   {
+    "name": "雪国観光圏 産地工房（産地にご確認ください）",
+    "url": "https://shiozawa-tsumugi.com/",
+    "experience": true,
+    "experience_desc": "手織り体験（産地にご確認ください）",
+    "address": "新潟県南魚沼市塩沢"
+   }
+  ],
+  "purchase_keywords": "塩沢紬 購入 夏着物 反物",
+  "price_range": "反物 100,000円〜 / 着物仕立て 300,000円〜",
+  "lat": 36.94,
+  "lng": 138.92,
+  "source": "https://kougeihin.jp/craft/0111/",
+  "ogp_image_desc": "精緻な絣模様と独特の光沢が美しい塩沢紬の反物"
+ },
+ {
+  "id": "yonezawa_ori",
+  "name": "米沢織",
+  "name_en": "Yonezawa Weaving",
+  "name_fr": "Tissage Yonezawa",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 6,
+  "prefecture": "yamagata",
+  "prefecture_ja": "山形県",
+  "area": "米沢市",
+  "founded": 1700,
+  "founded_era": "江戸中期",
+  "desc": "山形県米沢市で生産される絹織物。江戸中期に米沢藩の上杉鷹山（ようざん）が藩の財政立て直しのために養蚕・織物業を奨励したことが発展の契機。西陣から技術を導入し、米沢の絹織物産業を確立した。絹・化繊など多様な素材を使った紋織物・先染め織物が特徴で、帯・着物生地・洋装生地まで幅広く生産。明治・大正期に輸出産業として発展した歴史も持つ。",
+  "desc_en": "Yonezawa weaving is silk fabric from Yonezawa City, Yamagata Prefecture. The development was triggered in the mid-Edo period when Uesugi Yozan, lord of the Yonezawa domain, encouraged sericulture and weaving to revive the domain's finances. Importing techniques from Nishijin, it established the silk weaving industry of Yonezawa. Featuring patterned weave and pre-dyed fabric using silk and synthetic fibers, it also has a history of export industry development in the Meiji and Taisho periods.",
+  "techniques": [
+   "紋織り",
+   "先染め",
+   "ジャカード織"
+  ],
+  "materials": [
+   "生糸",
+   "絹糸",
+   "化繊"
+  ],
+  "features": [
+   "上杉鷹山の藩政改革が生んだ山形の絹織物産業",
+   "西陣から導入した技術が独自に発展した紋織物の美",
+   "帯・着物生地から洋装生地まで幅広く展開"
+  ],
+  "workshops": [
+   {
+    "name": "米沢織物歴史資料館（産地にご確認ください）",
+    "url": "https://www.yonezawa-ori.jp/",
+    "experience": true,
+    "experience_desc": "手織り体験（産地にご確認ください）",
+    "address": "山形県米沢市"
+   }
+  ],
+  "purchase_keywords": "米沢織 購入 帯 着物 山形",
+  "price_range": "小物 3,000円〜 / 帯 30,000円〜 / 着物反物 80,000円〜",
+  "lat": 37.923,
+  "lng": 140.1167,
+  "source": "https://www.yoneori.com/",
+  "ogp_image_desc": "上品な紋様が美しい米沢織の帯と着物地"
+ },
+ {
+  "id": "ushikubi_tsumugi",
+  "name": "牛首紬",
+  "name_en": "Ushikubi Tsumugi",
+  "name_fr": "Tsumugi Ushikubi",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 17,
+  "prefecture": "ishikawa",
+  "prefecture_ja": "石川県",
+  "area": "白山市白峰（旧牛首村）",
+  "founded": 1100,
+  "founded_era": "平安末期頃",
+  "desc": "白山麓の牛首村（現在の石川県白山市白峰地区）の地名を冠する絹織物で、平安末期の平治の乱で落ち延びた源氏の落人・大畠氏の妻たちが機織りの技を村の女性たちに伝えたのが始まりとされる。2個の繭から一本の糸を取る「玉繭」使いにより「釘が抜ける」と称されるほど強靱な生地に仕上がる。結城紬・大島紬と並ぶ日本三大紬の一つで、艶やかな光沢と比類なき丈夫さが特徴。",
+  "desc_en": "Ushikubi Tsumugi is silk fabric from the Shiramine district (formerly Shiramine and Ushikubi villages), Hakusan City, Ishikawa Prefecture. Also called 'kuginuki-tsumugi' (nail-pulling tsumugi) for its exceptional strength—the unique method uses 'tama-mayu' (double cocoons from two silkworms). Considered one of Japan's three great tsumugi (alongside Yuki and Oshima), it features a lustrous sheen and durability. Craftsmen continue the tradition in the harsh environment of the Hakusan foothills.",
+  "techniques": [
+   "玉繭（ふたこ繭）糸取り",
+   "手機織り"
+  ],
+  "materials": [
+   "玉繭（2匹の繭から取った絹糸）"
+  ],
+  "features": [
+   "2個の繭から取る玉繭糸が生む「釘抜き」と称される強靱さ",
+   "結城紬・大島紬と並ぶ日本三大紬の一つ",
+   "白山麓の自然の中で守り継がれる希少な絹織物"
+  ],
+  "workshops": [
+   {
+    "name": "牛首紬工房 白山工房（産地にご確認ください）",
+    "url": "https://ushikubitsumugi.com/",
+    "experience": true,
+    "experience_desc": "手織り体験（産地にご確認ください）",
+    "address": "石川県白山市白峰"
+   }
+  ],
+  "purchase_keywords": "牛首紬 購入 着物 石川",
+  "price_range": "反物 200,000円〜 / 着物仕立て 400,000円〜",
+  "lat": 36.21,
+  "lng": 136.62,
+  "source": "https://kougeihin.jp/craft/0118/",
+  "ogp_image_desc": "光沢ある玉繭糸の牛首紬の反物と着物"
+ },
+ {
+  "id": "tango_chirimen",
+  "name": "丹後ちりめん",
+  "name_en": "Tango Chirimen Crepe",
+  "name_fr": "Crêpe Tango Chirimen",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 26,
+  "prefecture": "kyoto",
+  "prefecture_ja": "京都府",
+  "area": "京丹後市・宮津市・与謝野町",
+  "founded": 1720,
+  "founded_era": "享保5年",
+  "desc": "京都府北部の丹後地方（京丹後市・宮津市など）で生産される絹の縮緬（ちりめん）織物。1720年（享保5年）に峰山藩の絹商人・絹屋佐平治が京都から技術を持ち帰り始めたとされる。国内の絹ちりめん生産量約60%を占める日本最大の絹ちりめん産地で、友禅・小紋・振袖など京都の染物・着物の素材として広く使われている。",
+  "desc_en": "Tango Chirimen is silk crepe fabric produced in the northern Kyoto Tango region (Kyotango City, Miyazu City, etc.). Said to have started in 1720 when silk merchant Kinutani Saheiji of Mineyama domain brought back techniques from Kyoto. Accounting for approximately 60% of domestic silk chirimen production, it is Japan's largest silk chirimen area, widely used as material for Kyoto's dyeing and kimono including yuzen, komon, and furisode.",
+  "techniques": [
+   "縮緬織り",
+   "撚り糸使い",
+   "先練り"
+  ],
+  "materials": [
+   "生糸",
+   "強撚糸"
+  ],
+  "features": [
+   "国内絹ちりめん生産量約60%・日本最大の絹ちりめん産地",
+   "京友禅・小紋・振袖の素材として欠かせない存在",
+   "独特のシボ（縮み・凹凸）が生む柔らかな光沢と肌触り"
+  ],
+  "workshops": [
+   {
+    "name": "丹後ちりめん歴史館",
+    "url": "https://www.tangosilk.jp/",
+    "experience": true,
+    "experience_desc": "ちりめん染め体験（産地にご確認ください）",
+    "address": "京都府与謝野町"
+   }
+  ],
+  "purchase_keywords": "丹後ちりめん 購入 絹 反物 スカーフ",
+  "price_range": "スカーフ 5,000円〜 / 反物 30,000円〜 / 振袖反物 100,000円〜",
+  "lat": 35.65,
+  "lng": 135.15,
+  "source": "https://tanko.or.jp/",
+  "ogp_image_desc": "独特のシボが美しい丹後ちりめんの絹反物"
+ },
+ {
+  "id": "kurume_kasuri",
+  "name": "久留米絣",
+  "name_en": "Kurume Kasuri",
+  "name_fr": "Tissu Kasuri Kurume",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 40,
+  "prefecture": "fukuoka",
+  "prefecture_ja": "福岡県",
+  "area": "久留米市・八女市・筑後市",
+  "founded": 1800,
+  "founded_era": "寛政年間",
+  "desc": "19世紀初め、古い木綿布のかすれた糸をヒントに12歳の少女が絣の技法を生み出したのが起こりとされる福岡県久留米市の綿絣織物。その後、久留米藩が産業として奨励し、絵絣や小絣など改良が重ねられて他に類のない独自の技術へと発展した。手括り染めの深い藍色と白の幾何学文様が特徴で、日本三大絣の一つとして世界のファッション界でも高く評価される。",
+  "desc_en": "Kurume Kasuri is cotton kasuri fabric produced mainly in Kurume City, Fukuoka Prefecture. Around 1800, a young girl named Inoue Den (age 12) of the Kurume domain is said to have invented the kasuri technique from patterns on worn clothing. 'Hon-gasuri' (true kasuri), where threads are tie-dyed by hand (tekukuri), preserves over 400 kasuri patterns. The deep indigo and white geometric patterns are characteristic. Recognized as one of Japan's Three Great Kasuri, it is also evaluated in the global fashion world.",
+  "techniques": [
+   "手括り絣（てくくりがすり）",
+   "藍染め",
+   "手機織り"
+  ],
+  "materials": [
+   "綿糸",
+   "天然藍"
+  ],
+  "features": [
+   "12歳の少女・井上伝が発案したとされる絣技法の歴史",
+   "深い藍色と白の幾何学文様・日本三大絣の一つ",
+   "400種以上の絣図案が現代ファッションにも影響を与える"
+  ],
+  "workshops": [
+   {
+    "name": "久留米絣技術保存会（産地にご確認ください）",
+    "url": "https://kurume-kasuri.com/",
+    "experience": true,
+    "experience_desc": "手織り体験 2,000円〜",
+    "address": "福岡県久留米市"
+   }
+  ],
+  "purchase_keywords": "久留米絣 購入 藍 反物 着物",
+  "price_range": "小物 3,000円〜 / 浴衣反物 20,000円〜 / 着物反物 80,000円〜",
+  "lat": 33.3209,
+  "lng": 130.5081,
+  "source": "https://kougeihin.jp/craft/0124/",
+  "ogp_image_desc": "深い藍色と白の幾何学文様が美しい久留米絣の反物"
+ },
+ {
+  "id": "kihachijo",
+  "name": "黄八丈",
+  "name_en": "Kihachijo",
+  "name_fr": "Kihachijo",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 13,
+  "prefecture": "tokyo",
+  "prefecture_ja": "東京都",
+  "area": "八丈島",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "室町時代から絹の貢納記録が残る東京都八丈島の絹織物。江戸時代中期以降、現代にも通じる粋な縦縞・格子縞が織られるようになった。島固有の植物（コブナグサ・マダミ・椎）で糸を草木染めし、黄・樺色（かばいろ）・黒の三色を使い分ける。それぞれ「黄八丈」「鳶八丈」「黒八丈」と呼ばれ、将軍家への年貢品として奉納されてきた格調ある絹織物。",
+  "desc_en": "Kihachijo is silk fabric produced on Hachijojima Island, Tokyo. Silk threads are dyed using plants unique to the island (kobunagrass, madami, and oak) and woven by hand. The traditional three-color stripe and plaid patterns in yellow, reddish-brown, and black are called 'Ki-hachijo,' 'Tobi-hachijo,' and 'Kuro-hachijo' respectively. With a history as tribute to the Shogunate during the Edo period, a small number of island craftsmen continue production today.",
+  "techniques": [
+   "草木染め",
+   "手機織り",
+   "縞・格子模様"
+  ],
+  "materials": [
+   "生糸",
+   "コブナグサ（黄色）",
+   "マダミ（樺色）",
+   "椎の木（黒色）"
+  ],
+  "features": [
+   "八丈島固有の植物で染める草木染めの豊かな自然色",
+   "将軍家への年貢品として奉納された江戸時代からの格式",
+   "黄・樺・黒の三色縞格子が生む独自の島の美"
+  ],
+  "workshops": [
+   {
+    "name": "黄八丈織元 めゆ工房",
+    "url": "https://www.kihachijo.com/",
+    "experience": true,
+    "experience_desc": "草木染め・機織り体験（要予約）",
+    "address": "東京都八丈島"
+   }
+  ],
+  "purchase_keywords": "黄八丈 購入 着物 反物 八丈島",
+  "price_range": "小物 5,000円〜 / 反物 200,000円〜 / 着物仕立て 400,000円〜",
+  "lat": 33.1109,
+  "lng": 139.7883,
+  "source": "https://kougeihin.jp/craft/0109/",
+  "ogp_image_desc": "黄・樺・黒の三色縞が美しい黄八丈の反物"
+ },
+ {
+  "id": "miyako_jofu",
+  "name": "宮古上布",
+  "name_en": "Miyako Jofu",
+  "name_fr": "Toile Miyako",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "宮古島市",
+  "founded": 1583,
+  "founded_era": "天正11年頃",
+  "desc": "今から約400年前、宮古島の男が嵐で沈没しかけた琉球王府の船を救い、その功績を称えた妻が心を込めて布を織り王に献上したのが始まりとされる沖縄県宮古島の麻布。手績みした苧麻を手機で織り、砧打ちで柔らかくした後に海水・砂浜で晒す独自の工程を経る。糸の細さと密度の高さから「蝉の羽」とも称される薄くて軽い最高級の麻布。",
+  "desc_en": "Miyako jofu is a linen fabric woven on Miyako Island, Okinawa. Said to have begun in the late 16th century as tribute cloth paid to the Satsuma Domain during the Ryukyu Kingdom era. After hand-spinning ramie fiber and weaving on a hand loom, the cloth is softened with a wooden mallet and bleached with seawater and sand. So thin and light it is called \"cicada wings,\" it is the finest of all Japanese linen textiles.",
+  "techniques": [
+   "手績み苧麻",
+   "手機織り",
+   "砧打ち",
+   "海晒し"
+  ],
+  "materials": [
+   "苧麻（ちょま）"
+  ],
+  "features": [
+   "「蝉の羽」と称される極薄・高密度の最高級麻布",
+   "海水と砂浜で晒す宮古島ならではの独自の工程",
+   "国指定重要無形文化財に指定された沖縄の至宝"
+  ],
+  "workshops": [
+   {
+    "name": "宮古上布技術保存組合",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県宮古島市平良"
+   }
+  ],
+  "purchase_keywords": "宮古上布 着物 反物 購入",
+  "price_range": "反物 500,000円〜 / 完成着物 1,000,000円〜",
+  "lat": 24.8053,
+  "lng": 125.2811,
+  "source": "https://kougeihin.jp/craft/0127/",
+  "ogp_image_desc": "宮古上布の薄い麻布の反物と着物"
+ },
+ {
+  "id": "yaeyama_jofu",
+  "name": "八重山上布",
+  "name_en": "Yaeyama Jofu",
+  "name_fr": "Toile Yaeyama",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "石垣市・竹富町",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "17世紀初めに薩摩が琉球を侵攻し課せられた人頭税のために織ることを強制されたことが技術向上につながった、沖縄県石垣市・竹富町の麻織物。明治末に組合が結成されて産業として盛んになったが、戦争で一時途絶え、戦後に数名でほそぼそと再建された。手績み苧麻を手機で織る絣文様の布で、宮古上布と並ぶ沖縄の高級麻織物として現在も継承が続く。",
+  "desc_en": "Yaeyama jofu is a linen fabric woven on Ishigaki Island and Taketomi Island in Okinawa Prefecture. Alongside Miyako jofu, it is one of Okinawa's premium linen textiles, woven from hand-spun ramie on a hand loom. It features kasuri (ikat) patterns, many depicting the natural beauty of the Yaeyama Islands such as star sand and sea urchins. Despite a serious shortage of successors, preservation and transmission continue for this precious traditional textile.",
+  "techniques": [
+   "手績み苧麻",
+   "手機織り",
+   "絣文様（星砂・ウニなど）"
+  ],
+  "materials": [
+   "苧麻（ちょま）"
+  ],
+  "features": [
+   "宮古上布と並ぶ沖縄を代表する高級麻織物",
+   "石垣・竹富の自然（星砂・ウニ）を象った絣文様",
+   "手績み・手機による完全手工芸の希少な織物"
+  ],
+  "workshops": [
+   {
+    "name": "竹富民芸館",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県八重山郡竹富町竹富"
+   }
+  ],
+  "purchase_keywords": "八重山上布 反物 購入",
+  "price_range": "反物 300,000円〜 / 完成着物 600,000円〜",
+  "lat": 24.3407,
+  "lng": 124.1569,
+  "source": "https://kougeihin.jp/craft/0135/",
+  "ogp_image_desc": "八重山上布の絣文様が美しい麻の反物"
+ },
+ {
+  "id": "kumejima_tsumugi",
+  "name": "久米島紬",
+  "name_en": "Kumejima Tsumugi",
+  "name_fr": "Soie Kumejima",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "島尻郡久米島町",
+  "founded": 1500,
+  "founded_era": "室町時代末期",
+  "desc": "14世紀頃に南方貿易を通じてインドを源流とする製織法が伝わり、中国から養蚕技術も学んで織物が始まったとされる沖縄県久米島の絹紬。日本の紬の発祥の地とも言われ、江戸初期から明治後期まで人頭税の代納品として反物が納められてきた。島の草木と水田の泥を使った独自の泥染めが深みある茶・黒色を生み出し、手機で丁寧に仕上げる。",
+  "desc_en": "Kumejima tsumugi is a silk textile produced on Kumejima Island, Okinawa Prefecture. With a history stretching from the late Muromachi period, silk yarn dyed with natural dyes from island plants and mud is woven on a hand loom. The distinctive mud dyeing process called \"guuteen\" creates uniquely deep brown and black colors. It is a traditional craft where plant and mud dyeing and hand weaving are unified.",
+  "techniques": [
+   "手紡ぎ絹糸",
+   "草木染め",
+   "泥染め（グーデーン）",
+   "手機織り"
+  ],
+  "materials": [
+   "絹糸",
+   "久米島の植物染料",
+   "泥（水田の泥）"
+  ],
+  "features": [
+   "島の植物と水田の泥による独自の天然染色技術",
+   "深みある茶・黒色を生み出す「泥染め（グーデーン）」",
+   "久米島の自然と文化が凝縮された沖縄随一の紬"
+  ],
+  "workshops": [
+   {
+    "name": "久米島紬事業協同組合",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県島尻郡久米島町"
+   }
+  ],
+  "purchase_keywords": "久米島紬 着物 購入",
+  "price_range": "反物 200,000円〜 / 完成着物 400,000円〜",
+  "lat": 26.3394,
+  "lng": 126.7875,
+  "source": "https://kougeihin.jp/craft/0126/",
+  "ogp_image_desc": "久米島紬の泥染め深茶色の反物と着物"
+ },
+ {
+  "id": "shuri_ori",
+  "name": "首里織",
+  "name_en": "Shuri Ori",
+  "name_fr": "Tissage Shuri",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "那覇市首里",
+  "founded": 1300,
+  "founded_era": "琉球王国時代",
+  "desc": "14〜15世紀の琉球王国が東南アジアや中国と盛んに交易を行い、その交流で得た織の技術が積み重なって生まれた沖縄県那覇市首里地区の絹織物の総称。首里王府の城下町として栄えた首里では、王府の貴族・士族のために色と柄を究極まで追求した格調高い織物が織り継がれてきた。花織・道屯織・ロートン織など5種以上の多彩な技法を包含する。",
+  "desc_en": "Shuri ori is a collective term for silk textiles woven in the Shuri district of Naha City, Okinawa Prefecture. Developed around Shuri Castle, seat of the Ryukyu Kingdom, it incorporated diverse patterns and techniques from trade with China and Southeast Asia. It encompasses multiple techniques including hanagasuri, donton weaving, teshima, nitsuke, and rotton weaving, characterized by vibrant and intricate patterns.",
+  "techniques": [
+   "花織",
+   "道屯織（どんとんおり）",
+   "手縞",
+   "煮付（にしき）",
+   "ロートン織"
+  ],
+  "materials": [
+   "絹糸",
+   "天然染料（藍・フクギなど）"
+  ],
+  "features": [
+   "琉球王国の王府文化が生み出した格調高い絹織物",
+   "中国・東南アジアとの交易を反映した多彩な文様と技法",
+   "5種類以上の異なる織法を包含する首里の織物文化"
+  ],
+  "workshops": [
+   {
+    "name": "首里織工房石田",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県那覇市首里"
+   }
+  ],
+  "purchase_keywords": "首里織 着物 反物 購入",
+  "price_range": "反物 150,000円〜 / 帯 80,000円〜 / 完成着物 300,000円〜",
+  "lat": 26.2172,
+  "lng": 127.7194,
+  "source": "https://kougeihin.jp/craft/0131/",
+  "ogp_image_desc": "首里織の花織文様が美しい絹の反物と帯"
+ },
+ {
+  "id": "kiryu_ori",
+  "name": "桐生織",
+  "name_en": "Kiryu Ori",
+  "name_fr": "Tissage Kiryu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 10,
+  "prefecture": "gunma",
+  "prefecture_ja": "群馬県",
+  "area": "桐生市",
+  "founded": 700,
+  "founded_era": "奈良時代",
+  "desc": "約1,300年前、宮中に仕える白滝姫が機織りの技を桐生の村人に伝えたのが始まりとされる群馬県桐生市の絹織物。関ヶ原の戦いで徳川家康が桐生の白絹の旗を用いたことでその名が全国に広まり、幕府の保護のもとで金襴緞子などの高級織物産地へと発展した。「西の西陣、東の桐生」と称される東日本最大の絹産地で、帯・着物地から洋装素材まで多彩に生産する。",
+  "desc_en": "Kiryu ori is a silk textile produced in Kiryu City, Gunma Prefecture. Records of silk being presented to the Imperial court date to the Nara period, earning it the description \"Nishijin of the West, Kiryu of the East\" as the largest silk textile production area in eastern Japan. It produces diverse products including obi, kimono fabric, and shawls, and in recent years has incorporated advanced materials such as polyester while preserving traditional patterns and techniques.",
+  "techniques": [
+   "綴織",
+   "ジャカード織",
+   "本綴",
+   "錦織",
+   "紬織"
+  ],
+  "materials": [
+   "絹糸",
+   "ポリエステル糸",
+   "金糸・銀糸"
+  ],
+  "features": [
+   "「西の西陣、東の桐生」と称される東日本最大の絹産地",
+   "奈良時代から続く1,300年以上の絹織物の歴史",
+   "帯・着物から現代ファッション素材まで幅広い製品展開"
+  ],
+  "workshops": [
+   {
+    "name": "桐生織物記念館",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "群馬県桐生市"
+   }
+  ],
+  "purchase_keywords": "桐生織 帯 着物 購入",
+  "price_range": "帯 30,000円〜 / 反物 50,000円〜 / ショール 10,000円〜",
+  "lat": 36.4034,
+  "lng": 139.3309,
+  "source": "https://kougeihin.jp/craft/0106/",
+  "ogp_image_desc": "桐生織の錦織の帯と着物地"
+ },
+ {
+  "id": "tama_ori",
+  "name": "多摩織",
+  "name_en": "Tama Ori",
+  "name_fr": "Tissage Tama",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 13,
+  "prefecture": "tokyo",
+  "prefecture_ja": "東京都",
+  "area": "八王子市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "平安時代末頃から現在の八王子で絹が織られてきた歴史を持ち、室町時代後期に多摩川のほとりに来た北条氏が産業として奨励したことで産地の形が整った絹織物。明治以降は文明開化による技術の急速な発展と独自の技術開発で今日の多摩織の基盤が築かれた。お召縮緬・風通織・紬など多彩な技法を持ち、東京の地場産業として着物地・帯地を生産し続けている。",
+  "desc_en": "Tama ori is a silk textile produced mainly in Hachioji City, Tokyo. Developed against the backdrop of Hachioji's silk industry dating to the early Edo period, it is also called \"Hachioji textiles.\" It encompasses diverse techniques including omeshi crepe, fuutsuu weaving, and tsumugi, and is known as a prestigious kimono fabric and obi. Though mechanization advanced after the Meiji era, high-quality hand-woven products continue to be produced.",
+  "techniques": [
+   "お召縮緬",
+   "風通織",
+   "紬織",
+   "緞子"
+  ],
+  "materials": [
+   "絹糸",
+   "草木染め糸"
+  ],
+  "features": [
+   "東京・八王子が誇る江戸時代からの絹織物の伝統",
+   "お召縮緬・風通織など多彩な技法を持つ着物地産地",
+   "東京の地場産業として現代まで続く絹織物の技術"
+  ],
+  "workshops": [
+   {
+    "name": "八王子市郷土資料館（織物展示）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "東京都八王子市"
+   }
+  ],
+  "purchase_keywords": "多摩織 八王子織物 帯 購入",
+  "price_range": "帯 40,000円〜 / 反物 60,000円〜",
+  "lat": 35.6661,
+  "lng": 139.3165,
+  "source": "https://kougeihin.jp/craft/0110/",
+  "ogp_image_desc": "多摩織のお召縮緬の着物地と帯"
+ },
+ {
+  "id": "ise_momen",
+  "name": "伊勢木綿",
+  "name_en": "Ise Momen",
+  "name_fr": "Coton Ise",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 24,
+  "prefecture": "mie",
+  "prefecture_ja": "三重県",
+  "area": "津市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "三重県津市（旧白子地区）で生産される木綿織物。江戸時代初期から続く歴史を持ち、「お伊勢参り」の参拝客に伊勢路土産として売られたことで全国に知られた。やや厚手でしっかりとした風合いの縞・格子文様が特徴で、洗うほど柔らかくなる使い心地の良い日用布として今も愛される。",
+  "desc_en": "Ise momen is a cotton textile produced in Tsu City (former Shiroko area), Mie Prefecture. With a history from the early Edo period, it became known nationwide as a souvenir sold to pilgrims visiting the Ise Shrines along the Ise road. Characterized by somewhat thick, sturdy striped and plaid patterns, it remains beloved as a comfortable everyday fabric that softens with washing.",
+  "techniques": [
+   "縞織り",
+   "格子織り",
+   "先染め",
+   "手機（一部）"
+  ],
+  "materials": [
+   "綿糸",
+   "天然染料（藍など）"
+  ],
+  "features": [
+   "お伊勢参りの参拝客に愛された「伊勢路の土産布」",
+   "洗うほど柔らかくなる日常使いに適した丈夫な綿織物",
+   "藍・縞・格子の素朴なデザインが現代でも人気"
+  ],
+  "workshops": [
+   {
+    "name": "臼井織布",
+    "url": "https://isemomen.jp/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "三重県津市白子"
+   }
+  ],
+  "purchase_keywords": "伊勢木綿 手ぬぐい 反物 購入",
+  "price_range": "手ぬぐい 1,500円〜 / 反物 15,000円〜 / 浴衣 20,000円〜",
+  "lat": 34.8556,
+  "lng": 136.5967,
+  "source": "https://isemomen.com/",
+  "ogp_image_desc": "伊勢木綿の縞・格子模様の反物と手ぬぐい"
+ },
+ {
+  "id": "tokamachi_kasuri",
+  "name": "十日町絣",
+  "name_en": "Tokamachi Kasuri",
+  "name_fr": "Kasuri Tokamachi",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 15,
+  "prefecture": "niigata",
+  "prefecture_ja": "新潟県",
+  "area": "十日町市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "越後縮の絣技術が18世紀前半に定着した新潟県十日町市の絹絣織物産地。19世紀後半に経絣織（たてかすりおり）が成功して絹織物への応用が始まり、明治初期には緯絣も加わって精巧な技術が急速に発展した。「突絣（つきかすり）」など独自技法を生み出し、越後の雪国文化が育む精緻な絣文様と染色技術が特徴。現在も着物地・帯から多彩な製品を生産している。",
+  "desc_en": "Tokamachi kasuri is a silk kasuri (ikat) textile produced in Tokamachi City, Niigata Prefecture. With traditions of silk production in the snow country dating to the mid-Edo period, it features intricate kasuri patterns and distinctive dyeing techniques. Located in the center of Echigo textile culture alongside the neighboring production areas of Ojiya chijimi and Echigo jofu, it currently produces diverse products including kimono fabric, obi, and interior textiles.",
+  "techniques": [
+   "絣括り",
+   "先染め",
+   "手機織り",
+   "型染め絣"
+  ],
+  "materials": [
+   "絹糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "越後の雪国文化が生んだ精緻な絹絣の伝統",
+   "独特の絣文様と染色技術による美しい着物地",
+   "小千谷縮・越後上布と並ぶ新潟の織物文化の中心地"
+  ],
+  "workshops": [
+   {
+    "name": "十日町市博物館",
+    "url": "https://www.tokamachi-museum.jp/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "新潟県十日町市"
+   }
+  ],
+  "purchase_keywords": "十日町絣 着物 反物 購入",
+  "price_range": "反物 50,000円〜 / 帯 30,000円〜 / 完成着物 100,000円〜",
+  "lat": 37.1322,
+  "lng": 138.7567,
+  "source": "https://kougeihin.jp/craft/0115/",
+  "ogp_image_desc": "十日町絣の精緻な絣文様の絹反物"
+ },
+ {
+  "id": "murayama_oshima",
+  "name": "村山大島紬",
+  "name_en": "Murayama Oshima Tsumugi",
+  "name_fr": "Tsumugi Murayama Oshima",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 13,
+  "prefecture": "tokyo",
+  "prefecture_ja": "東京都",
+  "area": "武蔵村山市・東大和市",
+  "founded": 1800,
+  "founded_era": "江戸時代後期",
+  "desc": "江戸時代後期に東京都武蔵村山市・東大和市周辺で始まった絹織物。正藍染めによる錦織物「村山紺絣」と玉繭による絹織物「砂川太織」の二つが1920年頃に融合して現在の村山大島紬が成立した。品質と丈夫さが高く評価され、東京都指定無形文化財にも認められている。綿絣の技法と絹糸の組み合わせが生む独自の風合いが特徴。",
+  "desc_en": "Murayama oshima tsumugi is a silk textile produced around Musashimurayama City and Higashiyamato City in Tokyo. Beginning in the late Edo period, it developed independently by incorporating techniques from Amami Oshima tsumugi. Characterized by \"mengasuri\" (cotton warp kasuri), combining cotton and silk threads, it is known as a durable and practical kimono fabric. It is a Tokyo-produced tsumugi designated as a nationally recognized traditional craft.",
+  "techniques": [
+   "綿絣（めんがすり）",
+   "絣括り",
+   "手機織り",
+   "先染め"
+  ],
+  "materials": [
+   "絹糸",
+   "綿糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "東京産の伝統的工芸品として指定を受けた希少な紬",
+   "綿糸と絹糸を組み合わせた「綿絣」という独自技法",
+   "大島紬の技術を関東で独自発展させた多摩地域の織物"
+  ],
+  "workshops": [
+   {
+    "name": "村山大島紬組合",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "東京都武蔵村山市"
+   }
+  ],
+  "purchase_keywords": "村山大島紬 着物 購入",
+  "price_range": "反物 100,000円〜 / 完成着物 200,000円〜",
+  "lat": 35.7547,
+  "lng": 139.3869,
+  "source": "https://kougeihin.jp/craft/0108/",
+  "ogp_image_desc": "村山大島紬の綿絣文様の絹着物地"
+ },
+ {
+  "id": "shinshu_tsumugi",
+  "name": "信州紬",
+  "name_en": "Shinshu Tsumugi",
+  "name_fr": "Tsumugi Shinshu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 20,
+  "prefecture": "nagano",
+  "prefecture_ja": "長野県",
+  "area": "松本市・上田市・飯田市ほか",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "奈良時代に織られていた「あしぎぬ」まで遡る歴史を持つ長野県各地の絹紬織物の総称。江戸時代初期に信州各藩が競って養蚕・紬を奨励し、信州全域が産地として栄えて毎年京都へ大量の紬が送られた。その後一時衰退したが、戦後は県や市町村の振興で復活。上田・飯田・松本など産地別ブランドが草木染め・手織りの名産地として全国から評価される。",
+  "desc_en": "Shinshu tsumugi is a collective term for silk tsumugi textiles produced across Nagano Prefecture (including Matsumoto, Ueda, and Iida). Developed in Shinshu, where sericulture has flourished since the Edo period, it features natural color tones from plant dyeing and a simple, rustic texture. It includes area-specific brands such as Ueda tsumugi, Iida tsumugi, and Matsumoto tsumugi, and has a national reputation as a center of plant dyeing and hand weaving.",
+  "techniques": [
+   "草木染め",
+   "手紡ぎ",
+   "手機織り",
+   "先染め絣"
+  ],
+  "materials": [
+   "絹糸（生糸・玉糸・真綿糸）",
+   "草木染料"
+  ],
+  "features": [
+   "松本・上田・飯田など信州各地の産地が育む絹紬文化",
+   "草木染めによる自然で豊かな色調が現代人にも人気",
+   "蚕業の伝統が根付く長野県ならではの絹産業の歴史"
+  ],
+  "workshops": [
+   {
+    "name": "上田紬 小岩井紬工房",
+    "url": "https://www.tsumugi.co.jp/",
+    "experience": true,
+    "experience_desc": "手織り体験（要予約）",
+    "address": "長野県上田市"
+   }
+  ],
+  "purchase_keywords": "信州紬 上田紬 着物 反物 購入",
+  "price_range": "反物 80,000円〜 / 帯 30,000円〜 / 完成着物 150,000円〜",
+  "lat": 36.4018,
+  "lng": 138.2489,
+  "source": "https://kougeihin.jp/craft/0117/",
+  "ogp_image_desc": "信州紬の草木染め絹反物と上田紬の着物"
+ },
+ {
+  "id": "chichibu_meisen",
+  "name": "秩父銘仙",
+  "name_en": "Chichibu Meisen Silk",
+  "name_fr": "Soie Chichibu Meisen",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 11,
+  "prefecture": "saitama",
+  "prefecture_ja": "埼玉県",
+  "area": "秩父市",
+  "founded": 1900,
+  "founded_era": "明治後期",
+  "desc": "江戸時代から埼玉県秩父市で生産されてきた絹の平織物で、明治41年に独自の「解し捺染（ほぐしなっせん）」技法で特許を取得し全盛を迎えた。経糸に型紙で捺染してからほぐして緯糸を織り込むことで輪郭がにじんだ絵画的な模様が生まれる。補色の緯糸が生む玉虫光沢と植物柄の多さが特徴で、大正ロマン・昭和モダンを象徴する大衆向け絹織物として全国で愛された。",
+  "desc_en": "Chichibu Meisen is a flat-woven silk fabric produced in Chichibu City, Saitama Prefecture. A popular silk textile that flourished from the late Meiji to early Showa eras, it is characterized by a unique technique called 'hogushi-nassen' (dissolve printing). By printing the warp threads with stencils before weaving in the weft, soft painterly patterns with blurred outlines are created. Known for pop designs symbolizing Taisho Romanticism and Showa modernism, it is undergoing revival and reappraisal today.",
+  "techniques": [
+   "ほぐし捺染",
+   "先染め",
+   "平織り"
+  ],
+  "materials": [
+   "絹糸（生糸）",
+   "染料"
+  ],
+  "features": [
+   "「ほぐし捺染」による輪郭がにじんだ独特の絵画的模様",
+   "大正ロマン・昭和モダンを象徴するポップなデザイン",
+   "大衆向け絹織物として全国で愛された秩父の誇り"
+  ],
+  "workshops": [
+   {
+    "name": "秩父銘仙館",
+    "url": "https://www.chichibumeisenkan.com/",
+    "experience": true,
+    "experience_desc": "ほぐし捺染体験 2,000円〜",
+    "address": "埼玉県秩父市"
+   }
+  ],
+  "purchase_keywords": "秩父銘仙 着物 購入 大正ロマン",
+  "price_range": "小物 2,000円〜 / 反物 30,000円〜 / 着物仕立て 80,000円〜",
+  "lat": 35.9919,
+  "lng": 139.0851,
+  "source": "https://kougeihin.jp/craft/0107/",
+  "ogp_image_desc": "大正ロマンを感じるポップな柄の秩父銘仙の着物"
+ },
+ {
+  "id": "isesaki_kasuri",
+  "name": "伊勢崎絣",
+  "name_en": "Isesaki Kasuri",
+  "name_fr": "Kasuri Isesaki",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 10,
+  "prefecture": "gunma",
+  "prefecture_ja": "群馬県",
+  "area": "伊勢崎市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "歴史は古代まで遡ることができるが、産地としての形が整ったのは17世紀後半の群馬県伊勢崎市の絹絣織物。明治・大正・昭和にかけては「伊勢崎銘仙（いせさきめいせん）」として全国的に知られた。括絣・板締絣・捺染加工の三種の技法が特色で、単純な絣柄から精密な文様まで絹の風合いを生かした多彩な作品を生み出す。久留米絣・備後絣・弓浜絣と並ぶ日本四大絣の一つ。",
+  "desc_en": "Isesaki kasuri is a silk kasuri (ikat) textile produced in Isesaki City, Gunma Prefecture. Considered one of Japan's Four Great Kasuri alongside Kurume kasuri, Bingo kasuri, and Yumihama kasuri. It uses pre-dyed threads combined to create patterns, encompassing diverse techniques including board-clamp kasuri, print kasuri, and precision kasuri. Developed as a major industry in Gunma from the Edo through Meiji and Taisho eras, it continues to be produced today as kimono and obi fabric.",
+  "techniques": [
+   "板締め絣",
+   "捺染絣",
+   "精巧絣",
+   "先染め"
+  ],
+  "materials": [
+   "絹糸",
+   "綿糸",
+   "染料"
+  ],
+  "features": [
+   "久留米・備後・弓浜と並ぶ「日本四大絣」の一つ",
+   "板締め・捺染・精巧絣など多彩な絣技法を持つ",
+   "群馬県伊勢崎の地場産業として発展した絹絣の伝統"
+  ],
+  "workshops": [
+   {
+    "name": "伊勢崎市産業振興課（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "群馬県伊勢崎市"
+   }
+  ],
+  "purchase_keywords": "伊勢崎絣 着物 購入 絣",
+  "price_range": "反物 40,000円〜 / 帯 20,000円〜 / 完成着物 100,000円〜",
+  "lat": 36.3108,
+  "lng": 139.1967,
+  "source": "https://kougeihin.jp/craft/0105/",
+  "ogp_image_desc": "精緻な絣文様が美しい伊勢崎絣の絹着物地"
+ },
+ {
+  "id": "moka_momen",
+  "name": "真岡木綿",
+  "name_en": "Moka Momen Cotton",
+  "name_fr": "Coton Moka",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 9,
+  "prefecture": "tochigi",
+  "prefecture_ja": "栃木県",
+  "area": "真岡市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "栃木県真岡市で生産される木綿織物。江戸時代初期から続く歴史を持ち、縦縞・格子縞を中心とした素朴な風合いの綿布として知られる。浴衣地・手ぬぐい・作業着地として広く使われてきた実用的な織物で、洗うほど柔らかくなる使い心地が特徴。現在も真岡市の地場産業として生産が続いている。",
+  "desc_en": "Moka momen is a cotton textile produced in Moka City, Tochigi Prefecture. With a history from the early Edo period, it is known as a plain cotton fabric primarily featuring vertical stripes and plaid patterns. A practical textile widely used for yukata, tenugui hand towels, and workwear, it is characterized by becoming softer with washing. Production continues today as a local industry of Moka City.",
+  "techniques": [
+   "縞織り",
+   "格子織り",
+   "先染め"
+  ],
+  "materials": [
+   "綿糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "江戸時代から続く素朴な縞・格子の実用的な綿織物",
+   "洗うほど柔らかくなる日常使いに適した丈夫な木綿",
+   "浴衣・手ぬぐい・作業着に愛用されてきた真岡の誇り"
+  ],
+  "workshops": [
+   {
+    "name": "真岡市糸車（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "栃木県真岡市"
+   }
+  ],
+  "purchase_keywords": "真岡木綿 手ぬぐい 浴衣 購入 栃木",
+  "price_range": "手ぬぐい 1,000円〜 / 反物 8,000円〜 / 浴衣 15,000円〜",
+  "lat": 36.4394,
+  "lng": 140.0153,
+  "source": "http://www.mokamomen.com/",
+  "ogp_image_desc": "素朴な縞模様が美しい真岡木綿の綿反物と手ぬぐい"
+ },
+ {
+  "id": "ueda_tsumugi",
+  "name": "上田紬",
+  "name_en": "Ueda Tsumugi",
+  "name_fr": "Tsumugi Ueda",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 20,
+  "prefecture": "nagano",
+  "prefecture_ja": "長野県",
+  "area": "上田市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "長野県上田市で生産される絹紬織物。江戸時代初期から続く信州を代表する紬で、「三度洗うと上田紬」と言われるほど丈夫な絹織物として知られる。真綿から手で引き出した糸（紬糸）を草木染めして手織りするのが本来の製法で、素朴な風合いとともに優れた耐久性を誇る。現在も上田市の職人が伝統技法を守り、着物地として生産される。",
+  "desc_en": "Ueda tsumugi is a silk tsumugi textile produced in Ueda City, Nagano Prefecture. A representative tsumugi of Shinshu with a history from the early Edo period, it is known as such a durable silk textile that the saying goes 'Ueda tsumugi gets better after three washings.' The original production method involves hand-drawing threads from mawata (silk wadding), dyeing with plants, and hand weaving, boasting superior durability along with a rustic texture. Craftspeople in Ueda City continue to preserve traditional techniques today, producing kimono fabric.",
+  "techniques": [
+   "手紡ぎ（真綿糸）",
+   "草木染め",
+   "手機織り"
+  ],
+  "materials": [
+   "絹糸（真綿糸）",
+   "草木染料"
+  ],
+  "features": [
+   "「三度洗うと上田紬」と言われる信州随一の丈夫な絹紬",
+   "真綿から手で引き出した糸を草木染めする本来の製法",
+   "素朴な風合いと優れた耐久性を兼ね備えた着物地"
+  ],
+  "workshops": [
+   {
+    "name": "小岩井紬工房",
+    "url": "https://www.tsumugi.co.jp/",
+    "experience": true,
+    "experience_desc": "手織り体験（要予約）",
+    "address": "長野県上田市"
+   }
+  ],
+  "purchase_keywords": "上田紬 着物 購入 信州 長野",
+  "price_range": "反物 80,000円〜 / 完成着物 150,000円〜 / 帯 30,000円〜",
+  "lat": 36.4018,
+  "lng": 138.2489,
+  "source": "https://kougeihin.jp/craft/2001/",
+  "ogp_image_desc": "草木染めの落ち着いた色調が美しい上田紬の着物"
+ },
+ {
+  "id": "omi_jofu",
+  "name": "近江上布",
+  "name_en": "Omi Jofu Hemp Cloth",
+  "name_fr": "Toile de Chanvre Omi Jofu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 25,
+  "prefecture": "shiga",
+  "prefecture_ja": "滋賀県",
+  "area": "高島市・東近江市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "愛知川の豊かな水と高い湿度に恵まれた環境と近江商人の活躍により、鎌倉時代から麻織物が発展した滋賀県の産地。江戸時代には彦根藩の振興によりさらに発展し安定した地場産業となり、独特の上品な絣模様が生まれた。高島市・東近江市周辺で生産される高品質な夏の麻布で、清涼感ある肌触りと精緻な絣文様が特徴の夏着物・浴衣地として珍重される。",
+  "desc_en": "Omi jofu is a hemp textile produced in the areas around Takashima City and Higashiomi City, Shiga Prefecture. Developed utilizing the climate around Lake Biwa in the Koto and Kohoku regions and their abundant water resources, it is known as a high-quality jofu woven from finely twisted hemp thread. Prized as a high-end summer kimono and yukata fabric, it is characterized by a unique cool feeling and texture. Products processed with a crinkle finish, also called 'Omi chijimi,' are also produced.",
+  "techniques": [
+   "麻糸の精紡",
+   "手織り",
+   "縮み加工（ちぢみ）",
+   "絣"
+  ],
+  "materials": [
+   "麻糸（苧麻）"
+  ],
+  "features": [
+   "琵琶湖の豊かな水と気候が育む清涼感ある夏の高級麻布",
+   "細く撚った麻糸による滑らかで上品な肌触り",
+   "近江ちぢみとしての縮み加工製品も幅広く展開"
+  ],
+  "workshops": [
+   {
+    "name": "近江上布伝統産業会館（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "滋賀県高島市"
+   }
+  ],
+  "purchase_keywords": "近江上布 麻 着物 夏 購入 滋賀",
+  "price_range": "反物 50,000円〜 / 着物仕立て 120,000円〜",
+  "lat": 35.3502,
+  "lng": 136.038,
+  "source": "https://kougeihin.jp/craft/0119/",
+  "ogp_image_desc": "清涼感あふれる近江上布の麻の着物地"
+ },
+ {
+  "id": "noto_jofu",
+  "name": "能登上布",
+  "name_en": "Noto Jofu Hemp Cloth",
+  "name_fr": "Toile de Chanvre Noto Jofu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 17,
+  "prefecture": "ishikawa",
+  "prefecture_ja": "石川県",
+  "area": "七尾市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "石川県七尾市を中心とする能登半島で生産される麻織物。江戸時代中期から続く能登の伝統産業で、麻を素材にした夏向けの上布として知られる。縦縞・格子縞のシンプルなデザインが多く、清涼感のある肌触りと素朴な風合いが特徴。夏の着物・浴衣地として愛されてきた能登独自の麻織物。",
+  "desc_en": "Noto jofu is a hemp textile produced in the Noto Peninsula centered around Nanao City, Ishikawa Prefecture. A traditional industry of Noto continuing from the mid-Edo period, it is known as a summer jofu made from hemp. Featuring simple vertical stripe and plaid designs, it is characterized by a cool feel and rustic texture. It is a hemp textile unique to Noto that has been cherished as summer kimono and yukata fabric.",
+  "techniques": [
+   "麻糸の手織り",
+   "先染め縞",
+   "絣"
+  ],
+  "materials": [
+   "麻糸（苧麻）",
+   "天然染料"
+  ],
+  "features": [
+   "能登半島の伝統が生む縦縞・格子のシンプルな夏の麻布",
+   "清涼感のある肌触りと素朴な風合いの高級夏着物地",
+   "石川県七尾市を中心に受け継がれる能登独自の麻織物"
+  ],
+  "workshops": [
+   {
+    "name": "能登上布（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "石川県七尾市"
+   }
+  ],
+  "purchase_keywords": "能登上布 麻 夏着物 購入 石川",
+  "price_range": "反物 40,000円〜 / 着物仕立て 100,000円〜",
+  "lat": 37.0413,
+  "lng": 136.9668,
+  "source": "https://kougeihin.jp/craft/1701/",
+  "ogp_image_desc": "シンプルな縦縞が美しい能登上布の麻の反物"
+ },
+ {
+  "id": "banshu_ori",
+  "name": "播州織",
+  "name_en": "Banshu Ori",
+  "name_fr": "Tissage Banshu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 28,
+  "prefecture": "hyogo",
+  "prefecture_ja": "兵庫県",
+  "area": "西脇市・多可町・加西市",
+  "founded": 1792,
+  "founded_era": "寛政4年",
+  "desc": "兵庫県西脇市を中心とする北播磨地域で生産される先染め綿織物。1792年（寛政4年）頃に始まったとされる国内最大の先染め綿織物産地で、年間生産量は国内シェアの約60%を占める。シャツ地・ブラウス地・テキスタイルとして国内外に輸出され、海外のアパレルブランドにも採用されている。多彩な縞・格子・ジャカード柄の先染め織物が特徴。",
+  "desc_en": "Banshu ori is a pre-dyed cotton textile produced in the Kitaharima region centered around Nishiwaki City, Hyogo Prefecture. Said to have begun around 1792 (Kansei 4), it is Japan's largest pre-dyed cotton textile production area, accounting for approximately 60% of domestic market share. Exported domestically and internationally as shirt fabric, blouse fabric, and textiles, it has been adopted by overseas apparel brands. It is characterized by diverse pre-dyed textiles with stripes, plaids, and jacquard patterns.",
+  "techniques": [
+   "先染め",
+   "ジャカード織",
+   "縞・格子織り"
+  ],
+  "materials": [
+   "綿糸",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "国内シェア約60%を誇る日本最大の先染め綿織物産地",
+   "シャツ地として海外ブランドにも採用される高品質テキスタイル",
+   "多彩な縞・格子・ジャカード柄が播州織の豊かな表現力"
+  ],
+  "workshops": [
+   {
+    "name": "播州織工房館",
+    "url": "https://banshuori.jp/",
+    "experience": true,
+    "experience_desc": "手織り体験（要予約）",
+    "address": "兵庫県西脇市"
+   }
+  ],
+  "purchase_keywords": "播州織 シャツ生地 購入 兵庫 西脇",
+  "price_range": "生地（1m）2,000円〜 / シャツ仕立て 20,000円〜",
+  "lat": 34.9901,
+  "lng": 134.9693,
+  "source": "https://kougeihin.jp/craft/2801/",
+  "ogp_image_desc": "多彩な先染め縞・格子柄が美しい播州織の綿生地"
+ },
+ {
+  "id": "awa_shijira",
+  "name": "阿波しじら織",
+  "name_en": "Awa Shijira Weaving",
+  "name_fr": "Tissage Awa Shijira",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 36,
+  "prefecture": "tokushima",
+  "prefecture_ja": "徳島県",
+  "area": "徳島市",
+  "founded": 1880,
+  "founded_era": "明治13年頃",
+  "desc": "徳島県徳島市で生産される木綿織物。明治期に徳島で生まれた織物で、強撚糸を使って織ることにより表面に凸凹（シボ）を出す独特の技法が特徴。このシボが肌に触れる面積を減らし、涼感をもたらすため夏の着物地・浴衣地として珍重される。縞模様が多く、藍色を基調とした清涼感ある配色が特徴で、徳島の代表的な伝統織物として知られる。",
+  "desc_en": "Awa shijira ori is a cotton textile produced in Tokushima City, Tokushima Prefecture. A textile born in Tokushima during the Meiji period, it is characterized by a unique technique of weaving with tightly twisted threads to create surface texture (shibori). This texture reduces contact area with the skin, making it prized as summer kimono and yukata fabric for its cool sensation. Predominantly striped with a refreshing color scheme based on indigo blue, it is known as a representative traditional textile of Tokushima.",
+  "techniques": [
+   "強撚糸使い",
+   "シボ出し織り",
+   "先染め縞"
+  ],
+  "materials": [
+   "綿糸（強撚糸）",
+   "化学染料・天然染料（藍）"
+  ],
+  "features": [
+   "強撚糸による凸凹（シボ）が生む独特の涼感が最大の特徴",
+   "藍色を基調とした縞模様の清涼感ある配色",
+   "明治期に徳島で誕生した夏の着物地としての実用美"
+  ],
+  "workshops": [
+   {
+    "name": "阿波しじら織（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "徳島県徳島市"
+   }
+  ],
+  "purchase_keywords": "阿波しじら織 浴衣 着物 購入 徳島",
+  "price_range": "反物 10,000円〜 / 浴衣仕立て 25,000円〜",
+  "lat": 34.066,
+  "lng": 134.5594,
+  "source": "https://kougeihin.jp/craft/3601/",
+  "ogp_image_desc": "独特のシボが涼感を生む阿波しじら織の縞模様の浴衣地"
+ },
+ {
+  "id": "yomitan_hanaoui",
+  "name": "読谷山花織",
+  "name_en": "Yomitan-son Hanaoui",
+  "name_fr": "Tissage Floral Yomitan-son",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "読谷村",
+  "founded": 1500,
+  "founded_era": "琉球王国時代",
+  "desc": "15世紀には既に生産されていたと考えられる沖縄県読谷村の浮き織り絹・綿織物。当時は琉球王朝のための御用布とされ、一般の人々が着用できないほど格調の高い織物であった。経糸を浮かせて立体的な花模様を表す「花織（はなおり）」技法が特徴で、朝鮮やジャワとの交流も文様に影響している。沖縄戦で途絶えた技術を昭和期に復元し、現在も読谷村で継承されている。",
+  "desc_en": "Yomitan-son hanaoui is a float-woven silk and cotton textile produced in Yomitan Village, Okinawa Prefecture. A traditional textile dating to the Ryukyu Kingdom era, it is characterized by the 'hanaoui' (flower weaving) technique of floating warp threads to create geometric flower patterns. Using brightly colored threads of red, yellow, and green, it weaves diamond and star-shaped geometric patterns inspired by Okinawan nature. The technique, lost during the Battle of Okinawa, was restored during the Showa era and continues to be passed down in Yomitan Village today.",
+  "techniques": [
+   "花織（はなおり）",
+   "浮き織り",
+   "先染め"
+  ],
+  "materials": [
+   "絹糸",
+   "綿糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "経糸を浮かせる「花織」技法による幾何学的な花模様の美",
+   "沖縄戦で途絶えた技術を昭和期に見事に復元した歴史",
+   "赤・黄・緑の鮮やかな色彩が生む南国の幾何学美"
+  ],
+  "workshops": [
+   {
+    "name": "読谷山花織事業協同組合",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県読谷村"
+   }
+  ],
+  "purchase_keywords": "読谷山花織 着物 帯 購入 沖縄",
+  "price_range": "反物 100,000円〜 / 帯 80,000円〜 / 完成着物 250,000円〜",
+  "lat": 26.3958,
+  "lng": 127.7447,
+  "source": "https://kougeihin.jp/craft/0128/",
+  "ogp_image_desc": "鮮やかな幾何学的花模様が美しい読谷山花織の布"
+ },
+ {
+  "id": "yonaguni_ori",
+  "name": "与那国織",
+  "name_en": "Yonaguni Ori",
+  "name_fr": "Tissage Yonaguni",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "与那国町",
+  "founded": 1300,
+  "founded_era": "琉球王国時代",
+  "desc": "古い文献から約500年の歴史が確認される、日本最西端の島・与那国島（沖縄県八重山郡与那国町）の織物。16世紀前半には既に貢ぎ物として納められていたと考えられており、戦後は漁業の網を解いて布を織った時代もあった。経糸に絹、緯糸に木綿を使う交織による縞・絣模様が特徴の「どんどん織」と呼ばれる技法で仕上げる、国境の島が守り続ける希少な織物。",
+  "desc_en": "Yonaguni ori is a silk textile from Yonaguni Island, the westernmost island of Japan, in Yonaguni Town, Yaeyama District, Okinawa Prefecture. With a history dating to the Ryukyu Kingdom era, it is characterized by a unique technique also called 'dondон-ori' (don-don weaving). Mixed weaving using silk warp and cotton weft is common, and in addition to simple vertical stripe and plaid designs, there are also kasuri patterned textiles. It is a rare textile culture preserved by Japan's westernmost island.",
+  "techniques": [
+   "どんどん織",
+   "交織（絹経・綿緯）",
+   "絣"
+  ],
+  "materials": [
+   "絹糸",
+   "綿糸",
+   "天然染料"
+  ],
+  "features": [
+   "日本最西端・与那国島が守る希少な絹織物の文化",
+   "「どんどん織」と呼ばれる与那国独自の織り技法",
+   "琉球王国時代から続く縞・絣模様の伝統織物"
+  ],
+  "workshops": [
+   {
+    "name": "与那国町観光協会（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県与那国町"
+   }
+  ],
+  "purchase_keywords": "与那国織 着物 帯 購入 沖縄 与那国島",
+  "price_range": "反物 100,000円〜 / 帯 60,000円〜 / 完成着物 200,000円〜",
+  "lat": 24.467,
+  "lng": 123.0093,
+  "source": "https://kougeihin.jp/craft/0132/",
+  "ogp_image_desc": "与那国島に伝わる縞・絣模様の与那国織の絹布"
+ },
+ {
+  "id": "kijoka_bashofu",
+  "name": "喜如嘉の芭蕉布",
+  "name_en": "Kijoka Bashofu",
+  "name_fr": "Tissu Bashofu de Kijoka",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 47,
+  "prefecture": "okinawa",
+  "prefecture_ja": "沖縄県",
+  "area": "大宜味村喜如嘉",
+  "founded": 1300,
+  "founded_era": "琉球王国時代",
+  "desc": "13世紀頃にはすでに作られていたとされ、近世には庭や畑で育てた芭蕉の木を主婦や娘たちが自家用布に仕立てる文化が沖縄全土に広まった。その伝統を受け継ぐ沖縄県大宜味村喜如嘉の糸芭蕉布は、昭和49年に国の重要無形文化財に指定。葉鞘から繊維を取り出して細く裂き糸にする全工程が手作業の世界唯一の布で、現在も喜如嘉の女性たちが技を守り続けている。",
+  "desc_en": "Kijoka bashofu is a textile produced in Kijoka, Ogimi Village, Okinawa Prefecture, woven from the fibers of the itabashō (fiber banana plant) — a type of textile found nowhere else in the world. Fibers are extracted from the leaf sheaths of the fiber banana, split into fine threads, and woven by hand, making it an entirely handcrafted rare cloth. Used by royalty and samurai as traditional Okinawan attire, Living National Treasure Taira Toshiko (1921-2022) dedicated her life to preserving the technique, and it continues to be passed down today by the women of Kijoka.",
+  "techniques": [
+   "芭蕉繊維の抽出",
+   "手績み（てうみ）",
+   "手機織り",
+   "泥染め・植物染め"
+  ],
+  "materials": [
+   "糸芭蕉（イトバショウ）の葉鞘繊維"
+  ],
+  "features": [
+   "糸芭蕉の繊維から作る世界唯一の布・全工程が手作業",
+   "人間国宝・平良敏子氏が技術保存に尽力した希少な伝統",
+   "沖縄の夏の伝統衣料として王族にも愛された最高の涼感布"
+  ],
+  "workshops": [
+   {
+    "name": "喜如嘉の芭蕉布保存会",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "沖縄県大宜味村喜如嘉"
+   }
+  ],
+  "purchase_keywords": "芭蕉布 喜如嘉 沖縄 着物 購入",
+  "price_range": "反物 500,000円〜 / 完成着物 1,000,000円〜",
+  "lat": 26.6638,
+  "lng": 128.1352,
+  "source": "https://kougeihin.jp/craft/0133/",
+  "ogp_image_desc": "糸芭蕉から作られる世界唯一の喜如嘉の芭蕉布"
+ },
+ {
+  "id": "echizen_habutae",
+  "name": "越前羽二重",
+  "name_en": "Echizen Habutae Silk",
+  "name_fr": "Soie Habutae Echizen",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 18,
+  "prefecture": "fukui",
+  "prefecture_ja": "福井県",
+  "area": "越前市・鯖江市・坂井市",
+  "founded": 1300,
+  "founded_era": "室町時代",
+  "desc": "福井県越前市を中心に生産される絹の平織物。室町時代から続く歴史を持ち、現在も国内羽二重生産量の大半を占める日本一の羽二重産地。細い生糸を緻密に平織りした光沢のある白生地で、礼装用着物・着物の裏地・帯地の素材として全国の染め職人に供給される。その白さと光沢は「きぬずれの音がする」と表現されるほど上品。",
+  "desc_en": "Echizen habutae is a flat-woven silk fabric produced mainly in Echizen City, Fukui Prefecture. With a history dating to the Muromachi period, it remains Japan's leading habutae production area, accounting for the majority of domestic habutae output. A lustrous white plain-weave fabric made from fine raw silk woven densely, it is supplied to dye craftsmen nationwide as the base material for formal kimono, kimono linings, and obi fabric. Its whiteness and luster are so refined it is described as making 'the sound of rustling silk.'",
+  "techniques": [
+   "平織り",
+   "精練",
+   "白生地仕上げ"
+  ],
+  "materials": [
+   "生糸（極細）"
+  ],
+  "features": [
+   "国内羽二重生産の大半を占める日本一の羽二重産地・福井",
+   "礼装用白生地として全国の染め職人に供給される素材の王様",
+   "「きぬずれの音がする」と表現される上品な光沢と白さ"
+  ],
+  "workshops": [
+   {
+    "name": "越前羽二重（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "福井県越前市"
+   }
+  ],
+  "purchase_keywords": "越前羽二重 白生地 絹 購入 福井",
+  "price_range": "白生地反物 30,000円〜 / 礼装着物仕立て 200,000円〜",
+  "lat": 35.901,
+  "lng": 136.1685,
+  "source": "https://kougeihin.jp/craft/1801/",
+  "ogp_image_desc": "光沢ある白が美しい越前羽二重の絹反物"
+ },
+ {
+  "id": "tokamachi_akashi",
+  "name": "十日町明石ちぢみ",
+  "name_en": "Tokamachi Akashi Chijimi",
+  "name_fr": "Crêpe Akashi Tokamachi",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 15,
+  "prefecture": "niigata",
+  "prefecture_ja": "新潟県",
+  "area": "十日町市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "19世紀末頃、京都西陣の夏用反物の見本を持ち帰り、十日町にあった透綾（すきや）の技術に応用して研究が進められたのが起こり。緯糸の強撚と整理法の技術研究が重ねられ、明治中頃から「明石ちぢみ」として広まった新潟県十日町市の絹縮み織物。強撚糸を使って生み出す独特のシボが肌への接触面積を減らし、夏の高級着物地として珍重される涼感素材。",
+  "desc_en": "Tokamachi akashi chijimi is a silk crinkle textile produced in Tokamachi City, Niigata Prefecture. It is characterized by a technique of weaving with tightly twisted threads (kyonenshu) and then scouring and kneading in hot water to create texture (shibori) across the entire fabric. This texture creates a unique feel, making it prized as a high-end summer kimono fabric. Among Tokamachi's silk industries, it is particularly known as a high-end summer product, combining a cool sensation with elegance.",
+  "techniques": [
+   "強撚糸使い",
+   "精練",
+   "湯もみシボ出し"
+  ],
+  "materials": [
+   "絹糸（強撚糸）"
+  ],
+  "features": [
+   "強撚糸と湯もみによるシボが生む独特の肌触りと涼感",
+   "十日町の絹産業が誇る夏向け最高級着物地",
+   "上品なシボの凹凸が肌着面積を減らす機能美"
+  ],
+  "workshops": [
+   {
+    "name": "十日町市博物館",
+    "url": "https://www.tokamachi-museum.jp/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "新潟県十日町市"
+   }
+  ],
+  "purchase_keywords": "十日町明石ちぢみ 夏着物 購入 新潟",
+  "price_range": "反物 80,000円〜 / 着物仕立て 180,000円〜",
+  "lat": 37.1322,
+  "lng": 138.7567,
+  "source": "https://kougeihin.jp/craft/0116/",
+  "ogp_image_desc": "独特のシボが美しい十日町明石ちぢみの絹着物地"
+ },
+ {
+  "id": "saga_nishiki",
+  "name": "佐賀錦",
+  "name_en": "Saga Nishiki",
+  "name_fr": "Brocart Saga Nishiki",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 41,
+  "prefecture": "saga",
+  "prefecture_ja": "佐賀県",
+  "area": "佐賀市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "佐賀県佐賀市で生産される独特の錦織物。金箔や銀箔を細く切ったものを経糸に用い、絹糸を緯糸に使って織り上げる特殊な技法が特徴。鍋島藩の工芸として江戸時代中期に発展し、幕府や諸大名への献上品となった。輝くような金銀の光沢と精緻な紋様が特徴で、帯・袋物・アクセサリーに使われる。現在も佐賀市の工房が伝統技法を守り続けている。",
+  "desc_en": "Saga nishiki is a distinctive brocade textile produced in Saga City, Saga Prefecture. It is characterized by a special technique of weaving with finely cut gold and silver foil as the warp threads and silk as the weft. Developed as a craft of the Nabeshima domain during the mid-Edo period, it became an offering to the Shogunate and various daimyo. Characterized by gleaming gold and silver luster and intricate patterns, it is used for obi, pouches, and accessories. Studios in Saga City continue to preserve the traditional technique today.",
+  "techniques": [
+   "金銀箔経糸使い",
+   "錦織",
+   "紋織り"
+  ],
+  "materials": [
+   "金箔・銀箔",
+   "絹糸"
+  ],
+  "features": [
+   "金銀箔を経糸に使う世界でも類を見ない独特の錦織技法",
+   "鍋島藩の御用品として発展した格調高い佐賀の伝統工芸",
+   "輝くような金銀の光沢と精緻な紋様が生む豪華絢爛な美"
+  ],
+  "workshops": [
+   {
+    "name": "佐賀錦保存会・勝山興文堂",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "佐賀県佐賀市"
+   }
+  ],
+  "purchase_keywords": "佐賀錦 帯 袋物 購入 佐賀",
+  "price_range": "小物 10,000円〜 / 帯 150,000円〜 / 袋物 30,000円〜",
+  "lat": 33.2635,
+  "lng": 130.3009,
+  "source": "https://kougeihin.jp/craft/4101/",
+  "ogp_image_desc": "金銀箔が輝く豪華絢爛な佐賀錦の帯と袋物"
+ },
+ {
+  "id": "koshu_ori",
+  "name": "甲州織",
+  "name_en": "Koshu Ori",
+  "name_fr": "Tissage Koshu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 19,
+  "prefecture": "yamanashi",
+  "prefecture_ja": "山梨県",
+  "area": "富士吉田市",
+  "founded": 1500,
+  "founded_era": "室町時代",
+  "desc": "山梨県富士吉田市を中心に生産される絹織物。室町時代から続く甲斐絹（かいき）の流れを汲み、富士山麓の山梨県富士吉田市が主産地。帯地・和装小物・インテリア織物に使われる高品質なシルク製品を生産し、細やかな紋様と光沢のある風合いが特徴。かつては「甲斐絹」として羽織裏地に使われた経緯を持つ。現在も伝統的な技術と現代デザインを融合させた製品が生産されている。",
+  "desc_en": "Koshu ori is a silk textile produced mainly in Fujiyoshida City, Yamanashi Prefecture. Tracing its lineage from Kai-ki (Kai silk) dating to the Muromachi period, Fujiyoshida City at the foot of Mt. Fuji is the main production area. It produces high-quality silk products used for obi, Japanese-style accessories, and interior textiles, characterized by fine patterns and lustrous texture. It has a history of being used as haori lining under the name 'Kai-ki.' Products fusing traditional techniques with modern design continue to be produced today.",
+  "techniques": [
+   "紋織り",
+   "ジャカード織",
+   "先染め"
+  ],
+  "materials": [
+   "絹糸（生糸）",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "甲斐絹の伝統を受け継ぐ富士山麓の絹産地・富士吉田",
+   "帯地・和装小物・インテリアに使われる高品質シルク",
+   "伝統技術と現代デザインを融合させた新しい甲州絹の展開"
+  ],
+  "workshops": [
+   {
+    "name": "富士吉田市役所産業観光課（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "山梨県富士吉田市"
+   }
+  ],
+  "purchase_keywords": "甲州織 絹 帯 購入 山梨 富士吉田",
+  "price_range": "小物 3,000円〜 / 帯 50,000円〜 / インテリア布 5,000円〜",
+  "lat": 35.4895,
+  "lng": 138.8076,
+  "source": "https://kougeihin.jp/craft/1901/",
+  "ogp_image_desc": "富士山麓の甲州織の光沢あるシルクの帯と小物"
+ },
+ {
+  "id": "ojiya_tsumugi",
+  "name": "小千谷紬",
+  "name_en": "Ojiya Tsumugi",
+  "name_fr": "Tsumugi Ojiya",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 15,
+  "prefecture": "niigata",
+  "prefecture_ja": "新潟県",
+  "area": "小千谷市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "江戸時代中期に新潟県小千谷市で養蚕とともに始まった絹紬で、江戸後期には上州や京都から生糸商人が商談に訪れるほどの産地に発展した。小千谷縮・越後上布と同じ産地で受け継がれてきたが、昭和初期になって本格的な紬生産が軌道に乗り、紬糸の改良が重ねられて現在の形が整った。真綿から引き出した紬糸の素朴な風合いと上質な肌触りが特徴の絹着物地。",
+  "desc_en": "Ojiya tsumugi is a silk tsumugi textile produced in Ojiya City, Niigata Prefecture. Woven from the mid-Edo period in the same production area as Ojiya chijimi and Echigo jofu, it features a rustic texture using tsumugi thread drawn from silk wadding. Hand-weaving techniques refined through the harsh winters of snowy Echigo continue to be passed down today. Characterized by a high-quality texture and distinctive luster, it has earned national recognition as a kimono fabric.",
+  "techniques": [
+   "手紡ぎ（真綿糸）",
+   "手機織り",
+   "草木染め・先染め"
+  ],
+  "materials": [
+   "絹糸（真綿糸・紬糸）",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "小千谷縮・越後上布と同じ雪国産地が生む絹紬の伝統",
+   "真綿から引き出した紬糸による素朴で温かみのある風合い",
+   "越後の厳しい冬に磨かれた手織り技術が生む上質な絹布"
+  ],
+  "workshops": [
+   {
+    "name": "小千谷市観光協会（産地にご確認ください）",
+    "url": "https://www.ojiya.or.jp/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "新潟県小千谷市"
+   }
+  ],
+  "purchase_keywords": "小千谷紬 着物 反物 購入 新潟",
+  "price_range": "反物 80,000円〜 / 完成着物 150,000円〜",
+  "lat": 37.3011,
+  "lng": 138.7955,
+  "source": "https://kougeihin.jp/craft/0113/",
+  "ogp_image_desc": "越後の雪国が育んだ小千谷紬の素朴な絹反物"
+ },
+ {
+  "id": "honshiozawa",
+  "name": "本塩沢",
+  "name_en": "Hon-Shiozawa",
+  "name_fr": "Hon-Shiozawa",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 15,
+  "prefecture": "niigata",
+  "prefecture_ja": "新潟県",
+  "area": "南魚沼市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "江戸時代中期に新潟県南魚沼市塩沢で始まった絹縮み織物で、越後縮のシボある麻織物の技術を絹に生かしたのが起源。長く「塩沢お召」の名で親しまれ、塩沢紬とは別に独立した国の伝統的工芸品に指定された。強撚糸で織り上げた後に精練・湯もみすることできめ細かいシボを生み出し、通年使える上品な高級絹着物地として珍重される。",
+  "desc_en": "Hon-Shiozawa is a silk crinkle textile produced in Minamiuonuma City, Niigata Prefecture. Also called 'Omeshi chijimi,' it creates a distinctive textured surface (shibori) by using tightly twisted threads. Designated by the national government as a traditional craft separate from Shiozawa tsumugi, this high-end silk textile is completed by weaving fine raw silk with strong twists, then scouring and hot-water kneading to produce a finely textured, elegant crinkled cloth. It is prized as a high-end kimono fabric suitable year-round, not only in summer.",
+  "techniques": [
+   "強撚糸使い",
+   "精練",
+   "湯もみシボ出し",
+   "手機織り"
+  ],
+  "materials": [
+   "絹糸（強撚糸・生糸）"
+  ],
+  "features": [
+   "強撚糸と湯もみによるきめ細かいシボが生む上品な縮み地",
+   "塩沢紬とは別に独立した国指定の伝統的工芸品",
+   "越後南魚沼の雪国気候が育む高級絹縮み織物の伝統"
+  ],
+  "workshops": [
+   {
+    "name": "塩沢産地織物協同組合（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "新潟県南魚沼市"
+   }
+  ],
+  "purchase_keywords": "本塩沢 御召縮 着物 購入 新潟 南魚沼",
+  "price_range": "反物 80,000円〜 / 着物仕立て 180,000円〜",
+  "lat": 37.0674,
+  "lng": 138.8746,
+  "source": "https://kougeihin.jp/craft/0114/",
+  "ogp_image_desc": "きめ細かいシボが美しい本塩沢の絹縮み反物"
+ },
+ {
+  "id": "nagahama_chirimen",
+  "name": "長浜ちりめん",
+  "name_en": "Nagahama Chirimen",
+  "name_fr": "Crêpe de Nagahama",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 25,
+  "prefecture": "shiga",
+  "prefecture_ja": "滋賀県",
+  "area": "長浜市",
+  "founded": 1670,
+  "founded_era": "江戸時代初期",
+  "desc": "滋賀県長浜市で生産される絹のちりめん織物。丹後ちりめんと並ぶ国内二大ちりめん産地の一つで、江戸時代初期から琵琶湖東岸の長浜に根付いた白生地産業。豊かな水資源と北国街道が育む交易文化の中で発展し、京友禅・加賀友禅などの染め素材として全国に供給される。独特のシボ（縮み）と上品な光沢が特徴で、現在も着物・帯の白生地産地として重要な役割を担う。",
+  "desc_en": "Nagahama chirimen is a silk crêpe textile produced in Nagahama City, Shiga Prefecture. One of Japan's two major chirimen production areas alongside Tango chirimen, this white fabric industry has been rooted in Nagahama on the eastern shore of Lake Biwa since the early Edo period. Developed within the trade culture nurtured by abundant water resources and the Hokkoku Kaido highway, it is supplied nationwide as the dyeing base for Kyo-yuzen, Kaga-yuzen, and other fabrics. Characterized by its distinctive texture and elegant luster, it continues to play an important role as a white fabric production area for kimono and obi.",
+  "techniques": [
+   "強撚糸使い",
+   "平織り（ちりめん）",
+   "白生地精練",
+   "シボ出し"
+  ],
+  "materials": [
+   "生糸（強撚糸）"
+  ],
+  "features": [
+   "丹後ちりめんと並ぶ国内二大産地の絹ちりめん白生地",
+   "琵琶湖の豊かな水と北国街道の文化が育んだ長浜の誇り",
+   "京友禅・加賀友禅の染め素材として全国に供給される基盤布"
+  ],
+  "workshops": [
+   {
+    "name": "長浜きもの大学（産地にご確認ください）",
+    "url": "https://www.nagahama-kimono.com/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "滋賀県長浜市"
+   }
+  ],
+  "purchase_keywords": "長浜ちりめん 白生地 絹 購入 滋賀 長浜",
+  "price_range": "白生地反物 20,000円〜 / 染め着物仕立て 150,000円〜",
+  "lat": 35.3823,
+  "lng": 136.2694,
+  "source": "https://kougeihin.jp/craft/2502/",
+  "ogp_image_desc": "滑らかなシボと光沢が美しい長浜ちりめんの白生地"
+ },
+ {
+  "id": "aizu_momen",
+  "name": "会津木綿",
+  "name_en": "Aizu Momen",
+  "name_fr": "Coton Aizu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 7,
+  "prefecture": "fukushima",
+  "prefecture_ja": "福島県",
+  "area": "会津若松市",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "福島県会津若松市で生産される木綿織物。江戸時代初期から続く歴史を持ち、会津藩の産業振興策によって広まった丈夫な平織り木綿。縦縞・格子縞を中心としたシンプルなデザインで、会津の厳しい冬の暮らしを支えてきた実用的な布地。洗えば洗うほど柔らかくなる使い心地の良さが特徴で、現代ではバッグ・日用品など幅広い製品にも使われている。",
+  "desc_en": "Aizu momen is a cotton textile produced in Aizuwakamatsu City, Fukushima Prefecture. With a history dating to the early Edo period, it spread through the industrial promotion policies of the Aizu domain as a durable plain-woven cotton. With simple designs centered on vertical and plaid stripes, it has been a practical fabric supporting life through Aizu's harsh winters. Characterized by becoming softer with each washing, it is also used today in a wide range of products including bags and everyday items.",
+  "techniques": [
+   "先染め縞織り",
+   "格子織り",
+   "平織り"
+  ],
+  "materials": [
+   "綿糸",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "江戸時代から会津藩が育てた丈夫で実用的な縞木綿",
+   "洗うほど柔らかくなる使い心地が生活に寄り添う布地",
+   "縦縞・格子縞のシンプルなデザインが会津の美意識を体現"
+  ],
+  "workshops": [
+   {
+    "name": "会津木綿染織工房 山田木綿織元",
+    "url": "https://www.aizu-momen.com/",
+    "experience": true,
+    "experience_desc": "機織り体験（要予約） 2,000円〜",
+    "address": "福島県会津若松市"
+   }
+  ],
+  "purchase_keywords": "会津木綿 縞 格子 購入 福島 会津",
+  "price_range": "反物（1m）1,500円〜 / バッグ 5,000円〜 / 着物仕立て 50,000円〜",
+  "lat": 37.4948,
+  "lng": 139.9295,
+  "source": "https://yamadamomen.com/",
+  "ogp_image_desc": "会津の縞模様が美しい会津木綿の反物とバッグ"
+ },
+ {
+  "id": "enshu_menputsui",
+  "name": "遠州綿紬",
+  "name_en": "Enshu Menputsui",
+  "name_fr": "Coton Enshu Menputsui",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 22,
+  "prefecture": "shizuoka",
+  "prefecture_ja": "静岡県",
+  "area": "浜松市・掛川市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "静岡県西部の遠州地方（浜松・掛川周辺）で生産される木綿の縞織物。江戸時代から続く遠州の綿作文化が生んだ縦縞・格子縞の実用的な平織り木綿。三河木綿と並ぶ東海地方の木綿産地として発展し、農村の自家織りから産地織物へと成長した。素朴で丈夫な風合いが特徴で、現在も地域の伝統織物として浜松周辺の工房が生産を続けている。",
+  "desc_en": "Enshu menputsui is a cotton striped textile produced in the Enshu region (around Hamamatsu and Kakegawa) in western Shizuoka Prefecture. A practical plain-woven cotton with vertical and plaid stripes, born from the cotton cultivation culture of Enshu that dates to the Edo period. Developed as a cotton production area of the Tokai region alongside Mikawa cotton, it grew from village home weaving to regional textile production. Characterized by a rustic and durable texture, workshops around Hamamatsu continue producing it as a regional traditional textile today.",
+  "techniques": [
+   "先染め縞織り",
+   "格子織り",
+   "平織り"
+  ],
+  "materials": [
+   "綿糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "江戸時代から続く遠州の綿作文化が生んだ縦縞木綿",
+   "素朴で丈夫な風合いが浜松・掛川地方の生活を支えてきた",
+   "三河木綿と並ぶ東海地方の代表的な木綿織物産地"
+  ],
+  "workshops": [
+   {
+    "name": "遠州綿紬（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "静岡県浜松市"
+   }
+  ],
+  "purchase_keywords": "遠州綿紬 縞 木綿 購入 静岡 浜松",
+  "price_range": "反物（1m）1,200円〜 / 着物仕立て 40,000円〜",
+  "lat": 34.7108,
+  "lng": 137.7261,
+  "source": "https://kougeihin.jp/craft/2201/",
+  "ogp_image_desc": "遠州の縞模様が美しい遠州綿紬の木綿反物"
+ },
+ {
+  "id": "omi_chijimi",
+  "name": "高島ちぢみ",
+  "name_en": "Takashima Chijimi",
+  "name_fr": "Crêpe Takashima",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 25,
+  "prefecture": "shiga",
+  "prefecture_ja": "滋賀県",
+  "area": "高島市",
+  "founded": 1800,
+  "founded_era": "江戸時代後期",
+  "desc": "滋賀県高島市で生産される麻・綿の縮み織物。「近江縮」とも呼ばれ、強撚糸を使って織り上げた後に精練・湯もみすることで布面に独特のシボ（凹凸）を出す。このシボが肌への接触面積を減らし、優れた涼感をもたらすことから夏の定番素材として全国で愛される。国内最大の麻・綿縮み織物産地として、浴衣地・シャツ地・カジュアルウェア地を大量に供給している。",
+  "desc_en": "Takashima chijimi is a linen and cotton crinkle textile produced in Takashima City, Shiga Prefecture. Also called 'Omi chijimi,' it creates a distinctive textured surface (shibori) by weaving with tightly twisted threads and then scouring and hot-water kneading. This texture reduces contact area with the skin, providing excellent cooling, making it a beloved summer staple nationwide. As Japan's largest linen and cotton crinkle textile production area, it supplies large quantities of yukata fabric, shirt fabric, and casual wear fabric.",
+  "techniques": [
+   "強撚糸使い",
+   "精練",
+   "湯もみシボ出し",
+   "先染め・後染め"
+  ],
+  "materials": [
+   "麻糸（苧麻・亜麻）",
+   "綿糸",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "独特のシボが生む優れた涼感で夏の定番素材として全国区",
+   "国内最大の麻・綿縮み織物産地として浴衣地を大量供給",
+   "琵琶湖西岸の高島で江戸後期から続く縮み織りの伝統"
+  ],
+  "workshops": [
+   {
+    "name": "高島ちぢみ（産地にご確認ください）",
+    "url": "https://www.takashima-chijimi.jp/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "滋賀県高島市"
+   }
+  ],
+  "purchase_keywords": "高島ちぢみ 近江縮 浴衣 シャツ 夏 購入 滋賀",
+  "price_range": "生地（1m）800円〜 / 浴衣 8,000円〜 / シャツ仕立て 15,000円〜",
+  "lat": 35.3502,
+  "lng": 136.038,
+  "source": "https://kougeihin.jp/craft/2503/",
+  "ogp_image_desc": "涼感あふれる独特のシボが特徴の高島ちぢみの生地"
+ },
+ {
+  "id": "ashikaga_ori",
+  "name": "足利織物",
+  "name_en": "Ashikaga Ori",
+  "name_fr": "Tissage Ashikaga",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 9,
+  "prefecture": "tochigi",
+  "prefecture_ja": "栃木県",
+  "area": "足利市",
+  "founded": 900,
+  "founded_era": "平安時代",
+  "desc": "栃木県足利市で生産される絹・化繊織物。関東最古の織物産地として平安時代から続く歴史を持ち、鎌倉時代には「足利絹」として全国に知られた。江戸時代には銘仙・帯地・洋装地など幅広い織物を生産し、明治以降は近代化によって大量生産体制を整えた。結城紬とともに関東を代表する絹織物産地として国の伝統的工芸品に指定され、現在も帯地・洋装素材・インテリア織物を生産している。",
+  "desc_en": "Ashikaga ori is a silk and synthetic fiber textile produced in Ashikaga City, Tochigi Prefecture. As the oldest textile production area in the Kanto region, it has a history dating to the Heian period, and during the Kamakura period it became nationally known as 'Ashikaga silk.' During the Edo period it produced a wide range of textiles including meisen, obi fabric, and Western-style fabric, and after the Meiji era it established mass production through modernization. Designated as a nationally recognized traditional craft alongside Yuki tsumugi as a representative Kanto silk textile production area, it continues to produce obi fabric, Western-style materials, and interior textiles today.",
+  "techniques": [
+   "紋織り",
+   "ジャカード織",
+   "先染め",
+   "後染め"
+  ],
+  "materials": [
+   "絹糸",
+   "化学繊維",
+   "化学染料"
+  ],
+  "features": [
+   "関東最古・平安時代から続く足利市の絹織物の歴史と伝統",
+   "銘仙・帯地・洋装地まで多彩な織物を生産する産地の多様性",
+   "結城紬と並ぶ関東を代表する国指定伝統的工芸品の絹産地"
+  ],
+  "workshops": [
+   {
+    "name": "足利市立美術館（産地にご確認ください）",
+    "url": "https://www.watv.ne.jp/~ashikaga-museum/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "栃木県足利市"
+   }
+  ],
+  "purchase_keywords": "足利織物 絹 帯 購入 栃木 足利",
+  "price_range": "小物 3,000円〜 / 帯 30,000円〜 / 着物地 50,000円〜",
+  "lat": 36.3404,
+  "lng": 139.45,
+  "source": "https://orimono-densyokan.com/",
+  "ogp_image_desc": "関東最古の産地・足利織物の絹反物と帯地"
+ },
+ {
+  "id": "chita_momen",
+  "name": "知多木綿",
+  "name_en": "Chita Momen",
+  "name_fr": "Coton Chita",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 23,
+  "prefecture": "aichi",
+  "prefecture_ja": "愛知県",
+  "area": "知多半島（半田市・東海市・常滑市周辺）",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "愛知県知多半島で生産される木綿織物。江戸時代から三河木綿と並ぶ全国的な木綿産地として発展し、白木綿の晒し（さらし）加工が特に有名。清潔な白い晒し布として手ぬぐい・浴衣地・肌着地に広く使われ、「知多晒し」として全国に流通した。知多半島の温暖な気候と三河湾の潮風が晒し作業に適し、品質の高さで知られる綿織物産地。",
+  "desc_en": "Chita momen is a cotton textile produced in the Chita Peninsula of Aichi Prefecture. Developed from the Edo period as a nationally renowned cotton production area alongside Mikawa cotton, it is particularly famous for its bleaching (sarashi) process for white cotton. Widely used as clean white bleached cloth for tenugui hand towels, yukata fabric, and undergarment fabric, it circulated nationwide as 'Chita sarashi.' The warm climate of the Chita Peninsula and sea breezes from Mikawa Bay are suited to bleaching work, making it a cotton textile production area known for high quality.",
+  "techniques": [
+   "晒し加工（さらし）",
+   "平織り",
+   "先染め縞"
+  ],
+  "materials": [
+   "綿糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "「知多晒し」として全国に流通した白木綿の晒し加工が名物",
+   "三河木綿と並ぶ江戸時代からの全国的な木綿産地の歴史",
+   "手ぬぐい・浴衣・肌着地として生活に根付いた実用の木綿"
+  ],
+  "workshops": [
+   {
+    "name": "知多木綿（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "愛知県半田市・東海市"
+   }
+  ],
+  "purchase_keywords": "知多木綿 知多晒し 手ぬぐい 浴衣 購入 愛知",
+  "price_range": "手ぬぐい 1,000円〜 / 反物（1m）800円〜 / 浴衣 10,000円〜",
+  "lat": 34.9967,
+  "lng": 136.9094,
+  "source": "https://kougeihin.jp/craft/2301/",
+  "ogp_image_desc": "知多半島の白い晒し木綿・知多木綿の反物と手ぬぐい"
+ },
+ {
+  "id": "tsugaru_ori",
+  "name": "津軽織",
+  "name_en": "Tsugaru Ori",
+  "name_fr": "Tissage Tsugaru",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 2,
+  "prefecture": "aomori",
+  "prefecture_ja": "青森県",
+  "area": "弘前市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "青森県弘前市を中心とする津軽地方に伝わる木綿の手織り縞織物。江戸時代中期から農家の女性が冬の副業として織り続けてきた縞木綿で、津軽の厳しい冬の暮らしを支えた生活の布。シンプルな縦縞と丈夫さが特徴で、着物・作業着・布団地として長く使われてきた。現在も弘前市周辺の工房が手機織りによる伝統の縞木綿を継承し、地域の伝統的工芸品として守られている。",
+  "desc_en": "Tsugaru ori is a hand-woven cotton striped textile from the Tsugaru region centered on Hirosaki City, Aomori Prefecture. A striped cotton woven by farming women as a winter side business from the mid-Edo period, it has been a fabric of daily life supporting life through Tsugaru's harsh winters. Characterized by simple vertical stripes and durability, it has long been used for kimono, work clothes, and futon fabric. Workshops around Hirosaki City continue to pass down the traditional striped cotton by hand loom, preserved as a regional traditional craft.",
+  "techniques": [
+   "手機織り",
+   "先染め縞織り",
+   "平織り"
+  ],
+  "materials": [
+   "綿糸",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "津軽の農家女性が冬の副業で織り続けてきた縞木綿の歴史",
+   "シンプルな縦縞と丈夫さが東北の厳しい暮らしを支えた布",
+   "弘前市周辺の工房が手機で守り続ける青森の伝統縞織物"
+  ],
+  "workshops": [
+   {
+    "name": "津軽工房社",
+    "url": "https://www.tsugaru-kobo.com/",
+    "experience": true,
+    "experience_desc": "手織り体験（要予約）",
+    "address": "青森県弘前市"
+   }
+  ],
+  "purchase_keywords": "津軽織 縞木綿 購入 青森 弘前",
+  "price_range": "小物 2,000円〜 / 反物（1m）1,500円〜 / 着物仕立て 50,000円〜",
+  "lat": 40.6031,
+  "lng": 140.4639,
+  "source": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarusakiori.html",
+  "ogp_image_desc": "津軽の農家女性が織り続けてきた縞模様の津軽織木綿"
+ },
+ {
+  "id": "musashino_ori",
+  "name": "武蔵野織物",
+  "name_en": "Musashino Ori",
+  "name_fr": "Tissage Musashino",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 13,
+  "prefecture": "tokyo",
+  "prefecture_ja": "東京都",
+  "area": "青梅市・あきる野市・福生市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "東京都青梅市・あきる野市・福生市など多摩地域で生産される絹織物。「多摩の絹」として江戸時代から発展した絹産業で、青梅縞（おうめじま）と呼ばれる縞絹が特に有名。明治以降は力織機による近代化が進み、帯地・着物地・洋装素材として幅広く生産された。村山大島紬と並ぶ東京産の伝統的工芸品として、多摩地域の絹織物文化を代表する。",
+  "desc_en": "Musashino ori is a silk textile produced in the Tama region of Tokyo including Ome City, Akiruno City, and Fussa City. A silk industry developed from the Edo period as 'Tama silk,' it is particularly famous for striped silk called 'Ome shima.' After the Meiji era, modernization with power looms progressed, and it was widely produced as obi fabric, kimono fabric, and Western-style material. Alongside Murayama oshima tsumugi, it represents the silk textile culture of the Tama region as a Tokyo-produced nationally recognized traditional craft.",
+  "techniques": [
+   "先染め縞織り",
+   "手機織り・力織機",
+   "紋織り"
+  ],
+  "materials": [
+   "絹糸",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "「多摩の絹」として江戸時代から続く東京産の絹織物産地",
+   "青梅縞として知られる縞絹が代表する多摩地域の絹文化",
+   "村山大島紬と並ぶ東京の伝統的工芸品として多摩を代表"
+  ],
+  "workshops": [
+   {
+    "name": "青梅市郷土博物館（産地にご確認ください）",
+    "url": "https://www.city.ome.tokyo.jp/site/museum/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "東京都青梅市"
+   }
+  ],
+  "purchase_keywords": "武蔵野織物 青梅縞 絹 購入 東京 多摩",
+  "price_range": "小物 3,000円〜 / 反物 40,000円〜 / 帯 30,000円〜",
+  "lat": 35.7882,
+  "lng": 139.249,
+  "source": "https://hachioji-orimono.or.jp/",
+  "ogp_image_desc": "多摩の絹として知られる武蔵野織物の縞絹反物"
+ },
+ {
+  "id": "tajima_chirimen",
+  "name": "但馬ちりめん",
+  "name_en": "Tajima Chirimen",
+  "name_fr": "Crêpe Tajima",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 28,
+  "prefecture": "hyogo",
+  "prefecture_ja": "兵庫県",
+  "area": "豊岡市・朝来市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "兵庫県但馬地方（豊岡市・朝来市周辺）で生産される絹のちりめん織物。江戸時代中期に丹後ちりめんの技術が伝わり独自に発展した絹の白生地産地。きめ細かいシボと上品な光沢が特徴の高品質なちりめんで、京友禅・加賀友禅など全国の染め工房に素材として供給される。山陰地方の山深い自然の中で育まれた絹織物の伝統が今日まで受け継がれている。",
+  "desc_en": "Tajima chirimen is a silk crêpe textile produced in the Tajima region of Hyogo Prefecture (around Toyooka City and Asago City). A silk white fabric production area that developed independently after Tango chirimen techniques were introduced in the mid-Edo period. A high-quality crêpe characterized by fine texture and elegant luster, it is supplied as base material to dye workshops nationwide including Kyo-yuzen and Kaga-yuzen. The tradition of silk textiles nurtured in the deep mountain nature of the San'in region continues to be passed down to this day.",
+  "techniques": [
+   "強撚糸使い",
+   "ちりめん織り",
+   "白生地精練",
+   "シボ出し"
+  ],
+  "materials": [
+   "生糸（強撚糸）"
+  ],
+  "features": [
+   "丹後ちりめんの技術を受け継ぎ独自に発展した但馬の絹白生地",
+   "きめ細かいシボと上品な光沢が全国の染め工房に求められる",
+   "山陰の山深い自然の中で育まれた兵庫県但馬の絹織物文化"
+  ],
+  "workshops": [
+   {
+    "name": "豊岡市観光振興課（産地にご確認ください）",
+    "url": "https://www.toyooka-tourism.com/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "兵庫県豊岡市"
+   }
+  ],
+  "purchase_keywords": "但馬ちりめん 白生地 絹 購入 兵庫 豊岡",
+  "price_range": "白生地反物 20,000円〜 / 染め着物仕立て 150,000円〜",
+  "lat": 35.545,
+  "lng": 134.8155,
+  "source": "https://kougeihin.jp/craft/2802/",
+  "ogp_image_desc": "但馬地方で生産される上品なシボが美しい但馬ちりめんの白生地"
+ },
+ {
+  "id": "kawagoe_tozan",
+  "name": "川越唐桟",
+  "name_en": "Kawagoe Tozan",
+  "name_fr": "Tozan de Kawagoe",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 11,
+  "prefecture": "saitama",
+  "prefecture_ja": "埼玉県",
+  "area": "川越市",
+  "founded": 1800,
+  "founded_era": "江戸時代後期",
+  "desc": "埼玉県川越市で生産される絹と木綿の交織縞織物で、江戸時代後期に川越藩が奨励したことに始まる。縦糸に絹、横糸に木綿を使う交織（こうおり）により、絹の光沢と木綿の丈夫さを巧みに兼ね備えた実用的な縞織物に仕上がる。「唐桟留（とうざんとめ）」とも呼ばれ、江戸の粋な商人・職人に広く愛された独特の縞模様が特徴。現在も川越の工房が伝統技法を守り、帯地・着物地として生産を続けている。",
+  "desc_en": "Kawagoe tozan is a striped textile using an interwoven combination of silk and cotton, produced in Kawagoe City, Saitama Prefecture, originating from promotion by the Kawagoe domain in the late Edo period. Silk is used for the warp and cotton for the weft, skillfully combining the luster of silk with the durability of cotton into a practical striped textile. Also called 'Tozan-dome,' it is characterized by distinctive stripe patterns beloved by fashionable Edo merchants and artisans. Workshops in Kawagoe continue to preserve traditional techniques today, producing obi and kimono fabric.",
+  "techniques": [
+   "交織（絹経・綿緯）",
+   "縞織り",
+   "先染め"
+  ],
+  "materials": [
+   "絹糸（経糸）",
+   "綿糸（緯糸）",
+   "化学染料・天然染料"
+  ],
+  "features": [
+   "絹の光沢と木綿の丈夫さを兼備した交織縞織物の粋な実用美",
+   "川越藩奨励で発展した江戸の商人・職人に愛された縞模様",
+   "縦絹・横綿の交織技法が生む独特の風合いと適度な光沢"
+  ],
+  "workshops": [
+   {
+    "name": "川越唐桟工房（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "埼玉県川越市"
+   }
+  ],
+  "purchase_keywords": "川越唐桟 縞 帯 着物 購入 埼玉 川越",
+  "price_range": "反物 30,000円〜 / 帯 40,000円〜 / 着物仕立て 100,000円〜",
+  "lat": 35.925,
+  "lng": 139.4856,
+  "source": "https://koedo.or.jp/products/item_079/",
+  "ogp_image_desc": "絹と木綿の交織による川越唐桟の縞模様の反物と帯"
+ },
+ {
+  "id": "nanbu_sakiori",
+  "name": "南部裂織",
+  "name_en": "Nanbu Sakiori",
+  "name_fr": "Sakiori du Nanbu",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "regional",
+  "designation_number": 3,
+  "prefecture": "iwate",
+  "prefecture_ja": "岩手県",
+  "area": "盛岡市",
+  "founded": 1800,
+  "founded_era": "江戸時代後期",
+  "desc": "岩手県南部地方に伝わる裂き織り（さきおり）で、着古した布を細く裂いて緯糸に使い、地糸と組み合わせて織る「もの再生」の織物文化。江戸後期から東北の農村女性の手仕事として発展し、廃布を活かす慈しみの精神と素朴で力強いテキスタイルが特徴。南部藩の質実剛健な気風が育んだ再生利用の美学は、現代のサステナビリティの観点からも高く評価される。現在も盛岡市を中心に工房や保存会が技術を継承している。",
+  "desc_en": "Nanbu sakiori is a rag weaving tradition passed down in the Nanbu region of Iwate Prefecture, a 'material rebirth' textile culture where old cloth is torn into thin strips and used as weft threads combined with base yarn. Developed as handwork by rural women of Tohoku from the late Edo period, it is characterized by a spirit of cherishing worn-out cloth and a rustic, powerful textile quality. The aesthetic of recycling nurtured by the Nanbu domain's spirit of simplicity and fortitude is highly regarded today from a sustainability perspective. Workshops and preservation societies centered in Morioka City continue to pass down the technique.",
+  "techniques": [
+   "裂き織り（さきおり）",
+   "手機織り",
+   "再生布利用"
+  ],
+  "materials": [
+   "古布（裂き布・緯糸）",
+   "綿糸・麻糸（地糸）"
+  ],
+  "features": [
+   "古布を細く裂いて緯糸に使う東北農村発のサステナブル織物",
+   "廃布を活かす南部の質実剛健な精神が生んだ再生の美学",
+   "素朴で力強いテキスタイルが現代のエコデザインとも共鳴"
+  ],
+  "workshops": [
+   {
+    "name": "南部裂織保存会（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "岩手県盛岡市"
+   }
+  ],
+  "purchase_keywords": "南部裂織 裂き織り 購入 岩手 盛岡",
+  "price_range": "小物・コースター 2,000円〜 / バッグ 10,000円〜 / 反物 30,000円〜",
+  "lat": 39.7036,
+  "lng": 141.1527,
+  "source": "https://sakiori.jp/",
+  "ogp_image_desc": "古布を裂いて織り上げた素朴で力強い南部裂織のテキスタイル"
+ },
+ {
+  "id": "mikawa_momen",
+  "name": "三河木綿",
+  "name_en": "Mikawa Momen",
+  "name_fr": "Coton Mikawa",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 23,
+  "prefecture": "aichi",
+  "prefecture_ja": "愛知県",
+  "area": "岡崎市・豊田市周辺",
+  "founded": 1600,
+  "founded_era": "江戸時代初期",
+  "desc": "愛知県三河地方（岡崎市・豊田市周辺）で生産される木綿織物で、江戸時代から「三州木綿」として全国に流通した厚手・丈夫な平織り木綿。刺し子や農作業着の素材として広く使われてきた実用的な綿布で、シンプルな縞・格子の意匠が三河の美意識を体現している。知多木綿と並ぶ愛知県の代表的な木綿産地として発展し、現在も岡崎・豊田周辺の染色・織物産地として工房が伝統技法を継承している。",
+  "desc_en": "Mikawa momen is a cotton textile produced in the Mikawa region of Aichi Prefecture (around Okazaki and Toyota), a thick and durable plain-woven cotton that circulated nationwide as 'Sanzu momen' from the Edo period. A practical cotton widely used for sashiko embroidery and farming work clothes, its simple stripe and plaid designs embody the aesthetic sensibility of Mikawa. Developed as a representative cotton production area of Aichi Prefecture alongside Chita momen, workshops around Okazaki and Toyota continue to pass down traditional techniques today.",
+  "techniques": [
+   "平織り",
+   "先染め縞織り",
+   "格子織り"
+  ],
+  "materials": [
+   "綿糸",
+   "天然染料・化学染料"
+  ],
+  "features": [
+   "「三州木綿」として全国に流通した江戸時代からの厚手丈夫な木綿",
+   "刺し子・農作業着の素材として愛知三河の生活を支えてきた",
+   "知多木綿と並ぶ愛知県を代表する二大木綿産地の一つ"
+  ],
+  "workshops": [
+   {
+    "name": "三河木綿工房（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "愛知県岡崎市"
+   }
+  ],
+  "purchase_keywords": "三河木綿 三州木綿 刺し子 購入 愛知 岡崎",
+  "price_range": "反物（1m）1,000円〜 / 刺し子布 3,000円〜 / 着物仕立て 40,000円〜",
+  "lat": 34.9565,
+  "lng": 137.1674,
+  "source": "https://kougeihin.jp/craft/2302/",
+  "ogp_image_desc": "厚手で丈夫な三河木綿の縞模様の綿反物"
+ },
+ {
+  "id": "hitoyoshi_kuma_tsumugi",
+  "name": "人吉球磨紬",
+  "name_en": "Hitoyoshi Kuma Tsumugi",
+  "name_fr": "Tsumugi Hitoyoshi Kuma",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 43,
+  "prefecture": "kumamoto",
+  "prefecture_ja": "熊本県",
+  "area": "人吉市・球磨郡",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "熊本県人吉・球磨地方で生産される絹の手織り紬で、球磨川流域の盆地で育まれた養蚕文化から生まれた。独特の泥染め・草木染めによる渋い色調と手紡ぎ糸の素朴な風合いが特徴で、大島紬・本場結城紬と並ぶ高級紬として全国に知られる。球磨盆地の豊かな自然環境がもたらす清らかな水と気候が、上質な絹糸の生産と精緻な手織り技術を支えてきた。現在も人吉・球磨地方の工房が一反一反丁寧に手織りを続けている。",
+  "desc_en": "Hitoyoshi Kuma tsumugi is a hand-woven silk tsumugi produced in the Hitoyoshi and Kuma regions of Kumamoto Prefecture, born from the sericulture culture nurtured in the basin along the Kuma River. Characterized by a subdued coloring from distinctive mud dyeing and plant dyeing, and a rustic texture from hand-spun thread, it is nationally known as a premium tsumugi alongside Oshima tsumugi and Honba Yuki tsumugi. The pure water and climate provided by the rich natural environment of the Kuma Basin have supported high-quality silk thread production and intricate hand-weaving techniques. Workshops in the Hitoyoshi and Kuma region continue to hand-weave each bolt with care today.",
+  "techniques": [
+   "手紡ぎ（真綿糸）",
+   "泥染め",
+   "草木染め",
+   "手機織り"
+  ],
+  "materials": [
+   "絹糸（手紡ぎ紬糸）",
+   "泥・草木染料"
+  ],
+  "features": [
+   "大島紬・本場結城紬と並ぶ高級三大紬の一つとして知られる",
+   "球磨川流域の盆地気候が育む養蚕文化と手紡ぎ糸の風合い",
+   "泥染め・草木染めによる渋い色調が人吉球磨紬の個性"
+  ],
+  "workshops": [
+   {
+    "name": "人吉球磨紬工房（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "熊本県人吉市"
+   }
+  ],
+  "purchase_keywords": "人吉球磨紬 紬 着物 購入 熊本 人吉",
+  "price_range": "反物 150,000円〜 / 完成着物 300,000円〜 / 帯 60,000円〜",
+  "lat": 32.2108,
+  "lng": 130.7601,
+  "source": "https://kougeihin.jp/craft/4301/",
+  "ogp_image_desc": "泥染め・草木染めの渋い色調が美しい人吉球磨紬の絹着物"
+ },
+ {
+  "id": "gujo_tsumugi",
+  "name": "郡上紬",
+  "name_en": "Gujo Tsumugi",
+  "name_fr": "Tsumugi Gujo",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 21,
+  "prefecture": "gifu",
+  "prefecture_ja": "岐阜県",
+  "area": "郡上市",
+  "founded": 1700,
+  "founded_era": "江戸時代中期",
+  "desc": "岐阜県郡上市（旧郡上八幡）で生産される絹の手織り紬で、清流長良川の源流域・郡上の豊かな自然が育んだ織物。手紡ぎ糸を使った素朴な風合いと草木染めによる柔らかな色調が特徴で、郡上踊りの里として有名な郡上の伝統工芸として地域文化と深く結びついている。山間の盆地に根付いた小規模な手工業ながら、繊細な手仕事の美しさが全国の着物愛好家に高く評価される。現在も郡上市内の工房が一本一本の糸から丁寧に手作りを続けている。",
+  "desc_en": "Gujo tsumugi is a hand-woven silk tsumugi produced in Gujo City, Gifu Prefecture (formerly Gujo-Hachiman), a textile nurtured by the rich nature of Gujo at the headwaters of the clear-flowing Nagara River. Characterized by a rustic texture using hand-spun thread and soft coloring from plant dyeing, it is deeply connected to the regional culture as a traditional craft of Gujo, famous as the home of Gujo Odori dance. Despite being a small-scale handcraft rooted in a mountain basin, the beauty of its delicate handiwork is highly regarded by kimono enthusiasts nationwide. Workshops in Gujo City continue to handcraft each item carefully, from thread to fabric.",
+  "techniques": [
+   "手紡ぎ（真綿糸）",
+   "草木染め",
+   "手機織り"
+  ],
+  "materials": [
+   "絹糸（手紡ぎ紬糸）",
+   "草木染料"
+  ],
+  "features": [
+   "長良川源流域・郡上八幡の清流と自然が育んだ絹の手織り紬",
+   "手紡ぎ糸の素朴な風合いと草木染めの柔らかな色調が個性",
+   "郡上踊りの里の伝統工芸として地域文化と深く結びついた紬"
+  ],
+  "workshops": [
+   {
+    "name": "郡上紬工房（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "岐阜県郡上市"
+   }
+  ],
+  "purchase_keywords": "郡上紬 紬 着物 購入 岐阜 郡上",
+  "price_range": "反物 100,000円〜 / 完成着物 200,000円〜 / 帯 40,000円〜",
+  "lat": 35.7496,
+  "lng": 136.9665,
+  "source": "https://kougeihin.jp/craft/2103/",
+  "ogp_image_desc": "長良川源流域・郡上の自然が育んだ郡上紬の絹着物地"
+ },
+ {
+  "id": "tanba_nuno",
+  "name": "丹波布",
+  "name_en": "Tanba Nuno",
+  "name_fr": "Tissu Tanba",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 28,
+  "prefecture": "hyogo",
+  "prefecture_ja": "兵庫県",
+  "area": "丹波市青垣町",
+  "founded": 1800,
+  "founded_era": "江戸時代後期",
+  "desc": "兵庫県丹波市青垣町で生産される木綿・麻・絹の縞織物で、江戸時代後期から農家の女性が手機で織り続けてきた生活の布。藍染めを中心とした素朴な縞模様と、手紡ぎ・草木染めによる自然な風合いが丹波布の魅力で、民藝運動の父・柳宗悦が「日本一の民芸織物」と賞賛した逸品として知られる。現代でも丹波布の産地として青垣町の工房が手機による伝統織りを守り、民藝の精神を受け継いだ素朴で美しい布を作り続けている。",
+  "desc_en": "Tanba nuno is a striped textile of cotton, hemp, and silk produced in Aogaki-cho, Tamba City, Hyogo Prefecture, a cloth of daily life woven by farming women on hand looms from the late Edo period. The appeal of Tanba nuno lies in its simple stripe patterns centered on indigo dyeing and a natural texture from hand spinning and plant dyeing; it is known as a masterpiece praised by Soetsu Yanagi, father of the mingei (folk craft) movement, as 'Japan's finest folk craft textile.' Even today, workshops in Aogaki-cho continue to maintain traditional hand loom weaving, creating plain and beautiful cloth inheriting the spirit of mingei.",
+  "techniques": [
+   "手機織り",
+   "藍染め",
+   "草木染め",
+   "手紡ぎ"
+  ],
+  "materials": [
+   "綿糸",
+   "麻糸",
+   "絹糸",
+   "藍・草木染料"
+  ],
+  "features": [
+   "柳宗悦が「日本一の民芸織物」と賞賛した丹波の縞織物",
+   "農家女性が手機で織り続けた藍染め中心の素朴な縞模様",
+   "手紡ぎ・草木染めによる自然な風合いが民藝の美を体現"
+  ],
+  "workshops": [
+   {
+    "name": "丹波布伝承館",
+    "url": "",
+    "experience": true,
+    "experience_desc": "機織り体験（要問い合わせ）",
+    "address": "兵庫県丹波市青垣町"
+   }
+  ],
+  "purchase_keywords": "丹波布 縞 藍染め 購入 兵庫 丹波 民藝",
+  "price_range": "小物 3,000円〜 / 反物 40,000円〜 / 着物仕立て 100,000円〜",
+  "lat": 35.182,
+  "lng": 135.087,
+  "source": "https://kougeihin.jp/craft/2806/",
+  "ogp_image_desc": "柳宗悦が賞賛した丹波布の藍染め縞模様の手織り布"
+ },
+ {
+  "id": "nibutani_attus",
+  "name": "二風谷アットゥシ",
+  "name_en": "Nibutani Attus",
+  "name_fr": "Attus de Nibutani",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 1,
+  "prefecture": "hokkaido",
+  "prefecture_ja": "北海道",
+  "area": "沙流郡平取町二風谷",
+  "founded": 1000,
+  "founded_era": "平安時代以前",
+  "desc": "沙流川流域に古くから伝わり、江戸時代には沙流川流域の物産として他地域との交易が行われてきた北海道・平取町二風谷のアイヌ民族の織物。オヒョウニレの内樹皮を手績みして糸を作り幾何学的なアイヌ文様を織り込む製法は、100年以上前とほぼ同様の道具を使い今日まで受け継がれている。日本最北の伝統的工芸品として指定された、アイヌ文化を体現する希少な布。",
+  "desc_en": "Nibutani attus is a bark fiber textile passed down by the Ainu people of Nibutani, Biratori-cho, Hidaka region, Hokkaido, where threads are hand-worked from the inner bark of the elm tree (ohyo nire) and geometric Ainu patterns are woven in. Designated as Japan's northernmost nationally recognized traditional craft embodying the Ainu culture listed as UNESCO Intangible Cultural Heritage, its advanced handcraft techniques using natural materials and unique Ainu patterns are internationally acclaimed. Ainu craft inheritors in Nibutani, Biratori-cho continue to pass down the technique of attus weaving to future generations.",
+  "techniques": [
+   "樹皮繊維の手績み",
+   "手機織り",
+   "アイヌ文様織り込み"
+  ],
+  "materials": [
+   "オヒョウニレ（ニレ科）の内樹皮繊維"
+  ],
+  "features": [
+   "アイヌ民族の文化を体現する日本最北の伝統的工芸品",
+   "オヒョウニレの樹皮繊維を手績みして糸にする希少な技法",
+   "幾何学的アイヌ文様が織り込まれたユネスコ無形文化遺産の工芸"
+  ],
+  "workshops": [
+   {
+    "name": "二風谷アイヌ文化博物館",
+    "url": "https://www.town.biratori.hokkaido.jp/biratori/nibutani/",
+    "experience": false,
+    "experience_desc": "",
+    "address": "北海道沙流郡平取町二風谷"
+   }
+  ],
+  "purchase_keywords": "二風谷アットゥシ アイヌ 織物 購入 北海道 平取",
+  "price_range": "小物 10,000円〜 / 反物 200,000円〜 / 着物仕立て 500,000円〜",
+  "lat": 42.599,
+  "lng": 142.178,
+  "source": "https://kougeihin.jp/craft/0101/",
+  "ogp_image_desc": "アイヌ文様が織り込まれた二風谷アットゥシの樹皮繊維織物"
+ },
+ {
+  "id": "yumihama_gasuri",
+  "name": "弓浜絣",
+  "name_en": "Yumihama Gasuri",
+  "name_fr": "Gasuri de Yumihama",
+  "category": "textiles",
+  "category_ja": "織物",
+  "designation": "meti",
+  "designation_number": 31,
+  "prefecture": "tottori",
+  "prefecture_ja": "鳥取県",
+  "area": "境港市・米子市",
+  "founded": 1750,
+  "founded_era": "江戸時代中期",
+  "desc": "17世紀後半に鳥取県西部の弓ヶ浜地方で自家用綿の栽培が始まり、18世紀中頃には藍玉問屋が設けられて木綿の生産が増加した産地。19世紀初めに米子・弓ヶ浜で農家の女性たちが「浜の目絣」と呼ばれる絵絣を手機で織り始めたのが弓浜絣の起こりとされる。藍染めと素朴な手績み糸が生む力強い絣文様が特徴で、山陰地方を代表する伝統的木綿絣産地として知られる。",
+  "desc_en": "Yumihama gasuri is a cotton kasuri (ikat) textile produced in the Yumihama Peninsula (Sakaiminato City and Yonago City) in western Tottori Prefecture, woven on hand looms by farming women from the mid-Edo period. Characterized by rustic kasuri patterns from coarsely hand-spun thread and indigo dyeing, it is known as the representative traditional cotton kasuri production area of the San'in region. A cloth born from the rural culture of the Yumihama Peninsula nurtured in the harsh climate of the Sea of Japan, its rustic yet powerful kasuri patterns have an appeal that draws viewers. Workshops in Sakaiminato City and Yonago City continue to preserve traditional techniques and produce kimono and obi fabric today.",
+  "techniques": [
+   "手機織り",
+   "藍染め",
+   "絣括り（かすりくくり）"
+  ],
+  "materials": [
+   "綿糸（手績み）",
+   "藍染料"
+  ],
+  "features": [
+   "山陰を代表する木綿絣産地・弓浜半島の農村女性が守った伝統",
+   "藍染めと手績み糸による素朴で力強い絣模様が個性",
+   "日本海の気候風土が育んだ鳥取西部の伝統的木綿絣"
+  ],
+  "workshops": [
+   {
+    "name": "弓浜絣工房（産地にご確認ください）",
+    "url": "",
+    "experience": false,
+    "experience_desc": "",
+    "address": "鳥取県境港市"
+   }
+  ],
+  "purchase_keywords": "弓浜絣 絣 木綿 購入 鳥取 境港 米子",
+  "price_range": "反物 40,000円〜 / 着物仕立て 100,000円〜 / 帯 30,000円〜",
+  "lat": 35.5399,
+  "lng": 133.2315,
+  "source": "https://kougeihin.jp/craft/0121/",
+  "ogp_image_desc": "藍染めの素朴な絣模様が美しい弓浜絣の木綿着物地"
+ }
 ]

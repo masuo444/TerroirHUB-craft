@@ -254,6 +254,9 @@ def generate_html(craft, all_crafts):
 <meta name="description" content="{escape_html(name)}（{escape_html(prefecture_ja)}・{escape_html(category_ja)}）の歴史・技法・産地・体験情報。{escape_html(desc[:80])}...">
 <meta name="keywords" content="{escape_html(name)},{escape_html(name_en)},{escape_html(category_ja)},{escape_html(prefecture_ja)},伝統工芸,伝統的工芸品,{escape_html(purchase_keywords)}">
 <link rel="canonical" href="{page_url}">
+<link rel="alternate" hreflang="ja" href="{page_url}">
+<link rel="alternate" hreflang="en" href="{SITE_BASE}/en/craft/{prefecture}/{cid}.html">
+<link rel="alternate" hreflang="x-default" href="{page_url}">
 
 <!-- OGP -->
 <meta property="og:type" content="article">
