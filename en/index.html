@@ -4,18 +4,22 @@
 <script src="/thub-analytics.js" defer></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Terroir HUB CRAFT — Japan Traditional Crafts Database</title>
-<meta name="description" content="Explore 245+ traditional Japanese crafts designated by the Ministry of Economy, Trade and Industry. Search by region, category, or technique with AI guide Mizuki.">
+<title>Japanese Traditional Crafts Database: 245 Crafts | Terroir HUB CRAFT</title>
+<meta name="description" content="Terroir HUB CRAFT is a database of 245 Japanese traditional crafts: 208 designated by Japan's Minister of Economy, Trade and Industry plus 37 regionally designated. Browse ceramics, lacquerware, textiles, metalwork and more by region, category and technique.">
 <link rel="canonical" href="https://craft.terroirhub.com/en/">
 <link rel="alternate" hreflang="ja" href="https://craft.terroirhub.com/">
 <link rel="alternate" hreflang="en" href="https://craft.terroirhub.com/en/">
 <link rel="alternate" hreflang="x-default" href="https://craft.terroirhub.com/en/">
 <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Terroir HUB CRAFT — Japan Traditional Crafts Database">
-<meta property="og:description" content="Explore 245+ traditional Japanese crafts. Ceramics, lacquerware, textiles, metalwork and more.">
+<meta property="og:title" content="Japanese Traditional Crafts Database: 245 Crafts | Terroir HUB CRAFT">
+<meta property="og:description" content="A database of 245 Japanese traditional crafts (208 nationally designated, 37 regionally designated) with region, technique and experience information.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Japanese Traditional Crafts Database: 245 Crafts | Terroir HUB CRAFT">
+<meta name="twitter:description" content="A database of 245 Japanese traditional crafts (208 nationally designated, 37 regionally designated) with region, technique and experience information.">
 <meta property="og:url" content="https://craft.terroirhub.com/en/">
 <meta property="og:image" content="https://craft.terroirhub.com/img/ogp.jpg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Terroir HUB CRAFT", "url": "https://craft.terroirhub.com/en/", "inLanguage": "en", "description": "A database of 245 Japanese traditional crafts (208 nationally designated, 37 regionally designated) with region, technique and experience information.", "potentialAction": {"@type": "SearchAction", "target": "https://craft.terroirhub.com/craft/search/?q={search_term_string}", "query-input": "required name=search_term_string"}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -66,12 +70,6 @@ h1 em{color:var(--accent);font-style:normal;}
 .region-card:hover{border-color:var(--accent);transform:translateY(-2px);}
 .region-name{font-size:15px;font-weight:600;margin-bottom:4px;}
 .region-count{font-size:12px;color:var(--accent);}
-.mizuki-section{background:linear-gradient(135deg,var(--accent),#1a3329);padding:80px 40px;color:#fff;}
-.mizuki-inner{max-width:800px;margin:0 auto;text-align:center;}
-.mizuki-label{font-size:12px;font-weight:600;letter-spacing:.1em;color:rgba(255,255,255,.6);text-transform:uppercase;margin-bottom:16px;}
-.mizuki-title{font-family:'Shippori Mincho',serif;font-size:40px;font-weight:700;color:#fff;margin-bottom:20px;line-height:1.3;}
-.mizuki-desc{font-size:15px;color:rgba(255,255,255,.8);line-height:1.8;margin-bottom:36px;}
-.mizuki-btn{display:inline-flex;align-items:center;gap:10px;background:var(--accent2);color:#fff;border:none;padding:16px 32px;border-radius:50px;font-size:15px;font-weight:600;cursor:pointer;text-decoration:none;}
 footer{background:#1a1a1a;color:#999;padding:40px;text-align:center;font-size:13px;}
 footer a{color:#999;text-decoration:none;}
 footer a:hover{color:#fff;}
@@ -109,11 +107,11 @@ footer a:hover{color:#fff;}
     <div>
       <div class="hero-badge">JAPAN TRADITIONAL CRAFTS DATABASE</div>
       <h1>Discover Japan's<br><em>Traditional Crafts</em></h1>
-      <p class="hero-sub">Explore 245 traditional crafts designated by Japan's Ministry of Economy — ceramics, lacquerware, textiles, metalwork and more. Find experiences, workshops, and where to buy.</p>
+      <p class="hero-sub">Browse 245 Japanese traditional crafts (208 designated by the Minister of Economy, Trade and Industry, 37 regionally designated) — ceramics, lacquerware, textiles, metalwork and more. Find experiences, workshops, and where to buy.</p>
       <div class="hero-stats">
         <div class="hero-stat"><strong>245</strong><span>Craft types</span></div>
-        <div class="hero-stat"><strong>47</strong><span>Prefectures</span></div>
-        <div class="hero-stat"><strong>9</strong><span>Categories</span></div>
+        <div class="hero-stat"><strong>46</strong><span>Prefectures</span></div>
+        <div class="hero-stat"><strong>10</strong><span>Categories</span></div>
       </div>
       <div class="hero-search">
         <input type="text" id="searchInput" placeholder="e.g. Kutani ware, Wajima lacquer, Kyoto..." onkeydown="if(event.key==='Enter')doSearch()">
@@ -161,15 +159,6 @@ footer a:hover{color:#fff;}
   </div>
 </div>
 
-<div class="mizuki-section">
-  <div class="mizuki-inner">
-    <div class="mizuki-label">AI Concierge</div>
-    <h2 class="mizuki-title">Ask Mizuki about<br>Japanese Traditional Crafts</h2>
-    <p class="mizuki-desc">Mizuki is your AI guide to Japan's traditional craft world. Ask about history, techniques, where to experience, or how to purchase — in English or Japanese.</p>
-    <button class="mizuki-btn" onclick="openPanel()">🌿 Chat with Mizuki</button>
-  </div>
-</div>
-
 <footer>
   <p style="margin-bottom:12px;">
     <a href="/en/">Home</a> &nbsp;·&nbsp;
@@ -184,25 +173,12 @@ footer a:hover{color:#fff;}
 <script>
 window.THUB_CONFIG = {
   genre: 'craft', brandColor: '#2E5E4E', brandColor2: '#C4A265',
-  basePath: '/craft', siteName: 'Terroir HUB CRAFT', apiBase: 'https://sake.terroirhub.com',
-  aiEndpoint: '/api/mizuki',
-  aiName: 'Mizuki', aiEmoji: '🌿',
-  aiPlaceholder: 'e.g. What is Wajima lacquerware?',
-  aiGreeting: 'Hello! I\'m Mizuki. 🌿\n\nI can help you discover Japan\'s traditional crafts — history, techniques, where to experience them, and where to buy. What would you like to know?',
-  aiSuggestions: ['What makes Wajima lacquerware special?','Where can I try Kutani pottery?','What is Nishijin weaving?','Best traditional crafts to buy as souvenirs'],
-  aiAvatar: '/craft/mizuki.jpg'
+  basePath: '/craft', siteName: 'Terroir HUB CRAFT', apiBase: 'https://sake.terroirhub.com'
 };
 function doSearch(){const q=document.getElementById('searchInput').value.trim();if(q)location.href='/craft/search/?q='+encodeURIComponent(q);}
-function openPanel(){
-  if(window.innerWidth > 700){
-    var p=document.querySelector('.atlas-panel');
-    if(p){if(p.classList.contains('closed')&&typeof window.toggleAtlasPanel==='function')window.toggleAtlasPanel();var inp=document.getElementById('atlas-input');if(inp)inp.focus();return;}
-  }
-}
 </script>
 <script src="/shared/cookie-storage.js"></script>
 <script src="/shared/auth.js"></script>
-<script src="/shared/features.js"></script>
 <script src="/craft/track.js"></script>
 </body>
 </html>
