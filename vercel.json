@@ -75,6 +75,26 @@
       "source": "/craft/category/woodwork/",
       "destination": "/craft/category/paper/",
       "permanent": false
+    },
+    {
+      "source": "/craft/plans",
+      "destination": "/craft/",
+      "permanent": true
+    },
+    {
+      "source": "/craft/plans/(.*)",
+      "destination": "/craft/",
+      "permanent": true
+    },
+    {
+      "source": "/craft/en/plans",
+      "destination": "/craft/en/",
+      "permanent": true
+    },
+    {
+      "source": "/craft/en/plans/(.*)",
+      "destination": "/craft/en/",
+      "permanent": true
     }
   ]
 }
