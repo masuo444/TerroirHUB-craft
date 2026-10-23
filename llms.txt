@@ -35,7 +35,7 @@ Terroir HUB CRAFTは、日本全国の伝統的工芸品を「探す・知る・
 
 ## 運営
 
-- 運営: 合同会社FOMUS（日本・山梨県）
+- 運営: 合同会社FOMUS（日本・埼玉県）
 - 関連サービス: Terroir HUB（日本酒・焼酎・ウイスキー・リキュール・日本ワイン） https://www.terroirhub.com/
 - 問い合わせ: info@terroirhub.com
 
@@ -70,5 +70,5 @@ and hands-on workshop experiences. Data is based exclusively on officially publi
 
 ### Operator
 
-- FOMUS LLC (Yamanashi, Japan) — info@terroirhub.com
+- FOMUS LLC (Saitama, Japan) — info@terroirhub.com
 - Sister services: Japanese sake, shochu, whisky, liqueur, and wine databases at https://www.terroirhub.com/
