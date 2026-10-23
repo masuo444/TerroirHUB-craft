@@ -72,6 +72,17 @@
   ],
   "redirects": [
     {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "terroir-hub-craft.vercel.app"
+        }
+      ],
+      "destination": "https://craft.terroirhub.com/$1",
+      "permanent": true
+    },
+    {
       "source": "/craft/category/woodwork/",
       "destination": "/craft/category/paper/",
       "permanent": false
