@@ -126,7 +126,7 @@ CSS = '''<style>
 :root{
   --bg:#FAF8F5;--bg2:#F3EDE6;--accent:#2E5E4E;--accent2:#C4A265;
   --accent-light:#EAF2EE;--accent-gold:#E8C97A;--text:#1A1A18;
-  --text2:#5C5A56;--text3:#8A8880;--border:#E8E0D6;
+  --text2:#5C5A56;--text3:#73716A;--border:#E8E0D6;
   --nav-h:56px;--radius:12px;
   --shadow:0 2px 16px rgba(46,94,78,.10);--shadow-lg:0 8px 40px rgba(46,94,78,.16);
 }

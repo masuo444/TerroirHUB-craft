@@ -291,7 +291,7 @@ def generate_html(craft, all_crafts):
   --accent-gold: #E8C97A;
   --text: #1A1A18;
   --text2: #5C5A56;
-  --text3: #8A8880;
+  --text3: #73716A;
   --border: #E8E0D6;
   --white: #FFFFFF;
   --radius: 8px;
